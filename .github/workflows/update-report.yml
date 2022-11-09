@@ -20,6 +20,6 @@ jobs:
         run: |
           git config user.name "Action Bot"
           git config user.email "<>"
-          git commit -m "PSGallery Report Run $(date +'%Y-%m-%dT%H:%M:%S')"
+          git commit -m "Mastodon Report Run $(date +'%Y-%m-%dT%H:%M:%S')"
       - name: git push
         run: git push
