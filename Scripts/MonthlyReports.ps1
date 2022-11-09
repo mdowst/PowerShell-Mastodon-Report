@@ -91,7 +91,7 @@ $MonthlyAccount = Group-ByDate -Data $MonthData -DatePattern 'yyyy-MM' -GroupObj
 $TopAccounts.Add("# Top Users for $((Get-Culture).DateTimeFormat.GetMonthName($EndDate.Month)) $($EndDate.Year)")
 $TopAccounts.Add('| User | Display Name | Server | Post |')
 $TopAccounts.Add('| -- | -- | -- | -- |')
-$MonthlyAccount | ForEach-Object{
-    $TopServers.Add("| [$($_.username)]($($_.acct_url)) | $($_.DisplayName) | $($_.server) | $($_.Posts) |")
+$MonthlyAccount | ForEach-Object{ 
+    $TopAccounts.Add("| [$($_.username)]($($_.acct_url)) | $($_.DisplayName) | $($_.server) | $($_.Posts) |")
 }
 $TopAccounts | Out-File (Join-Path $Path 'Reports\TopAccounts.md') -Encoding utf8

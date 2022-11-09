@@ -1,10 +1,10 @@
 # PowerShell-Mastodon-Report
 A report of PowerShell activity across the Mastodon landscape. It searches across multiple public Mastodon servers for people talking about PowerShell. If you are looking for who to follow or which server to join, this is the place for you. 
 
-### [Top Server](Reports\TopServers.md)
-Ranks the different Mastodon servers by the amount of public discussions about PowerShell.
+### [Top Servers](Reports/TopServers.md)
+Ranks the different Mastodon servers by the amount of public discussions about PowerShell. Ranking are compiled over a monthly basis. 
 
-### [Top Accounts](Reports\TopAccounts.md)
+### [Top Accounts](Reports/TopAccounts.md)
 A list of accounts that have discussed PowerShell over the last month.
 
 # Updates
