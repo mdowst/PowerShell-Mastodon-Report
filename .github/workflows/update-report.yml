@@ -13,7 +13,7 @@ jobs:
           token: ${{secrets.ACTION_BOT}}
       - name: Run report script
         shell: pwsh
-        run: ./scripts/MonthlyReports.ps1
+        run: .\scripts\MonthlyReports.ps1
       - name: git add
         run: git add .
       - name: git commit
