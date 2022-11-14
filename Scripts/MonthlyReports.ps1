@@ -9,6 +9,49 @@ if(Test-Path $LastRunCsv){
 else{
     $PastData = $null
 }
+Function Invoke-TimedRestMethod {
+    Param(
+        [Parameter(Mandatory = $false)]
+        [string]$uri = $null
+    )
+
+
+    $job = Start-Job -ScriptBlock { param($uri)
+        $request = Invoke-Webrequest -URI $uri -TimeoutSec 10
+        $request.Content } -ArgumentList $uri
+        
+    $timer = [system.diagnostics.stopwatch]::StartNew()
+    while ($job.State -ne 'Completed') {
+        if ($timer.Elapsed.TotalSeconds -gt 10) {
+            $job | Stop-Job
+            throw "timeout"
+        }
+    }
+        
+    $content = $job | Receive-Job
+    try{
+        $content | ConvertFrom-Json -ErrorAction Stop
+    }
+    catch{
+        throw "JSON convert failed: $content"
+    }
+}
+
+Function Group-ByDate{
+    param(
+        $Data,
+        $DatePattern='yyyy-MM',
+        $GroupObjects = @('acct_url', 'Date')
+    )
+    $Grouped = $Data | Select-Object -Property *, @{l='Date';e={$_.created_at.ToString($DatePattern)}} | Group-Object $GroupObjects
+        
+    $Summarized = $Grouped | Select-Object -Property Count, @{l='interactions';e={($_.Group.interactions | Measure-Object -Sum).Sum}}, 
+        @{l='ActiveUsers';e={($_.Group.username | Select-Object -Unique | Measure-Object).Count}}, 
+        @{l='Posts';e={($_.Group.id | Measure-Object).Count}}, @{l='Group';e={$_.Group[0]}} |
+        Select-Object -Property Count, Interactions, ActiveUsers, Posts -ExpandProperty Group
+
+    $Summarized | Select-Object -Property *, @{l='Score';e={$_.interactions + $_.users + $_.posts}} | Sort-Object Score -Descending
+}
 
 [System.Collections.Generic.List[PSObject]] $Found = @()
 $wp = 0
