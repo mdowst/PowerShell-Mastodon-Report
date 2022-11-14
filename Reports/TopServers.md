@@ -4,14 +4,14 @@
 | [mastodon.social](https://mastodon.social/tags/PowerShell) | 72 | 9 |
 | [chaos.social](https://chaos.social/tags/PowerShell) | 41 | 11 |
 | [fosstodon.org](https://fosstodon.org/tags/PowerShell) | 39 | 21 |
-| [infosec.exchange](https://infosec.exchange/tags/PowerShell) | 33 | 24 |
+| [infosec.exchange](https://infosec.exchange/tags/PowerShell) | 34 | 24 |
 | [masto.ai](https://masto.ai/tags/PowerShell) | 31 | 1 |
 | [mastodon.technology](https://mastodon.technology/tags/PowerShell) | 20 | 9 |
 | [schleuss.online](https://schleuss.online/tags/PowerShell) | 18 | 2 |
 | [mstdn.social](https://mstdn.social/tags/PowerShell) | 14 | 8 |
 | [mas.to](https://mas.to/tags/PowerShell) | 11 | 10 |
+| [mastodon.ie](https://mastodon.ie/tags/PowerShell) | 10 | 2 |
 | [social.tchncs.de](https://social.tchncs.de/tags/PowerShell) | 8 | 6 |
-| [mastodon.ie](https://mastodon.ie/tags/PowerShell) | 8 | 1 |
 | [hackers.town](https://hackers.town/tags/PowerShell) | 7 | 2 |
 | [cybre.space](https://cybre.space/tags/PowerShell) | 6 | 4 |
 | [mastodon.uno](https://mastodon.uno/tags/PowerShell) | 6 | 3 |
