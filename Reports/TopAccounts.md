@@ -1,7 +1,7 @@
 # Top Users for November 2022
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
-| [infosec_jobs](https://mastodon.social/@infosec_jobs) | infosec-jobs.com | mastodon.social | 56 |
+| [infosec_jobs](https://mastodon.social/@infosec_jobs) | infosec-jobs.com | mastodon.social | 57 |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee | masto.ai | 32 |
 | [chri_tea](https://chaos.social/@chri_tea) | Christian Lehrer | chaos.social | 19 |
 | [itsecbot](https://schleuss.online/@itsecbot) | ITSEC News | schleuss.online | 16 |
@@ -15,13 +15,13 @@
 | [gioxx](https://mastodon.uno/@gioxx) | Gioxx | mastodon.uno | 4 |
 | [IceWolf](https://meow.social/@IceWolf) | Frost [moved] | meow.social | 4 |
 | [YourAnonRiots](https://mstdn.social/@YourAnonRiots) | Anonymous :anonymous: 🐾🐈🏴 | mstdn.social | 4 |
+| [cirriustech](https://infosec.exchange/@cirriustech) | Graham Gold :hacker_g: :hacker_g: | infosec.exchange | 4 |
 | [gpunktschmitz](https://toot.cafe/@gpunktschmitz) | Guenther Schmitz ⏎ | toot.cafe | 4 |
 | [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 4 |
 | [robinUniverse](https://mastodon.lol/@robinUniverse) | Robin ✨ Puppiverse 🏳️‍⚧️ | mastodon.lol | 4 |
 | [pearcec](https://fosstodon.org/@pearcec) | Christian Pearce T ✝️🏃🏻‍♂️🐕 | fosstodon.org | 3 |
 | [fabian_bader](https://infosec.exchange/@fabian_bader) | Fabian Bader :verified: | infosec.exchange | 3 |
 | [dwmetz](https://infosec.exchange/@dwmetz) | Doug Metz | infosec.exchange | 3 |
-| [cirriustech](https://infosec.exchange/@cirriustech) | Graham Gold :hacker_g: :hacker_g: | infosec.exchange | 3 |
 | [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 3 |
 | [awakecoding](https://infosec.exchange/@awakecoding) | Marc-André Moreau | infosec.exchange | 3 |
 | [technicalissues](https://fosstodon.org/@technicalissues) | Technical Issues | fosstodon.org | 3 |
@@ -64,8 +64,8 @@
 | [christopher](https://aus.social/@christopher) | Christopher | aus.social | 1 |
 | [snowdrift_tech](https://mastodon.technology/@snowdrift_tech) | Snowdrift.tech | mastodon.technology | 1 |
 | [shine](https://mastodon.technology/@shine) |  | mastodon.technology | 1 |
+| [AnEntropyBubble](https://mstdn.social/@AnEntropyBubble) | Andrew Hall | mstdn.social | 1 |
 | [pauby](https://mastodon.technology/@pauby) |  | mastodon.technology | 1 |
-| [feoh](https://cybre.space/@feoh) | Feoh | cybre.space | 1 |
 | [Akireta](https://aus.social/@Akireta) | Sean Knight | aus.social | 1 |
 | [AskChip](https://mastodon.technology/@AskChip) | AskChip | mastodon.technology | 1 |
 | [alexcleac](https://mastodon.technology/@alexcleac) | dormant Alex Cleac | mastodon.technology | 1 |
@@ -75,9 +75,10 @@
 | [geekland](https://mastodon.social/@geekland) | Geekland | mastodon.social | 1 |
 | [furicle](https://mastodon.social/@furicle) | furicle | mastodon.social | 1 |
 | [flipflopsnrice](https://mastodon.social/@flipflopsnrice) | Erik 🧑🏻‍💻 | mastodon.social | 1 |
-| [AnEntropyBubble](https://mstdn.social/@AnEntropyBubble) | Andrew Hall | mstdn.social | 1 |
+| [djvdq](https://mastodon.social/@djvdq) | Dawid | mastodon.social | 1 |
+| [feoh](https://cybre.space/@feoh) | Feoh | cybre.space | 1 |
+| [Jkw](https://tech.lgbt/@Jkw) | Jos Koelewijn 🇺🇦🏳️‍🌈 | tech.lgbt | 1 |
 | [chelnak](https://mstdn.social/@chelnak) | Craig Gumbley | mstdn.social | 1 |
-| [ragingwind](https://toot.cafe/@ragingwind) | Jimmy Moon | toot.cafe | 1 |
 | [matts](https://mstdn.social/@matts) | Matt Stenson | mstdn.social | 1 |
 | [soe](https://social.tchncs.de/@soe) | sö | social.tchncs.de | 1 |
 | [McAskold](https://social.tchncs.de/@McAskold) | Штеффен 🐘 | social.tchncs.de | 1 |
@@ -89,7 +90,7 @@
 | [holm](https://social.saarland/@holm) | holm :verified:    (🦻🏻🤯) | social.saarland | 1 |
 | [phoneguy](https://social.coop/@phoneguy) | Mark | social.coop | 1 |
 | [koch](https://soc.ua-fediland.de/@koch) | Мандрівник | soc.ua-fediland.de | 1 |
-| [Jkw](https://tech.lgbt/@Jkw) | Jos Koelewijn 🇺🇦🏳️‍🌈 | tech.lgbt | 1 |
+| [ragingwind](https://toot.cafe/@ragingwind) | Jimmy Moon | toot.cafe | 1 |
 | [copyrights](https://chaos.social/@copyrights) | copyrights | chaos.social | 1 |
 | [theSatyr](https://pxlmo.com/theSatyr) | The Satyr | pxlmo.com | 1 |
 | [holgerjakobs](https://norden.social/@holgerjakobs) | Holger Jakobs :verified: | norden.social | 1 |
@@ -98,14 +99,13 @@
 | [BlueArcher](https://noc.social/@BlueArcher) | BRADCA~1.EXE☑️ | noc.social | 1 |
 | [lukemurray](https://aus.social/@lukemurray) | Luke Murray | aus.social | 1 |
 | [kubikpixel](https://chaos.social/@kubikpixel) | KubikPixel™ | chaos.social | 1 |
-| [djvdq](https://mastodon.social/@djvdq) | Dawid | mastodon.social | 1 |
-| [Planetjunkie](https://mstdn.social/@Planetjunkie) | Ali Alshamsi :verified: | mstdn.social | 1 |
+| [rmdes](https://mstdn.social/@rmdes) | Ricardo :verified: | mstdn.social | 1 |
+| [davidroys](https://mastodon.social/@davidroys) | David Roys | mastodon.social | 1 |
 | [mlawton](https://mstdn.social/@mlawton) | Mike Lawton | mstdn.social | 1 |
 | [dev_town](https://chaos.social/@dev_town) | dev_town | chaos.social | 1 |
-| [rmdes](https://mstdn.social/@rmdes) | Ricardo :verified: | mstdn.social | 1 |
+| [Planetjunkie](https://mstdn.social/@Planetjunkie) | Ali Alshamsi :verified: | mstdn.social | 1 |
 | [wtee](https://freeradical.zone/@wtee) | wtee | freeradical.zone | 1 |
 | [dside](https://mastodon.ml/@dside) | D:\side\🐘\ru | mastodon.ml | 1 |
-| [skatterbrainz](https://infosec.exchange/@skatterbrainz) | Sk@tterBr@inZ | infosec.exchange | 1 |
 | [seadev](https://infosec.exchange/@seadev) | seadev | infosec.exchange | 1 |
 | [rj07thomas](https://infosec.exchange/@rj07thomas) | rj07thomas | infosec.exchange | 1 |
 | [richardfitzenwell](https://infosec.exchange/@richardfitzenwell) | 🦒Richard Fitzenwell🦒 | infosec.exchange | 1 |
@@ -120,6 +120,7 @@
 | [fork_this](https://infosec.exchange/@fork_this) | Mesa | infosec.exchange | 1 |
 | [nicthedataguy](https://fosstodon.org/@nicthedataguy) | NicTheDataGuy | fosstodon.org | 1 |
 | [eric_capuano](https://infosec.exchange/@eric_capuano) | Eric Capuano | infosec.exchange | 1 |
+| [ehmiiz](https://infosec.exchange/@ehmiiz) | Emil Larsson | infosec.exchange | 1 |
 | [CitraBenzoet](https://infosec.exchange/@CitraBenzoet) | CitraBenzoet | infosec.exchange | 1 |
 | [rimmon1971](https://fosstodon.org/@rimmon1971) | FerdinandoSimonetti :verified: | fosstodon.org | 1 |
 | [bryanbrake](https://infosec.exchange/@bryanbrake) | Br.Br Prime | infosec.exchange | 1 |
@@ -130,10 +131,10 @@
 | [rick](https://hachyderm.io/@rick) | Rick Conlee | hachyderm.io | 1 |
 | [chris_hunt](https://hachyderm.io/@chris_hunt) | Chris Hunt | hachyderm.io | 1 |
 | [andyshaffer](https://hachyderm.io/@andyshaffer) | Andy Shaffer | hachyderm.io | 1 |
+| [skatterbrainz](https://infosec.exchange/@skatterbrainz) | Sk@tterBr@inZ | infosec.exchange | 1 |
 | [thec0nci3rge](https://infosec.exchange/@thec0nci3rge) | thec0nci3rge | infosec.exchange | 1 |
-| [davidroys](https://mastodon.social/@davidroys) | David Roys | mastodon.social | 1 |
 | [moon15](https://fosstodon.org/@moon15) | SonarSeason | fosstodon.org | 1 |
-| [wojtekbrejnak](https://infosec.exchange/@wojtekbrejnak) | Wojtek Brejnak | infosec.exchange | 1 |
+| [thegpfury](https://infosec.exchange/@thegpfury) | Will | infosec.exchange | 1 |
 | [coderhq](https://fosstodon.org/@coderhq) | Coder | fosstodon.org | 1 |
 | [datenteiler](https://fosstodon.org/@datenteiler) | Christian Imhorst 👻 | fosstodon.org | 1 |
 | [gregorj](https://mastodon.lol/@gregorj) | I Am Gregg | mastodon.lol | 1 |
@@ -146,8 +147,8 @@
 | [UrsaAshBear](https://mas.to/@UrsaAshBear) | Ursa | mas.to | 1 |
 | [theSatyr](https://mas.to/@theSatyr) | The Satyr | mas.to | 1 |
 | [kevinmarquette](https://fosstodon.org/@kevinmarquette) | Kevin Marquette | fosstodon.org | 1 |
+| [damienbod](https://mastodon.social/@damienbod) | damienbod | mastodon.social | 1 |
 | [romandres](https://mas.to/@romandres) | Roman Andres | mas.to | 1 |
-| [orctupus](https://mas.to/@orctupus) | orctupus | mas.to | 1 |
 | [gkrew](https://mas.to/@gkrew) | David C. 💻🍳📸 | mas.to | 1 |
 | [dnix](https://mas.to/@dnix) | hey, it's darryl, :idle: | mas.to | 1 |
 | [dalehirt](https://mas.to/@dalehirt) | Dale HIrt | mas.to | 1 |
@@ -159,5 +160,6 @@
 | [pwd](https://ioc.exchange/@pwd) | pwd | ioc.exchange | 1 |
 | [mdrights](https://fosstodon.org/@mdrights) | MDrights :slackware: :pine64: | fosstodon.org | 1 |
 | [mhamzahkhan](https://intahnet.co.uk/@mhamzahkhan) | M. Hamzah Khan | intahnet.co.uk | 1 |
-| [thegpfury](https://infosec.exchange/@thegpfury) | Will | infosec.exchange | 1 |
+| [wojtekbrejnak](https://infosec.exchange/@wojtekbrejnak) | Wojtek Brejnak | infosec.exchange | 1 |
+| [orctupus](https://mas.to/@orctupus) | orctupus | mas.to | 1 |
 | [ruff](https://ioc.exchange/@ruff) | Scott Vickrey | ioc.exchange | 1 |
