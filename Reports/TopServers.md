@@ -3,9 +3,9 @@
 | -- | -- | -- |
 | [mastodon.social](https://mastodon.social/tags/PowerShell) | 72 | 9 |
 | [chaos.social](https://chaos.social/tags/PowerShell) | 41 | 11 |
-| [fosstodon.org](https://fosstodon.org/tags/PowerShell) | 39 | 21 |
+| [fosstodon.org](https://fosstodon.org/tags/PowerShell) | 40 | 22 |
 | [infosec.exchange](https://infosec.exchange/tags/PowerShell) | 34 | 24 |
-| [masto.ai](https://masto.ai/tags/PowerShell) | 31 | 1 |
+| [masto.ai](https://masto.ai/tags/PowerShell) | 33 | 1 |
 | [mastodon.technology](https://mastodon.technology/tags/PowerShell) | 20 | 9 |
 | [schleuss.online](https://schleuss.online/tags/PowerShell) | 18 | 2 |
 | [mstdn.social](https://mstdn.social/tags/PowerShell) | 14 | 8 |
@@ -23,10 +23,10 @@
 | [toot.cat](https://toot.cat/tags/PowerShell) | 4 | 2 |
 | [aus.social](https://aus.social/tags/PowerShell) | 4 | 4 |
 | [meow.social](https://meow.social/tags/PowerShell) | 4 | 1 |
+| [noc.social](https://noc.social/tags/PowerShell) | 3 | 3 |
 | [hachyderm.io](https://hachyderm.io/tags/PowerShell) | 3 | 3 |
 | [tech.lgbt](https://tech.lgbt/tags/PowerShell) | 3 | 3 |
 | [mstdn.starnix.network](https://mstdn.starnix.network/tags/PowerShell) | 3 | 1 |
-| [noc.social](https://noc.social/tags/PowerShell) | 2 | 2 |
 | [aspiechattr.me](https://aspiechattr.me/tags/PowerShell) | 2 | 1 |
 | [indieweb.social](https://indieweb.social/tags/PowerShell) | 2 | 1 |
 | [topspicy.social](https://topspicy.social/tags/PowerShell) | 2 | 1 |
