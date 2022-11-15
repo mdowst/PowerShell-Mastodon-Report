@@ -1,11 +1,11 @@
 # Top Servers for November 2022
 | Server | Posts | Active Users |
 | -- | -- | -- |
-| [mastodon.social](https://mastodon.social/tags/PowerShell) | 74 | 10 |
+| [mastodon.social](https://mastodon.social/tags/PowerShell) | 78 | 11 |
 | [chaos.social](https://chaos.social/tags/PowerShell) | 41 | 11 |
 | [fosstodon.org](https://fosstodon.org/tags/PowerShell) | 40 | 22 |
-| [infosec.exchange](https://infosec.exchange/tags/PowerShell) | 36 | 25 |
-| [masto.ai](https://masto.ai/tags/PowerShell) | 33 | 1 |
+| [masto.ai](https://masto.ai/tags/PowerShell) | 39 | 1 |
+| [infosec.exchange](https://infosec.exchange/tags/PowerShell) | 37 | 26 |
 | [mastodon.technology](https://mastodon.technology/tags/PowerShell) | 20 | 9 |
 | [schleuss.online](https://schleuss.online/tags/PowerShell) | 18 | 2 |
 | [mstdn.social](https://mstdn.social/tags/PowerShell) | 14 | 8 |
@@ -13,18 +13,18 @@
 | [mastodon.ie](https://mastodon.ie/tags/PowerShell) | 10 | 2 |
 | [social.tchncs.de](https://social.tchncs.de/tags/PowerShell) | 8 | 6 |
 | [hackers.town](https://hackers.town/tags/PowerShell) | 7 | 2 |
+| [mastodon.lol](https://mastodon.lol/tags/PowerShell) | 7 | 4 |
 | [cybre.space](https://cybre.space/tags/PowerShell) | 6 | 4 |
 | [mastodon.uno](https://mastodon.uno/tags/PowerShell) | 6 | 3 |
-| [mastodon.lol](https://mastodon.lol/tags/PowerShell) | 6 | 3 |
 | [ioc.exchange](https://ioc.exchange/tags/PowerShell) | 6 | 4 |
 | [toot.cafe](https://toot.cafe/tags/PowerShell) | 6 | 3 |
 | [mastodon.ml](https://mastodon.ml/tags/PowerShell) | 4 | 2 |
 | [mastodontech.de](https://mastodontech.de/tags/PowerShell) | 4 | 2 |
+| [hachyderm.io](https://hachyderm.io/tags/PowerShell) | 4 | 4 |
 | [toot.cat](https://toot.cat/tags/PowerShell) | 4 | 2 |
 | [aus.social](https://aus.social/tags/PowerShell) | 4 | 4 |
 | [meow.social](https://meow.social/tags/PowerShell) | 4 | 1 |
 | [noc.social](https://noc.social/tags/PowerShell) | 3 | 3 |
-| [hachyderm.io](https://hachyderm.io/tags/PowerShell) | 3 | 3 |
 | [tech.lgbt](https://tech.lgbt/tags/PowerShell) | 3 | 3 |
 | [mstdn.starnix.network](https://mstdn.starnix.network/tags/PowerShell) | 3 | 1 |
 | [aspiechattr.me](https://aspiechattr.me/tags/PowerShell) | 2 | 1 |
