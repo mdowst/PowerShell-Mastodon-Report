@@ -1,11 +1,11 @@
 # Top Servers for November 2022
 | Server | Posts | Active Users |
 | -- | -- | -- |
-| [mastodon.social](https://mastodon.social/tags/PowerShell) | 86 | 11 |
-| [infosec.exchange](https://infosec.exchange/tags/PowerShell) | 44 | 31 |
-| [fosstodon.org](https://fosstodon.org/tags/PowerShell) | 42 | 22 |
+| [mastodon.social](https://mastodon.social/tags/PowerShell) | 87 | 11 |
+| [infosec.exchange](https://infosec.exchange/tags/PowerShell) | 47 | 34 |
+| [masto.ai](https://masto.ai/tags/PowerShell) | 44 | 2 |
+| [fosstodon.org](https://fosstodon.org/tags/PowerShell) | 43 | 22 |
 | [chaos.social](https://chaos.social/tags/PowerShell) | 41 | 11 |
-| [masto.ai](https://masto.ai/tags/PowerShell) | 39 | 1 |
 | [mastodon.technology](https://mastodon.technology/tags/PowerShell) | 20 | 9 |
 | [schleuss.online](https://schleuss.online/tags/PowerShell) | 18 | 2 |
 | [mas.to](https://mas.to/tags/PowerShell) | 14 | 13 |
