@@ -3,7 +3,7 @@
 | -- | -- | -- | -- |
 | [infosec_jobs](https://mastodon.social/@infosec_jobs) | infosec-jobs.com | mastodon.social | 62 |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee | masto.ai | 51 |
-| [thedavecarroll](https://fosstodon.org/@thedavecarroll) | Dave Carroll | fosstodon.org | 19 |
+| [thedavecarroll](https://fosstodon.org/@thedavecarroll) | Dave Carroll | fosstodon.org | 20 |
 | [chri_tea](https://chaos.social/@chri_tea) | Christian Lehrer | chaos.social | 19 |
 | [itsecbot](https://schleuss.online/@itsecbot) | ITSEC News | schleuss.online | 16 |
 | [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 13 |
