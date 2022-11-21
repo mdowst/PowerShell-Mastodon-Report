@@ -2,7 +2,7 @@
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [infosec_jobs](https://mastodon.social/@infosec_jobs) | infosec-jobs.com | mastodon.social | 62 |
-| [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee | masto.ai | 56 |
+| [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee | masto.ai | 57 |
 | [thedavecarroll](https://fosstodon.org/@thedavecarroll) | Dave Carroll | fosstodon.org | 20 |
 | [chri_tea](https://chaos.social/@chri_tea) | Christian Lehrer | chaos.social | 19 |
 | [itsecbot](https://schleuss.online/@itsecbot) | ITSEC News | schleuss.online | 16 |
@@ -130,8 +130,8 @@
 | [kubikpixel](https://chaos.social/@kubikpixel) | KubikPixel™ | chaos.social | 1 |
 | [BlueArcher](https://noc.social/@BlueArcher) | BRADCA~1.EXE☑️ | noc.social | 1 |
 | [kevinmarquette](https://fosstodon.org/@kevinmarquette) | Kevin Marquette | fosstodon.org | 1 |
-| [DoctorDNS](https://masto.ai/users/DoctorDNS) | Thomas Lee | masto.ai | 1 |
 | [robertoprevato](https://masto.ai/@robertoprevato) | Roberto Prevato | masto.ai | 1 |
+| [brock](https://hachyderm.io/@brock) | Brock Chapin (bchap1n) | hachyderm.io | 1 |
 | [haircutfish](https://infosec.exchange/@haircutfish) | HaircutFish | infosec.exchange | 1 |
 | [HallixSec](https://infosec.exchange/@HallixSec) | Hallix | infosec.exchange | 1 |
 | [smxi](https://fosstodon.org/@smxi) | smxi | fosstodon.org | 1 |
@@ -166,8 +166,8 @@
 | [daniel_ess](https://infosec.exchange/@daniel_ess) | Daniel Ess | infosec.exchange | 1 |
 | [vordenken](https://fosstodon.org/@vordenken) | vordenken 👨🏼‍💻 | fosstodon.org | 1 |
 | [rimmon1971](https://fosstodon.org/@rimmon1971) | FerdinandoSimonetti :verified: | fosstodon.org | 1 |
-| [brock](https://hachyderm.io/@brock) | Brock Chapin (bchap1n) | hachyderm.io | 1 |
 | [plgonzalez86](https://infosec.exchange/@plgonzalez86) | Pete the Cyber Protector :unverified: | infosec.exchange | 1 |
+| [r0manemp1re](https://infosec.exchange/@r0manemp1re) | R0manEmp1re | infosec.exchange | 1 |
 | [rfoust](https://infosec.exchange/@rfoust) | Robbie Foust :verified: | infosec.exchange | 1 |
 | [biptoot](https://mas.to/@biptoot) | Ralph Hogaboom | mas.to | 1 |
 | [chrisbradshaw](https://mas.to/@chrisbradshaw) | Chris Bradshaw | mas.to | 1 |
@@ -175,17 +175,18 @@
 | [dalehirt](https://mas.to/@dalehirt) | Dale HIrt | mas.to | 1 |
 | [dnix](https://mas.to/@dnix) | hey, it's darryl, :idle: | mas.to | 1 |
 | [gkrew](https://mas.to/@gkrew) | David C. 💻🍳📸 | mas.to | 1 |
-| [helix](https://layer8.space/@helix) | Helix 📴 4359 | layer8.space | 1 |
 | [lindnerbrewery](https://mas.to/@lindnerbrewery) | Emrys | mas.to | 1 |
+| [orctupus](https://mas.to/@orctupus) | orctupus | mas.to | 1 |
 | [romandres](https://mas.to/@romandres) | Roman Andres | mas.to | 1 |
 | [mdrights](https://fosstodon.org/@mdrights) | MDrights :slackware: :pine64: | fosstodon.org | 1 |
 | [theSatyr](https://mas.to/@theSatyr) | The Satyr | mas.to | 1 |
 | [UrsaAshBear](https://mas.to/@UrsaAshBear) | Ursa | mas.to | 1 |
 | [vPierre](https://mas.to/@vPierre) | vPierre | mas.to | 1 |
 | [keyboardcrunch](https://fosstodon.org/@keyboardcrunch) | keyboardcrunch | fosstodon.org | 1 |
-| [orctupus](https://mas.to/@orctupus) | orctupus | mas.to | 1 |
+| [mortensummer](https://masto.ai/@mortensummer) | Tom Yates | masto.ai | 1 |
+| [helix](https://layer8.space/@helix) | Helix 📴 4359 | layer8.space | 1 |
+| [DoctorDNS](https://masto.ai/users/DoctorDNS) | Thomas Lee | masto.ai | 1 |
 | [Joachim_Rees](https://kirche.social/@Joachim_Rees) | Joachim Rees | kirche.social | 1 |
-| [ruff](https://ioc.exchange/@ruff) | Scott Vickrey | ioc.exchange | 1 |
 | [moon15](https://fosstodon.org/@moon15) | SonarSeason | fosstodon.org | 1 |
 | [richardfitzenwell](https://infosec.exchange/@richardfitzenwell) | 🦒Richard Fitzenwell🦒 | infosec.exchange | 1 |
 | [rj07thomas](https://infosec.exchange/@rj07thomas) | rj07thomas | infosec.exchange | 1 |
@@ -202,5 +203,5 @@
 | [mhamzahkhan](https://intahnet.co.uk/@mhamzahkhan) | M. Hamzah Khan | intahnet.co.uk | 1 |
 | [nathand](https://fosstodon.org/@nathand) | Nathan DeGruchy | fosstodon.org | 1 |
 | [pwd](https://ioc.exchange/@pwd) | pwd | ioc.exchange | 1 |
-| [r0manemp1re](https://infosec.exchange/@r0manemp1re) | R0manEmp1re | infosec.exchange | 1 |
+| [ruff](https://ioc.exchange/@ruff) | Scott Vickrey | ioc.exchange | 1 |
 | [thec0nci3rge](https://infosec.exchange/@thec0nci3rge) | thec0nci3rge | infosec.exchange | 1 |
