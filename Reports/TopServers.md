@@ -3,7 +3,7 @@
 | -- | -- | -- |
 | [mastodon.social](https://mastodon.social/tags/PowerShell) | 96 | 13 |
 | [masto.ai](https://masto.ai/tags/PowerShell) | 68 | 3 |
-| [infosec.exchange](https://infosec.exchange/tags/PowerShell) | 65 | 45 |
+| [infosec.exchange](https://infosec.exchange/tags/PowerShell) | 66 | 46 |
 | [fosstodon.org](https://fosstodon.org/tags/PowerShell) | 62 | 29 |
 | [chaos.social](https://chaos.social/tags/PowerShell) | 41 | 11 |
 | [mastodon.technology](https://mastodon.technology/tags/PowerShell) | 20 | 9 |
