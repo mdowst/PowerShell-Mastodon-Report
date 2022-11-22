@@ -1,10 +1,10 @@
 # Top Servers for November 2022
 | Server | Posts | Active Users |
 | -- | -- | -- |
-| [mastodon.social](https://mastodon.social/tags/PowerShell) | 96 | 13 |
+| [mastodon.social](https://mastodon.social/tags/PowerShell) | 97 | 13 |
 | [masto.ai](https://masto.ai/tags/PowerShell) | 68 | 3 |
-| [infosec.exchange](https://infosec.exchange/tags/PowerShell) | 66 | 46 |
-| [fosstodon.org](https://fosstodon.org/tags/PowerShell) | 62 | 29 |
+| [infosec.exchange](https://infosec.exchange/tags/PowerShell) | 67 | 47 |
+| [fosstodon.org](https://fosstodon.org/tags/PowerShell) | 63 | 29 |
 | [chaos.social](https://chaos.social/tags/PowerShell) | 41 | 11 |
 | [mastodon.technology](https://mastodon.technology/tags/PowerShell) | 20 | 9 |
 | [schleuss.online](https://schleuss.online/tags/PowerShell) | 18 | 2 |
@@ -12,9 +12,9 @@
 | [mas.to](https://mas.to/tags/PowerShell) | 15 | 14 |
 | [hachyderm.io](https://hachyderm.io/tags/PowerShell) | 12 | 12 |
 | [mastodon.ie](https://mastodon.ie/tags/PowerShell) | 10 | 2 |
+| [mastodon.lol](https://mastodon.lol/tags/PowerShell) | 9 | 5 |
 | [social.tchncs.de](https://social.tchncs.de/tags/PowerShell) | 9 | 7 |
 | [toot.cafe](https://toot.cafe/tags/PowerShell) | 8 | 3 |
-| [mastodon.lol](https://mastodon.lol/tags/PowerShell) | 8 | 5 |
 | [ioc.exchange](https://ioc.exchange/tags/PowerShell) | 7 | 4 |
 | [mastodon.uno](https://mastodon.uno/tags/PowerShell) | 7 | 3 |
 | [hackers.town](https://hackers.town/tags/PowerShell) | 7 | 2 |
