@@ -2,15 +2,15 @@
 | Server | Posts | Active Users |
 | -- | -- | -- |
 | [mastodon.social](https://mastodon.social/tags/PowerShell) | 106 | 14 |
+| [masto.ai](https://masto.ai/tags/PowerShell) | 73 | 3 |
 | [fosstodon.org](https://fosstodon.org/tags/PowerShell) | 72 | 34 |
-| [masto.ai](https://masto.ai/tags/PowerShell) | 72 | 3 |
 | [infosec.exchange](https://infosec.exchange/tags/PowerShell) | 71 | 49 |
 | [chaos.social](https://chaos.social/tags/PowerShell) | 41 | 11 |
 | [mastodon.technology](https://mastodon.technology/tags/PowerShell) | 20 | 9 |
 | [hachyderm.io](https://hachyderm.io/tags/PowerShell) | 18 | 14 |
 | [schleuss.online](https://schleuss.online/tags/PowerShell) | 18 | 2 |
-| [mstdn.social](https://mstdn.social/tags/PowerShell) | 16 | 9 |
-| [mas.to](https://mas.to/tags/PowerShell) | 15 | 14 |
+| [mstdn.social](https://mstdn.social/tags/PowerShell) | 17 | 10 |
+| [mas.to](https://mas.to/tags/PowerShell) | 16 | 15 |
 | [mastodon.lol](https://mastodon.lol/tags/PowerShell) | 11 | 5 |
 | [mastodon.ie](https://mastodon.ie/tags/PowerShell) | 10 | 2 |
 | [social.tchncs.de](https://social.tchncs.de/tags/PowerShell) | 9 | 7 |
