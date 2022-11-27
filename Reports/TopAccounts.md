@@ -1,47 +1,48 @@
 # Top Users for November 2022
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
-| [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee | masto.ai | 70 |
+| [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee | masto.ai | 71 |
 | [infosec_jobs](https://mastodon.social/@infosec_jobs) | infosec-jobs.com | mastodon.social | 62 |
-| [thedavecarroll](https://fosstodon.org/@thedavecarroll) | Dave Carroll | fosstodon.org | 22 |
+| [thedavecarroll](https://fosstodon.org/@thedavecarroll) | Dave Carroll | fosstodon.org | 23 |
 | [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 22 |
 | [chri_tea](https://chaos.social/@chri_tea) | Christian Lehrer | chaos.social | 19 |
 | [itsecbot](https://schleuss.online/@itsecbot) | ITSEC News | schleuss.online | 16 |
+| [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 11 |
 | [temporal](https://mastodon.technology/@temporal) | TeMPOraL | mastodon.technology | 10 |
-| [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 10 |
 | [shanewalsheire](https://mastodon.ie/@shanewalsheire) | Shane Walsh | mastodon.ie | 8 |
 | [crazypedia](https://hackers.town/@crazypedia) | Crazypedia⍼ :verified_pride: | hackers.town | 6 |
 | [gpunktschmitz](https://toot.cafe/@gpunktschmitz) | Guenther Schmitz ⏎ | toot.cafe | 6 |
-| [gom](https://chaos.social/@gom) | gom | chaos.social | 6 |
 | [gioxx](https://mastodon.uno/@gioxx) | Gioxx | mastodon.uno | 6 |
+| [gom](https://chaos.social/@gom) | gom | chaos.social | 6 |
 | [ro1o](https://chaos.social/@ro1o) | rolo | chaos.social | 5 |
 | [fabian_bader](https://infosec.exchange/@fabian_bader) | Fabian Bader :verified: | infosec.exchange | 5 |
-| [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 4 |
 | [IceWolf](https://meow.social/@IceWolf) | Frost [moved] | meow.social | 4 |
-| [dwmetz](https://infosec.exchange/@dwmetz) | Doug Metz | infosec.exchange | 4 |
-| [YourAnonRiots](https://mstdn.social/@YourAnonRiots) | Anonymous :anonymous: 🐾🐈🏴 | mstdn.social | 4 |
-| [gregorj](https://mastodon.lol/@gregorj) | I Am Gregg | mastodon.lol | 4 |
 | [cirriustech](https://infosec.exchange/@cirriustech) | Graham Gold :hacker_g: :hacker_g: | infosec.exchange | 4 |
-| [Jkw](https://tech.lgbt/@Jkw) | Jos Koelewijn 🇺🇦🏳️‍🌈 | tech.lgbt | 4 |
 | [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 4 |
+| [YourAnonRiots](https://mstdn.social/@YourAnonRiots) | Anonymous :anonymous: 🐾🐈🏴 | mstdn.social | 4 |
+| [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 4 |
+| [Jkw](https://tech.lgbt/@Jkw) | Jos Koelewijn 🇺🇦🏳️‍🌈 | tech.lgbt | 4 |
 | [robinUniverse](https://mastodon.lol/@robinUniverse) | Robin ✨ Puppiverse 🏳️‍⚧️ | mastodon.lol | 4 |
+| [dwmetz](https://infosec.exchange/@dwmetz) | Doug Metz | infosec.exchange | 4 |
+| [gregorj](https://mastodon.lol/@gregorj) | I Am Gregg | mastodon.lol | 4 |
 | [ashed](https://mastodon.ml/@ashed) | Who Let The Dogs Out | mastodon.ml | 3 |
 | [r0zambo](https://ioc.exchange/@r0zambo) | R0zambo | ioc.exchange | 3 |
 | [P0w3rChi3f](https://infosec.exchange/@P0w3rChi3f) | P0w3rChi3f | infosec.exchange | 3 |
 | [technicalissues](https://fosstodon.org/@technicalissues) | Technical Issues | fosstodon.org | 3 |
 | [atlauren](https://mastodon.social/@atlauren) | Andrew Laurence | mastodon.social | 3 |
 | [pearcec](https://fosstodon.org/@pearcec) | Christian Pearce T ✝️🏃🏻‍♂️🐕 | fosstodon.org | 3 |
+| [JakobS](https://infosec.exchange/@JakobS) | Jakob Schaefer | infosec.exchange | 3 |
 | [GreatBigTable](https://mastodon.social/@GreatBigTable) | Jim Jones | mastodon.social | 3 |
 | [robinmalik](https://mastodon.social/@robinmalik) | Robin | mastodon.social | 3 |
-| [JakobS](https://infosec.exchange/@JakobS) | Jakob Schaefer | infosec.exchange | 3 |
 | [Patrick](https://mastodontech.de/@Patrick) | Patrick | mastodontech.de | 3 |
 | [GLFC](https://mstdn.starnix.network/@GLFC) | GLFC :qubes: (tech) | mstdn.starnix.network | 3 |
 | [awakecoding](https://infosec.exchange/@awakecoding) | Marc-André Moreau | infosec.exchange | 3 |
+| [cl](https://tech.lgbt/@cl) | Chrissy LeMaire | tech.lgbt | 3 |
 | [furicle](https://mastodon.social/@furicle) | furicle | mastodon.social | 3 |
 | [jrdepriest](https://infosec.exchange/@jrdepriest) | Jasey DePriest (she / her) | infosec.exchange | 2 |
 | [skatterbrainz](https://infosec.exchange/@skatterbrainz) | Sk@tterBr@inZ | infosec.exchange | 2 |
-| [luzkenin](https://infosec.exchange/@luzkenin) | Joe 🏔️ | infosec.exchange | 2 |
 | [ajf8729](https://infosec.exchange/@ajf8729) | Anthony J. Fontanez | infosec.exchange | 2 |
+| [luzkenin](https://infosec.exchange/@luzkenin) | Joe 🏔️ | infosec.exchange | 2 |
 | [cambridgeport90](https://indieweb.social/@cambridgeport90) | Kat M. Moss | indieweb.social | 2 |
 | [recordedparadox](https://infosec.exchange/@recordedparadox) | Recorded Paradox :verified: | infosec.exchange | 2 |
 | [hashtagsecurity](https://infosec.exchange/@hashtagsecurity) | HashtagSecurity :verified: | infosec.exchange | 2 |
@@ -49,46 +50,45 @@
 | [thedxt](https://infosec.exchange/@thedxt) | Daniel Keer :unverified: | infosec.exchange | 2 |
 | [nick](https://toot.cat/@nick) |  | toot.cat | 2 |
 | [LottieVixen](https://toot.cat/@LottieVixen) | Mx Lottie 💜:autistic:​ | toot.cat | 2 |
-| [cl](https://tech.lgbt/@cl) | Chrissy LeMaire | tech.lgbt | 2 |
 | [Drewry](https://social.tchncs.de/@Drewry) | Drewry | social.tchncs.de | 2 |
 | [cr0n0s](https://social.tchncs.de/@cr0n0s) | cr0n0s :tux: 📡🇵🇪 | social.tchncs.de | 2 |
 | [itnewsbot](https://schleuss.online/@itnewsbot) | IT News | schleuss.online | 2 |
 | [AnEntropyBubble](https://mstdn.social/@AnEntropyBubble) | Andrew Hall | mstdn.social | 2 |
+| [taylorparizo](https://infosec.exchange/@taylorparizo) | Taylor Parizo | infosec.exchange | 2 |
 | [jrss](https://mastodon.technology/@jrss) | JTR :emacs:☕ | mastodon.technology | 2 |
-| [JonYoder](https://mastodon.technology/@JonYoder) | Jon Yoder | mastodon.technology | 2 |
 | [geekland](https://mastodon.social/@geekland) | Geekland | mastodon.social | 2 |
 | [Shipshupe](https://hachyderm.io/@Shipshupe) | Wry Shupe | hachyderm.io | 2 |
 | [shanewalsh](https://mastodon.ie/@shanewalsh) | Shane Walsh | mastodon.ie | 2 |
 | [sjosjo](https://mas.to/@sjosjo) | SPdeValk 🐘️ ☑️ | mas.to | 2 |
 | [miketheitguy](https://ioc.exchange/@miketheitguy) | Mike | ioc.exchange | 2 |
 | [tysonsw](https://infosec.exchange/@tysonsw) | Mattias T | infosec.exchange | 2 |
-| [taylorparizo](https://infosec.exchange/@taylorparizo) | Taylor Parizo | infosec.exchange | 2 |
+| [JonYoder](https://mastodon.technology/@JonYoder) | Jon Yoder | mastodon.technology | 2 |
 | [mattckrause](https://hachyderm.io/@mattckrause) | Matt Krause | hachyderm.io | 2 |
 | [ephemeromorph](https://topspicy.social/@ephemeromorph) | Toilet full of bugs | topspicy.social | 2 |
-| [xgqt](https://fosstodon.org/@xgqt) | Maciej Barć | fosstodon.org | 2 |
 | [Canageek](https://cybre.space/@Canageek) | Moving to wandering.shop | cybre.space | 2 |
 | [grainloom](https://cybre.space/@grainloom) | read-only account (Rain 🚱) | cybre.space | 2 |
-| [metaphil](https://chaos.social/@metaphil) | me·ta·phil, der | chaos.social | 2 |
 | [schenklklopfer](https://chaos.social/@schenklklopfer) | Schenkl 🏳️‍🌈 | chaos.social | 2 |
-| [MrPowerShell](https://fosstodon.org/@MrPowerShell) | James Brundage | fosstodon.org | 2 |
 | [gregglsc](https://fosstodon.org/@gregglsc) | Gregg | fosstodon.org | 2 |
 | [pyranose](https://fosstodon.org/@pyranose) | Pyranose | fosstodon.org | 2 |
-| [Bene](https://fosstodon.org/@Bene) | Benedikt | fosstodon.org | 2 |
+| [MrPowerShell](https://fosstodon.org/@MrPowerShell) | James Brundage | fosstodon.org | 2 |
 | [chris_hunt](https://hachyderm.io/@chris_hunt) | Chris Hunt | hachyderm.io | 2 |
 | [brock](https://hachyderm.io/@brock) | Brock Chapin (bchap1n) | hachyderm.io | 2 |
 | [joergi](https://chaos.social/@joergi) | Jörgi | chaos.social | 2 |
-| [alexcleac](https://mastodon.technology/@alexcleac) | dormant Alex Cleac | mastodon.technology | 1 |
-| [upyesp](https://mastodon.social/@upyesp) | upyesp | mastodon.social | 1 |
-| [bmbufalo](https://fosstodon.org/@bmbufalo) | Brian Bufalo :apple: :python: | fosstodon.org | 1 |
-| [AskChip](https://mastodon.technology/@AskChip) | AskChip | mastodon.technology | 1 |
+| [xgqt](https://fosstodon.org/@xgqt) | Maciej Barć | fosstodon.org | 2 |
+| [metaphil](https://chaos.social/@metaphil) | me·ta·phil, der | chaos.social | 2 |
+| [Bene](https://fosstodon.org/@Bene) | Benedikt | fosstodon.org | 2 |
 | [kellogh](https://hachyderm.io/@kellogh) | Tim Kellogg 🔥 | hachyderm.io | 1 |
+| [bmbufalo](https://fosstodon.org/@bmbufalo) | Brian Bufalo :apple: :python: | fosstodon.org | 1 |
+| [upyesp](https://mastodon.social/@upyesp) | upyesp | mastodon.social | 1 |
+| [alexcleac](https://mastodon.technology/@alexcleac) | dormant Alex Cleac | mastodon.technology | 1 |
 | [pauby](https://mastodon.technology/@pauby) |  | mastodon.technology | 1 |
+| [Jessifir](https://deadinsi.de/@Jessifir) | Jessi | deadinsi.de | 1 |
 | [shine](https://mastodon.technology/@shine) |  | mastodon.technology | 1 |
 | [snowdrift_tech](https://mastodon.technology/@snowdrift_tech) | Snowdrift.tech | mastodon.technology | 1 |
 | [zigg](https://cybre.space/@zigg) | zigg | cybre.space | 1 |
 | [zigford](https://mastodon.technology/@zigford) | Jesse Harris | mastodon.technology | 1 |
 | [Hack0n](https://mastodon.uno/@Hack0n) | D4rKS1d3 sP1R17 | mastodon.uno | 1 |
-| [Jessifir](https://deadinsi.de/@Jessifir) | Jessi | deadinsi.de | 1 |
+| [AskChip](https://mastodon.technology/@AskChip) | AskChip | mastodon.technology | 1 |
 | [coderhq](https://fosstodon.org/@coderhq) | Coder | fosstodon.org | 1 |
 | [kilasuit](https://mastodon.social/@kilasuit) | kilasuit | mastodon.social | 1 |
 | [datenteiler](https://fosstodon.org/@datenteiler) | Christian Imhorst 👻 | fosstodon.org | 1 |
@@ -169,8 +169,8 @@
 | [ryuslash](https://fosstodon.org/@ryuslash) | Tom | fosstodon.org | 1 |
 | [plgonzalez86](https://infosec.exchange/@plgonzalez86) | Pete the Cyber Protector :unverified: | infosec.exchange | 1 |
 | [lapt0r](https://infosec.exchange/@lapt0r) | lapt0r :verified: | infosec.exchange | 1 |
-| [r0manemp1re](https://infosec.exchange/@r0manemp1re) | R0manEmp1re | infosec.exchange | 1 |
 | [HallixSec](https://infosec.exchange/@HallixSec) | Hallix | infosec.exchange | 1 |
+| [haircutfish](https://infosec.exchange/@haircutfish) | HaircutFish | infosec.exchange | 1 |
 | [fork_this](https://infosec.exchange/@fork_this) | Mesa | infosec.exchange | 1 |
 | [kayakerscout](https://hachyderm.io/@kayakerscout) | Jeremy Ey | hachyderm.io | 1 |
 | [rdtechie](https://hachyderm.io/@rdtechie) | rdtechie | hachyderm.io | 1 |
@@ -178,9 +178,10 @@
 | [joehubbert](https://hachyderm.io/@joehubbert) | Joe Hubbert :verified: | hachyderm.io | 1 |
 | [tman](https://hachyderm.io/@tman) | Matt Thalman ⚪️🥅 | hachyderm.io | 1 |
 | [tommeadon](https://hachyderm.io/@tommeadon) | Tom Meadon | hachyderm.io | 1 |
+| [wg](https://hachyderm.io/@wg) | W.Gross | hachyderm.io | 1 |
 | [jktaylor](https://hachyderm.io/@jktaylor) | John Taylor | hachyderm.io | 1 |
-| [haircutfish](https://infosec.exchange/@haircutfish) | HaircutFish | infosec.exchange | 1 |
 | [randomgeek](https://hackers.town/@randomgeek) | Random Geek | hackers.town | 1 |
+| [andyshaffer](https://hachyderm.io/@andyshaffer) | Andy Shaffer | hachyderm.io | 1 |
 | [bryanbrake](https://infosec.exchange/@bryanbrake) | Br.Br Prime | infosec.exchange | 1 |
 | [wtee](https://freeradical.zone/@wtee) | wtee | freeradical.zone | 1 |
 | [CitraBenzoet](https://infosec.exchange/@CitraBenzoet) | CitraBenzoet | infosec.exchange | 1 |
@@ -188,9 +189,9 @@
 | [ehmiiz](https://infosec.exchange/@ehmiiz) | Emil Larsson | infosec.exchange | 1 |
 | [eric_capuano](https://infosec.exchange/@eric_capuano) | Eric Capuano | infosec.exchange | 1 |
 | [Westdragon](https://fosstodon.org/@Westdragon) | Mark | fosstodon.org | 1 |
-| [andyshaffer](https://hachyderm.io/@andyshaffer) | Andy Shaffer | hachyderm.io | 1 |
+| [r0manemp1re](https://infosec.exchange/@r0manemp1re) | R0manEmp1re | infosec.exchange | 1 |
+| [robertoprevato](https://masto.ai/@robertoprevato) | Roberto Prevato | masto.ai | 1 |
 | [r3db34rdh4x](https://infosec.exchange/@r3db34rdh4x) | David - R3db34rdh4x - he/his | infosec.exchange | 1 |
-| [rimmon1971](https://fosstodon.org/@rimmon1971) | FerdinandoSimonetti :verified: | fosstodon.org | 1 |
 | [rfoust](https://infosec.exchange/@rfoust) | Robbie Foust :verified: | infosec.exchange | 1 |
 | [biptoot](https://mas.to/@biptoot) | Ralph Hogaboom | mas.to | 1 |
 | [chrisbradshaw](https://mas.to/@chrisbradshaw) | Chris Bradshaw | mas.to | 1 |
@@ -229,5 +230,5 @@
 | [moon15](https://fosstodon.org/@moon15) | SonarSeason | fosstodon.org | 1 |
 | [pwd](https://ioc.exchange/@pwd) | pwd | ioc.exchange | 1 |
 | [mdrights](https://fosstodon.org/@mdrights) | MDrights :slackware: :pine64: | fosstodon.org | 1 |
-| [robertoprevato](https://masto.ai/@robertoprevato) | Roberto Prevato | masto.ai | 1 |
+| [rimmon1971](https://fosstodon.org/@rimmon1971) | FerdinandoSimonetti :verified: | fosstodon.org | 1 |
 | [shibashecurity](https://infosec.exchange/@shibashecurity) | Mat DJ 🐕🐕 | infosec.exchange | 1 |
