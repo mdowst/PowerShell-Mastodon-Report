@@ -2,8 +2,8 @@
 | Server | Posts | Active Users |
 | -- | -- | -- |
 | [mastodon.social](https://mastodon.social/tags/PowerShell) | 109 | 15 |
+| [infosec.exchange](https://infosec.exchange/tags/PowerShell) | 76 | 50 |
 | [fosstodon.org](https://fosstodon.org/tags/PowerShell) | 75 | 34 |
-| [infosec.exchange](https://infosec.exchange/tags/PowerShell) | 74 | 49 |
 | [masto.ai](https://masto.ai/tags/PowerShell) | 74 | 3 |
 | [chaos.social](https://chaos.social/tags/PowerShell) | 41 | 11 |
 | [mastodon.technology](https://mastodon.technology/tags/PowerShell) | 20 | 9 |
