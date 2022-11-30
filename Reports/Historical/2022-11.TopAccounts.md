@@ -1,5 +1,5 @@
 # Top Users for November 2022
-Last Updated: 11/30/2022 22:27:49 UTC
+Last Updated: 11/30/2022 23:27:30 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee | masto.ai | 76 |
@@ -9,7 +9,7 @@ Last Updated: 11/30/2022 22:27:49 UTC
 | [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 25 |
 | [chri_tea](https://chaos.social/@chri_tea) | Christian Lehrer | chaos.social | 19 |
 | [itsecbot](https://schleuss.online/@itsecbot) | ITSEC News | schleuss.online | 16 |
-| [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼 | techhub.social | 12 |
+| [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼 | techhub.social | 13 |
 | [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 11 |
 | [temporal](https://mastodon.technology/@temporal) | TeMPOraL | mastodon.technology | 10 |
 | [shanewalsheire](https://mastodon.ie/@shanewalsheire) | Shane Walsh | mastodon.ie | 8 |

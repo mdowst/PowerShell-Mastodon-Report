@@ -1,5 +1,5 @@
 # Top Servers for November 2022
-Last Updated: 11/30/2022 22:27:49 UTC
+Last Updated: 11/30/2022 23:27:29 UTC
 | Server | Posts | Active Users |
 | -- | -- | -- |
 | [mastodon.social](https://mastodon.social/tags/PowerShell) | 120 | 20 |
@@ -9,8 +9,8 @@ Last Updated: 11/30/2022 22:27:49 UTC
 | [chaos.social](https://chaos.social/tags/PowerShell) | 43 | 12 |
 | [home.social](https://home.social/tags/PowerShell) | 35 | 2 |
 | [hachyderm.io](https://hachyderm.io/tags/PowerShell) | 24 | 18 |
+| [techhub.social](https://techhub.social/tags/PowerShell) | 21 | 8 |
 | [mastodon.technology](https://mastodon.technology/tags/PowerShell) | 20 | 9 |
-| [techhub.social](https://techhub.social/tags/PowerShell) | 20 | 8 |
 | [schleuss.online](https://schleuss.online/tags/PowerShell) | 18 | 2 |
 | [mstdn.social](https://mstdn.social/tags/PowerShell) | 18 | 10 |
 | [mas.to](https://mas.to/tags/PowerShell) | 16 | 15 |
