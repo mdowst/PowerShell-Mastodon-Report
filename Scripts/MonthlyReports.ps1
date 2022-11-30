@@ -53,6 +53,13 @@ Function Group-ByDate{
     $Summarized | Select-Object -Property *, @{l='Score';e={$_.interactions + $_.users + $_.posts}} | Sort-Object Score -Descending
 }
 
+Function Expand-MDLink($string){
+    [pscustomobject]@{
+        Text = [Regex]::Match($string, '(?<=\[)(.*?)(?=])').Value
+        Link = [Regex]::Match($string, '(?<=\()(.*?)(?=\))').Value
+    }
+}
+
 [System.Collections.Generic.List[PSObject]] $Found = @()
 $wp = 0
 foreach ($srv in $servers) {
@@ -106,7 +113,6 @@ foreach ($srv in $servers) {
 Write-Progress -Activity "Done" -Id 1 -Completed
 
 $Found.Count
-$Found | Select-Object -Property id, server, created_at
 
 $Found | Select-Object -Property id, server, @{l='username';e={$_.account.username}}, @{l='DisplayName';e={$_.account.display_name}}, @{l='acct_url';e={$_.account.url}}, 
     replies_count, reblogs_count, favourites_count, url, uri, created_at | Export-Csv $LastRunCsv -Append
@@ -127,6 +133,7 @@ $MonthlyServer | ForEach-Object{
     $TopServers.Add("| [$($_.Server)](https://$($_.Server)/tags/PowerShell) | $($_.Posts) | $($_.ActiveUsers) |")
 }
 $TopServers | Out-File (Join-Path $Path 'Reports\TopServers.md') -Encoding utf8
+$TopServers | Out-File (Join-Path $Path "Reports\Historical\$($EndDate.ToString('yyyy-MM')).TopServers.md") -Encoding utf8
 
 
 [System.Collections.Generic.List[PSObject]] $TopAccounts = @()
@@ -138,3 +145,38 @@ $MonthlyAccount | ForEach-Object{
     $TopAccounts.Add("| [$($_.username)]($($_.acct_url)) | $($_.DisplayName) | $($_.server) | $($_.Posts) |")
 }
 $TopAccounts | Out-File (Join-Path $Path 'Reports\TopAccounts.md') -Encoding utf8
+$TopAccounts | Out-File (Join-Path $Path "Reports\Historical\$($EndDate.ToString('yyyy-MM')).TopAccounts.md") -Encoding utf8
+
+# Create recent posts report
+[System.Collections.Generic.List[PSObject]] $RecentPosts = @()
+$Found | Where-Object{ $_.created_at -gt (Get-Date).AddDays(-1) } | Select-Object @{l='account';e={$_.account.display_name}}, @{l='accountUrl';e={$_.account.url}}, 
+    created_at, url, content | ForEach-Object{ $RecentPosts.Add($_) }
+
+$RecentPostsMDPath = Join-Path $Path 'Reports\RecentPosts.md'
+if(Test-Path $RecentPostsMDPath){
+    $currentRecentPosts = Get-Content $RecentPostsMDPath
+    for($i = $currentRecentPosts.IndexOf('| -- | -- | -- |')+1; $i -lt $currentRecentPosts.Count; $i++){
+        $split = ($currentRecentPosts[$i] -replace('^\|','') -replace('\|$','')).Split('|')
+        if($split.Count -ge 3){
+            $account = Expand-MDLink $split[0]
+            $link = Expand-MDLink $split[1]
+            $content = 2..$($split.Count-1) | ForEach-Object{
+                $split[$_]
+            }
+            $account | Select-Object @{l='account';e={$_.Text}}, @{l='accountUrl';e={$_.Link}}, @{l='created_at';e={Get-Date $link.Text}}, @{l='url';e={$link.Link}}, 
+                @{l='content';e={$content -join('|')}} | ForEach-Object{ $RecentPosts.Add($_) }
+        }
+    }
+}
+$FilteredRecentPosts = $RecentPosts | Group-Object url | ForEach-Object{
+    $_.Group | Select-Object -First 1
+}
+
+[System.Collections.Generic.List[PSObject]] $RecentPostMD = @()
+$RecentPostMD.Add("# Recent PowerShell Topics")
+$RecentPostMD.Add('| User | Date/Link | Content |')
+$RecentPostMD.Add('| -- | -- | -- |')
+$FilteredRecentPosts | Sort-Object created_at -Descending | ForEach-Object{
+    $RecentPostMD.Add("| [$($_.account)]($($_.accounturl)) | [$($_.created_at)]($($_.url)) | $($_.content) |")
+}
+$RecentPostMD | Out-File $RecentPostsMDPath -Encoding utf8
