@@ -43,3 +43,15 @@ toot.site
 topspicy.social
 mas.to
 mastodon.ie
+bne.social
+mastodon.nu
+mastodonapp.uk
+mathstodon.xyz
+jawns.club
+phpc.social
+dataplatform.social
+mastodon.sdf.org
+vmst.io
+twit.social
+home.social
+techhub.social
