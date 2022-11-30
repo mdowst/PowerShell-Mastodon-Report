@@ -7,5 +7,8 @@ Ranks the different Mastodon servers by the amount of public discussions about P
 ### [Top Accounts](Reports/TopAccounts.md)
 A list of accounts that have discussed PowerShell over the last month.
 
+### [Recent Posts](Reports/RecentPosts.md)
+A list of PowerShell topics posted in the last 24 hours.
+
 # Updates
 If you want to add a server to the list please let me know.
