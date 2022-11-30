@@ -1,5 +1,5 @@
 # Top Users for November 2022
-Last Updated: 11/30/2022 18:55:09 UTC
+Last Updated: 11/30/2022 19:22:56 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee | masto.ai | 76 |
