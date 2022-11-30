@@ -127,6 +127,7 @@ $MonthData = $MonthData | Group-Object id | ForEach-Object{
 [System.Collections.Generic.List[PSObject]] $TopServers = @()
 $MonthlyServer = Group-ByDate -Data $MonthData -DatePattern 'yyyy-MM' -GroupObjects ('Date', 'server')
 $TopServers.Add("# Top Servers for $((Get-Culture).DateTimeFormat.GetMonthName($EndDate.Month)) $($EndDate.Year)")
+$RecentPostMD.Add("Last Updated: $(Get-Date) UTC")
 $TopServers.Add('| Server | Posts | Active Users |')
 $TopServers.Add('| -- | -- | -- |')
 $MonthlyServer | ForEach-Object{
@@ -139,6 +140,7 @@ $TopServers | Out-File (Join-Path $Path "Reports\Historical\$($EndDate.ToString(
 [System.Collections.Generic.List[PSObject]] $TopAccounts = @()
 $MonthlyAccount = Group-ByDate -Data $MonthData -DatePattern 'yyyy-MM' -GroupObjects ('Date', 'acct_url')
 $TopAccounts.Add("# Top Users for $((Get-Culture).DateTimeFormat.GetMonthName($EndDate.Month)) $($EndDate.Year)")
+$RecentPostMD.Add("Last Updated: $(Get-Date) UTC")
 $TopAccounts.Add('| User | Display Name | Server | Post |')
 $TopAccounts.Add('| -- | -- | -- | -- |')
 $MonthlyAccount | ForEach-Object{ 
@@ -174,6 +176,7 @@ $FilteredRecentPosts = $RecentPosts | Group-Object url | ForEach-Object{
 
 [System.Collections.Generic.List[PSObject]] $RecentPostMD = @()
 $RecentPostMD.Add("# Recent PowerShell Topics")
+$RecentPostMD.Add("Last Updated: $(Get-Date) UTC")
 $RecentPostMD.Add('| User | Date/Link | Content |')
 $RecentPostMD.Add('| -- | -- | -- |')
 $FilteredRecentPosts | Sort-Object created_at -Descending | ForEach-Object{
