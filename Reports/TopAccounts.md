@@ -1,5 +1,5 @@
 # Top Users for December 2022
-Last Updated: 12/01/2022 13:40:37 UTC
+Last Updated: 12/01/2022 14:25:15 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [ChaoticGood007](https://fosstodon.org/@ChaoticGood007) | ChaoticGood007 | fosstodon.org | 1 |
@@ -7,3 +7,4 @@ Last Updated: 12/01/2022 13:40:37 UTC
 | [mortensummer](https://masto.ai/@mortensummer) | Tom Yates | masto.ai | 1 |
 | [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 1 |
 | [Jpomfret](https://tech.lgbt/@Jpomfret) | Jess Pomfret :verified_gay: | tech.lgbt | 1 |
+| [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼 | techhub.social | 1 |
