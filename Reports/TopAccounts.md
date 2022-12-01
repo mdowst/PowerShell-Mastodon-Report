@@ -1,8 +1,8 @@
 # Top Users for December 2022
-Last Updated: 12/01/2022 19:21:54 UTC
+Last Updated: 12/01/2022 20:24:50 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
-| [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼 | techhub.social | 3 |
+| [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼 | techhub.social | 5 |
 | [chrisbradshaw](https://mas.to/@chrisbradshaw) | Chris Bradshaw | mas.to | 2 |
 | [Jpomfret](https://tech.lgbt/@Jpomfret) | Jess Pomfret :verified_gay: | tech.lgbt | 2 |
 | [ChaoticGood007](https://fosstodon.org/@ChaoticGood007) | ChaoticGood007 | fosstodon.org | 1 |
