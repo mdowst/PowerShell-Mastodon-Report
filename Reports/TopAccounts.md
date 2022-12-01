@@ -1,5 +1,5 @@
 # Top Users for December 2022
-Last Updated: 12/01/2022 08:33:01 UTC
+Last Updated: 12/01/2022 09:26:39 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [ChaoticGood007](https://fosstodon.org/@ChaoticGood007) | ChaoticGood007 | fosstodon.org | 1 |
