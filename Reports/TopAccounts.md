@@ -1,5 +1,5 @@
 # Top Users for December 2022
-Last Updated: 12/01/2022 15:27:51 UTC
+Last Updated: 12/01/2022 16:36:15 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [Jpomfret](https://tech.lgbt/@Jpomfret) | Jess Pomfret :verified_gay: | tech.lgbt | 2 |

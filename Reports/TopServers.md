@@ -1,5 +1,5 @@
 # Top Servers for December 2022
-Last Updated: 12/01/2022 15:27:51 UTC
+Last Updated: 12/01/2022 16:36:15 UTC
 | Server | Posts | Active Users |
 | -- | -- | -- |
 | [masto.ai](https://masto.ai/tags/PowerShell) | 2 | 2 |
