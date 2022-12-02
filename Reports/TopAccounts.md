@@ -1,5 +1,5 @@
 # Top Users for December 2022
-Last Updated: 12/02/2022 07:23:01 UTC
+Last Updated: 12/02/2022 08:29:37 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼 | techhub.social | 5 |
@@ -12,5 +12,6 @@ Last Updated: 12/02/2022 07:23:01 UTC
 | [daru003](https://infosec.exchange/@daru003) | Daru003 | infosec.exchange | 1 |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 1 |
 | [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 1 |
+| [codykonior](https://mastodon.social/@codykonior) | Cody Konior | mastodon.social | 1 |
 | [shearsjt](https://mastodon.social/@shearsjt) | Justin ✅ | mastodon.social | 1 |
 | [cl](https://tech.lgbt/@cl) | Chrissy LeMaire :thonkpad: | tech.lgbt | 1 |
