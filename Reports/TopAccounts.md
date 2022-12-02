@@ -1,5 +1,5 @@
 # Top Users for December 2022
-Last Updated: 12/02/2022 21:22:24 UTC
+Last Updated: 12/02/2022 22:24:21 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼 | techhub.social | 6 |
@@ -9,9 +9,10 @@ Last Updated: 12/02/2022 21:22:24 UTC
 | [cl](https://tech.lgbt/@cl) | Chrissy LeMaire :thonkpad: | tech.lgbt | 2 |
 | [mortensummer](https://masto.ai/@mortensummer) | Tom Yates | masto.ai | 2 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 2 |
+| [daru003](https://infosec.exchange/@daru003) | Daru003 | infosec.exchange | 1 |
 | [haircutfish](https://infosec.exchange/@haircutfish) | HaircutFish | infosec.exchange | 1 |
-| [keyoke_za](https://hachyderm.io/@keyoke_za) | Gareth Emslie 🇿🇦 🇪🇦 🇨🇭 | hachyderm.io | 1 |
 | [thedavecarroll](https://fosstodon.org/@thedavecarroll) | Dave Carroll | fosstodon.org | 1 |
+| [RL_Dane](https://fosstodon.org/@RL_Dane) | R. L. Dane | fosstodon.org | 1 |
 | [patbf](https://fosstodon.org/@patbf) | Pat with lsb.icu | fosstodon.org | 1 |
 | [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 1 |
 | [codykonior](https://mastodon.social/@codykonior) | Cody Konior | mastodon.social | 1 |
@@ -20,5 +21,5 @@ Last Updated: 12/02/2022 21:22:24 UTC
 | [ztarbug](https://mastodon.social/@ztarbug) | Ztarbug | mastodon.social | 1 |
 | [gioxx](https://mastodon.uno/@gioxx) | Gioxx | mastodon.uno | 1 |
 | [laage](https://mstdn.social/@laage) | Laage | mstdn.social | 1 |
-| [daru003](https://infosec.exchange/@daru003) | Daru003 | infosec.exchange | 1 |
+| [keyoke_za](https://hachyderm.io/@keyoke_za) | Gareth Emslie 🇿🇦 🇪🇦 🇨🇭 | hachyderm.io | 1 |
 | [ChaoticGood007](https://fosstodon.org/@ChaoticGood007) | ChaoticGood007 | fosstodon.org | 1 |
