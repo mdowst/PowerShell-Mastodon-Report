@@ -1,5 +1,5 @@
 # Top Users for December 2022
-Last Updated: 12/02/2022 19:19:25 UTC
+Last Updated: 12/02/2022 20:26:01 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼 | techhub.social | 6 |
@@ -17,6 +17,7 @@ Last Updated: 12/02/2022 19:19:25 UTC
 | [codykonior](https://mastodon.social/@codykonior) | Cody Konior | mastodon.social | 1 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 1 |
 | [shearsjt](https://mastodon.social/@shearsjt) | Justin ✅ | mastodon.social | 1 |
+| [ztarbug](https://mastodon.social/@ztarbug) | Ztarbug | mastodon.social | 1 |
 | [gioxx](https://mastodon.uno/@gioxx) | Gioxx | mastodon.uno | 1 |
 | [laage](https://mstdn.social/@laage) | Laage | mstdn.social | 1 |
 | [daru003](https://infosec.exchange/@daru003) | Daru003 | infosec.exchange | 1 |
