@@ -1,5 +1,5 @@
 # Top Users for December 2022
-Last Updated: 12/02/2022 10:28:10 UTC
+Last Updated: 12/02/2022 11:19:32 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼 | techhub.social | 5 |
@@ -9,6 +9,7 @@ Last Updated: 12/02/2022 10:28:10 UTC
 | [mortensummer](https://masto.ai/@mortensummer) | Tom Yates | masto.ai | 2 |
 | [ChaoticGood007](https://fosstodon.org/@ChaoticGood007) | ChaoticGood007 | fosstodon.org | 1 |
 | [patbf](https://fosstodon.org/@patbf) | Pat with lsb.icu | fosstodon.org | 1 |
+| [thedavecarroll](https://fosstodon.org/@thedavecarroll) | Dave Carroll | fosstodon.org | 1 |
 | [daru003](https://infosec.exchange/@daru003) | Daru003 | infosec.exchange | 1 |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 1 |
 | [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 1 |
