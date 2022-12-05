@@ -1,5 +1,5 @@
 # Top Users for December 2022
-Last Updated: 12/05/2022 08:31:21 UTC
+Last Updated: 12/05/2022 09:25:01 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 7 |
@@ -12,18 +12,18 @@ Last Updated: 12/05/2022 08:31:21 UTC
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 2 |
 | [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 2 |
 | [cl](https://tech.lgbt/@cl) | Chrissy LeMaire :thonkpad: | tech.lgbt | 2 |
+| [0ne_ca11ed_pat](https://mastodon.social/@0ne_ca11ed_pat) | Patrick Campbell | mastodon.social | 1 |
 | [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 1 |
 | [codykonior](https://mastodon.social/@codykonior) | Cody Konior | mastodon.social | 1 |
-| [dmstork](https://mastodon.social/@dmstork) |  | mastodon.social | 1 |
-| [gioxx](https://mastodon.uno/@gioxx) | Gioxx | mastodon.uno | 1 |
-| [shearsjt](https://mastodon.social/@shearsjt) | Justin ✅ | mastodon.social | 1 |
 | [ztarbug](https://mastodon.social/@ztarbug) | Ztarbug | mastodon.social | 1 |
+| [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 1 |
+| [shearsjt](https://mastodon.social/@shearsjt) | Justin ✅ | mastodon.social | 1 |
+| [gioxx](https://mastodon.uno/@gioxx) | Gioxx | mastodon.uno | 1 |
 | [laage](https://mstdn.social/@laage) | Laage | mstdn.social | 1 |
 | [Jkw](https://tech.lgbt/@Jkw) | Jos Koelewijn | tech.lgbt | 1 |
-| [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 1 |
+| [dmstork](https://mastodon.social/@dmstork) |  | mastodon.social | 1 |
 | [ChaoticGood007](https://fosstodon.org/@ChaoticGood007) | ChaoticGood007 | fosstodon.org | 1 |
 | [log4jmc](https://infosec.exchange/@log4jmc) | log4jmc | infosec.exchange | 1 |
-| [JasonFossen](https://infosec.exchange/@JasonFossen) | Jason Fossen SANS | infosec.exchange | 1 |
 | [haircutfish](https://infosec.exchange/@haircutfish) | HaircutFish | infosec.exchange | 1 |
 | [fabian_bader](https://infosec.exchange/@fabian_bader) | Fabian Bader | infosec.exchange | 1 |
 | [daru003](https://infosec.exchange/@daru003) | Daru003 | infosec.exchange | 1 |
@@ -34,5 +34,6 @@ Last Updated: 12/05/2022 08:31:21 UTC
 | [RL_Dane](https://fosstodon.org/@RL_Dane) | R. L. Dane | fosstodon.org | 1 |
 | [patbf](https://fosstodon.org/@patbf) | Pat with lsb.icu | fosstodon.org | 1 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | James Brundage | fosstodon.org | 1 |
-| [0ne_ca11ed_pat](https://mastodon.social/@0ne_ca11ed_pat) | Patrick Campbell | mastodon.social | 1 |
+| [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 1 |
+| [JasonFossen](https://infosec.exchange/@JasonFossen) | Jason Fossen SANS | infosec.exchange | 1 |
 | [rubenoliveira](https://techhub.social/@rubenoliveira) | Ruben Oliveira | techhub.social | 1 |
