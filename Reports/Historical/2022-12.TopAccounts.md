@@ -1,15 +1,15 @@
 # Top Users for December 2022
-Last Updated: 12/05/2022 03:26:34 UTC
+Last Updated: 12/05/2022 04:30:21 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 7 |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼 | techhub.social | 6 |
+| [jsteelkw](https://fosstodon.org/@jsteelkw) | John Steel | fosstodon.org | 3 |
 | [Jpomfret](https://tech.lgbt/@Jpomfret) | Jess Pomfret :verified_gay: | tech.lgbt | 3 |
 | [chrisbradshaw](https://mas.to/@chrisbradshaw) | Chris Bradshaw | mas.to | 3 |
 | [thedavecarroll](https://fosstodon.org/@thedavecarroll) | Dave Carroll | fosstodon.org | 3 |
 | [mortensummer](https://masto.ai/@mortensummer) | Tom Yates | masto.ai | 2 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 2 |
-| [jsteelkw](https://fosstodon.org/@jsteelkw) | John Steel | fosstodon.org | 2 |
 | [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 2 |
 | [cl](https://tech.lgbt/@cl) | Chrissy LeMaire :thonkpad: | tech.lgbt | 2 |
 | [0ne_ca11ed_pat](https://mastodon.social/@0ne_ca11ed_pat) | Patrick Campbell | mastodon.social | 1 |
