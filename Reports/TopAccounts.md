@@ -1,5 +1,5 @@
 # Top Users for December 2022
-Last Updated: 12/06/2022 11:20:56 UTC
+Last Updated: 12/06/2022 12:48:24 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 11 |
@@ -8,23 +8,24 @@ Last Updated: 12/06/2022 11:20:56 UTC
 | [jsteelkw](https://fosstodon.org/@jsteelkw) | John Steel | fosstodon.org | 3 |
 | [Jpomfret](https://tech.lgbt/@Jpomfret) | Jess Pomfret :verified_gay: | tech.lgbt | 3 |
 | [thedavecarroll](https://fosstodon.org/@thedavecarroll) | Dave Carroll | fosstodon.org | 3 |
-| [alecthegeek](https://mstdn.social/@alecthegeek) | Alec :tux: 🖳 🇦🇺 :verified: | mstdn.social | 2 |
 | [mortensummer](https://masto.ai/@mortensummer) | Tom Yates | masto.ai | 2 |
-| [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 2 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 2 |
+| [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 2 |
 | [cl](https://tech.lgbt/@cl) | Chrissy LeMaire :thonkpad: | tech.lgbt | 2 |
+| [daniel_ess](https://infosec.exchange/@daniel_ess) | Daniel Ess :donor: | infosec.exchange | 2 |
+| [alecthegeek](https://mstdn.social/@alecthegeek) | Alec :tux: 🖳 🇦🇺 :verified: | mstdn.social | 2 |
+| [dmstork](https://mastodon.social/@dmstork) |  | mastodon.social | 1 |
+| [0ne_ca11ed_pat](https://mastodon.social/@0ne_ca11ed_pat) | Patrick Campbell | mastodon.social | 1 |
+| [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 1 |
+| [codykonior](https://mastodon.social/@codykonior) | Cody Konior | mastodon.social | 1 |
+| [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 1 |
+| [gioxx](https://mastodon.uno/@gioxx) | Gioxx | mastodon.uno | 1 |
+| [techielass](https://mastodon.social/@techielass) | Sarah Lean | mastodon.social | 1 |
+| [ztarbug](https://mastodon.social/@ztarbug) | Ztarbug | mastodon.social | 1 |
+| [crichardson](https://mstdn.social/@crichardson) | C-Rich | mstdn.social | 1 |
 | [laage](https://mstdn.social/@laage) | Laage | mstdn.social | 1 |
 | [Jkw](https://tech.lgbt/@Jkw) | Jos Koelewijn | tech.lgbt | 1 |
-| [crichardson](https://mstdn.social/@crichardson) | C-Rich | mstdn.social | 1 |
-| [gioxx](https://mastodon.uno/@gioxx) | Gioxx | mastodon.uno | 1 |
-| [ztarbug](https://mastodon.social/@ztarbug) | Ztarbug | mastodon.social | 1 |
-| [techielass](https://mastodon.social/@techielass) | Sarah Lean | mastodon.social | 1 |
 | [shearsjt](https://mastodon.social/@shearsjt) | Justin ✅ | mastodon.social | 1 |
-| [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 1 |
-| [dmstork](https://mastodon.social/@dmstork) |  | mastodon.social | 1 |
-| [codykonior](https://mastodon.social/@codykonior) | Cody Konior | mastodon.social | 1 |
-| [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 1 |
-| [0ne_ca11ed_pat](https://mastodon.social/@0ne_ca11ed_pat) | Patrick Campbell | mastodon.social | 1 |
 | [tonyvaneyk](https://aus.social/@tonyvaneyk) | Tony Van Eyk | aus.social | 1 |
 | [log4jmc](https://infosec.exchange/@log4jmc) | log4jmc | infosec.exchange | 1 |
 | [jrdepriest](https://infosec.exchange/@jrdepriest) | Jasey DePriest (she / her) | infosec.exchange | 1 |
