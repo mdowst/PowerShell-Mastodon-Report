@@ -1,5 +1,5 @@
 # Top Servers for December 2022
-Last Updated: 12/07/2022 02:56:30 UTC
+Last Updated: 12/07/2022 03:30:06 UTC
 | Server | Posts | Active Users |
 | -- | -- | -- |
 | [fosstodon.org](https://fosstodon.org/tags/PowerShell) | 18 | 10 |
