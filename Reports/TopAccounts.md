@@ -1,5 +1,5 @@
 # Top Users for December 2022
-Last Updated: 12/07/2022 22:25:01 UTC
+Last Updated: 12/07/2022 23:24:24 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 16 |
@@ -13,9 +13,9 @@ Last Updated: 12/07/2022 22:25:01 UTC
 | [thedavecarroll](https://fosstodon.org/@thedavecarroll) | Dave Carroll | fosstodon.org | 3 |
 | [cl](https://tech.lgbt/@cl) | Chrissy LeMaire :thonkpad: | tech.lgbt | 3 |
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 3 |
-| [mortensummer](https://masto.ai/@mortensummer) | Tom Yates | masto.ai | 2 |
 | [daniel_ess](https://infosec.exchange/@daniel_ess) | Daniel Ess :donor: | infosec.exchange | 2 |
 | [JordanOrdix](https://home.social/@JordanOrdix) | Andreas Jordan (ORDIX AG) | home.social | 2 |
+| [mortensummer](https://masto.ai/@mortensummer) | Tom Yates | masto.ai | 2 |
 | [bflipp](https://vmst.io/@bflipp) | Brett Flippin | vmst.io | 2 |
 | [brock](https://hachyderm.io/@brock) | Brock Chapin (bchap1n) | hachyderm.io | 2 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 2 |
@@ -38,7 +38,7 @@ Last Updated: 12/07/2022 22:25:01 UTC
 | [digon](https://mastodon.social/@digon) | Digão | mastodon.social | 1 |
 | [tonyvaneyk](https://aus.social/@tonyvaneyk) | Tony Van Eyk | aus.social | 1 |
 | [log4jmc](https://infosec.exchange/@log4jmc) | log4jmc | infosec.exchange | 1 |
-| [luzkenin](https://infosec.exchange/@luzkenin) | Joe 🏔️ | infosec.exchange | 1 |
+| [webkris](https://infosec.exchange/@webkris) | Kris :verified: | infosec.exchange | 1 |
 | [ChaoticGood007](https://fosstodon.org/@ChaoticGood007) | ChaoticGood007 | fosstodon.org | 1 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | James Brundage | fosstodon.org | 1 |
 | [patbf](https://fosstodon.org/@patbf) | Pat with lsb.icu | fosstodon.org | 1 |
@@ -47,8 +47,8 @@ Last Updated: 12/07/2022 22:25:01 UTC
 | [ilyvion](https://hachyderm.io/@ilyvion) | A:\lex :blobfoxcomputer: | hachyderm.io | 1 |
 | [keyoke_za](https://hachyderm.io/@keyoke_za) | Gareth Emslie 🇿🇦 🇪🇦 🇨🇭 | hachyderm.io | 1 |
 | [mdiam](https://hachyderm.io/@mdiam) | Marty D | hachyderm.io | 1 |
-| [webkris](https://infosec.exchange/@webkris) | Kris :verified: | infosec.exchange | 1 |
 | [mikael](https://hachyderm.io/@mikael) | Mikael Hansson | hachyderm.io | 1 |
+| [overmywall](https://hachyderm.io/@overmywall) | Robin Hills 🇨🇦 | hachyderm.io | 1 |
 | [seanluce](https://hachyderm.io/@seanluce) | sean | hachyderm.io | 1 |
 | [unnity](https://hachyderm.io/@unnity) | unnity | hachyderm.io | 1 |
 | [ajf8729](https://infosec.exchange/@ajf8729) | Anthony J. Fontanez | infosec.exchange | 1 |
@@ -57,5 +57,6 @@ Last Updated: 12/07/2022 22:25:01 UTC
 | [fabian_bader](https://infosec.exchange/@fabian_bader) | Fabian Bader | infosec.exchange | 1 |
 | [haircutfish](https://infosec.exchange/@haircutfish) | HaircutFish | infosec.exchange | 1 |
 | [JasonFossen](https://infosec.exchange/@JasonFossen) | Jason Fossen SANS | infosec.exchange | 1 |
-| [overmywall](https://hachyderm.io/@overmywall) | Robin Hills 🇨🇦 | hachyderm.io | 1 |
+| [luzkenin](https://infosec.exchange/@luzkenin) | Joe 🏔️ | infosec.exchange | 1 |
+| [dalehirt](https://mas.to/@dalehirt) | Dale HIrt | mas.to | 1 |
 | [DaleHassinger](https://vmst.io/@DaleHassinger) | Dale Hassinger | vmst.io | 1 |
