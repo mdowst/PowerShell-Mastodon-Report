@@ -1,38 +1,38 @@
 # Top Users for December 2022
-Last Updated: 12/07/2022 14:23:40 UTC
+Last Updated: 12/07/2022 15:26:11 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
-| [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 12 |
+| [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 14 |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼 | techhub.social | 8 |
-| [chrisbradshaw](https://mas.to/@chrisbradshaw) | Chris Bradshaw | mas.to | 4 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 4 |
 | [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 4 |
+| [chrisbradshaw](https://mas.to/@chrisbradshaw) | Chris Bradshaw | mas.to | 4 |
 | [jsteelkw](https://fosstodon.org/@jsteelkw) | John Steel | fosstodon.org | 3 |
 | [Jpomfret](https://tech.lgbt/@Jpomfret) | Jess Pomfret :verified_gay: | tech.lgbt | 3 |
 | [cl](https://tech.lgbt/@cl) | Chrissy LeMaire :thonkpad: | tech.lgbt | 3 |
 | [thedavecarroll](https://fosstodon.org/@thedavecarroll) | Dave Carroll | fosstodon.org | 3 |
-| [alecthegeek](https://mstdn.social/@alecthegeek) | Alec :tux: 🖳 🇦🇺 :verified: | mstdn.social | 2 |
-| [brock](https://hachyderm.io/@brock) | Brock Chapin (bchap1n) | hachyderm.io | 2 |
-| [sstranger](https://techhub.social/@sstranger) | Stefan Stranger | techhub.social | 2 |
 | [mortensummer](https://masto.ai/@mortensummer) | Tom Yates | masto.ai | 2 |
-| [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 2 |
+| [sstranger](https://techhub.social/@sstranger) | Stefan Stranger | techhub.social | 2 |
 | [daniel_ess](https://infosec.exchange/@daniel_ess) | Daniel Ess :donor: | infosec.exchange | 2 |
-| [0ne_ca11ed_pat](https://mastodon.social/@0ne_ca11ed_pat) | Patrick Campbell | mastodon.social | 1 |
-| [tto](https://masto.ai/@tto) | tom torggler | masto.ai | 1 |
-| [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 1 |
-| [codykonior](https://mastodon.social/@codykonior) | Cody Konior | mastodon.social | 1 |
-| [digon](https://mastodon.social/@digon) | Digão | mastodon.social | 1 |
-| [gioxx](https://mastodon.uno/@gioxx) | Gioxx | mastodon.uno | 1 |
-| [shearsjt](https://mastodon.social/@shearsjt) | Justin ✅ | mastodon.social | 1 |
-| [techielass](https://mastodon.social/@techielass) | Sarah Lean | mastodon.social | 1 |
-| [ztarbug](https://mastodon.social/@ztarbug) | Ztarbug | mastodon.social | 1 |
+| [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 2 |
+| [jrdepriest](https://infosec.exchange/@jrdepriest) | Jasey DePriest (she / her) | infosec.exchange | 2 |
+| [brock](https://hachyderm.io/@brock) | Brock Chapin (bchap1n) | hachyderm.io | 2 |
+| [alecthegeek](https://mstdn.social/@alecthegeek) | Alec :tux: 🖳 🇦🇺 :verified: | mstdn.social | 2 |
 | [crichardson](https://mstdn.social/@crichardson) | C-Rich | mstdn.social | 1 |
+| [ztarbug](https://mastodon.social/@ztarbug) | Ztarbug | mastodon.social | 1 |
+| [techielass](https://mastodon.social/@techielass) | Sarah Lean | mastodon.social | 1 |
+| [shearsjt](https://mastodon.social/@shearsjt) | Justin ✅ | mastodon.social | 1 |
 | [laage](https://mstdn.social/@laage) | Laage | mstdn.social | 1 |
-| [Jkw](https://tech.lgbt/@Jkw) | Jos Koelewijn | tech.lgbt | 1 |
-| [rubenoliveira](https://techhub.social/@rubenoliveira) | Ruben Oliveira | techhub.social | 1 |
 | [dmstork](https://mastodon.social/@dmstork) |  | mastodon.social | 1 |
+| [digon](https://mastodon.social/@digon) | Digão | mastodon.social | 1 |
+| [codykonior](https://mastodon.social/@codykonior) | Cody Konior | mastodon.social | 1 |
+| [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 1 |
+| [0ne_ca11ed_pat](https://mastodon.social/@0ne_ca11ed_pat) | Patrick Campbell | mastodon.social | 1 |
+| [Jkw](https://tech.lgbt/@Jkw) | Jos Koelewijn | tech.lgbt | 1 |
+| [tto](https://masto.ai/@tto) | tom torggler | masto.ai | 1 |
+| [rubenoliveira](https://techhub.social/@rubenoliveira) | Ruben Oliveira | techhub.social | 1 |
+| [gioxx](https://mastodon.uno/@gioxx) | Gioxx | mastodon.uno | 1 |
 | [tonyvaneyk](https://aus.social/@tonyvaneyk) | Tony Van Eyk | aus.social | 1 |
-| [jrdepriest](https://infosec.exchange/@jrdepriest) | Jasey DePriest (she / her) | infosec.exchange | 1 |
 | [log4jmc](https://infosec.exchange/@log4jmc) | log4jmc | infosec.exchange | 1 |
 | [ChaoticGood007](https://fosstodon.org/@ChaoticGood007) | ChaoticGood007 | fosstodon.org | 1 |
 | [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 1 |
