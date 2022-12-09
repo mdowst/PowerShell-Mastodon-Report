@@ -1,23 +1,23 @@
 # Top Users for December 2022
-Last Updated: 12/09/2022 06:29:23 UTC
+Last Updated: 12/09/2022 07:22:25 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼 | techhub.social | 17 |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 16 |
+| [cl](https://tech.lgbt/@cl) | Chrissy LeMaire :thonkpad: | tech.lgbt | 5 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 5 |
-| [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 4 |
-| [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 4 |
 | [jrdepriest](https://infosec.exchange/@jrdepriest) | Jasey DePriest (she / her) | infosec.exchange | 4 |
 | [chrisbradshaw](https://mas.to/@chrisbradshaw) | Chris Bradshaw | mas.to | 4 |
-| [thedavecarroll](https://fosstodon.org/@thedavecarroll) | Dave Carroll | fosstodon.org | 3 |
-| [cl](https://tech.lgbt/@cl) | Chrissy LeMaire :thonkpad: | tech.lgbt | 3 |
-| [jsteelkw](https://fosstodon.org/@jsteelkw) | John Steel | fosstodon.org | 3 |
+| [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 4 |
+| [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 4 |
 | [Jpomfret](https://tech.lgbt/@Jpomfret) | Jess Pomfret :verified_gay: | tech.lgbt | 3 |
+| [thedavecarroll](https://fosstodon.org/@thedavecarroll) | Dave Carroll | fosstodon.org | 3 |
+| [jsteelkw](https://fosstodon.org/@jsteelkw) | John Steel | fosstodon.org | 3 |
 | [alecthegeek](https://mstdn.social/@alecthegeek) | Alec :tux: 🖳 🇦🇺 :verified: | mstdn.social | 2 |
-| [mortensummer](https://masto.ai/@mortensummer) | Tom Yates | masto.ai | 2 |
-| [daniel_ess](https://infosec.exchange/@daniel_ess) | Daniel Ess :donor: | infosec.exchange | 2 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 2 |
+| [mortensummer](https://masto.ai/@mortensummer) | Tom Yates | masto.ai | 2 |
 | [luzkenin](https://infosec.exchange/@luzkenin) | Joe 🏔️ | infosec.exchange | 2 |
+| [daniel_ess](https://infosec.exchange/@daniel_ess) | Daniel Ess :donor: | infosec.exchange | 2 |
 | [JordanOrdix](https://home.social/@JordanOrdix) | Andreas Jordan (ORDIX AG) | home.social | 2 |
 | [brock](https://hachyderm.io/@brock) | Brock Chapin (bchap1n) | hachyderm.io | 2 |
 | [bflipp](https://vmst.io/@bflipp) | Brett Flippin | vmst.io | 2 |
