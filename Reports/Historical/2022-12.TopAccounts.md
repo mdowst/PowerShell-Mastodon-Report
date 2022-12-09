@@ -1,5 +1,5 @@
 # Top Users for December 2022
-Last Updated: 12/09/2022 21:22:19 UTC
+Last Updated: 12/09/2022 22:24:54 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼 | techhub.social | 17 |
@@ -13,22 +13,22 @@ Last Updated: 12/09/2022 21:22:19 UTC
 | [poshlandPRO](https://techhub.social/@poshlandPRO) | Damian Garbus | techhub.social | 4 |
 | [thedavecarroll](https://fosstodon.org/@thedavecarroll) | Dave Carroll | fosstodon.org | 3 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 3 |
-| [jsteelkw](https://fosstodon.org/@jsteelkw) | John Steel | fosstodon.org | 3 |
 | [Jpomfret](https://tech.lgbt/@Jpomfret) | Jess Pomfret :verified_gay: | tech.lgbt | 3 |
-| [JordanOrdix](https://home.social/@JordanOrdix) | Andreas Jordan (ORDIX AG) | home.social | 2 |
+| [jsteelkw](https://fosstodon.org/@jsteelkw) | John Steel | fosstodon.org | 3 |
+| [MrPowerShell](https://fosstodon.org/@MrPowerShell) | James Brundage | fosstodon.org | 3 |
 | [luzkenin](https://infosec.exchange/@luzkenin) | Joe 🏔️ | infosec.exchange | 2 |
 | [daniel_ess](https://infosec.exchange/@daniel_ess) | Daniel Ess :donor: | infosec.exchange | 2 |
 | [alecthegeek](https://mstdn.social/@alecthegeek) | Alec :tux: 🖳 🇦🇺 :verified: | mstdn.social | 2 |
-| [bflipp](https://vmst.io/@bflipp) | Brett Flippin | vmst.io | 2 |
+| [JordanOrdix](https://home.social/@JordanOrdix) | Andreas Jordan (ORDIX AG) | home.social | 2 |
 | [brock](https://hachyderm.io/@brock) | Brock Chapin (bchap1n) | hachyderm.io | 2 |
 | [sstranger](https://techhub.social/@sstranger) | Stefan Stranger | techhub.social | 2 |
-| [MrPowerShell](https://fosstodon.org/@MrPowerShell) | James Brundage | fosstodon.org | 2 |
 | [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 2 |
 | [mortensummer](https://masto.ai/@mortensummer) | Tom Yates | masto.ai | 2 |
 | [spidertheswede](https://twit.social/@spidertheswede) | spidertheswede | twit.social | 2 |
+| [bflipp](https://vmst.io/@bflipp) | Brett Flippin | vmst.io | 2 |
+| [dmstork](https://mastodon.social/@dmstork) |  | mastodon.social | 1 |
 | [digon](https://mastodon.social/@digon) | Digão | mastodon.social | 1 |
 | [shearsjt](https://mastodon.social/@shearsjt) | Justin ✅ | mastodon.social | 1 |
-| [dmstork](https://mastodon.social/@dmstork) |  | mastodon.social | 1 |
 | [techielass](https://mastodon.social/@techielass) | Sarah Lean | mastodon.social | 1 |
 | [laage](https://mstdn.social/@laage) | Laage | mstdn.social | 1 |
 | [gioxx](https://mastodon.uno/@gioxx) | Gioxx | mastodon.uno | 1 |
