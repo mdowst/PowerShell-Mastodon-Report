@@ -1,5 +1,5 @@
 # Top Users for December 2022
-Last Updated: 12/09/2022 07:22:25 UTC
+Last Updated: 12/09/2022 08:30:22 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼 | techhub.social | 17 |
@@ -10,20 +10,21 @@ Last Updated: 12/09/2022 07:22:25 UTC
 | [chrisbradshaw](https://mas.to/@chrisbradshaw) | Chris Bradshaw | mas.to | 4 |
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 4 |
 | [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 4 |
-| [Jpomfret](https://tech.lgbt/@Jpomfret) | Jess Pomfret :verified_gay: | tech.lgbt | 3 |
 | [thedavecarroll](https://fosstodon.org/@thedavecarroll) | Dave Carroll | fosstodon.org | 3 |
 | [jsteelkw](https://fosstodon.org/@jsteelkw) | John Steel | fosstodon.org | 3 |
-| [alecthegeek](https://mstdn.social/@alecthegeek) | Alec :tux: 🖳 🇦🇺 :verified: | mstdn.social | 2 |
+| [Jpomfret](https://tech.lgbt/@Jpomfret) | Jess Pomfret :verified_gay: | tech.lgbt | 3 |
+| [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 2 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 2 |
-| [mortensummer](https://masto.ai/@mortensummer) | Tom Yates | masto.ai | 2 |
 | [luzkenin](https://infosec.exchange/@luzkenin) | Joe 🏔️ | infosec.exchange | 2 |
 | [daniel_ess](https://infosec.exchange/@daniel_ess) | Daniel Ess :donor: | infosec.exchange | 2 |
+| [alecthegeek](https://mstdn.social/@alecthegeek) | Alec :tux: 🖳 🇦🇺 :verified: | mstdn.social | 2 |
 | [JordanOrdix](https://home.social/@JordanOrdix) | Andreas Jordan (ORDIX AG) | home.social | 2 |
-| [brock](https://hachyderm.io/@brock) | Brock Chapin (bchap1n) | hachyderm.io | 2 |
+| [mortensummer](https://masto.ai/@mortensummer) | Tom Yates | masto.ai | 2 |
 | [bflipp](https://vmst.io/@bflipp) | Brett Flippin | vmst.io | 2 |
-| [sstranger](https://techhub.social/@sstranger) | Stefan Stranger | techhub.social | 2 |
+| [spidertheswede](https://twit.social/@spidertheswede) | spidertheswede | twit.social | 2 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | James Brundage | fosstodon.org | 2 |
-| [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 2 |
+| [brock](https://hachyderm.io/@brock) | Brock Chapin (bchap1n) | hachyderm.io | 2 |
+| [sstranger](https://techhub.social/@sstranger) | Stefan Stranger | techhub.social | 2 |
 | [digon](https://mastodon.social/@digon) | Digão | mastodon.social | 1 |
 | [codykonior](https://mastodon.social/@codykonior) | Cody Konior | mastodon.social | 1 |
 | [dmstork](https://mastodon.social/@dmstork) |  | mastodon.social | 1 |
@@ -38,7 +39,6 @@ Last Updated: 12/09/2022 07:22:25 UTC
 | [kevchant](https://techhub.social/@kevchant) | Kevin Chant | techhub.social | 1 |
 | [rubenoliveira](https://techhub.social/@rubenoliveira) | Ruben Oliveira | techhub.social | 1 |
 | [gpunktschmitz](https://toot.cafe/@gpunktschmitz) | Guenther Schmitz ⏎ | toot.cafe | 1 |
-| [spidertheswede](https://twit.social/@spidertheswede) | spidertheswede | twit.social | 1 |
 | [techielass](https://mastodon.social/@techielass) | Sarah Lean | mastodon.social | 1 |
 | [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 1 |
 | [tonyvaneyk](https://aus.social/@tonyvaneyk) | Tony Van Eyk | aus.social | 1 |
