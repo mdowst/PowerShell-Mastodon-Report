@@ -1,5 +1,5 @@
 # Top Users for December 2022
-Last Updated: 12/12/2022 06:30:54 UTC
+Last Updated: 12/12/2022 07:23:28 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 20 |
