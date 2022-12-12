@@ -1,8 +1,8 @@
 # Top Users for December 2022
-Last Updated: 12/12/2022 14:24:27 UTC
+Last Updated: 12/12/2022 15:26:54 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
-| [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 20 |
+| [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 21 |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼 | techhub.social | 17 |
 | [cl](https://tech.lgbt/@cl) | Chrissy LeMaire :thonkpad: | tech.lgbt | 7 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 5 |
