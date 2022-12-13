@@ -1,9 +1,9 @@
 # Top Users for December 2022
-Last Updated: 12/13/2022 14:24:31 UTC
+Last Updated: 12/13/2022 15:30:32 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 26 |
-| [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼 | techhub.social | 19 |
+| [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼 | techhub.social | 20 |
 | [cl](https://tech.lgbt/@cl) | Chrissy LeMaire :thonkpad: | tech.lgbt | 7 |
 | [poshlandPRO](https://techhub.social/@poshlandPRO) | Damian Garbus | techhub.social | 6 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 5 |
@@ -28,6 +28,7 @@ Last Updated: 12/13/2022 14:24:31 UTC
 | [brock](https://hachyderm.io/@brock) | Brock Chapin (bchap1n) | hachyderm.io | 2 |
 | [bflipp](https://vmst.io/@bflipp) | Brett Flippin | vmst.io | 2 |
 | [spidertheswede](https://twit.social/@spidertheswede) | spidertheswede | twit.social | 2 |
+| [gpunktschmitz](https://toot.cafe/@gpunktschmitz) | Guenther Schmitz ⏎ | toot.cafe | 2 |
 | [patbf](https://fosstodon.org/@patbf) | Pat with lsb.icu | fosstodon.org | 2 |
 | [sstranger](https://techhub.social/@sstranger) | Stefan Stranger | techhub.social | 2 |
 | [tto](https://masto.ai/@tto) | tom torggler | masto.ai | 1 |
@@ -35,7 +36,6 @@ Last Updated: 12/13/2022 14:24:31 UTC
 | [0ne_ca11ed_pat](https://mastodon.social/@0ne_ca11ed_pat) | Patrick Campbell | mastodon.social | 1 |
 | [codykonior](https://mastodon.social/@codykonior) | Cody Konior | mastodon.social | 1 |
 | [digon](https://mastodon.social/@digon) | Digão | mastodon.social | 1 |
-| [gpunktschmitz](https://toot.cafe/@gpunktschmitz) | Guenther Schmitz ⏎ | toot.cafe | 1 |
 | [dmstork](https://mastodon.social/@dmstork) |  | mastodon.social | 1 |
 | [flameeyes](https://mastodon.social/@flameeyes) | Diego Elio Pettenò | mastodon.social | 1 |
 | [vintprox](https://techhub.social/@vintprox) | Rodion Borisov | techhub.social | 1 |
