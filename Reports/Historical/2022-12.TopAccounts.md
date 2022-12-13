@@ -1,5 +1,5 @@
 # Top Users for December 2022
-Last Updated: 12/13/2022 22:24:54 UTC
+Last Updated: 12/13/2022 23:25:32 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 26 |
@@ -7,11 +7,11 @@ Last Updated: 12/13/2022 22:24:54 UTC
 | [cl](https://tech.lgbt/@cl) | Chrissy LeMaire :thonkpad: | tech.lgbt | 7 |
 | [poshlandPRO](https://techhub.social/@poshlandPRO) | Damian Garbus | techhub.social | 7 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 6 |
+| [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 5 |
 | [chrisbradshaw](https://mas.to/@chrisbradshaw) | Chris Bradshaw | mas.to | 4 |
 | [jsteelkw](https://fosstodon.org/@jsteelkw) | John Steel | fosstodon.org | 4 |
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 4 |
 | [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 4 |
-| [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 4 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | James Brundage | fosstodon.org | 4 |
 | [Jpomfret](https://tech.lgbt/@Jpomfret) | Jess Pomfret :verified_gay: | tech.lgbt | 4 |
 | [jrdepriest](https://infosec.exchange/@jrdepriest) | Jasey DePriest (she / her) | infosec.exchange | 4 |
