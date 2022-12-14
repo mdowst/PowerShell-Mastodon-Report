@@ -1,5 +1,5 @@
 # Top Servers for December 2022
-Last Updated: 12/14/2022 17:24:09 UTC
+Last Updated: 12/14/2022 18:28:54 UTC
 | Server | Posts | Active Users |
 | -- | -- | -- |
 | [techhub.social](https://techhub.social/tags/PowerShell) | 40 | 8 |
@@ -16,8 +16,8 @@ Last Updated: 12/14/2022 17:24:09 UTC
 | [mastodon.uno](https://mastodon.uno/tags/PowerShell) | 2 | 1 |
 | [home.social](https://home.social/tags/PowerShell) | 2 | 1 |
 | [toot.cafe](https://toot.cafe/tags/PowerShell) | 2 | 1 |
+| [aspiechattr.me](https://aspiechattr.me/tags/PowerShell) | 2 | 2 |
 | [mastodonapp.uk](https://mastodonapp.uk/tags/PowerShell) | 1 | 1 |
 | [schleuss.online](https://schleuss.online/tags/PowerShell) | 1 | 1 |
 | [aus.social](https://aus.social/tags/PowerShell) | 1 | 1 |
 | [mastodon.nu](https://mastodon.nu/tags/PowerShell) | 1 | 1 |
-| [aspiechattr.me](https://aspiechattr.me/tags/PowerShell) | 1 | 1 |
