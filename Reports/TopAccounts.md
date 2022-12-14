@@ -1,5 +1,5 @@
 # Top Users for December 2022
-Last Updated: 12/14/2022 08:30:52 UTC
+Last Updated: 12/14/2022 09:24:40 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 26 |
@@ -27,12 +27,12 @@ Last Updated: 12/14/2022 08:30:52 UTC
 | [gpunktschmitz](https://toot.cafe/@gpunktschmitz) | Guenther Schmitz ⏎ | toot.cafe | 2 |
 | [luzkenin](https://infosec.exchange/@luzkenin) | Joe 🏔️ | infosec.exchange | 2 |
 | [patbf](https://fosstodon.org/@patbf) | Pat with lsb.icu | fosstodon.org | 2 |
+| [gioxx](https://mastodon.uno/@gioxx) | Gioxx | mastodon.uno | 2 |
 | [alecthegeek](https://mstdn.social/@alecthegeek) | Alec :tux: 🖳 🇦🇺 :verified: | mstdn.social | 2 |
 | [JordanOrdix](https://home.social/@JordanOrdix) | Andreas Jordan (ORDIX AG) | home.social | 2 |
+| [daniel_ess](https://infosec.exchange/@daniel_ess) | Daniel Ess :donor: | infosec.exchange | 2 |
 | [mortensummer](https://masto.ai/@mortensummer) | Tom Yates | masto.ai | 2 |
 | [seanluce](https://hachyderm.io/@seanluce) | sean | hachyderm.io | 2 |
-| [daniel_ess](https://infosec.exchange/@daniel_ess) | Daniel Ess :donor: | infosec.exchange | 2 |
-| [crichardson](https://mstdn.social/@crichardson) | C-Rich | mstdn.social | 1 |
 | [tto](https://masto.ai/@tto) | tom torggler | masto.ai | 1 |
 | [bjompen](https://mastodon.nu/@bjompen) | Bjompen | mastodon.nu | 1 |
 | [dirkoclient](https://techhub.social/@dirkoclient) | Dirk O‘Client | techhub.social | 1 |
@@ -41,15 +41,15 @@ Last Updated: 12/14/2022 08:30:52 UTC
 | [codykonior](https://mastodon.social/@codykonior) | Cody Konior | mastodon.social | 1 |
 | [digon](https://mastodon.social/@digon) | Digão | mastodon.social | 1 |
 | [rubenoliveira](https://techhub.social/@rubenoliveira) | Ruben Oliveira | techhub.social | 1 |
+| [dmstork](https://mastodon.social/@dmstork) |  | mastodon.social | 1 |
 | [Jkw](https://tech.lgbt/@Jkw) | Jos Koelewijn | tech.lgbt | 1 |
 | [flameeyes](https://mastodon.social/@flameeyes) | Diego Elio Pettenò | mastodon.social | 1 |
 | [shearsjt](https://mastodon.social/@shearsjt) | Justin ✅ | mastodon.social | 1 |
 | [kevchant](https://techhub.social/@kevchant) | Kevin Chant | techhub.social | 1 |
 | [ztarbug](https://mastodon.social/@ztarbug) | Ztarbug | mastodon.social | 1 |
-| [gioxx](https://mastodon.uno/@gioxx) | Gioxx | mastodon.uno | 1 |
-| [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 1 |
 | [laage](https://mstdn.social/@laage) | Laage | mstdn.social | 1 |
-| [dmstork](https://mastodon.social/@dmstork) |  | mastodon.social | 1 |
+| [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 1 |
+| [crichardson](https://mstdn.social/@crichardson) | C-Rich | mstdn.social | 1 |
 | [techielass](https://mastodon.social/@techielass) | Sarah Lean | mastodon.social | 1 |
 | [sleeplessone](https://infosec.exchange/@sleeplessone) | Sleeplessone | infosec.exchange | 1 |
 | [dalehirt](https://mas.to/@dalehirt) | Dale HIrt | mas.to | 1 |
