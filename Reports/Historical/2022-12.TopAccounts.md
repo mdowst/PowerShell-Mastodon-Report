@@ -1,5 +1,5 @@
 # Top Users for December 2022
-Last Updated: 12/16/2022 23:23:17 UTC
+Last Updated: 12/17/2022 01:42:34 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 35 |
@@ -7,11 +7,11 @@ Last Updated: 12/16/2022 23:23:17 UTC
 | [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 12 |
 | [cl](https://tech.lgbt/@cl) | Chrissy LeMaire :thonkpad: | tech.lgbt | 8 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 7 |
+| [MrPowerShell](https://fosstodon.org/@MrPowerShell) | James Brundage | fosstodon.org | 7 |
 | [poshlandPRO](https://techhub.social/@poshlandPRO) | Damian Garbus | techhub.social | 7 |
 | [jrdepriest](https://infosec.exchange/@jrdepriest) | Jasey DePriest (she / her) | infosec.exchange | 7 |
 | [rfoust](https://infosec.exchange/@rfoust) | Robbie Foust :verified: | infosec.exchange | 6 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 6 |
-| [MrPowerShell](https://fosstodon.org/@MrPowerShell) | James Brundage | fosstodon.org | 6 |
 | [jsteelkw](https://fosstodon.org/@jsteelkw) | John Steel | fosstodon.org | 4 |
 | [thedavecarroll](https://fosstodon.org/@thedavecarroll) | Dave Carroll | fosstodon.org | 4 |
 | [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 4 |
