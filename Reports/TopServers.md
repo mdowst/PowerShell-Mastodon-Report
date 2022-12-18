@@ -1,8 +1,8 @@
 # Top Servers for December 2022
-Last Updated: 12/18/2022 12:38:48 UTC
+Last Updated: 12/18/2022 13:25:46 UTC
 | Server | Posts | Active Users |
 | -- | -- | -- |
-| [techhub.social](https://techhub.social/tags/PowerShell) | 54 | 14 |
+| [techhub.social](https://techhub.social/tags/PowerShell) | 55 | 14 |
 | [fosstodon.org](https://fosstodon.org/tags/PowerShell) | 52 | 14 |
 | [infosec.exchange](https://infosec.exchange/tags/PowerShell) | 43 | 23 |
 | [masto.ai](https://masto.ai/tags/PowerShell) | 42 | 3 |
