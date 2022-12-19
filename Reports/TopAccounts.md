@@ -1,5 +1,5 @@
 # Top Users for December 2022
-Last Updated: 12/19/2022 19:19:50 UTC
+Last Updated: 12/19/2022 20:25:59 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 42 |
@@ -21,10 +21,10 @@ Last Updated: 12/19/2022 19:19:50 UTC
 | [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 3 |
 | [fabian_bader](https://infosec.exchange/@fabian_bader) | Fabian Bader | infosec.exchange | 3 |
 | [shwalsh13](https://vmst.io/@shwalsh13) | Shane :verified: | vmst.io | 3 |
+| [ehmiiz](https://infosec.exchange/@ehmiiz) | Emil Larsson | infosec.exchange | 3 |
 | [sstranger](https://techhub.social/@sstranger) | Stefan Stranger | techhub.social | 3 |
 | [vintprox](https://techhub.social/@vintprox) | Rodion Borisov | techhub.social | 3 |
 | [gioxx](https://mastodon.uno/@gioxx) | Gioxx | mastodon.uno | 2 |
-| [ehmiiz](https://infosec.exchange/@ehmiiz) | Emil Larsson | infosec.exchange | 2 |
 | [digon](https://mastodon.social/@digon) | Digão | mastodon.social | 2 |
 | [DanielSSilva](https://techhub.social/@DanielSSilva) | DanielSSilva | techhub.social | 2 |
 | [mortensummer](https://masto.ai/@mortensummer) | Tom Yates | masto.ai | 2 |
