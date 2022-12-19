@@ -1,9 +1,9 @@
 # Top Users for December 2022
-Last Updated: 12/19/2022 16:35:19 UTC
+Last Updated: 12/19/2022 17:22:19 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 42 |
-| [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼 | techhub.social | 31 |
+| [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼 | techhub.social | 32 |
 | [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 15 |
 | [poshlandPRO](https://techhub.social/@poshlandPRO) | Damian Garbus | techhub.social | 10 |
 | [cl](https://tech.lgbt/@cl) | Chrissy LeMaire :thonkpad: | tech.lgbt | 9 |
@@ -13,58 +13,58 @@ Last Updated: 12/19/2022 16:35:19 UTC
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 7 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 6 |
 | [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 5 |
-| [jsteelkw](https://fosstodon.org/@jsteelkw) | John Steel | fosstodon.org | 4 |
-| [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 4 |
-| [chrisbradshaw](https://mas.to/@chrisbradshaw) | Chris Bradshaw | mas.to | 4 |
 | [thedavecarroll](https://fosstodon.org/@thedavecarroll) | Dave Carroll | fosstodon.org | 4 |
+| [jsteelkw](https://fosstodon.org/@jsteelkw) | John Steel | fosstodon.org | 4 |
+| [chrisbradshaw](https://mas.to/@chrisbradshaw) | Chris Bradshaw | mas.to | 4 |
+| [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 4 |
 | [Jpomfret](https://tech.lgbt/@Jpomfret) | Jess Pomfret :verified_gay: | tech.lgbt | 4 |
 | [fabian_bader](https://infosec.exchange/@fabian_bader) | Fabian Bader | infosec.exchange | 3 |
 | [shwalsh13](https://vmst.io/@shwalsh13) | Shane :verified: | vmst.io | 3 |
+| [sstranger](https://techhub.social/@sstranger) | Stefan Stranger | techhub.social | 3 |
 | [vintprox](https://techhub.social/@vintprox) | Rodion Borisov | techhub.social | 3 |
 | [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 3 |
-| [sstranger](https://techhub.social/@sstranger) | Stefan Stranger | techhub.social | 3 |
 | [ehmiiz](https://infosec.exchange/@ehmiiz) | Emil Larsson | infosec.exchange | 2 |
 | [gioxx](https://mastodon.uno/@gioxx) | Gioxx | mastodon.uno | 2 |
 | [daniel_ess](https://infosec.exchange/@daniel_ess) | Daniel Ess :donor: | infosec.exchange | 2 |
 | [alecthegeek](https://mstdn.social/@alecthegeek) | Alec :tux: 🖳 🇦🇺 :verified: | mstdn.social | 2 |
 | [JordanOrdix](https://home.social/@JordanOrdix) | Andreas Jordan (ORDIX AG) | home.social | 2 |
 | [mortensummer](https://masto.ai/@mortensummer) | Tom Yates | masto.ai | 2 |
+| [digon](https://mastodon.social/@digon) | Digão | mastodon.social | 2 |
 | [luzkenin](https://infosec.exchange/@luzkenin) | Joe 🏔️ | infosec.exchange | 2 |
 | [seanluce](https://hachyderm.io/@seanluce) | sean | hachyderm.io | 2 |
-| [gpunktschmitz](https://toot.cafe/@gpunktschmitz) | Guenther Schmitz ⏎ | toot.cafe | 2 |
-| [bflipp](https://vmst.io/@bflipp) | Brett Flippin | vmst.io | 2 |
-| [DanielSSilva](https://techhub.social/@DanielSSilva) | DanielSSilva | techhub.social | 2 |
-| [spidertheswede](https://twit.social/@spidertheswede) | spidertheswede | twit.social | 2 |
 | [brock](https://hachyderm.io/@brock) | Brock Chapin (bchap1n) | hachyderm.io | 2 |
 | [patbf](https://fosstodon.org/@patbf) | Pat with lsb.icu | fosstodon.org | 2 |
+| [tinuwalther](https://techhub.social/@tinuwalther) | Tinu 🇨🇭 | techhub.social | 2 |
 | [falkheiland](https://fosstodon.org/@falkheiland) | Falk Heiland 🇺🇦 | fosstodon.org | 2 |
-| [dmstork](https://mastodon.social/@dmstork) |  | mastodon.social | 1 |
-| [digon](https://mastodon.social/@digon) | Digão | mastodon.social | 1 |
-| [tinuwalther](https://techhub.social/@tinuwalther) | Tinu 🇨🇭 | techhub.social | 1 |
-| [Jkw](https://tech.lgbt/@Jkw) | Jos Koelewijn | tech.lgbt | 1 |
-| [rubenoliveira](https://techhub.social/@rubenoliveira) | Ruben Oliveira | techhub.social | 1 |
-| [0ne_ca11ed_pat](https://mastodon.social/@0ne_ca11ed_pat) | Patrick Campbell | mastodon.social | 1 |
-| [Max_Philline](https://mastodon.sdf.org/@Max_Philline) | Max Philline | mastodon.sdf.org | 1 |
+| [gpunktschmitz](https://toot.cafe/@gpunktschmitz) | Guenther Schmitz ⏎ | toot.cafe | 2 |
+| [DanielSSilva](https://techhub.social/@DanielSSilva) | DanielSSilva | techhub.social | 2 |
+| [spidertheswede](https://twit.social/@spidertheswede) | spidertheswede | twit.social | 2 |
+| [bflipp](https://vmst.io/@bflipp) | Brett Flippin | vmst.io | 2 |
 | [bjompen](https://mastodon.nu/@bjompen) | Bjompen | mastodon.nu | 1 |
-| [tto](https://masto.ai/@tto) | tom torggler | masto.ai | 1 |
-| [codykonior](https://mastodon.social/@codykonior) | Cody Konior | mastodon.social | 1 |
-| [flameeyes](https://mastodon.social/@flameeyes) | Diego Elio Pettenò | mastodon.social | 1 |
+| [Max_Philline](https://mastodon.sdf.org/@Max_Philline) | Max Philline | mastodon.sdf.org | 1 |
+| [0ne_ca11ed_pat](https://mastodon.social/@0ne_ca11ed_pat) | Patrick Campbell | mastodon.social | 1 |
 | [mrwindy](https://techhub.social/@mrwindy) | MrWindy | techhub.social | 1 |
+| [codykonior](https://mastodon.social/@codykonior) | Cody Konior | mastodon.social | 1 |
+| [rubenoliveira](https://techhub.social/@rubenoliveira) | Ruben Oliveira | techhub.social | 1 |
+| [dmstork](https://mastodon.social/@dmstork) |  | mastodon.social | 1 |
+| [tto](https://masto.ai/@tto) | tom torggler | masto.ai | 1 |
+| [flameeyes](https://mastodon.social/@flameeyes) | Diego Elio Pettenò | mastodon.social | 1 |
+| [robsewell](https://tech.lgbt/@robsewell) | Rob Sewell He/Him | tech.lgbt | 1 |
 | [shearsjt](https://mastodon.social/@shearsjt) | Justin ✅ | mastodon.social | 1 |
 | [techielass](https://mastodon.social/@techielass) | Sarah Lean | mastodon.social | 1 |
 | [kevchant](https://techhub.social/@kevchant) | Kevin Chant | techhub.social | 1 |
-| [ztarbug](https://mastodon.social/@ztarbug) | Ztarbug | mastodon.social | 1 |
 | [jwmoss](https://techhub.social/@jwmoss) | Jonathan Moss | techhub.social | 1 |
+| [ztarbug](https://mastodon.social/@ztarbug) | Ztarbug | mastodon.social | 1 |
+| [IntegerMan](https://techhub.social/@IntegerMan) | Matt Eland | techhub.social | 1 |
 | [danabnormal](https://mastodonapp.uk/@danabnormal) | Danabnormal | mastodonapp.uk | 1 |
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 1 |
-| [IntegerMan](https://techhub.social/@IntegerMan) | Matt Eland | techhub.social | 1 |
 | [dirkoclient](https://techhub.social/@dirkoclient) | Dirk O‘Client | techhub.social | 1 |
+| [dcaro](https://techhub.social/@dcaro) | Damien Caro | techhub.social | 1 |
 | [crichardson](https://mstdn.social/@crichardson) | C-Rich | mstdn.social | 1 |
 | [laage](https://mstdn.social/@laage) | Laage | mstdn.social | 1 |
-| [dcaro](https://techhub.social/@dcaro) | Damien Caro | techhub.social | 1 |
 | [itsecbot](https://schleuss.online/@itsecbot) | ITSEC News | schleuss.online | 1 |
 | [AndrewPlaTech](https://techhub.social/@AndrewPlaTech) | AndrewPlaTech | techhub.social | 1 |
-| [robsewell](https://tech.lgbt/@robsewell) | Rob Sewell He/Him | tech.lgbt | 1 |
+| [Jkw](https://tech.lgbt/@Jkw) | Jos Koelewijn | tech.lgbt | 1 |
 | [rumdood](https://mas.to/@rumdood) | RumDood | mas.to | 1 |
 | [skatterbrainz](https://infosec.exchange/@skatterbrainz) | Sk@tterBr@inZ | infosec.exchange | 1 |
 | [ChrisWarwick](https://mas.to/@ChrisWarwick) | Chris Warwick | mas.to | 1 |
