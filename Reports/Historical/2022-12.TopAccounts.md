@@ -1,5 +1,5 @@
 # Top Users for December 2022
-Last Updated: 12/18/2022 23:22:55 UTC
+Last Updated: 12/19/2022 01:41:56 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 41 |
@@ -23,13 +23,13 @@ Last Updated: 12/18/2022 23:22:55 UTC
 | [fabian_bader](https://infosec.exchange/@fabian_bader) | Fabian Bader | infosec.exchange | 3 |
 | [shwalsh13](https://vmst.io/@shwalsh13) | Shane :verified: | vmst.io | 3 |
 | [sstranger](https://techhub.social/@sstranger) | Stefan Stranger | techhub.social | 3 |
+| [ehmiiz](https://infosec.exchange/@ehmiiz) | Emil Larsson | infosec.exchange | 2 |
 | [brock](https://hachyderm.io/@brock) | Brock Chapin (bchap1n) | hachyderm.io | 2 |
 | [luzkenin](https://infosec.exchange/@luzkenin) | Joe 🏔️ | infosec.exchange | 2 |
 | [gioxx](https://mastodon.uno/@gioxx) | Gioxx | mastodon.uno | 2 |
-| [ehmiiz](https://infosec.exchange/@ehmiiz) | Emil Larsson | infosec.exchange | 2 |
-| [patbf](https://fosstodon.org/@patbf) | Pat with lsb.icu | fosstodon.org | 2 |
 | [alecthegeek](https://mstdn.social/@alecthegeek) | Alec :tux: 🖳 🇦🇺 :verified: | mstdn.social | 2 |
 | [daniel_ess](https://infosec.exchange/@daniel_ess) | Daniel Ess :donor: | infosec.exchange | 2 |
+| [patbf](https://fosstodon.org/@patbf) | Pat with lsb.icu | fosstodon.org | 2 |
 | [falkheiland](https://fosstodon.org/@falkheiland) | Falk Heiland 🇺🇦 | fosstodon.org | 2 |
 | [mortensummer](https://masto.ai/@mortensummer) | Tom Yates | masto.ai | 2 |
 | [JordanOrdix](https://home.social/@JordanOrdix) | Andreas Jordan (ORDIX AG) | home.social | 2 |
@@ -42,12 +42,12 @@ Last Updated: 12/18/2022 23:22:55 UTC
 | [rubenoliveira](https://techhub.social/@rubenoliveira) | Ruben Oliveira | techhub.social | 1 |
 | [digon](https://mastodon.social/@digon) | Digão | mastodon.social | 1 |
 | [0ne_ca11ed_pat](https://mastodon.social/@0ne_ca11ed_pat) | Patrick Campbell | mastodon.social | 1 |
-| [dmstork](https://mastodon.social/@dmstork) |  | mastodon.social | 1 |
 | [Max_Philline](https://mastodon.sdf.org/@Max_Philline) | Max Philline | mastodon.sdf.org | 1 |
-| [tinuwalther](https://techhub.social/@tinuwalther) | Tinu 🇨🇭 | techhub.social | 1 |
 | [bjompen](https://mastodon.nu/@bjompen) | Bjompen | mastodon.nu | 1 |
-| [flameeyes](https://mastodon.social/@flameeyes) | Diego Elio Pettenò | mastodon.social | 1 |
+| [dmstork](https://mastodon.social/@dmstork) |  | mastodon.social | 1 |
+| [tinuwalther](https://techhub.social/@tinuwalther) | Tinu 🇨🇭 | techhub.social | 1 |
 | [tto](https://masto.ai/@tto) | tom torggler | masto.ai | 1 |
+| [flameeyes](https://mastodon.social/@flameeyes) | Diego Elio Pettenò | mastodon.social | 1 |
 | [jwmoss](https://techhub.social/@jwmoss) | Jonathan Moss | techhub.social | 1 |
 | [techielass](https://mastodon.social/@techielass) | Sarah Lean | mastodon.social | 1 |
 | [ztarbug](https://mastodon.social/@ztarbug) | Ztarbug | mastodon.social | 1 |
@@ -65,7 +65,7 @@ Last Updated: 12/18/2022 23:22:55 UTC
 | [IntegerMan](https://techhub.social/@IntegerMan) | Matt Eland | techhub.social | 1 |
 | [shearsjt](https://mastodon.social/@shearsjt) | Justin ✅ | mastodon.social | 1 |
 | [itsecbot](https://schleuss.online/@itsecbot) | ITSEC News | schleuss.online | 1 |
-| [sleeplessone](https://infosec.exchange/@sleeplessone) | Sleeplessone | infosec.exchange | 1 |
+| [skatterbrainz](https://infosec.exchange/@skatterbrainz) | Sk@tterBr@inZ | infosec.exchange | 1 |
 | [dalehirt](https://mas.to/@dalehirt) | Dale HIrt | mas.to | 1 |
 | [overmywall](https://hachyderm.io/@overmywall) | Robin Hills 🇨🇦 | hachyderm.io | 1 |
 | [MrPowerShell](https://hachyderm.io/@MrPowerShell) | MrPowerShell | hachyderm.io | 1 |
@@ -86,19 +86,19 @@ Last Updated: 12/18/2022 23:22:55 UTC
 | [tonyvaneyk](https://aus.social/@tonyvaneyk) | Tony Van Eyk | aus.social | 1 |
 | [TechNews](https://aspiechattr.me/@TechNews) | Tech News Worldwide | aspiechattr.me | 1 |
 | [deejaygraham](https://hachyderm.io/@deejaygraham) | Derek Graham | hachyderm.io | 1 |
-| [rumdood](https://mas.to/@rumdood) | RumDood | mas.to | 1 |
 | [sarlalian](https://hachyderm.io/@sarlalian) | Will - He/Him | hachyderm.io | 1 |
+| [unnity](https://hachyderm.io/@unnity) | unnity | hachyderm.io | 1 |
 | [ajf8729](https://infosec.exchange/@ajf8729) | Anthony J. Fontanez | infosec.exchange | 1 |
 | [ChrisWarwick](https://mas.to/@ChrisWarwick) | Chris Warwick | mas.to | 1 |
 | [dispatch](https://ioc.exchange/@dispatch) | dispatch | ioc.exchange | 1 |
 | [weslambert](https://infosec.exchange/@weslambert) | Wes Lambert | infosec.exchange | 1 |
 | [webkris](https://infosec.exchange/@webkris) | Kris :verified: | infosec.exchange | 1 |
 | [triciakickssaas](https://infosec.exchange/@triciakickssaas) | tricia, queen of house cyberly :verified_paw: :donor: | infosec.exchange | 1 |
+| [sleeplessone](https://infosec.exchange/@sleeplessone) | Sleeplessone | infosec.exchange | 1 |
 | [DaleHassinger](https://vmst.io/@DaleHassinger) | Dale Hassinger | vmst.io | 1 |
-| [skatterbrainz](https://infosec.exchange/@skatterbrainz) | Sk@tterBr@inZ | infosec.exchange | 1 |
 | [mharleydev](https://infosec.exchange/@mharleydev) | Michael Harley | infosec.exchange | 1 |
-| [unnity](https://hachyderm.io/@unnity) | unnity | hachyderm.io | 1 |
 | [log4jmc](https://infosec.exchange/@log4jmc) | log4jmc | infosec.exchange | 1 |
+| [JasonFossen](https://infosec.exchange/@JasonFossen) | Jason Fossen SANS | infosec.exchange | 1 |
 | [JakobS](https://infosec.exchange/@JakobS) | Jakob Schaefer | infosec.exchange | 1 |
 | [haircutfish](https://infosec.exchange/@haircutfish) | HaircutFish | infosec.exchange | 1 |
 | [fixed_computer](https://infosec.exchange/@fixed_computer) | Matthew Musante | infosec.exchange | 1 |
@@ -107,5 +107,6 @@ Last Updated: 12/18/2022 23:22:55 UTC
 | [DeekGeek](https://infosec.exchange/@DeekGeek) | DeekGeek | infosec.exchange | 1 |
 | [daru003](https://infosec.exchange/@daru003) | Daru003 | infosec.exchange | 1 |
 | [CitraBenzoet](https://infosec.exchange/@CitraBenzoet) | CitraBenzoet | infosec.exchange | 1 |
-| [JasonFossen](https://infosec.exchange/@JasonFossen) | Jason Fossen SANS | infosec.exchange | 1 |
+| [billdriver](https://infosec.exchange/@billdriver) | Bill Driver | infosec.exchange | 1 |
+| [rumdood](https://mas.to/@rumdood) | RumDood | mas.to | 1 |
 | [OpsecNews](https://aspiechattr.me/@OpsecNews) | OPSEC Cybersecurity News Live | aspiechattr.me | 1 |
