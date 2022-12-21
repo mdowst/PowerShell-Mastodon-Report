@@ -1,18 +1,18 @@
 # Top Users for December 2022
-Last Updated: 12/21/2022 09:24:04 UTC
+Last Updated: 12/21/2022 10:27:02 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 43 |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼 | techhub.social | 32 |
 | [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 15 |
-| [poshlandPRO](https://techhub.social/@poshlandPRO) | Damian Garbus | techhub.social | 10 |
+| [poshlandPRO](https://techhub.social/@poshlandPRO) | Damian Garbus | techhub.social | 13 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 9 |
 | [cl](https://tech.lgbt/@cl) | Chrissy LeMaire :thonkpad: | tech.lgbt | 9 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | James Brundage | fosstodon.org | 7 |
 | [rfoust](https://infosec.exchange/@rfoust) | Robbie Foust :verified: | infosec.exchange | 7 |
 | [jrdepriest](https://infosec.exchange/@jrdepriest) | Jasey DePriest (she / her) | infosec.exchange | 7 |
+| [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 6 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 6 |
-| [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 5 |
 | [Jpomfret](https://tech.lgbt/@Jpomfret) | Jess Pomfret :verified_gay: | tech.lgbt | 4 |
 | [jsteelkw](https://fosstodon.org/@jsteelkw) | John Steel | fosstodon.org | 4 |
 | [chrisbradshaw](https://mas.to/@chrisbradshaw) | Chris Bradshaw | mas.to | 4 |
