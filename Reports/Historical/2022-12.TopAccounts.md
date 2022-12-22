@@ -1,13 +1,13 @@
 # Top Users for December 2022
-Last Updated: 12/21/2022 23:25:12 UTC
+Last Updated: 12/22/2022 01:45:15 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼 | techhub.social | 46 |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 43 |
-| [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 15 |
+| [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 17 |
 | [poshlandPRO](https://techhub.social/@poshlandPRO) | Damian Garbus | techhub.social | 13 |
 | [cl](https://tech.lgbt/@cl) | Chrissy LeMaire :thonkpad: | tech.lgbt | 11 |
-| [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 9 |
+| [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 10 |
 | [rfoust](https://infosec.exchange/@rfoust) | Robbie Foust :verified: | infosec.exchange | 7 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | James Brundage | fosstodon.org | 7 |
 | [jrdepriest](https://infosec.exchange/@jrdepriest) | Jasey DePriest (she / her) | infosec.exchange | 7 |
@@ -27,8 +27,9 @@ Last Updated: 12/21/2022 23:25:12 UTC
 | [fabian_bader](https://infosec.exchange/@fabian_bader) | Fabian Bader | infosec.exchange | 3 |
 | [ehmiiz](https://infosec.exchange/@ehmiiz) | Emil Larsson | infosec.exchange | 3 |
 | [shwalsh13](https://vmst.io/@shwalsh13) | Shane :verified: | vmst.io | 3 |
+| [gregglsc](https://fosstodon.org/@gregglsc) | Gregg | fosstodon.org | 3 |
 | [patbf](https://fosstodon.org/@patbf) | Pat with lsb.icu | fosstodon.org | 2 |
-| [gregglsc](https://fosstodon.org/@gregglsc) | Gregg | fosstodon.org | 2 |
+| [mabster](https://mastodon.social/@mabster) | Matt Hamilton | mastodon.social | 2 |
 | [gioxx](https://mastodon.uno/@gioxx) | Gioxx | mastodon.uno | 2 |
 | [luzkenin](https://infosec.exchange/@luzkenin) | Joe 🏔️ | infosec.exchange | 2 |
 | [falkheiland](https://fosstodon.org/@falkheiland) | Falk Heiland 🇺🇦 | fosstodon.org | 2 |
@@ -40,45 +41,44 @@ Last Updated: 12/21/2022 23:25:12 UTC
 | [JordanOrdix](https://home.social/@JordanOrdix) | Andreas Jordan (ORDIX AG) | home.social | 2 |
 | [seanluce](https://hachyderm.io/@seanluce) | sean | hachyderm.io | 2 |
 | [bjompen](https://mastodon.nu/@bjompen) | Bjompen | mastodon.nu | 2 |
-| [tinuwalther](https://techhub.social/@tinuwalther) | Tinu 🇨🇭 | techhub.social | 2 |
-| [bflipp](https://vmst.io/@bflipp) | Brett Flippin | vmst.io | 2 |
-| [dgoldman](https://hachyderm.io/@dgoldman) | Dave Goldman | hachyderm.io | 2 |
 | [gpunktschmitz](https://toot.cafe/@gpunktschmitz) | Guenther Schmitz ⏎ | toot.cafe | 2 |
 | [spidertheswede](https://twit.social/@spidertheswede) | spidertheswede | twit.social | 2 |
-| [chr1stian](https://mastodon.social/@chr1stian) | Chris | mastodon.social | 1 |
-| [codykonior](https://mastodon.social/@codykonior) | Cody Konior | mastodon.social | 1 |
-| [mammaclauds](https://fosstodon.org/@mammaclauds) | Claudia Regio | fosstodon.org | 1 |
-| [dmstork](https://mastodon.social/@dmstork) |  | mastodon.social | 1 |
-| [flameeyes](https://mastodon.social/@flameeyes) | Diego Elio Pettenò | mastodon.social | 1 |
-| [mondskiez](https://fosstodon.org/@mondskiez) | MonDSkiEZ:~$:idle: | fosstodon.org | 1 |
-| [KieranWalsh](https://mastodon.social/@KieranWalsh) | Kieran Walsh | mastodon.social | 1 |
-| [mabster](https://mastodon.social/@mabster) | Matt Hamilton | mastodon.social | 1 |
-| [0ne_ca11ed_pat](https://mastodon.social/@0ne_ca11ed_pat) | Patrick Campbell | mastodon.social | 1 |
-| [shearsjt](https://mastodon.social/@shearsjt) | Justin ✅ | mastodon.social | 1 |
-| [techielass](https://mastodon.social/@techielass) | Sarah Lean | mastodon.social | 1 |
+| [bflipp](https://vmst.io/@bflipp) | Brett Flippin | vmst.io | 2 |
+| [dgoldman](https://hachyderm.io/@dgoldman) | Dave Goldman | hachyderm.io | 2 |
+| [tinuwalther](https://techhub.social/@tinuwalther) | Tinu 🇨🇭 | techhub.social | 2 |
 | [ztarbug](https://mastodon.social/@ztarbug) | Ztarbug | mastodon.social | 1 |
+| [techielass](https://mastodon.social/@techielass) | Sarah Lean | mastodon.social | 1 |
+| [shearsjt](https://mastodon.social/@shearsjt) | Justin ✅ | mastodon.social | 1 |
+| [KieranWalsh](https://mastodon.social/@KieranWalsh) | Kieran Walsh | mastodon.social | 1 |
+| [flameeyes](https://mastodon.social/@flameeyes) | Diego Elio Pettenò | mastodon.social | 1 |
+| [dmstork](https://mastodon.social/@dmstork) |  | mastodon.social | 1 |
+| [mammaclauds](https://fosstodon.org/@mammaclauds) | Claudia Regio | fosstodon.org | 1 |
+| [codykonior](https://mastodon.social/@codykonior) | Cody Konior | mastodon.social | 1 |
+| [chr1stian](https://mastodon.social/@chr1stian) | Chris | mastodon.social | 1 |
+| [aeveltstra](https://mastodon.social/@aeveltstra) | André E. Veltstra | mastodon.social | 1 |
+| [mondskiez](https://fosstodon.org/@mondskiez) | MonDSkiEZ:~$:idle: | fosstodon.org | 1 |
+| [0ne_ca11ed_pat](https://mastodon.social/@0ne_ca11ed_pat) | Patrick Campbell | mastodon.social | 1 |
 | [Max_Philline](https://mastodon.sdf.org/@Max_Philline) | Max Philline | mastodon.sdf.org | 1 |
 | [danabnormal](https://mastodonapp.uk/@danabnormal) | Danabnormal | mastodonapp.uk | 1 |
-| [aeveltstra](https://mastodon.social/@aeveltstra) | André E. Veltstra | mastodon.social | 1 |
-| [neowin](https://techhub.social/@neowin) | Neowin | techhub.social | 1 |
-| [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 1 |
-| [crichardson](https://mstdn.social/@crichardson) | C-Rich | mstdn.social | 1 |
 | [kevchant](https://techhub.social/@kevchant) | Kevin Chant | techhub.social | 1 |
+| [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 1 |
+| [TechNews](https://aspiechattr.me/@TechNews) | Tech News Worldwide | aspiechattr.me | 1 |
 | [jwmoss](https://techhub.social/@jwmoss) | Jonathan Moss | techhub.social | 1 |
-| [richiebzzzt](https://dataplatform.social/@richiebzzzt) | Richie Lee | dataplatform.social | 1 |
+| [neowin](https://techhub.social/@neowin) | Neowin | techhub.social | 1 |
 | [ardalis](https://fosstodon.org/@ardalis) | Steve @ardalis Smith :dotnet: | fosstodon.org | 1 |
 | [IntegerMan](https://techhub.social/@IntegerMan) | Matt Eland | techhub.social | 1 |
 | [dirkoclient](https://techhub.social/@dirkoclient) | Dirk O‘Client | techhub.social | 1 |
-| [rubenoliveira](https://techhub.social/@rubenoliveira) | Ruben Oliveira | techhub.social | 1 |
-| [mrwindy](https://techhub.social/@mrwindy) | MrWindy | techhub.social | 1 |
+| [richiebzzzt](https://dataplatform.social/@richiebzzzt) | Richie Lee | dataplatform.social | 1 |
 | [dcaro](https://techhub.social/@dcaro) | Damien Caro | techhub.social | 1 |
+| [mrwindy](https://techhub.social/@mrwindy) | MrWindy | techhub.social | 1 |
+| [rubenoliveira](https://techhub.social/@rubenoliveira) | Ruben Oliveira | techhub.social | 1 |
 | [robsewell](https://tech.lgbt/@robsewell) | Rob Sewell He/Him | tech.lgbt | 1 |
 | [TonyRedmond](https://techhub.social/@TonyRedmond) | Tony Redmond | techhub.social | 1 |
-| [TechNews](https://aspiechattr.me/@TechNews) | Tech News Worldwide | aspiechattr.me | 1 |
 | [Jkw](https://tech.lgbt/@Jkw) | Jos Koelewijn | tech.lgbt | 1 |
 | [dprice](https://fosstodon.org/@dprice) | Derek Price | fosstodon.org | 1 |
 | [itsecbot](https://schleuss.online/@itsecbot) | ITSEC News | schleuss.online | 1 |
 | [laage](https://mstdn.social/@laage) | Laage | mstdn.social | 1 |
+| [crichardson](https://mstdn.social/@crichardson) | C-Rich | mstdn.social | 1 |
 | [tonyvaneyk](https://aus.social/@tonyvaneyk) | Tony Van Eyk | aus.social | 1 |
 | [ChaoticGood007](https://fosstodon.org/@ChaoticGood007) | ChaoticGood007 | fosstodon.org | 1 |
 | [deejaygraham](https://hachyderm.io/@deejaygraham) | Derek Graham | hachyderm.io | 1 |
