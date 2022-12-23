@@ -1,19 +1,19 @@
 # Top Servers for December 2022
-Last Updated: 12/23/2022 14:22:27 UTC
+Last Updated: 12/23/2022 15:24:41 UTC
 | Server | Posts | Active Users |
 | -- | -- | -- |
-| [techhub.social](https://techhub.social/tags/PowerShell) | 88 | 17 |
-| [fosstodon.org](https://fosstodon.org/tags/PowerShell) | 66 | 18 |
+| [techhub.social](https://techhub.social/tags/PowerShell) | 90 | 17 |
+| [fosstodon.org](https://fosstodon.org/tags/PowerShell) | 67 | 18 |
 | [infosec.exchange](https://infosec.exchange/tags/PowerShell) | 58 | 32 |
-| [masto.ai](https://masto.ai/tags/PowerShell) | 52 | 3 |
+| [masto.ai](https://masto.ai/tags/PowerShell) | 53 | 3 |
 | [mastodon.social](https://mastodon.social/tags/PowerShell) | 26 | 15 |
 | [hachyderm.io](https://hachyderm.io/tags/PowerShell) | 23 | 20 |
 | [tech.lgbt](https://tech.lgbt/tags/PowerShell) | 17 | 4 |
 | [mas.to](https://mas.to/tags/PowerShell) | 8 | 5 |
 | [vmst.io](https://vmst.io/tags/PowerShell) | 6 | 3 |
 | [mstdn.social](https://mstdn.social/tags/PowerShell) | 5 | 3 |
+| [mastodon.uno](https://mastodon.uno/tags/PowerShell) | 4 | 3 |
 | [mastodonapp.uk](https://mastodonapp.uk/tags/PowerShell) | 3 | 2 |
-| [mastodon.uno](https://mastodon.uno/tags/PowerShell) | 3 | 2 |
 | [toot.cafe](https://toot.cafe/tags/PowerShell) | 2 | 1 |
 | [aspiechattr.me](https://aspiechattr.me/tags/PowerShell) | 2 | 2 |
 | [mastodon.nu](https://mastodon.nu/tags/PowerShell) | 2 | 1 |
