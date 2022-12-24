@@ -1,5 +1,5 @@
 # Top Users for December 2022
-Last Updated: 12/24/2022 09:22:08 UTC
+Last Updated: 12/24/2022 10:24:57 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼 | techhub.social | 52 |
@@ -43,24 +43,24 @@ Last Updated: 12/24/2022 09:22:08 UTC
 | [haircutfish](https://infosec.exchange/@haircutfish) | HaircutFish | infosec.exchange | 2 |
 | [fixed_computer](https://infosec.exchange/@fixed_computer) | Matthew Musante | infosec.exchange | 2 |
 | [AndrewPlaTech](https://techhub.social/@AndrewPlaTech) | AndrewPlaTech | techhub.social | 2 |
+| [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 2 |
 | [DanielSSilva](https://techhub.social/@DanielSSilva) | DanielSSilva | techhub.social | 2 |
 | [daniel_ess](https://infosec.exchange/@daniel_ess) | Daniel Ess :donor: | infosec.exchange | 2 |
 | [brock](https://hachyderm.io/@brock) | Brock Chapin (bchap1n) | hachyderm.io | 2 |
-| [neowin](https://techhub.social/@neowin) | Neowin | techhub.social | 2 |
 | [tinuwalther](https://techhub.social/@tinuwalther) | Tinu 🇨🇭 | techhub.social | 2 |
-| [JordanOrdix](https://home.social/@JordanOrdix) | Andreas Jordan (ORDIX AG) | home.social | 2 |
 | [gpunktschmitz](https://toot.cafe/@gpunktschmitz) | Guenther Schmitz ⏎ | toot.cafe | 2 |
+| [JordanOrdix](https://home.social/@JordanOrdix) | Andreas Jordan (ORDIX AG) | home.social | 2 |
 | [seanluce](https://hachyderm.io/@seanluce) | sean | hachyderm.io | 2 |
 | [spidertheswede](https://twit.social/@spidertheswede) | spidertheswede | twit.social | 2 |
+| [neowin](https://techhub.social/@neowin) | Neowin | techhub.social | 2 |
 | [bflipp](https://vmst.io/@bflipp) | Brett Flippin | vmst.io | 2 |
-| [TechNews](https://aspiechattr.me/@TechNews) | Tech News Worldwide | aspiechattr.me | 1 |
+| [ardalis](https://fosstodon.org/@ardalis) | Steve @ardalis Smith :dotnet: | fosstodon.org | 1 |
 | [ztarbug](https://mastodon.social/@ztarbug) | Ztarbug | mastodon.social | 1 |
 | [techielass](https://mastodon.social/@techielass) | Sarah Lean | mastodon.social | 1 |
 | [shearsjt](https://mastodon.social/@shearsjt) | Justin ✅ | mastodon.social | 1 |
 | [rmbolger](https://mastodon.social/@rmbolger) | Ryan Bolger | mastodon.social | 1 |
-| [jwmoss](https://techhub.social/@jwmoss) | Jonathan Moss | techhub.social | 1 |
-| [riccardocorna](https://mastodon.uno/@riccardocorna) | Riccardo Corna :windows: :mac: | mastodon.uno | 1 |
 | [flameeyes](https://mastodon.social/@flameeyes) | Diego Elio Pettenò | mastodon.social | 1 |
+| [TechNews](https://aspiechattr.me/@TechNews) | Tech News Worldwide | aspiechattr.me | 1 |
 | [dmstork](https://mastodon.social/@dmstork) |  | mastodon.social | 1 |
 | [mammaclauds](https://fosstodon.org/@mammaclauds) | Claudia Regio | fosstodon.org | 1 |
 | [codykonior](https://mastodon.social/@codykonior) | Cody Konior | mastodon.social | 1 |
@@ -69,15 +69,14 @@ Last Updated: 12/24/2022 09:22:08 UTC
 | [aeveltstra](https://mastodon.social/@aeveltstra) | André E. Veltstra | mastodon.social | 1 |
 | [mondskiez](https://fosstodon.org/@mondskiez) | MonDSkiEZ:~$:idle: | fosstodon.org | 1 |
 | [KieranWalsh](https://mastodon.social/@KieranWalsh) | Kieran Walsh | mastodon.social | 1 |
-| [titinoNero](https://mastodon.uno/@titinoNero) | ttNoNero | mastodon.uno | 1 |
+| [riccardocorna](https://mastodon.uno/@riccardocorna) | Riccardo Corna :windows: :mac: | mastodon.uno | 1 |
 | [TonyRedmond](https://techhub.social/@TonyRedmond) | Tony Redmond | techhub.social | 1 |
+| [danabnormal](https://mastodonapp.uk/@danabnormal) | Danabnormal | mastodonapp.uk | 1 |
 | [kevchant](https://techhub.social/@kevchant) | Kevin Chant | techhub.social | 1 |
-| [ardalis](https://fosstodon.org/@ardalis) | Steve @ardalis Smith :dotnet: | fosstodon.org | 1 |
 | [IntegerMan](https://techhub.social/@IntegerMan) | Matt Eland | techhub.social | 1 |
 | [dirkoclient](https://techhub.social/@dirkoclient) | Dirk O‘Client | techhub.social | 1 |
 | [dcaro](https://techhub.social/@dcaro) | Damien Caro | techhub.social | 1 |
 | [kevshallperish](https://techhub.social/@kevshallperish) | Kevin | techhub.social | 1 |
-| [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 1 |
 | [mrwindy](https://techhub.social/@mrwindy) | MrWindy | techhub.social | 1 |
 | [robsewell](https://tech.lgbt/@robsewell) | Rob Sewell He/Him | tech.lgbt | 1 |
 | [ChaoticGood007](https://fosstodon.org/@ChaoticGood007) | ChaoticGood007 | fosstodon.org | 1 |
@@ -89,7 +88,8 @@ Last Updated: 12/24/2022 09:22:08 UTC
 | [laage](https://mstdn.social/@laage) | Laage | mstdn.social | 1 |
 | [crichardson](https://mstdn.social/@crichardson) | C-Rich | mstdn.social | 1 |
 | [tonyvaneyk](https://aus.social/@tonyvaneyk) | Tony Van Eyk | aus.social | 1 |
-| [danabnormal](https://mastodonapp.uk/@danabnormal) | Danabnormal | mastodonapp.uk | 1 |
+| [jwmoss](https://techhub.social/@jwmoss) | Jonathan Moss | techhub.social | 1 |
+| [titinoNero](https://mastodon.uno/@titinoNero) | ttNoNero | mastodon.uno | 1 |
 | [0ne_ca11ed_pat](https://mastodon.social/@0ne_ca11ed_pat) | Patrick Campbell | mastodon.social | 1 |
 | [ilyvion](https://hachyderm.io/@ilyvion) | A:\lex :blobfoxcomputer: | hachyderm.io | 1 |
 | [KlausAusKoelle](https://mastodon.lol/@KlausAusKoelle) | Klaus | mastodon.lol | 1 |
