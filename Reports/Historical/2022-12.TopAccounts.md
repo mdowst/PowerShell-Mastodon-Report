@@ -1,11 +1,11 @@
 # Top Users for December 2022
-Last Updated: 12/24/2022 13:25:47 UTC
+Last Updated: 12/24/2022 14:20:55 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼 | techhub.social | 52 |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 48 |
 | [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 20 |
-| [poshlandPRO](https://techhub.social/@poshlandPRO) | Damian Garbus | techhub.social | 15 |
+| [poshlandPRO](https://techhub.social/@poshlandPRO) | Damian Garbus | techhub.social | 16 |
 | [cl](https://tech.lgbt/@cl) | Chrissy LeMaire :thonkpad: | tech.lgbt | 11 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 11 |
 | [jrdepriest](https://infosec.exchange/@jrdepriest) | Jasey DePriest (she / her) | infosec.exchange | 7 |
