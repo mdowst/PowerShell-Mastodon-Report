@@ -1,5 +1,5 @@
 # Top Users for December 2022
-Last Updated: 12/28/2022 13:27:57 UTC
+Last Updated: 12/28/2022 14:21:55 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼 | techhub.social | 54 |
@@ -9,9 +9,9 @@ Last Updated: 12/28/2022 13:27:57 UTC
 | [cl](https://tech.lgbt/@cl) | Chrissy LeMaire :thonkpad: | tech.lgbt | 11 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 11 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | James Brundage | fosstodon.org | 10 |
+| [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 8 |
 | [jrdepriest](https://infosec.exchange/@jrdepriest) | Jasey DePriest (she / her) | infosec.exchange | 7 |
 | [rfoust](https://infosec.exchange/@rfoust) | Robbie Foust :verified: | infosec.exchange | 7 |
-| [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 7 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 6 |
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 5 |
 | [jsteelkw](https://fosstodon.org/@jsteelkw) | John Steel | fosstodon.org | 5 |
