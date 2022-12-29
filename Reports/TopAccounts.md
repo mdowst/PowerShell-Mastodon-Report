@@ -1,5 +1,5 @@
 # Top Users for December 2022
-Last Updated: 12/29/2022 16:32:46 UTC
+Last Updated: 12/29/2022 17:22:24 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼 | techhub.social | 55 |
@@ -34,21 +34,21 @@ Last Updated: 12/29/2022 16:32:46 UTC
 | [AndrewPlaTech](https://techhub.social/@AndrewPlaTech) | AndrewPlaTech | techhub.social | 3 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 3 |
 | [gregglsc](https://fosstodon.org/@gregglsc) | Gregg | fosstodon.org | 3 |
+| [tinuwalther](https://techhub.social/@tinuwalther) | Tinu 🇨🇭 | techhub.social | 3 |
 | [fixed_computer](https://infosec.exchange/@fixed_computer) | Matthew Musante | infosec.exchange | 2 |
 | [haircutfish](https://infosec.exchange/@haircutfish) | HaircutFish | infosec.exchange | 2 |
 | [bflipp](https://vmst.io/@bflipp) | Brett Flippin | vmst.io | 2 |
 | [inactivebit](https://infosec.exchange/@inactivebit) | 54m | infosec.exchange | 2 |
 | [JakobS](https://infosec.exchange/@JakobS) | Jakob Schaefer | infosec.exchange | 2 |
 | [spidertheswede](https://twit.social/@spidertheswede) | spidertheswede | twit.social | 2 |
-| [luzkenin](https://infosec.exchange/@luzkenin) | Joe 🏔️ | infosec.exchange | 2 |
 | [mabster](https://mastodon.social/@mabster) | Matt Hamilton | mastodon.social | 2 |
+| [oldschool](https://infosec.exchange/@oldschool) | oldschool | infosec.exchange | 2 |
 | [gpunktschmitz](https://toot.cafe/@gpunktschmitz) | Guenther Schmitz ⏎ | toot.cafe | 2 |
 | [gioxx](https://mastodon.uno/@gioxx) | Gioxx | mastodon.uno | 2 |
-| [tinuwalther](https://techhub.social/@tinuwalther) | Tinu 🇨🇭 | techhub.social | 2 |
 | [neowin](https://techhub.social/@neowin) | Neowin | techhub.social | 2 |
 | [DanielSSilva](https://techhub.social/@DanielSSilva) | DanielSSilva | techhub.social | 2 |
 | [bjompen](https://mastodon.nu/@bjompen) | Bjompen | mastodon.nu | 2 |
-| [oldschool](https://infosec.exchange/@oldschool) | oldschool | infosec.exchange | 2 |
+| [luzkenin](https://infosec.exchange/@luzkenin) | Joe 🏔️ | infosec.exchange | 2 |
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 2 |
 | [taylorparizo](https://infosec.exchange/@taylorparizo) | Taylor Parizo | infosec.exchange | 2 |
 | [patbf](https://fosstodon.org/@patbf) | Pat with lsb.icu | fosstodon.org | 2 |
