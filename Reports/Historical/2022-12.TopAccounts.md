@@ -1,5 +1,5 @@
 # Top Users for December 2022
-Last Updated: 12/29/2022 08:28:55 UTC
+Last Updated: 12/29/2022 09:22:34 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼 | techhub.social | 55 |
@@ -29,10 +29,10 @@ Last Updated: 12/29/2022 08:28:55 UTC
 | [ehmiiz](https://infosec.exchange/@ehmiiz) | Emil Larsson | infosec.exchange | 3 |
 | [fabian_bader](https://infosec.exchange/@fabian_bader) | Fabian Bader | infosec.exchange | 3 |
 | [gregglsc](https://fosstodon.org/@gregglsc) | Gregg | fosstodon.org | 3 |
-| [AndrewPlaTech](https://techhub.social/@AndrewPlaTech) | AndrewPlaTech | techhub.social | 3 |
+| [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 3 |
 | [vintprox](https://techhub.social/@vintprox) | Rodion Borisov | techhub.social | 3 |
 | [alecthegeek](https://mstdn.social/@alecthegeek) | Alec :tux: 🖳 🇦🇺 :verified: | mstdn.social | 3 |
-| [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 2 |
+| [AndrewPlaTech](https://techhub.social/@AndrewPlaTech) | AndrewPlaTech | techhub.social | 3 |
 | [fixed_computer](https://infosec.exchange/@fixed_computer) | Matthew Musante | infosec.exchange | 2 |
 | [haircutfish](https://infosec.exchange/@haircutfish) | HaircutFish | infosec.exchange | 2 |
 | [inactivebit](https://infosec.exchange/@inactivebit) | 54m | infosec.exchange | 2 |
