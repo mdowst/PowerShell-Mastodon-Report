@@ -1,5 +1,5 @@
 # Top Users for December 2022
-Last Updated: 12/31/2022 17:20:55 UTC
+Last Updated: 12/31/2022 18:26:38 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼 | techhub.social | 60 |
@@ -33,22 +33,22 @@ Last Updated: 12/31/2022 17:20:55 UTC
 | [ehmiiz](https://infosec.exchange/@ehmiiz) | Emil Larsson | infosec.exchange | 3 |
 | [JordanOrdix](https://home.social/@JordanOrdix) | Andreas Jordan (ORDIX AG) | home.social | 3 |
 | [shwalsh13](https://vmst.io/@shwalsh13) | Shane :verified: | vmst.io | 3 |
-| [gregglsc](https://fosstodon.org/@gregglsc) | Gregg | fosstodon.org | 3 |
 | [dgoldman](https://hachyderm.io/@dgoldman) | Dave Goldman | hachyderm.io | 3 |
-| [falkheiland](https://fosstodon.org/@falkheiland) | Falk Heiland 🇺🇦 | fosstodon.org | 2 |
-| [JakobS](https://infosec.exchange/@JakobS) | Jakob Schaefer | infosec.exchange | 2 |
+| [gregglsc](https://fosstodon.org/@gregglsc) | Gregg | fosstodon.org | 3 |
 | [fixed_computer](https://infosec.exchange/@fixed_computer) | Matthew Musante | infosec.exchange | 2 |
+| [JakobS](https://infosec.exchange/@JakobS) | Jakob Schaefer | infosec.exchange | 2 |
 | [gioxx](https://mastodon.uno/@gioxx) | Gioxx | mastodon.uno | 2 |
-| [DanielSSilva](https://techhub.social/@DanielSSilva) | DanielSSilva | techhub.social | 2 |
-| [brock](https://hachyderm.io/@brock) | Brock Chapin (bchap1n) | hachyderm.io | 2 |
-| [taylorparizo](https://infosec.exchange/@taylorparizo) | Taylor Parizo | infosec.exchange | 2 |
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 2 |
+| [DanielSSilva](https://techhub.social/@DanielSSilva) | DanielSSilva | techhub.social | 2 |
+| [taylorparizo](https://infosec.exchange/@taylorparizo) | Taylor Parizo | infosec.exchange | 2 |
 | [daniel_ess](https://infosec.exchange/@daniel_ess) | Daniel Ess :donor: | infosec.exchange | 2 |
-| [mabster](https://mastodon.social/@mabster) | Matt Hamilton | mastodon.social | 2 |
 | [patbf](https://fosstodon.org/@patbf) | Pat with lsb.icu | fosstodon.org | 2 |
 | [neowin](https://techhub.social/@neowin) | Neowin | techhub.social | 2 |
+| [mabster](https://mastodon.social/@mabster) | Matt Hamilton | mastodon.social | 2 |
 | [luzkenin](https://infosec.exchange/@luzkenin) | Joe 🏔️ | infosec.exchange | 2 |
+| [brock](https://hachyderm.io/@brock) | Brock Chapin (bchap1n) | hachyderm.io | 2 |
 | [wg](https://hachyderm.io/@wg) | W.Gross | hachyderm.io | 2 |
+| [falkheiland](https://fosstodon.org/@falkheiland) | Falk Heiland 🇺🇦 | fosstodon.org | 2 |
 | [seanluce](https://hachyderm.io/@seanluce) | sean | hachyderm.io | 2 |
 | [oldschool](https://infosec.exchange/@oldschool) | oldschool | infosec.exchange | 2 |
 | [bjompen](https://mastodon.nu/@bjompen) | Bjompen | mastodon.nu | 2 |
@@ -58,14 +58,15 @@ Last Updated: 12/31/2022 17:20:55 UTC
 | [bflipp](https://vmst.io/@bflipp) | Brett Flippin | vmst.io | 2 |
 | [inactivebit](https://infosec.exchange/@inactivebit) | 54m | infosec.exchange | 2 |
 | [haircutfish](https://infosec.exchange/@haircutfish) | HaircutFish | infosec.exchange | 2 |
-| [mammaclauds](https://fosstodon.org/@mammaclauds) | Claudia Regio | fosstodon.org | 1 |
 | [AnEntropyBubble](https://mstdn.social/@AnEntropyBubble) | Andrew Hall | mstdn.social | 1 |
-| [danabnormal](https://mastodonapp.uk/@danabnormal) | Danabnormal | mastodonapp.uk | 1 |
+| [mammaclauds](https://fosstodon.org/@mammaclauds) | Claudia Regio | fosstodon.org | 1 |
 | [crichardson](https://mstdn.social/@crichardson) | C-Rich | mstdn.social | 1 |
-| [shearsjt](https://mastodon.social/@shearsjt) | Justin ✅ | mastodon.social | 1 |
+| [techielass](https://mastodon.social/@techielass) | Sarah Lean | mastodon.social | 1 |
+| [titinoNero](https://mastodon.uno/@titinoNero) | ttNoNero | mastodon.uno | 1 |
 | [riccardocorna](https://mastodon.uno/@riccardocorna) | Riccardo Corna :windows: :mac: | mastodon.uno | 1 |
 | [ztarbug](https://mastodon.social/@ztarbug) | Ztarbug | mastodon.social | 1 |
-| [techielass](https://mastodon.social/@techielass) | Sarah Lean | mastodon.social | 1 |
+| [danclarke](https://mstdn.social/@danclarke) | Dan Clarke 🎙:verified: | mstdn.social | 1 |
+| [shearsjt](https://mastodon.social/@shearsjt) | Justin ✅ | mastodon.social | 1 |
 | [rmbolger](https://mastodon.social/@rmbolger) | Ryan Bolger | mastodon.social | 1 |
 | [mondskiez](https://fosstodon.org/@mondskiez) | MonDSkiEZ:~$:idle: | fosstodon.org | 1 |
 | [KieranWalsh](https://mastodon.social/@KieranWalsh) | Kieran Walsh | mastodon.social | 1 |
@@ -74,12 +75,12 @@ Last Updated: 12/31/2022 17:20:55 UTC
 | [dmstork](https://mastodon.social/@dmstork) |  | mastodon.social | 1 |
 | [omenos](https://fosstodon.org/@omenos) | Mike Rochefort 🐧 :fedora: | fosstodon.org | 1 |
 | [codykonior](https://mastodon.social/@codykonior) | Cody Konior | mastodon.social | 1 |
-| [chr1stian](https://mastodon.social/@chr1stian) | Chris | mastodon.social | 1 |
-| [titinoNero](https://mastodon.uno/@titinoNero) | ttNoNero | mastodon.uno | 1 |
-| [danclarke](https://mstdn.social/@danclarke) | Dan Clarke 🎙:verified: | mstdn.social | 1 |
+| [danabnormal](https://mastodonapp.uk/@danabnormal) | Danabnormal | mastodonapp.uk | 1 |
 | [jamesnovak](https://hachyderm.io/@jamesnovak) | Jim Novak :verified: | hachyderm.io | 1 |
+| [robsewell](https://tech.lgbt/@robsewell) | Rob Sewell He/Him | tech.lgbt | 1 |
 | [TechBean](https://mstdn.social/@TechBean) | Bean 🇺🇲🇻🇪 | mstdn.social | 1 |
 | [asoftman](https://vmst.io/@asoftman) | Bill Powell | vmst.io | 1 |
+| [thorstenbutz](https://twit.social/@thorstenbutz) | Thorsten Butz | twit.social | 1 |
 | [TechNews](https://aspiechattr.me/@TechNews) | Tech News Worldwide | aspiechattr.me | 1 |
 | [TonyRedmond](https://techhub.social/@TonyRedmond) | Tony Redmond | techhub.social | 1 |
 | [tonyvaneyk](https://aus.social/@tonyvaneyk) | Tony Van Eyk | aus.social | 1 |
@@ -98,14 +99,14 @@ Last Updated: 12/31/2022 17:20:55 UTC
 | [dcaro](https://techhub.social/@dcaro) | Damien Caro | techhub.social | 1 |
 | [ChaoticGood007](https://fosstodon.org/@ChaoticGood007) | ChaoticGood007 | fosstodon.org | 1 |
 | [dprice](https://fosstodon.org/@dprice) | Derek Price | fosstodon.org | 1 |
-| [robsewell](https://tech.lgbt/@robsewell) | Rob Sewell He/Him | tech.lgbt | 1 |
 | [Jkw](https://tech.lgbt/@Jkw) | Jos Koelewijn | tech.lgbt | 1 |
 | [itsecbot](https://schleuss.online/@itsecbot) | ITSEC News | schleuss.online | 1 |
 | [inushin](https://noc.social/@inushin) | Inushin | noc.social | 1 |
 | [laage](https://mstdn.social/@laage) | Laage | mstdn.social | 1 |
-| [amc](https://mastodon.social/@amc) | Aaron Martin-Colby | mastodon.social | 1 |
-| [RandyDandy](https://fosstodon.org/@RandyDandy) | RandyDandy ☃️ | fosstodon.org | 1 |
-| [0ne_ca11ed_pat](https://mastodon.social/@0ne_ca11ed_pat) | Patrick Campbell | mastodon.social | 1 |
+| [chr1stian](https://mastodon.social/@chr1stian) | Chris | mastodon.social | 1 |
+| [SimonB](https://mastodon.ie/@SimonB) | Simon Boyne | mastodon.ie | 1 |
+| [aeveltstra](https://mastodon.social/@aeveltstra) | André E. Veltstra | mastodon.social | 1 |
+| [Kay_Doe_Potato](https://infosec.exchange/@Kay_Doe_Potato) | KD Viking | infosec.exchange | 1 |
 | [jsmall](https://infosec.exchange/@jsmall) | Joshua Small | infosec.exchange | 1 |
 | [chris_hunt](https://hachyderm.io/@chris_hunt) | Chris Hunt | hachyderm.io | 1 |
 | [JasonFossen](https://infosec.exchange/@JasonFossen) | Jason Fossen SANS | infosec.exchange | 1 |
@@ -117,8 +118,8 @@ Last Updated: 12/31/2022 17:20:55 UTC
 | [defaultvlan](https://infosec.exchange/@defaultvlan) | defaultvlan :verified: | infosec.exchange | 1 |
 | [DeekGeek](https://infosec.exchange/@DeekGeek) | DeekGeek | infosec.exchange | 1 |
 | [daru003](https://infosec.exchange/@daru003) | Daru003 | infosec.exchange | 1 |
-| [Kay_Doe_Potato](https://infosec.exchange/@Kay_Doe_Potato) | KD Viking | infosec.exchange | 1 |
 | [CitraBenzoet](https://infosec.exchange/@CitraBenzoet) | CitraBenzoet | infosec.exchange | 1 |
+| [billdriver](https://infosec.exchange/@billdriver) | Bill Driver | infosec.exchange | 1 |
 | [ajf8729](https://infosec.exchange/@ajf8729) | Anthony J. Fontanez | infosec.exchange | 1 |
 | [acrypthash](https://infosec.exchange/@acrypthash) | acrypthash👨🏻‍💻 | infosec.exchange | 1 |
 | [unnity](https://hachyderm.io/@unnity) | unnity | hachyderm.io | 1 |
@@ -130,14 +131,15 @@ Last Updated: 12/31/2022 17:20:55 UTC
 | [mdiam](https://hachyderm.io/@mdiam) | Marty D | hachyderm.io | 1 |
 | [konst](https://hachyderm.io/@konst) | konst 🇳🇿 | hachyderm.io | 1 |
 | [keyoke_za](https://hachyderm.io/@keyoke_za) | Gareth Emslie 🇿🇦 🇪🇦 🇨🇭 | hachyderm.io | 1 |
-| [billdriver](https://infosec.exchange/@billdriver) | Bill Driver | infosec.exchange | 1 |
 | [log4jmc](https://infosec.exchange/@log4jmc) | log4jmc | infosec.exchange | 1 |
+| [amc](https://mastodon.social/@amc) | Aaron Martin-Colby | mastodon.social | 1 |
 | [magikh0e](https://infosec.exchange/@magikh0e) | magikh0e  :valid: | infosec.exchange | 1 |
-| [mharleydev](https://infosec.exchange/@mharleydev) | Michael Harley | infosec.exchange | 1 |
+| [paulsanders](https://infosec.exchange/@paulsanders) | Paul Sanders | infosec.exchange | 1 |
+| [0ne_ca11ed_pat](https://mastodon.social/@0ne_ca11ed_pat) | Patrick Campbell | mastodon.social | 1 |
 | [Max_Philline](https://mastodon.sdf.org/@Max_Philline) | Max Philline | mastodon.sdf.org | 1 |
 | [KlausAusKoelle](https://mastodon.lol/@KlausAusKoelle) | Klaus | mastodon.lol | 1 |
-| [SimonB](https://mastodon.ie/@SimonB) | Simon Boyne | mastodon.ie | 1 |
 | [ilyvion](https://hachyderm.io/@ilyvion) | A:\lex :blobfoxcomputer: | hachyderm.io | 1 |
+| [RandyDandy](https://fosstodon.org/@RandyDandy) | RandyDandy ☃️ | fosstodon.org | 1 |
 | [RL_Dane](https://fosstodon.org/@RL_Dane) | R. L. Dane | fosstodon.org | 1 |
 | [sebastienlevert](https://fosstodon.org/@sebastienlevert) | Sébastien Levert | fosstodon.org | 1 |
 | [sjosjo](https://mas.to/@sjosjo) | SPdeValk 🐘️ ☑️ | mas.to | 1 |
@@ -158,6 +160,5 @@ Last Updated: 12/31/2022 17:20:55 UTC
 | [raptor](https://infosec.exchange/@raptor) | Marco Ivaldi | infosec.exchange | 1 |
 | [r1cksec](https://infosec.exchange/@r1cksec) | r1cksec | infosec.exchange | 1 |
 | [pythonshell](https://infosec.exchange/@pythonshell) | Lew | infosec.exchange | 1 |
-| [paulsanders](https://infosec.exchange/@paulsanders) | Paul Sanders | infosec.exchange | 1 |
-| [aeveltstra](https://mastodon.social/@aeveltstra) | André E. Veltstra | mastodon.social | 1 |
+| [mharleydev](https://infosec.exchange/@mharleydev) | Michael Harley | infosec.exchange | 1 |
 | [OpsecNews](https://aspiechattr.me/@OpsecNews) | OPSEC Cybersecurity News Live | aspiechattr.me | 1 |
