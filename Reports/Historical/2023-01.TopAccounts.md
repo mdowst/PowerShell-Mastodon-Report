@@ -1,5 +1,5 @@
 # Top Users for January 2023
-Last Updated: 01/01/2023 06:28:04 UTC
+Last Updated: 01/01/2023 07:20:35 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [dHeinemann](https://fosstodon.org/@dHeinemann) | Dave Heinemann 🇦🇺 :dotnet: | fosstodon.org | 1 |
