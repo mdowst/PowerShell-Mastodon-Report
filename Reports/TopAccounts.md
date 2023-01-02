@@ -1,5 +1,5 @@
 # Top Users for January 2023
-Last Updated: 01/01/2023 23:23:37 UTC
+Last Updated: 01/02/2023 01:45:41 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [lukemurray](https://aus.social/@lukemurray) | Luke Murray | aus.social | 1 |
@@ -10,4 +10,5 @@ Last Updated: 01/01/2023 23:23:37 UTC
 | [fabian_bader](https://infosec.exchange/@fabian_bader) | Fabian Bader | infosec.exchange | 1 |
 | [oldschool](https://infosec.exchange/@oldschool) | oldschool | infosec.exchange | 1 |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 1 |
+| [AndrewPlaTech](https://techhub.social/@AndrewPlaTech) | AndrewPlaTech | techhub.social | 1 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 1 |
