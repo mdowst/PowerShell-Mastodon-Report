@@ -1,7 +1,8 @@
 # Top Users for January 2023
-Last Updated: 01/02/2023 13:28:35 UTC
+Last Updated: 01/02/2023 14:22:04 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
+| [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 2 |
 | [lukemurray](https://aus.social/@lukemurray) | Luke Murray | aus.social | 1 |
 | [dHeinemann](https://fosstodon.org/@dHeinemann) | Dave Heinemann 🇦🇺 :dotnet: | fosstodon.org | 1 |
 | [heaths](https://fosstodon.org/@heaths) | Heath Stewart | fosstodon.org | 1 |
@@ -12,4 +13,3 @@ Last Updated: 01/02/2023 13:28:35 UTC
 | [oldschool](https://infosec.exchange/@oldschool) | oldschool | infosec.exchange | 1 |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 1 |
 | [AndrewPlaTech](https://techhub.social/@AndrewPlaTech) | AndrewPlaTech | techhub.social | 1 |
-| [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 1 |
