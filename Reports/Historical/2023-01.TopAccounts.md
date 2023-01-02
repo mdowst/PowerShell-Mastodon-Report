@@ -1,5 +1,5 @@
 # Top Users for January 2023
-Last Updated: 01/02/2023 15:24:50 UTC
+Last Updated: 01/02/2023 16:32:02 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 2 |
