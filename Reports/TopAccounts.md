@@ -1,5 +1,5 @@
 # Top Users for January 2023
-Last Updated: 01/03/2023 17:23:16 UTC
+Last Updated: 01/03/2023 18:27:29 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 3 |
@@ -13,6 +13,7 @@ Last Updated: 01/03/2023 17:23:16 UTC
 | [carpenoctemdev](https://mastodon.sdf.org/@carpenoctemdev) | Tosh N | mastodon.sdf.org | 1 |
 | [mortensummer](https://masto.ai/@mortensummer) | Tom | masto.ai | 1 |
 | [chrisbradshaw](https://mas.to/@chrisbradshaw) | Chris Bradshaw | mas.to | 1 |
+| [oldschool](https://infosec.exchange/@oldschool) | oldschool | infosec.exchange | 1 |
 | [fabian_bader](https://infosec.exchange/@fabian_bader) | Fabian Bader | infosec.exchange | 1 |
 | [dwmetz](https://infosec.exchange/@dwmetz) | Doug Metz :donor: | infosec.exchange | 1 |
 | [JordanOrdix](https://home.social/@JordanOrdix) | Andreas Jordan (ORDIX AG) | home.social | 1 |
@@ -21,5 +22,5 @@ Last Updated: 01/03/2023 17:23:16 UTC
 | [falkheiland](https://fosstodon.org/@falkheiland) | Falk Heiland 🇺🇦 | fosstodon.org | 1 |
 | [dHeinemann](https://fosstodon.org/@dHeinemann) | Dave Heinemann 🇦🇺 :dotnet: | fosstodon.org | 1 |
 | [tyno](https://bne.social/@tyno) | Tyno | bne.social | 1 |
-| [oldschool](https://infosec.exchange/@oldschool) | oldschool | infosec.exchange | 1 |
+| [jrdepriest](https://infosec.exchange/@jrdepriest) | Jasey DePriest (she / her) :donor: | infosec.exchange | 1 |
 | [lukemurray](https://aus.social/@lukemurray) | Luke Murray | aus.social | 1 |
