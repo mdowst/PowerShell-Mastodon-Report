@@ -1,5 +1,5 @@
 # Top Users for January 2023
-Last Updated: 01/04/2023 12:43:44 UTC
+Last Updated: 01/04/2023 13:29:22 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 4 |
