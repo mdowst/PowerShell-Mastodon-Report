@@ -1,5 +1,5 @@
 # Top Users for January 2023
-Last Updated: 01/07/2023 23:22:44 UTC
+Last Updated: 01/08/2023 01:54:20 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | James Brundage | fosstodon.org | 11 |
@@ -15,15 +15,15 @@ Last Updated: 01/07/2023 23:22:44 UTC
 | [Jpomfret](https://tech.lgbt/@Jpomfret) | Jess Pomfret :verified_gay: | tech.lgbt | 2 |
 | [recordedparadox](https://infosec.exchange/@recordedparadox) | Recorded Paradox | infosec.exchange | 2 |
 | [ChrisWarwick](https://mas.to/@ChrisWarwick) | Chris Warwick | mas.to | 2 |
+| [geekland](https://mastodon.social/@geekland) | Geekland | mastodon.social | 2 |
 | [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 2 |
 | [chrisbradshaw](https://mas.to/@chrisbradshaw) | Chris Bradshaw | mas.to | 1 |
-| [mortensummer](https://masto.ai/@mortensummer) | Tom | masto.ai | 1 |
 | [lukemurray](https://aus.social/@lukemurray) | Luke Murray | aus.social | 1 |
-| [geekland](https://mastodon.social/@geekland) | Geekland | mastodon.social | 1 |
+| [carpenoctemdev](https://mastodon.sdf.org/@carpenoctemdev) | Tosh N | mastodon.sdf.org | 1 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 1 |
 | [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 1 |
 | [tinuwalther](https://techhub.social/@tinuwalther) | Tinu 🇨🇭 | techhub.social | 1 |
-| [carpenoctemdev](https://mastodon.sdf.org/@carpenoctemdev) | Tosh N | mastodon.sdf.org | 1 |
+| [mortensummer](https://masto.ai/@mortensummer) | Tom | masto.ai | 1 |
 | [wryanfisher](https://infosec.exchange/@wryanfisher) | Ryan Fisher | infosec.exchange | 1 |
 | [ramirocld](https://infosec.exchange/@ramirocld) | Ramiro Calderon | infosec.exchange | 1 |
 | [r1cksec](https://infosec.exchange/@r1cksec) | r1cksec | infosec.exchange | 1 |
