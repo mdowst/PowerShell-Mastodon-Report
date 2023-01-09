@@ -1,5 +1,5 @@
 # Top Users for January 2023
-Last Updated: 01/09/2023 22:25:04 UTC
+Last Updated: 01/09/2023 23:24:42 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 11 |
@@ -7,10 +7,10 @@ Last Updated: 01/09/2023 22:25:04 UTC
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 6 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 6 |
 | [JordanOrdix](https://home.social/@JordanOrdix) | Andreas Jordan (ORDIX AG) | home.social | 5 |
+| [asoftman](https://vmst.io/@asoftman) | Bill Powell | vmst.io | 3 |
 | [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 3 |
 | [geekland](https://mastodon.social/@geekland) | Geekland | mastodon.social | 3 |
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 3 |
-| [asoftman](https://vmst.io/@asoftman) | Bill Powell | vmst.io | 2 |
 | [ChrisWarwick](https://mas.to/@ChrisWarwick) | Chris Warwick | mas.to | 2 |
 | [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 2 |
 | [recordedparadox](https://infosec.exchange/@recordedparadox) | Recorded Paradox | infosec.exchange | 2 |
