@@ -1,5 +1,5 @@
 # Top Users for January 2023
-Last Updated: 01/09/2023 13:31:11 UTC
+Last Updated: 01/09/2023 14:28:08 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | James Brundage | fosstodon.org | 11 |
