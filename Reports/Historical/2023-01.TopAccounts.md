@@ -1,5 +1,5 @@
 # Top Users for January 2023
-Last Updated: 01/11/2023 01:50:31 UTC
+Last Updated: 01/11/2023 02:48:19 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 11 |
@@ -14,11 +14,12 @@ Last Updated: 01/11/2023 01:50:31 UTC
 | [geekland](https://mastodon.social/@geekland) | Geekland | mastodon.social | 3 |
 | [ChrisWarwick](https://mas.to/@ChrisWarwick) | Chris Warwick | mas.to | 2 |
 | [recordedparadox](https://infosec.exchange/@recordedparadox) | Recorded Paradox | infosec.exchange | 2 |
-| [rodtrent](https://infosec.exchange/@rodtrent) | rodtrent :verified: | infosec.exchange | 2 |
+| [lukemurray](https://aus.social/@lukemurray) | Luke Murray | aus.social | 2 |
 | [Jpomfret](https://tech.lgbt/@Jpomfret) | Jess Pomfret :verified_gay: | tech.lgbt | 2 |
 | [AndrewPlaTech](https://techhub.social/@AndrewPlaTech) | AndrewPlaTech | techhub.social | 2 |
 | [poshlandPRO](https://techhub.social/@poshlandPRO) | Damian Garbus | techhub.social | 2 |
 | [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 2 |
+| [rodtrent](https://infosec.exchange/@rodtrent) | rodtrent :verified: | infosec.exchange | 2 |
 | [gioxx](https://mastodon.uno/@gioxx) | Gioxx | mastodon.uno | 1 |
 | [cl](https://tech.lgbt/@cl) | Chrissy LeMaire :thonkpad: | tech.lgbt | 1 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 1 |
@@ -30,7 +31,6 @@ Last Updated: 01/11/2023 01:50:31 UTC
 | [wryanfisher](https://infosec.exchange/@wryanfisher) | Ryan Fisher | infosec.exchange | 1 |
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 1 |
 | [tinuwalther](https://techhub.social/@tinuwalther) | Tinu 🇨🇭 | techhub.social | 1 |
-| [lukemurray](https://aus.social/@lukemurray) | Luke Murray | aus.social | 1 |
 | [ramirocld](https://infosec.exchange/@ramirocld) | Ramiro Calderon | infosec.exchange | 1 |
 | [oldschool](https://infosec.exchange/@oldschool) | oldschool | infosec.exchange | 1 |
 | [tyno](https://bne.social/@tyno) | Tyno | bne.social | 1 |
