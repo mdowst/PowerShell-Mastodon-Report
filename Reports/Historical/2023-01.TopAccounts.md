@@ -1,17 +1,17 @@
 # Top Users for January 2023
-Last Updated: 01/11/2023 17:29:21 UTC
+Last Updated: 01/11/2023 18:33:04 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
-| [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 11 |
+| [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 13 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | James Brundage | fosstodon.org | 11 |
 | [JordanOrdix](https://home.social/@JordanOrdix) | Andreas Jordan (ORDIX AG) | home.social | 7 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 6 |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 6 |
+| [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 4 |
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 4 |
 | [asoftman](https://vmst.io/@asoftman) | Bill Powell | vmst.io | 3 |
 | [poshlandPRO](https://techhub.social/@poshlandPRO) | Damian Garbus | techhub.social | 3 |
 | [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 3 |
-| [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 3 |
 | [geekland](https://mastodon.social/@geekland) | Geekland | mastodon.social | 3 |
 | [ChrisWarwick](https://mas.to/@ChrisWarwick) | Chris Warwick | mas.to | 2 |
 | [recordedparadox](https://infosec.exchange/@recordedparadox) | Recorded Paradox | infosec.exchange | 2 |
