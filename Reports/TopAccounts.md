@@ -1,5 +1,5 @@
 # Top Users for January 2023
-Last Updated: 01/12/2023 02:48:01 UTC
+Last Updated: 01/12/2023 03:26:21 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 14 |
@@ -7,7 +7,7 @@ Last Updated: 01/12/2023 02:48:01 UTC
 | [JordanOrdix](https://home.social/@JordanOrdix) | Andreas Jordan (ORDIX AG) | home.social | 7 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 7 |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 6 |
-| [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 4 |
+| [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 5 |
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 4 |
 | [geekland](https://mastodon.social/@geekland) | Geekland | mastodon.social | 3 |
 | [asoftman](https://vmst.io/@asoftman) | Bill Powell | vmst.io | 3 |
