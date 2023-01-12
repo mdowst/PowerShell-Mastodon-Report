@@ -1,5 +1,5 @@
 # Top Users for January 2023
-Last Updated: 01/11/2023 23:24:33 UTC
+Last Updated: 01/12/2023 01:50:43 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 14 |
@@ -20,6 +20,7 @@ Last Updated: 01/11/2023 23:24:33 UTC
 | [rodtrent](https://infosec.exchange/@rodtrent) | rodtrent :verified: | infosec.exchange | 2 |
 | [lukemurray](https://aus.social/@lukemurray) | Luke Murray | aus.social | 2 |
 | [recordedparadox](https://infosec.exchange/@recordedparadox) | Recorded Paradox | infosec.exchange | 2 |
+| [MossyDev](https://hachyderm.io/@MossyDev) | Dustin | hachyderm.io | 2 |
 | [dwmetz](https://infosec.exchange/@dwmetz) | Doug Metz :donor: | infosec.exchange | 1 |
 | [johlju](https://hachyderm.io/@johlju) | Johan Ljunggren | hachyderm.io | 1 |
 | [dela](https://hachyderm.io/@dela) | Dela 🏳️‍🌈 | hachyderm.io | 1 |
@@ -29,17 +30,16 @@ Last Updated: 01/11/2023 23:24:33 UTC
 | [thedavecarroll](https://fosstodon.org/@thedavecarroll) | Dave Carroll | fosstodon.org | 1 |
 | [HeyItsGilbert](https://fosstodon.org/@HeyItsGilbert) | Gilbert Sanchez :omya_windows: | fosstodon.org | 1 |
 | [cl](https://tech.lgbt/@cl) | Chrissy LeMaire :thonkpad: | tech.lgbt | 1 |
-| [heaths](https://fosstodon.org/@heaths) | Heath Stewart | fosstodon.org | 1 |
 | [falkheiland](https://fosstodon.org/@falkheiland) | Falk Heiland 🇺🇦 | fosstodon.org | 1 |
 | [dHeinemann](https://fosstodon.org/@dHeinemann) | Dave Heinemann 🇦🇺 :dotnet: | fosstodon.org | 1 |
 | [osiris687](https://dataplatform.social/@osiris687) | Frank Henninger | dataplatform.social | 1 |
 | [tyno](https://bne.social/@tyno) | Tyno | bne.social | 1 |
 | [sstranger](https://techhub.social/@sstranger) | Stefan Stranger | techhub.social | 1 |
 | [tinuwalther](https://techhub.social/@tinuwalther) | Tinu 🇨🇭 | techhub.social | 1 |
+| [heaths](https://fosstodon.org/@heaths) | Heath Stewart | fosstodon.org | 1 |
 | [carpenoctemdev](https://mastodon.sdf.org/@carpenoctemdev) | Tosh N | mastodon.sdf.org | 1 |
-| [Audran](https://infosec.exchange/@Audran) | Audran | infosec.exchange | 1 |
 | [bjompen](https://mastodon.nu/@bjompen) | Bjompen | mastodon.nu | 1 |
-| [MossyDev](https://hachyderm.io/@MossyDev) | Dustin | hachyderm.io | 1 |
+| [mortensummer](https://masto.ai/@mortensummer) | Tom | masto.ai | 1 |
 | [fabian_bader](https://infosec.exchange/@fabian_bader) | Fabian Bader | infosec.exchange | 1 |
 | [frightware](https://infosec.exchange/@frightware) | 👻 frightware 👻 | infosec.exchange | 1 |
 | [JasonFossen](https://infosec.exchange/@JasonFossen) | Jason Fossen SANS | infosec.exchange | 1 |
@@ -55,5 +55,5 @@ Last Updated: 01/11/2023 23:24:33 UTC
 | [chrisbradshaw](https://mas.to/@chrisbradshaw) | Chris Bradshaw | mas.to | 1 |
 | [MrPowerShell](https://hachyderm.io/@MrPowerShell) | MrPowerShell | hachyderm.io | 1 |
 | [dalehirt](https://mas.to/@dalehirt) | Dale HIrt | mas.to | 1 |
-| [mortensummer](https://masto.ai/@mortensummer) | Tom | masto.ai | 1 |
+| [Audran](https://infosec.exchange/@Audran) | Audran | infosec.exchange | 1 |
 | [bflipp](https://vmst.io/@bflipp) | Brett Flippin | vmst.io | 1 |
