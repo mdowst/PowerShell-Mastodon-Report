@@ -1,5 +1,5 @@
 # Top Users for January 2023
-Last Updated: 01/13/2023 16:38:14 UTC
+Last Updated: 01/13/2023 17:23:42 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 15 |
@@ -24,10 +24,10 @@ Last Updated: 01/13/2023 16:38:14 UTC
 | [recordedparadox](https://infosec.exchange/@recordedparadox) | Recorded Paradox | infosec.exchange | 2 |
 | [rodtrent](https://infosec.exchange/@rodtrent) | rodtrent :verified: | infosec.exchange | 2 |
 | [MossyDev](https://hachyderm.io/@MossyDev) | Dustin | hachyderm.io | 2 |
+| [thedavecarroll](https://fosstodon.org/@thedavecarroll) | Dave Carroll | fosstodon.org | 2 |
 | [johlju](https://hachyderm.io/@johlju) | Johan Ljunggren | hachyderm.io | 1 |
 | [walid](https://mastodon.social/@walid) | Walid Damouny | mastodon.social | 1 |
 | [dela](https://hachyderm.io/@dela) | Dela 🏳️‍🌈 | hachyderm.io | 1 |
-| [thedavecarroll](https://fosstodon.org/@thedavecarroll) | Dave Carroll | fosstodon.org | 1 |
 | [HeyItsGilbert](https://fosstodon.org/@HeyItsGilbert) | Gilbert Sanchez :omya_windows: | fosstodon.org | 1 |
 | [duesiblog](https://social.tchncs.de/@duesiblog) | Matthias | social.tchncs.de | 1 |
 | [jesterchen](https://social.tchncs.de/@jesterchen) | jesterchen42 | social.tchncs.de | 1 |
