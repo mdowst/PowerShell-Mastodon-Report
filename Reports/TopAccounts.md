@@ -1,9 +1,9 @@
 # Top Users for January 2023
-Last Updated: 01/13/2023 22:24:28 UTC
+Last Updated: 01/13/2023 23:23:52 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 15 |
-| [MrPowerShell](https://fosstodon.org/@MrPowerShell) | James Brundage | fosstodon.org | 14 |
+| [MrPowerShell](https://fosstodon.org/@MrPowerShell) | James Brundage | fosstodon.org | 15 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 8 |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 8 |
 | [JordanOrdix](https://home.social/@JordanOrdix) | Andreas Jordan (ORDIX AG) | home.social | 8 |
@@ -24,23 +24,24 @@ Last Updated: 01/13/2023 22:24:28 UTC
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 2 |
 | [recordedparadox](https://infosec.exchange/@recordedparadox) | Recorded Paradox | infosec.exchange | 2 |
 | [rodtrent](https://infosec.exchange/@rodtrent) | rodtrent :verified: | infosec.exchange | 2 |
-| [dwmetz](https://infosec.exchange/@dwmetz) | Doug Metz :donor: | infosec.exchange | 2 |
 | [thedavecarroll](https://fosstodon.org/@thedavecarroll) | Dave Carroll | fosstodon.org | 2 |
+| [dwmetz](https://infosec.exchange/@dwmetz) | Doug Metz :donor: | infosec.exchange | 2 |
 | [MossyDev](https://hachyderm.io/@MossyDev) | Dustin | hachyderm.io | 2 |
+| [jrdepriest](https://infosec.exchange/@jrdepriest) | Jasey DePriest (she / her) :donor: | infosec.exchange | 1 |
 | [walid](https://mastodon.social/@walid) | Walid Damouny | mastodon.social | 1 |
 | [johlju](https://hachyderm.io/@johlju) | Johan Ljunggren | hachyderm.io | 1 |
 | [dela](https://hachyderm.io/@dela) | Dela 🏳️‍🌈 | hachyderm.io | 1 |
 | [duesiblog](https://social.tchncs.de/@duesiblog) | Matthias | social.tchncs.de | 1 |
 | [jesterchen](https://social.tchncs.de/@jesterchen) | jesterchen42 | social.tchncs.de | 1 |
 | [cl](https://tech.lgbt/@cl) | Chrissy LeMaire :thonkpad: | tech.lgbt | 1 |
-| [jrdepriest](https://infosec.exchange/@jrdepriest) | Jasey DePriest (she / her) :donor: | infosec.exchange | 1 |
-| [heaths](https://fosstodon.org/@heaths) | Heath Stewart | fosstodon.org | 1 |
+| [HeyItsGilbert](https://fosstodon.org/@HeyItsGilbert) | Gilbert Sanchez :omya_windows: | fosstodon.org | 1 |
 | [falkheiland](https://fosstodon.org/@falkheiland) | Falk Heiland 🇺🇦 | fosstodon.org | 1 |
 | [dHeinemann](https://fosstodon.org/@dHeinemann) | Dave Heinemann 🇦🇺 :dotnet: | fosstodon.org | 1 |
+| [jeroen1511](https://techhub.social/@jeroen1511) | Jeroen Mulder | techhub.social | 1 |
 | [osiris687](https://dataplatform.social/@osiris687) | Frank Henninger | dataplatform.social | 1 |
 | [tyno](https://bne.social/@tyno) | Tyno | bne.social | 1 |
 | [tinuwalther](https://techhub.social/@tinuwalther) | Tinu 🇨🇭 | techhub.social | 1 |
-| [HeyItsGilbert](https://fosstodon.org/@HeyItsGilbert) | Gilbert Sanchez :omya_windows: | fosstodon.org | 1 |
+| [heaths](https://fosstodon.org/@heaths) | Heath Stewart | fosstodon.org | 1 |
 | [martinvanaken](https://mastodon.social/@martinvanaken) | Martin | mastodon.social | 1 |
 | [MrPowerShell](https://hachyderm.io/@MrPowerShell) | MrPowerShell | hachyderm.io | 1 |
 | [xeo](https://home.social/@xeo) | Chief Posh ☑ | home.social | 1 |
