@@ -1,5 +1,5 @@
 # Top Users for January 2023
-Last Updated: 01/14/2023 18:26:49 UTC
+Last Updated: 01/14/2023 19:18:20 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | James Brundage | fosstodon.org | 17 |
@@ -11,11 +11,11 @@ Last Updated: 01/14/2023 18:26:49 UTC
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 4 |
 | [poshlandPRO](https://techhub.social/@poshlandPRO) | Damian Garbus | techhub.social | 3 |
 | [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 3 |
+| [bjompen](https://mastodon.nu/@bjompen) | Bjompen | mastodon.nu | 3 |
 | [asoftman](https://vmst.io/@asoftman) | Bill Powell | vmst.io | 3 |
 | [geekland](https://mastodon.social/@geekland) | Geekland | mastodon.social | 3 |
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 2 |
 | [ChrisWarwick](https://mas.to/@ChrisWarwick) | Chris Warwick | mas.to | 2 |
-| [bjompen](https://mastodon.nu/@bjompen) | Bjompen | mastodon.nu | 2 |
 | [lukemurray](https://aus.social/@lukemurray) | Luke Murray | aus.social | 2 |
 | [gioxx](https://mastodon.uno/@gioxx) | Gioxx | mastodon.uno | 2 |
 | [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 2 |

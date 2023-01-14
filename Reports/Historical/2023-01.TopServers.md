@@ -1,5 +1,5 @@
 # Top Servers for January 2023
-Last Updated: 01/14/2023 18:26:49 UTC
+Last Updated: 01/14/2023 19:18:19 UTC
 | Server | Posts | Active Users |
 | -- | -- | -- |
 | [techhub.social](https://techhub.social/tags/PowerShell) | 32 | 7 |
@@ -10,14 +10,14 @@ Last Updated: 01/14/2023 18:26:49 UTC
 | [masto.ai](https://masto.ai/tags/PowerShell) | 9 | 2 |
 | [hachyderm.io](https://hachyderm.io/tags/PowerShell) | 5 | 4 |
 | [vmst.io](https://vmst.io/tags/PowerShell) | 4 | 2 |
-| [mas.to](https://mas.to/tags/PowerShell) | 4 | 3 |
 | [mastodonapp.uk](https://mastodonapp.uk/tags/PowerShell) | 4 | 1 |
+| [mas.to](https://mas.to/tags/PowerShell) | 4 | 3 |
 | [tech.lgbt](https://tech.lgbt/tags/PowerShell) | 3 | 2 |
-| [social.tchncs.de](https://social.tchncs.de/tags/PowerShell) | 2 | 2 |
-| [mstdn.social](https://mstdn.social/tags/PowerShell) | 2 | 1 |
-| [mastodon.nu](https://mastodon.nu/tags/PowerShell) | 2 | 1 |
+| [mastodon.nu](https://mastodon.nu/tags/PowerShell) | 3 | 1 |
 | [mastodon.uno](https://mastodon.uno/tags/PowerShell) | 2 | 1 |
+| [mstdn.social](https://mstdn.social/tags/PowerShell) | 2 | 1 |
+| [social.tchncs.de](https://social.tchncs.de/tags/PowerShell) | 2 | 2 |
 | [aus.social](https://aus.social/tags/PowerShell) | 2 | 1 |
-| [mastodon.sdf.org](https://mastodon.sdf.org/tags/PowerShell) | 1 | 1 |
 | [dataplatform.social](https://dataplatform.social/tags/PowerShell) | 1 | 1 |
 | [bne.social](https://bne.social/tags/PowerShell) | 1 | 1 |
+| [mastodon.sdf.org](https://mastodon.sdf.org/tags/PowerShell) | 1 | 1 |
