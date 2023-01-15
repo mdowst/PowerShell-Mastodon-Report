@@ -1,5 +1,5 @@
 # Top Users for January 2023
-Last Updated: 01/15/2023 20:23:35 UTC
+Last Updated: 01/15/2023 21:20:31 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | James Brundage | fosstodon.org | 17 |
@@ -11,12 +11,12 @@ Last Updated: 01/15/2023 20:23:35 UTC
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 4 |
 | [bjompen](https://mastodon.nu/@bjompen) | Bjompen | mastodon.nu | 3 |
 | [geekland](https://mastodon.social/@geekland) | Geekland | mastodon.social | 3 |
+| [rodtrent](https://infosec.exchange/@rodtrent) | rodtrent :verified: | infosec.exchange | 3 |
 | [recordedparadox](https://infosec.exchange/@recordedparadox) | Recorded Paradox | infosec.exchange | 3 |
 | [poshlandPRO](https://techhub.social/@poshlandPRO) | Damian Garbus | techhub.social | 3 |
 | [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 3 |
 | [asoftman](https://vmst.io/@asoftman) | Bill Powell | vmst.io | 3 |
 | [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 2 |
-| [rodtrent](https://infosec.exchange/@rodtrent) | rodtrent :verified: | infosec.exchange | 2 |
 | [gioxx](https://mastodon.uno/@gioxx) | Gioxx | mastodon.uno | 2 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 2 |
 | [Jpomfret](https://tech.lgbt/@Jpomfret) | Jess Pomfret :verified_gay: | tech.lgbt | 2 |
