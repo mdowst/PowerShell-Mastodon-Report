@@ -1,5 +1,5 @@
 # Top Users for January 2023
-Last Updated: 01/15/2023 21:20:31 UTC
+Last Updated: 01/15/2023 22:23:26 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | James Brundage | fosstodon.org | 17 |
@@ -21,8 +21,8 @@ Last Updated: 01/15/2023 21:20:31 UTC
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 2 |
 | [Jpomfret](https://tech.lgbt/@Jpomfret) | Jess Pomfret :verified_gay: | tech.lgbt | 2 |
 | [AndrewPlaTech](https://techhub.social/@AndrewPlaTech) | AndrewPlaTech | techhub.social | 2 |
-| [sstranger](https://techhub.social/@sstranger) | Stefan Stranger | techhub.social | 2 |
 | [mortensummer](https://masto.ai/@mortensummer) | Tom | masto.ai | 2 |
+| [sstranger](https://techhub.social/@sstranger) | Stefan Stranger | techhub.social | 2 |
 | [tinuwalther](https://techhub.social/@tinuwalther) | Tinu 🇨🇭 | techhub.social | 2 |
 | [ChrisWarwick](https://mas.to/@ChrisWarwick) | Chris Warwick | mas.to | 2 |
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 2 |
@@ -31,6 +31,7 @@ Last Updated: 01/15/2023 21:20:31 UTC
 | [wg](https://hachyderm.io/@wg) | W.Gross | hachyderm.io | 2 |
 | [thedavecarroll](https://fosstodon.org/@thedavecarroll) | Dave Carroll | fosstodon.org | 2 |
 | [dwmetz](https://infosec.exchange/@dwmetz) | Doug Metz :donor: | infosec.exchange | 2 |
+| [johlju](https://hachyderm.io/@johlju) | Johan Ljunggren | hachyderm.io | 1 |
 | [rpardee](https://mastodon.social/@rpardee) | Roy #BLM Pardee  🇺🇸 | mastodon.social | 1 |
 | [walid](https://mastodon.social/@walid) | Walid Damouny | mastodon.social | 1 |
 | [dela](https://hachyderm.io/@dela) | Dela 🏳️‍🌈 | hachyderm.io | 1 |
@@ -46,10 +47,11 @@ Last Updated: 01/15/2023 21:20:31 UTC
 | [dHeinemann](https://fosstodon.org/@dHeinemann) | Dave Heinemann 🇦🇺 :dotnet: | fosstodon.org | 1 |
 | [osiris687](https://dataplatform.social/@osiris687) | Frank Henninger | dataplatform.social | 1 |
 | [tyno](https://bne.social/@tyno) | Tyno | bne.social | 1 |
-| [johlju](https://hachyderm.io/@johlju) | Johan Ljunggren | hachyderm.io | 1 |
 | [martinvanaken](https://mastodon.social/@martinvanaken) | Martin | mastodon.social | 1 |
-| [jrdepriest](https://infosec.exchange/@jrdepriest) | Jasey DePriest (she / her) :donor: | infosec.exchange | 1 |
+| [JasonFossen](https://infosec.exchange/@JasonFossen) | Jason Fossen SANS | infosec.exchange | 1 |
 | [MrPowerShell](https://hachyderm.io/@MrPowerShell) | MrPowerShell | hachyderm.io | 1 |
+| [carpenoctemdev](https://mastodon.sdf.org/@carpenoctemdev) | Tosh N | mastodon.sdf.org | 1 |
+| [jrdepriest](https://infosec.exchange/@jrdepriest) | Jasey DePriest (she / her) :donor: | infosec.exchange | 1 |
 | [luzkenin](https://infosec.exchange/@luzkenin) | Joe 🏔️ | infosec.exchange | 1 |
 | [misc](https://infosec.exchange/@misc) | Michael Schneider | infosec.exchange | 1 |
 | [oldschool](https://infosec.exchange/@oldschool) | oldschool | infosec.exchange | 1 |
@@ -57,14 +59,13 @@ Last Updated: 01/15/2023 21:20:31 UTC
 | [r1cksec](https://infosec.exchange/@r1cksec) | r1cksec | infosec.exchange | 1 |
 | [ramirocld](https://infosec.exchange/@ramirocld) | Ramiro Calderon | infosec.exchange | 1 |
 | [frightware](https://infosec.exchange/@frightware) | 👻 frightware 👻 | infosec.exchange | 1 |
-| [JasonFossen](https://infosec.exchange/@JasonFossen) | Jason Fossen SANS | infosec.exchange | 1 |
 | [fabian_bader](https://infosec.exchange/@fabian_bader) | Fabian Bader | infosec.exchange | 1 |
+| [tildalwave](https://infosec.exchange/@tildalwave) | TildalWave :toot: | infosec.exchange | 1 |
 | [wryanfisher](https://infosec.exchange/@wryanfisher) | Ryan Fisher | infosec.exchange | 1 |
 | [chrisbradshaw](https://mas.to/@chrisbradshaw) | Chris Bradshaw | mas.to | 1 |
-| [Audran](https://infosec.exchange/@Audran) | Audran | infosec.exchange | 1 |
-| [dalehirt](https://mas.to/@dalehirt) | Dale HIrt | mas.to | 1 |
 | [0x58](https://infosec.exchange/@0x58) | Xavier «X» Santolaria :verified_paw: :donor: | infosec.exchange | 1 |
+| [dalehirt](https://mas.to/@dalehirt) | Dale HIrt | mas.to | 1 |
 | [xeo](https://home.social/@xeo) | Chief Posh ☑ | home.social | 1 |
-| [carpenoctemdev](https://mastodon.sdf.org/@carpenoctemdev) | Tosh N | mastodon.sdf.org | 1 |
-| [tildalwave](https://infosec.exchange/@tildalwave) | TildalWave :toot: | infosec.exchange | 1 |
+| [robdevoer](https://hachyderm.io/@robdevoer) | Rob de Voer | hachyderm.io | 1 |
+| [Audran](https://infosec.exchange/@Audran) | Audran | infosec.exchange | 1 |
 | [bflipp](https://vmst.io/@bflipp) | Brett Flippin | vmst.io | 1 |
