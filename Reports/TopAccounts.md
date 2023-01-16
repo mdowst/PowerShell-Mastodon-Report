@@ -1,12 +1,12 @@
 # Top Users for January 2023
-Last Updated: 01/16/2023 11:20:44 UTC
+Last Updated: 01/16/2023 12:47:05 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | James Brundage | fosstodon.org | 18 |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 15 |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 9 |
+| [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 9 |
 | [JordanOrdix](https://home.social/@JordanOrdix) | Andreas Jordan (ORDIX AG) | home.social | 8 |
-| [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 8 |
 | [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 5 |
 | [geekland](https://mastodon.social/@geekland) | Geekland | mastodon.social | 5 |
 | [recordedparadox](https://infosec.exchange/@recordedparadox) | Recorded Paradox | infosec.exchange | 4 |
