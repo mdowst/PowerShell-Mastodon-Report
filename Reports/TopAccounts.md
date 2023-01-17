@@ -1,10 +1,10 @@
 # Top Users for January 2023
-Last Updated: 01/17/2023 14:23:24 UTC
+Last Updated: 01/17/2023 15:25:03 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | James Brundage | fosstodon.org | 18 |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 17 |
-| [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 9 |
+| [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 10 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 9 |
 | [JordanOrdix](https://home.social/@JordanOrdix) | Andreas Jordan (ORDIX AG) | home.social | 8 |
 | [geekland](https://mastodon.social/@geekland) | Geekland | mastodon.social | 5 |
@@ -33,13 +33,14 @@ Last Updated: 01/17/2023 14:23:24 UTC
 | [cl](https://tech.lgbt/@cl) | Chrissy LeMaire :thonkpad: | tech.lgbt | 2 |
 | [Jpomfret](https://tech.lgbt/@Jpomfret) | Jess Pomfret :verified_gay: | tech.lgbt | 2 |
 | [MossyDev](https://hachyderm.io/@MossyDev) | Dustin | hachyderm.io | 2 |
+| [jesterchen](https://social.tchncs.de/@jesterchen) | jesterchen42 | social.tchncs.de | 1 |
 | [dalehirt](https://mas.to/@dalehirt) | Dale HIrt | mas.to | 1 |
 | [carpenoctemdev](https://mastodon.sdf.org/@carpenoctemdev) | Tosh N | mastodon.sdf.org | 1 |
-| [jesterchen](https://social.tchncs.de/@jesterchen) | jesterchen42 | social.tchncs.de | 1 |
 | [nroach44](https://mastodon.social/@nroach44) | NRoach44 | mastodon.social | 1 |
+| [rpardee](https://mastodon.social/@rpardee) | Roy #BLM Pardee  🇺🇸 | mastodon.social | 1 |
 | [duesiblog](https://social.tchncs.de/@duesiblog) | Matthias | social.tchncs.de | 1 |
 | [jeroen1511](https://techhub.social/@jeroen1511) | Jeroen Mulder | techhub.social | 1 |
-| [rpardee](https://mastodon.social/@rpardee) | Roy #BLM Pardee  🇺🇸 | mastodon.social | 1 |
+| [upyesp](https://mastodon.social/@upyesp) | upyesp | mastodon.social | 1 |
 | [walid](https://mastodon.social/@walid) | Walid Damouny | mastodon.social | 1 |
 | [martinvanaken](https://mastodon.social/@martinvanaken) | Martin | mastodon.social | 1 |
 | [TechNews](https://aspiechattr.me/@TechNews) | Tech News Worldwide | aspiechattr.me | 1 |
