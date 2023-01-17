@@ -1,5 +1,5 @@
 # Top Users for January 2023
-Last Updated: 01/17/2023 09:23:44 UTC
+Last Updated: 01/17/2023 10:27:18 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | James Brundage | fosstodon.org | 18 |
@@ -30,9 +30,9 @@ Last Updated: 01/17/2023 09:23:44 UTC
 | [HeyItsGilbert](https://fosstodon.org/@HeyItsGilbert) | Gilbert Sanchez :omya_windows: | fosstodon.org | 2 |
 | [AndrewPlaTech](https://techhub.social/@AndrewPlaTech) | AndrewPlaTech | techhub.social | 2 |
 | [thedavecarroll](https://fosstodon.org/@thedavecarroll) | Dave Carroll | fosstodon.org | 2 |
+| [cl](https://tech.lgbt/@cl) | Chrissy LeMaire :thonkpad: | tech.lgbt | 2 |
 | [Jpomfret](https://tech.lgbt/@Jpomfret) | Jess Pomfret :verified_gay: | tech.lgbt | 2 |
 | [MossyDev](https://hachyderm.io/@MossyDev) | Dustin | hachyderm.io | 2 |
-| [cl](https://tech.lgbt/@cl) | Chrissy LeMaire :thonkpad: | tech.lgbt | 1 |
 | [dalehirt](https://mas.to/@dalehirt) | Dale HIrt | mas.to | 1 |
 | [carpenoctemdev](https://mastodon.sdf.org/@carpenoctemdev) | Tosh N | mastodon.sdf.org | 1 |
 | [jesterchen](https://social.tchncs.de/@jesterchen) | jesterchen42 | social.tchncs.de | 1 |
