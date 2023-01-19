@@ -1,8 +1,8 @@
 # Top Servers for January 2023
-Last Updated: 01/19/2023 01:53:52 UTC
+Last Updated: 01/19/2023 02:52:58 UTC
 | Server | Posts | Active Users |
 | -- | -- | -- |
-| [techhub.social](https://techhub.social/tags/PowerShell) | 38 | 7 |
+| [techhub.social](https://techhub.social/tags/PowerShell) | 39 | 8 |
 | [fosstodon.org](https://fosstodon.org/tags/PowerShell) | 32 | 9 |
 | [infosec.exchange](https://infosec.exchange/tags/PowerShell) | 26 | 18 |
 | [mastodon.social](https://mastodon.social/tags/PowerShell) | 21 | 8 |
