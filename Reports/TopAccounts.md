@@ -1,5 +1,5 @@
 # Top Users for January 2023
-Last Updated: 01/21/2023 02:44:42 UTC
+Last Updated: 01/21/2023 03:25:15 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 21 |
@@ -13,10 +13,10 @@ Last Updated: 01/21/2023 02:44:42 UTC
 | [recordedparadox](https://infosec.exchange/@recordedparadox) | Recorded Paradox | infosec.exchange | 4 |
 | [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 4 |
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 4 |
+| [dwmetz](https://infosec.exchange/@dwmetz) | Doug Metz :donor: | infosec.exchange | 4 |
 | [poshlandPRO](https://techhub.social/@poshlandPRO) | Damian Garbus | techhub.social | 3 |
 | [asoftman](https://vmst.io/@asoftman) | Bill Powell | vmst.io | 3 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 3 |
-| [dwmetz](https://infosec.exchange/@dwmetz) | Doug Metz :donor: | infosec.exchange | 3 |
 | [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 3 |
 | [wg](https://hachyderm.io/@wg) | W.Gross | hachyderm.io | 3 |
 | [rodtrent](https://infosec.exchange/@rodtrent) | rodtrent :verified: | infosec.exchange | 3 |
