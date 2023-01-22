@@ -1,5 +1,5 @@
 # Top Users for January 2023
-Last Updated: 01/22/2023 18:27:05 UTC
+Last Updated: 01/22/2023 19:18:39 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 21 |
@@ -23,7 +23,7 @@ Last Updated: 01/22/2023 18:27:05 UTC
 | [tinuwalther](https://techhub.social/@tinuwalther) | Tinu 🇨🇭 | techhub.social | 3 |
 | [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 3 |
 | [poshlandPRO](https://techhub.social/@poshlandPRO) | Damian Garbus | techhub.social | 3 |
-| [ChrisWarwick](https://mas.to/@ChrisWarwick) | Chris Warwick | mas.to | 2 |
+| [mortensummer](https://masto.ai/@mortensummer) | Tom | masto.ai | 2 |
 | [lukemurray](https://aus.social/@lukemurray) | Luke Murray | aus.social | 2 |
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 2 |
 | [sstranger](https://techhub.social/@sstranger) | Stefan Stranger | techhub.social | 2 |
@@ -34,7 +34,7 @@ Last Updated: 01/22/2023 18:27:05 UTC
 | [thedavecarroll](https://fosstodon.org/@thedavecarroll) | Dave Carroll | fosstodon.org | 2 |
 | [MossyDev](https://hachyderm.io/@MossyDev) | Dustin | hachyderm.io | 2 |
 | [duesiblog](https://social.tchncs.de/@duesiblog) | Matthias | social.tchncs.de | 2 |
-| [mortensummer](https://masto.ai/@mortensummer) | Tom | masto.ai | 2 |
+| [ChrisWarwick](https://mas.to/@ChrisWarwick) | Chris Warwick | mas.to | 2 |
 | [HeyItsGilbert](https://fosstodon.org/@HeyItsGilbert) | Gilbert Sanchez :omya_windows: | fosstodon.org | 2 |
 | [jesterchen](https://social.tchncs.de/@jesterchen) | jesterchen42 | social.tchncs.de | 1 |
 | [jdurehed](https://mastodon.nu/@jdurehed) | Joakim Durehed | mastodon.nu | 1 |
@@ -66,8 +66,8 @@ Last Updated: 01/22/2023 18:27:05 UTC
 | [MrPowerShell](https://hachyderm.io/@MrPowerShell) | MrPowerShell | hachyderm.io | 1 |
 | [robdevoer](https://hachyderm.io/@robdevoer) | Rob de Voer | hachyderm.io | 1 |
 | [xeo](https://home.social/@xeo) | Chief Posh ☑ | home.social | 1 |
+| [dalehirt](https://mas.to/@dalehirt) | Dale HIrt | mas.to | 1 |
 | [0x58](https://infosec.exchange/@0x58) | Xavier «X» Santolaria :verified_paw: :donor: | infosec.exchange | 1 |
-| [4ndr34z](https://infosec.exchange/@4ndr34z) | Andreas Finstad :verified: | infosec.exchange | 1 |
 | [Audran](https://infosec.exchange/@Audran) | Audran | infosec.exchange | 1 |
 | [frightware](https://infosec.exchange/@frightware) | 👻 frightware 👻 | infosec.exchange | 1 |
 | [JasonFossen](https://infosec.exchange/@JasonFossen) | Jason Fossen SANS | infosec.exchange | 1 |
@@ -79,7 +79,8 @@ Last Updated: 01/22/2023 18:27:05 UTC
 | [onelin](https://infosec.exchange/@onelin) | Joshua McKinnon | infosec.exchange | 1 |
 | [r1cksec](https://infosec.exchange/@r1cksec) | r1cksec | infosec.exchange | 1 |
 | [ramirocld](https://infosec.exchange/@ramirocld) | Ramiro Calderon | infosec.exchange | 1 |
+| [serializingme](https://infosec.exchange/@serializingme) | Duarte Silva | infosec.exchange | 1 |
 | [tildalwave](https://infosec.exchange/@tildalwave) | TildalWave :toot: | infosec.exchange | 1 |
 | [wryanfisher](https://infosec.exchange/@wryanfisher) | Ryan Fisher | infosec.exchange | 1 |
-| [dalehirt](https://mas.to/@dalehirt) | Dale HIrt | mas.to | 1 |
+| [4ndr34z](https://infosec.exchange/@4ndr34z) | Andreas Finstad :verified: | infosec.exchange | 1 |
 | [bflipp](https://vmst.io/@bflipp) | Brett Flippin | vmst.io | 1 |
