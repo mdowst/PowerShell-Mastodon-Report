@@ -1,5 +1,5 @@
 # Top Users for January 2023
-Last Updated: 01/22/2023 11:19:29 UTC
+Last Updated: 01/22/2023 12:39:49 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 21 |
@@ -33,12 +33,12 @@ Last Updated: 01/22/2023 11:19:29 UTC
 | [cl](https://tech.lgbt/@cl) | Chrissy LeMaire :thonkpad: | tech.lgbt | 2 |
 | [thedavecarroll](https://fosstodon.org/@thedavecarroll) | Dave Carroll | fosstodon.org | 2 |
 | [MossyDev](https://hachyderm.io/@MossyDev) | Dustin | hachyderm.io | 2 |
+| [duesiblog](https://social.tchncs.de/@duesiblog) | Matthias | social.tchncs.de | 2 |
 | [mortensummer](https://masto.ai/@mortensummer) | Tom | masto.ai | 2 |
 | [HeyItsGilbert](https://fosstodon.org/@HeyItsGilbert) | Gilbert Sanchez :omya_windows: | fosstodon.org | 2 |
 | [jesterchen](https://social.tchncs.de/@jesterchen) | jesterchen42 | social.tchncs.de | 1 |
 | [jdurehed](https://mastodon.nu/@jdurehed) | Joakim Durehed | mastodon.nu | 1 |
 | [carpenoctemdev](https://mastodon.sdf.org/@carpenoctemdev) | Tosh N | mastodon.sdf.org | 1 |
-| [duesiblog](https://social.tchncs.de/@duesiblog) | Matthias | social.tchncs.de | 1 |
 | [justin](https://twit.social/@justin) | Justin | twit.social | 1 |
 | [TonyRedmond](https://techhub.social/@TonyRedmond) | Tony Redmond | techhub.social | 1 |
 | [jeroen1511](https://techhub.social/@jeroen1511) | Jeroen Mulder | techhub.social | 1 |
