@@ -1,5 +1,5 @@
 # Top Users for January 2023
-Last Updated: 01/25/2023 08:31:11 UTC
+Last Updated: 01/25/2023 09:23:20 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 23 |
@@ -21,12 +21,12 @@ Last Updated: 01/25/2023 08:31:11 UTC
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 3 |
 | [Jpomfret](https://tech.lgbt/@Jpomfret) | Jess Pomfret :verified_gay: | tech.lgbt | 3 |
 | [rodtrent](https://infosec.exchange/@rodtrent) | rodtrent :verified: | infosec.exchange | 3 |
+| [gioxx](https://mastodon.uno/@gioxx) | Gioxx | mastodon.uno | 3 |
 | [asoftman](https://vmst.io/@asoftman) | Bill Powell | vmst.io | 3 |
 | [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 3 |
 | [poshlandPRO](https://techhub.social/@poshlandPRO) | Damian Garbus | techhub.social | 3 |
 | [mortensummer](https://masto.ai/@mortensummer) | Tom | masto.ai | 2 |
 | [fabian_bader](https://infosec.exchange/@fabian_bader) | Fabian Bader | infosec.exchange | 2 |
-| [gioxx](https://mastodon.uno/@gioxx) | Gioxx | mastodon.uno | 2 |
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 2 |
 | [duesiblog](https://social.tchncs.de/@duesiblog) | Matthias | social.tchncs.de | 2 |
 | [lukemurray](https://aus.social/@lukemurray) | Luke Murray | aus.social | 2 |
