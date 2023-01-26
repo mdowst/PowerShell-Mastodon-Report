@@ -1,5 +1,5 @@
 # Top Users for January 2023
-Last Updated: 01/26/2023 21:21:11 UTC
+Last Updated: 01/26/2023 22:24:18 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 24 |
@@ -8,54 +8,55 @@ Last Updated: 01/26/2023 21:21:11 UTC
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 13 |
 | [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 11 |
 | [JordanOrdix](https://home.social/@JordanOrdix) | Andreas Jordan (ORDIX AG) | home.social | 9 |
-| [geekland](https://mastodon.social/@geekland) | Geekland | mastodon.social | 5 |
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 5 |
-| [recordedparadox](https://infosec.exchange/@recordedparadox) | Recorded Paradox | infosec.exchange | 4 |
-| [bjompen](https://mastodon.nu/@bjompen) | Bjompen | mastodon.nu | 4 |
-| [dwmetz](https://infosec.exchange/@dwmetz) | Doug Metz :donor: | infosec.exchange | 4 |
+| [geekland](https://mastodon.social/@geekland) | Geekland | mastodon.social | 5 |
 | [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 4 |
 | [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 4 |
-| [wg](https://hachyderm.io/@wg) | W.Gross | hachyderm.io | 4 |
-| [sstranger](https://techhub.social/@sstranger) | Stefan Stranger | techhub.social | 4 |
+| [dwmetz](https://infosec.exchange/@dwmetz) | Doug Metz :donor: | infosec.exchange | 4 |
+| [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 4 |
 | [poshlandPRO](https://techhub.social/@poshlandPRO) | Damian Garbus | techhub.social | 4 |
-| [Jpomfret](https://tech.lgbt/@Jpomfret) | Jess Pomfret :verified_gay: | tech.lgbt | 3 |
-| [rodtrent](https://infosec.exchange/@rodtrent) | rodtrent :verified: | infosec.exchange | 3 |
+| [sstranger](https://techhub.social/@sstranger) | Stefan Stranger | techhub.social | 4 |
+| [recordedparadox](https://infosec.exchange/@recordedparadox) | Recorded Paradox | infosec.exchange | 4 |
+| [bjompen](https://mastodon.nu/@bjompen) | Bjompen | mastodon.nu | 4 |
+| [wg](https://hachyderm.io/@wg) | W.Gross | hachyderm.io | 4 |
 | [asoftman](https://vmst.io/@asoftman) | Bill Powell | vmst.io | 3 |
-| [tinuwalther](https://techhub.social/@tinuwalther) | Tinu 🇨🇭 | techhub.social | 3 |
-| [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 3 |
-| [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 3 |
 | [gioxx](https://mastodon.uno/@gioxx) | Gioxx | mastodon.uno | 3 |
-| [AndrewPlaTech](https://techhub.social/@AndrewPlaTech) | AndrewPlaTech | techhub.social | 2 |
+| [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 3 |
+| [rodtrent](https://infosec.exchange/@rodtrent) | rodtrent :verified: | infosec.exchange | 3 |
+| [tinuwalther](https://techhub.social/@tinuwalther) | Tinu 🇨🇭 | techhub.social | 3 |
+| [Jpomfret](https://tech.lgbt/@Jpomfret) | Jess Pomfret :verified_gay: | tech.lgbt | 3 |
+| [duesiblog](https://social.tchncs.de/@duesiblog) | Matthias | social.tchncs.de | 2 |
 | [lukemurray](https://aus.social/@lukemurray) | Luke Murray | aus.social | 2 |
 | [mortensummer](https://masto.ai/@mortensummer) | Tom | masto.ai | 2 |
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 2 |
-| [fabian_bader](https://infosec.exchange/@fabian_bader) | Fabian Bader | infosec.exchange | 2 |
-| [ChrisWarwick](https://mas.to/@ChrisWarwick) | Chris Warwick | mas.to | 2 |
 | [HeyItsGilbert](https://fosstodon.org/@HeyItsGilbert) | Gilbert Sanchez :omya_windows: | fosstodon.org | 2 |
+| [fabian_bader](https://infosec.exchange/@fabian_bader) | Fabian Bader | infosec.exchange | 2 |
+| [AndrewPlaTech](https://techhub.social/@AndrewPlaTech) | AndrewPlaTech | techhub.social | 2 |
 | [thedavecarroll](https://fosstodon.org/@thedavecarroll) | Dave Carroll | fosstodon.org | 2 |
-| [cl](https://tech.lgbt/@cl) | Chrissy LeMaire :thonkpad: | tech.lgbt | 2 |
-| [duesiblog](https://social.tchncs.de/@duesiblog) | Matthias | social.tchncs.de | 2 |
+| [ChrisWarwick](https://mas.to/@ChrisWarwick) | Chris Warwick | mas.to | 2 |
 | [MossyDev](https://hachyderm.io/@MossyDev) | Dustin | hachyderm.io | 2 |
-| [titinoNero](https://mastodon.uno/@titinoNero) | ttNoNero | mastodon.uno | 1 |
-| [jesterchen](https://social.tchncs.de/@jesterchen) | jesterchen42 | social.tchncs.de | 1 |
+| [cl](https://tech.lgbt/@cl) | Chrissy LeMaire :thonkpad: | tech.lgbt | 2 |
+| [walid](https://mastodon.social/@walid) | Walid Damouny | mastodon.social | 1 |
+| [itsecbot](https://schleuss.online/@itsecbot) | ITSEC News | schleuss.online | 1 |
 | [justin](https://twit.social/@justin) | Justin | twit.social | 1 |
+| [ebmarquez](https://twit.social/@ebmarquez) | Eric Marquez | twit.social | 1 |
+| [TonyRedmond](https://techhub.social/@TonyRedmond) | Tony Redmond | techhub.social | 1 |
 | [jdurehed](https://mastodon.nu/@jdurehed) | Joakim Durehed | mastodon.nu | 1 |
 | [carpenoctemdev](https://mastodon.sdf.org/@carpenoctemdev) | Tosh N | mastodon.sdf.org | 1 |
-| [TonyRedmond](https://techhub.social/@TonyRedmond) | Tony Redmond | techhub.social | 1 |
+| [bluebombus](https://mstdn.social/@bluebombus) | Luci 🐝 | mstdn.social | 1 |
+| [titinoNero](https://mastodon.uno/@titinoNero) | ttNoNero | mastodon.uno | 1 |
 | [colincogle](https://mastodon.social/@colincogle) | Colin Cogle | mastodon.social | 1 |
-| [itsecbot](https://schleuss.online/@itsecbot) | ITSEC News | schleuss.online | 1 |
 | [martinvanaken](https://mastodon.social/@martinvanaken) | Martin | mastodon.social | 1 |
+| [dalehirt](https://mas.to/@dalehirt) | Dale HIrt | mas.to | 1 |
 | [nroach44](https://mastodon.social/@nroach44) | NRoach44 | mastodon.social | 1 |
 | [pauby](https://mastodon.social/@pauby) | Paul Broadwith | mastodon.social | 1 |
-| [rpardee](https://mastodon.social/@rpardee) | Roy #BLM Pardee  🇺🇸 | mastodon.social | 1 |
-| [bluebombus](https://mstdn.social/@bluebombus) | Luci 🐝 | mstdn.social | 1 |
+| [jesterchen](https://social.tchncs.de/@jesterchen) | jesterchen42 | social.tchncs.de | 1 |
+| [toomanysecrets](https://mastodon.social/@toomanysecrets) | BSDBoy | mastodon.social | 1 |
 | [yieng](https://mathstodon.xyz/@yieng) | Cassandra Lee | mathstodon.xyz | 1 |
 | [andreashansen](https://techhub.social/@andreashansen) | andreashansen | techhub.social | 1 |
 | [upyesp](https://mastodon.social/@upyesp) | upyesp | mastodon.social | 1 |
-| [walid](https://mastodon.social/@walid) | Walid Damouny | mastodon.social | 1 |
-| [dalehirt](https://mas.to/@dalehirt) | Dale HIrt | mas.to | 1 |
 | [jeroen1511](https://techhub.social/@jeroen1511) | Jeroen Mulder | techhub.social | 1 |
-| [toomanysecrets](https://mastodon.social/@toomanysecrets) | BSDBoy | mastodon.social | 1 |
+| [rpardee](https://mastodon.social/@rpardee) | Roy #BLM Pardee  🇺🇸 | mastodon.social | 1 |
 | [TechNews](https://aspiechattr.me/@TechNews) | Tech News Worldwide | aspiechattr.me | 1 |
 | [wryanfisher](https://infosec.exchange/@wryanfisher) | Ryan Fisher | infosec.exchange | 1 |
 | [MrPowerShell](https://hachyderm.io/@MrPowerShell) | MrPowerShell | hachyderm.io | 1 |
