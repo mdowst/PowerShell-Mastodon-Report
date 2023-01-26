@@ -1,5 +1,5 @@
 # Top Servers for January 2023
-Last Updated: 01/25/2023 23:24:38 UTC
+Last Updated: 01/26/2023 01:50:04 UTC
 | Server | Posts | Active Users |
 | -- | -- | -- |
 | [techhub.social](https://techhub.social/tags/PowerShell) | 53 | 9 |
@@ -8,7 +8,7 @@ Last Updated: 01/25/2023 23:24:38 UTC
 | [mastodon.social](https://mastodon.social/tags/PowerShell) | 26 | 11 |
 | [masto.ai](https://masto.ai/tags/PowerShell) | 15 | 2 |
 | [hachyderm.io](https://hachyderm.io/tags/PowerShell) | 13 | 9 |
-| [home.social](https://home.social/tags/PowerShell) | 10 | 2 |
+| [home.social](https://home.social/tags/PowerShell) | 11 | 3 |
 | [mastodon.nu](https://mastodon.nu/tags/PowerShell) | 5 | 2 |
 | [tech.lgbt](https://tech.lgbt/tags/PowerShell) | 5 | 2 |
 | [mastodonapp.uk](https://mastodonapp.uk/tags/PowerShell) | 5 | 1 |
