@@ -1,5 +1,5 @@
 # Top Users for January 2023
-Last Updated: 01/28/2023 11:19:05 UTC
+Last Updated: 01/28/2023 12:39:24 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 24 |
@@ -59,7 +59,8 @@ Last Updated: 01/28/2023 11:19:05 UTC
 | [martinvanaken](https://mastodon.social/@martinvanaken) | Martin | mastodon.social | 1 |
 | [chrisbradshaw](https://mas.to/@chrisbradshaw) | Chris Bradshaw | mas.to | 1 |
 | [TechNews](https://aspiechattr.me/@TechNews) | Tech News Worldwide | aspiechattr.me | 1 |
-| [wryanfisher](https://infosec.exchange/@wryanfisher) | Ryan Fisher | infosec.exchange | 1 |
+| [zodmagus](https://infosec.exchange/@zodmagus) | :hacker_z: :hacker_o: :hacker_d: :verified: | infosec.exchange | 1 |
+| [robdevoer](https://hachyderm.io/@robdevoer) | Rob de Voer | hachyderm.io | 1 |
 | [MrPowerShell](https://hachyderm.io/@MrPowerShell) | MrPowerShell | hachyderm.io | 1 |
 | [michaelabon](https://hachyderm.io/@michaelabon) | Michael Abon | hachyderm.io | 1 |
 | [LGUG2Z](https://hachyderm.io/@LGUG2Z) | Jeezy | hachyderm.io | 1 |
@@ -67,8 +68,8 @@ Last Updated: 01/28/2023 11:19:05 UTC
 | [johlju](https://hachyderm.io/@johlju) | Johan Ljunggren | hachyderm.io | 1 |
 | [ferrata](https://hachyderm.io/@ferrata) | Sasha | hachyderm.io | 1 |
 | [dela](https://hachyderm.io/@dela) | Dela 🏳️‍🌈 | hachyderm.io | 1 |
+| [unceman](https://home.social/@unceman) | Steve Emanuelson | home.social | 1 |
 | [lgeurts](https://fosstodon.org/@lgeurts) | Luc :gnome: :debian: | fosstodon.org | 1 |
-| [jborean](https://fosstodon.org/@jborean) | Jordan Borean | fosstodon.org | 1 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 1 |
 | [heaths](https://fosstodon.org/@heaths) | Heath Stewart | fosstodon.org | 1 |
 | [falkheiland](https://fosstodon.org/@falkheiland) | Falk Heiland 🇺🇦 | fosstodon.org | 1 |
@@ -77,10 +78,11 @@ Last Updated: 01/28/2023 11:19:05 UTC
 | [vortitu](https://chaos.social/@vortitu) | Stefan 🦒 | chaos.social | 1 |
 | [FlohEinstein](https://chaos.social/@FlohEinstein) | Flo(h)rian Kohler | chaos.social | 1 |
 | [tyno](https://bne.social/@tyno) | Tyno | bne.social | 1 |
-| [robdevoer](https://hachyderm.io/@robdevoer) | Rob de Voer | hachyderm.io | 1 |
-| [unceman](https://home.social/@unceman) | Steve Emanuelson | home.social | 1 |
+| [jborean](https://fosstodon.org/@jborean) | Jordan Borean | fosstodon.org | 1 |
+| [SeeSmitty](https://ioc.exchange/@SeeSmitty) | SeeSmitty | ioc.exchange | 1 |
 | [xeo](https://home.social/@xeo) | Chief Posh ☑ | home.social | 1 |
-| [0x58](https://infosec.exchange/@0x58) | Xavier «X» Santolaria :verified_paw: :donor: | infosec.exchange | 1 |
+| [4n68r](https://infosec.exchange/@4n68r) | Dan :dumpster_fire: | infosec.exchange | 1 |
+| [wryanfisher](https://infosec.exchange/@wryanfisher) | Ryan Fisher | infosec.exchange | 1 |
 | [tribalcyber](https://infosec.exchange/@tribalcyber) | TribalCyberSecurity | infosec.exchange | 1 |
 | [tildalwave](https://infosec.exchange/@tildalwave) | TildalWave :toot: | infosec.exchange | 1 |
 | [serializingme](https://infosec.exchange/@serializingme) | Duarte Silva | infosec.exchange | 1 |
@@ -88,9 +90,9 @@ Last Updated: 01/28/2023 11:19:05 UTC
 | [r1cksec](https://infosec.exchange/@r1cksec) | r1cksec | infosec.exchange | 1 |
 | [onelin](https://infosec.exchange/@onelin) | Joshua McKinnon | infosec.exchange | 1 |
 | [oldschool](https://infosec.exchange/@oldschool) | oldschool | infosec.exchange | 1 |
+| [0x58](https://infosec.exchange/@0x58) | Xavier «X» Santolaria :verified_paw: :donor: | infosec.exchange | 1 |
 | [misc](https://infosec.exchange/@misc) | Michael Schneider | infosec.exchange | 1 |
-| [SeeSmitty](https://ioc.exchange/@SeeSmitty) | SeeSmitty | ioc.exchange | 1 |
-| [luzkenin](https://infosec.exchange/@luzkenin) | Joe 🏔️ | infosec.exchange | 1 |
+| [Kjacobsen](https://infosec.exchange/@Kjacobsen) | Kieran Jacobsen | infosec.exchange | 1 |
 | [jtig](https://infosec.exchange/@jtig) | Jeffrey | infosec.exchange | 1 |
 | [jrdepriest](https://infosec.exchange/@jrdepriest) | Jasey DePriest (she / her) :donor: | infosec.exchange | 1 |
 | [JasonFossen](https://infosec.exchange/@JasonFossen) | Jason Fossen SANS | infosec.exchange | 1 |
@@ -98,6 +100,5 @@ Last Updated: 01/28/2023 11:19:05 UTC
 | [frightware](https://infosec.exchange/@frightware) | 👻 frightware 👻 | infosec.exchange | 1 |
 | [Audran](https://infosec.exchange/@Audran) | Audran | infosec.exchange | 1 |
 | [4ndr34z](https://infosec.exchange/@4ndr34z) | Andreas Finstad :verified: | infosec.exchange | 1 |
-| [4n68r](https://infosec.exchange/@4n68r) | Dan :dumpster_fire: | infosec.exchange | 1 |
-| [Kjacobsen](https://infosec.exchange/@Kjacobsen) | Kieran Jacobsen | infosec.exchange | 1 |
+| [luzkenin](https://infosec.exchange/@luzkenin) | Joe 🏔️ | infosec.exchange | 1 |
 | [bflipp](https://vmst.io/@bflipp) | Brett Flippin | vmst.io | 1 |
