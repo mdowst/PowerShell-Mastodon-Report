@@ -1,5 +1,5 @@
 # Top Users for January 2023
-Last Updated: 01/29/2023 13:26:27 UTC
+Last Updated: 01/29/2023 14:21:45 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 25 |
@@ -9,21 +9,21 @@ Last Updated: 01/29/2023 13:26:27 UTC
 | [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 11 |
 | [JordanOrdix](https://home.social/@JordanOrdix) | Andreas Jordan (ORDIX AG) | home.social | 10 |
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 6 |
-| [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 5 |
 | [geekland](https://mastodon.social/@geekland) | Geekland | mastodon.social | 5 |
+| [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 5 |
+| [dwmetz](https://infosec.exchange/@dwmetz) | Doug Metz :donor: | infosec.exchange | 4 |
+| [recordedparadox](https://infosec.exchange/@recordedparadox) | Recorded Paradox | infosec.exchange | 4 |
 | [sstranger](https://techhub.social/@sstranger) | Stefan Stranger | techhub.social | 4 |
 | [poshlandPRO](https://techhub.social/@poshlandPRO) | Damian Garbus | techhub.social | 4 |
-| [recordedparadox](https://infosec.exchange/@recordedparadox) | Recorded Paradox | infosec.exchange | 4 |
-| [wg](https://hachyderm.io/@wg) | W.Gross | hachyderm.io | 4 |
 | [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 4 |
 | [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 4 |
+| [wg](https://hachyderm.io/@wg) | W.Gross | hachyderm.io | 4 |
 | [bjompen](https://mastodon.nu/@bjompen) | Bjompen | mastodon.nu | 4 |
-| [dwmetz](https://infosec.exchange/@dwmetz) | Doug Metz :donor: | infosec.exchange | 4 |
 | [Jpomfret](https://tech.lgbt/@Jpomfret) | Jess Pomfret :verified_gay: | tech.lgbt | 3 |
 | [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 3 |
 | [rodtrent](https://infosec.exchange/@rodtrent) | rodtrent :verified: | infosec.exchange | 3 |
-| [gioxx](https://mastodon.uno/@gioxx) | Gioxx | mastodon.uno | 3 |
 | [tinuwalther](https://techhub.social/@tinuwalther) | Tinu 🇨🇭 | techhub.social | 3 |
+| [gioxx](https://mastodon.uno/@gioxx) | Gioxx | mastodon.uno | 3 |
 | [asoftman](https://vmst.io/@asoftman) | Bill Powell | vmst.io | 3 |
 | [titinoNero](https://mastodon.uno/@titinoNero) | ttNoNero | mastodon.uno | 2 |
 | [fabian_bader](https://infosec.exchange/@fabian_bader) | Fabian Bader | infosec.exchange | 2 |
@@ -54,15 +54,15 @@ Last Updated: 01/29/2023 13:26:27 UTC
 | [pauby](https://mastodon.social/@pauby) | Paul Broadwith | mastodon.social | 1 |
 | [jesterchen](https://social.tchncs.de/@jesterchen) | jesterchen42 | social.tchncs.de | 1 |
 | [bluebombus](https://mstdn.social/@bluebombus) | Luci 🐝 | mstdn.social | 1 |
-| [dalehirt](https://mas.to/@dalehirt) | Dale HIrt | mas.to | 1 |
 | [yieng](https://mathstodon.xyz/@yieng) | Cassandra Lee | mathstodon.xyz | 1 |
+| [BiFriendlyGiant](https://mastodonapp.uk/@BiFriendlyGiant) |  | mastodonapp.uk | 1 |
 | [walid](https://mastodon.social/@walid) | Walid Damouny | mastodon.social | 1 |
 | [upyesp](https://mastodon.social/@upyesp) | upyesp | mastodon.social | 1 |
 | [toomanysecrets](https://mastodon.social/@toomanysecrets) | BSDBoy | mastodon.social | 1 |
 | [itsecbot](https://schleuss.online/@itsecbot) | ITSEC News | schleuss.online | 1 |
 | [TechNews](https://aspiechattr.me/@TechNews) | Tech News Worldwide | aspiechattr.me | 1 |
 | [serializingme](https://infosec.exchange/@serializingme) | Duarte Silva | infosec.exchange | 1 |
-| [SeeSmitty](https://ioc.exchange/@SeeSmitty) | SeeSmitty | ioc.exchange | 1 |
+| [chrisbradshaw](https://mas.to/@chrisbradshaw) | Chris Bradshaw | mas.to | 1 |
 | [robdevoer](https://hachyderm.io/@robdevoer) | Rob de Voer | hachyderm.io | 1 |
 | [MrPowerShell](https://hachyderm.io/@MrPowerShell) | MrPowerShell | hachyderm.io | 1 |
 | [michaelabon](https://hachyderm.io/@michaelabon) | Michael Abon | hachyderm.io | 1 |
@@ -82,9 +82,10 @@ Last Updated: 01/29/2023 13:26:27 UTC
 | [FlohEinstein](https://chaos.social/@FlohEinstein) | Flo(h)rian Kohler | chaos.social | 1 |
 | [tyno](https://bne.social/@tyno) | Tyno | bne.social | 1 |
 | [jborean](https://fosstodon.org/@jborean) | Jordan Borean | fosstodon.org | 1 |
-| [chrisbradshaw](https://mas.to/@chrisbradshaw) | Chris Bradshaw | mas.to | 1 |
 | [xeo](https://home.social/@xeo) | Chief Posh ☑ | home.social | 1 |
+| [0x58](https://infosec.exchange/@0x58) | Xavier «X» Santolaria :verified_paw: :donor: | infosec.exchange | 1 |
 | [4n68r](https://infosec.exchange/@4n68r) | Dan :dumpster_fire: | infosec.exchange | 1 |
+| [SeeSmitty](https://ioc.exchange/@SeeSmitty) | SeeSmitty | ioc.exchange | 1 |
 | [zodmagus](https://infosec.exchange/@zodmagus) | :hacker_z: :hacker_o: :hacker_d: :verified: | infosec.exchange | 1 |
 | [wryanfisher](https://infosec.exchange/@wryanfisher) | Ryan Fisher | infosec.exchange | 1 |
 | [tribalcyber](https://infosec.exchange/@tribalcyber) | TribalCyberSecurity | infosec.exchange | 1 |
@@ -93,8 +94,8 @@ Last Updated: 01/29/2023 13:26:27 UTC
 | [r1cksec](https://infosec.exchange/@r1cksec) | r1cksec | infosec.exchange | 1 |
 | [onelin](https://infosec.exchange/@onelin) | Joshua McKinnon | infosec.exchange | 1 |
 | [oldschool](https://infosec.exchange/@oldschool) | oldschool | infosec.exchange | 1 |
-| [0x58](https://infosec.exchange/@0x58) | Xavier «X» Santolaria :verified_paw: :donor: | infosec.exchange | 1 |
 | [misc](https://infosec.exchange/@misc) | Michael Schneider | infosec.exchange | 1 |
+| [luzkenin](https://infosec.exchange/@luzkenin) | Joe 🏔️ | infosec.exchange | 1 |
 | [Kjacobsen](https://infosec.exchange/@Kjacobsen) | Kieran Jacobsen | infosec.exchange | 1 |
 | [jtig](https://infosec.exchange/@jtig) | Jeffrey | infosec.exchange | 1 |
 | [jrdepriest](https://infosec.exchange/@jrdepriest) | Jasey DePriest (she / her) :donor: | infosec.exchange | 1 |
@@ -103,5 +104,5 @@ Last Updated: 01/29/2023 13:26:27 UTC
 | [frightware](https://infosec.exchange/@frightware) | 👻 frightware 👻 | infosec.exchange | 1 |
 | [Audran](https://infosec.exchange/@Audran) | Audran | infosec.exchange | 1 |
 | [4ndr34z](https://infosec.exchange/@4ndr34z) | Andreas Finstad :verified: | infosec.exchange | 1 |
-| [luzkenin](https://infosec.exchange/@luzkenin) | Joe 🏔️ | infosec.exchange | 1 |
+| [dalehirt](https://mas.to/@dalehirt) | Dale HIrt | mas.to | 1 |
 | [bflipp](https://vmst.io/@bflipp) | Brett Flippin | vmst.io | 1 |
