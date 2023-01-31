@@ -1,8 +1,8 @@
 # Top Users for January 2023
-Last Updated: 01/31/2023 20:25:21 UTC
+Last Updated: 01/31/2023 21:21:30 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
-| [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 25 |
+| [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 26 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | James Brundage | fosstodon.org | 21 |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 15 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 14 |
