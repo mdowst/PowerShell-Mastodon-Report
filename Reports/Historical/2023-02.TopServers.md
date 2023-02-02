@@ -1,5 +1,5 @@
 # Top Servers for February 2023
-Last Updated: 02/02/2023 13:34:32 UTC
+Last Updated: 02/02/2023 14:23:45 UTC
 | Server | Posts | Active Users |
 | -- | -- | -- |
 | [infosec.exchange](https://infosec.exchange/tags/PowerShell) | 2 | 1 |
