@@ -1,10 +1,11 @@
 # Top Users for February 2023
-Last Updated: 02/05/2023 16:30:54 UTC
+Last Updated: 02/05/2023 17:22:23 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 2 |
 | [JefTek](https://infosec.exchange/@JefTek) | Jef Kazimer😶‍🌫️ | infosec.exchange | 2 |
 | [aeveltstra](https://mastodon.social/@aeveltstra) | André E. Veltstra | mastodon.social | 2 |
+| [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 2 |
 | [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 1 |
 | [hipsterino](https://home.social/@hipsterino) | hipsterino | home.social | 1 |
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 1 |
@@ -15,5 +16,4 @@ Last Updated: 02/05/2023 16:30:54 UTC
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 1 |
 | [paulkater](https://mstdn.social/@paulkater) | Paul | mstdn.social | 1 |
 | [tarnkappeinfo](https://social.tchncs.de/@tarnkappeinfo) | Tarnkappe.info | social.tchncs.de | 1 |
-| [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 1 |
 | [sstranger](https://techhub.social/@sstranger) | Stefan Stranger | techhub.social | 1 |
