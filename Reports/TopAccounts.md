@@ -1,10 +1,11 @@
 # Top Users for February 2023
-Last Updated: 02/05/2023 01:57:10 UTC
+Last Updated: 02/05/2023 02:56:20 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 2 |
 | [JefTek](https://infosec.exchange/@JefTek) | Jef Kazimer😶‍🌫️ | infosec.exchange | 2 |
 | [aeveltstra](https://mastodon.social/@aeveltstra) | André E. Veltstra | mastodon.social | 2 |
+| [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 1 |
 | [hipsterino](https://home.social/@hipsterino) | hipsterino | home.social | 1 |
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 1 |
 | [jmau111](https://ioc.exchange/@jmau111) | Julien Maury | ioc.exchange | 1 |
