@@ -1,5 +1,5 @@
 # Top Users for February 2023
-Last Updated: 02/05/2023 20:23:41 UTC
+Last Updated: 02/05/2023 21:20:31 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 2 |
@@ -17,3 +17,4 @@ Last Updated: 02/05/2023 20:23:41 UTC
 | [paulkater](https://mstdn.social/@paulkater) | Paul | mstdn.social | 1 |
 | [tarnkappeinfo](https://social.tchncs.de/@tarnkappeinfo) | Tarnkappe.info | social.tchncs.de | 1 |
 | [sstranger](https://techhub.social/@sstranger) | Stefan Stranger | techhub.social | 1 |
+| [thiagocsf](https://techhub.social/@thiagocsf) | Thiago Figueiró | techhub.social | 1 |
