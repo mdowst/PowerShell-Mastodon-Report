@@ -1,5 +1,5 @@
 # Top Servers for February 2023
-Last Updated: 02/05/2023 17:22:23 UTC
+Last Updated: 02/05/2023 18:26:51 UTC
 | Server | Posts | Active Users |
 | -- | -- | -- |
 | [mastodon.social](https://mastodon.social/tags/PowerShell) | 4 | 3 |
