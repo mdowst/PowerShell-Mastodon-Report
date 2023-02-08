@@ -1,5 +1,5 @@
 # Top Users for February 2023
-Last Updated: 02/08/2023 09:26:09 UTC
+Last Updated: 02/08/2023 10:30:19 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 3 |
@@ -14,6 +14,7 @@ Last Updated: 02/08/2023 09:26:09 UTC
 | [AndrewPlaTech](https://techhub.social/@AndrewPlaTech) | AndrewPlaTech | techhub.social | 1 |
 | [tarnkappeinfo](https://social.tchncs.de/@tarnkappeinfo) | Tarnkappe.info | social.tchncs.de | 1 |
 | [paulkater](https://mstdn.social/@paulkater) | Paul | mstdn.social | 1 |
+| [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 1 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 1 |
 | [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 1 |
 | [mortensummer](https://masto.ai/@mortensummer) | Tom | masto.ai | 1 |
