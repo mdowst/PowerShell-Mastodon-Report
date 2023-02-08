@@ -1,5 +1,5 @@
 # Top Users for February 2023
-Last Updated: 02/08/2023 14:24:32 UTC
+Last Updated: 02/08/2023 15:26:00 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 3 |
@@ -24,6 +24,7 @@ Last Updated: 02/08/2023 14:24:32 UTC
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 1 |
 | [phoney](https://infosec.exchange/@phoney) | phoney | infosec.exchange | 1 |
 | [lukasberancz](https://infosec.exchange/@lukasberancz) | Lukas Beran | infosec.exchange | 1 |
+| [benjackson](https://infosec.exchange/@benjackson) | Ben Jackson | infosec.exchange | 1 |
 | [hipsterino](https://home.social/@hipsterino) | hipsterino | home.social | 1 |
 | [brock](https://hachyderm.io/@brock) | Brock Chapin (bchap1n) | hachyderm.io | 1 |
 | [thiagocsf](https://techhub.social/@thiagocsf) | Thiago Figueiró | techhub.social | 1 |
