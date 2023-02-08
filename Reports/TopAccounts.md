@@ -1,20 +1,20 @@
 # Top Users for February 2023
-Last Updated: 02/08/2023 11:21:58 UTC
+Last Updated: 02/08/2023 12:44:08 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 3 |
 | [JefTek](https://infosec.exchange/@JefTek) | Jef Kazimer😶‍🌫️ | infosec.exchange | 2 |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 2 |
+| [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 2 |
+| [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 2 |
 | [aeveltstra](https://mastodon.social/@aeveltstra) | André E. Veltstra | mastodon.social | 2 |
 | [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 1 |
 | [sstranger](https://techhub.social/@sstranger) | Stefan Stranger | techhub.social | 1 |
 | [potentengineer](https://techhub.social/@potentengineer) | Daniel Ratliff | techhub.social | 1 |
 | [poshlandPRO](https://techhub.social/@poshlandPRO) | Damian Garbus | techhub.social | 1 |
-| [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 1 |
 | [AndrewPlaTech](https://techhub.social/@AndrewPlaTech) | AndrewPlaTech | techhub.social | 1 |
 | [tarnkappeinfo](https://social.tchncs.de/@tarnkappeinfo) | Tarnkappe.info | social.tchncs.de | 1 |
 | [paulkater](https://mstdn.social/@paulkater) | Paul | mstdn.social | 1 |
-| [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 1 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 1 |
 | [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 1 |
 | [mortensummer](https://masto.ai/@mortensummer) | Tom | masto.ai | 1 |
