@@ -1,12 +1,13 @@
 # Top Users for February 2023
-Last Updated: 02/08/2023 23:24:27 UTC
+Last Updated: 02/09/2023 01:53:14 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 5 |
+| [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 3 |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 3 |
 | [JefTek](https://infosec.exchange/@JefTek) | Jef Kazimer😶‍🌫️ | infosec.exchange | 2 |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 2 |
-| [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 2 |
+| [jmau111](https://ioc.exchange/@jmau111) | Julien Maury | ioc.exchange | 2 |
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 2 |
 | [aeveltstra](https://mastodon.social/@aeveltstra) | André E. Veltstra | mastodon.social | 2 |
 | [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 1 |
@@ -20,7 +21,6 @@ Last Updated: 02/08/2023 23:24:27 UTC
 | [mortensummer](https://masto.ai/@mortensummer) | Tom | masto.ai | 1 |
 | [thiagocsf](https://techhub.social/@thiagocsf) | Thiago Figueiró | techhub.social | 1 |
 | [talhaturan](https://mas.to/@talhaturan) | Talha Turan | mas.to | 1 |
-| [jmau111](https://ioc.exchange/@jmau111) | Julien Maury | ioc.exchange | 1 |
 | [THM_T17](https://infosec.exchange/@THM_T17) | THM | infosec.exchange | 1 |
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 1 |
 | [phoney](https://infosec.exchange/@phoney) | phoney | infosec.exchange | 1 |
