@@ -1,12 +1,12 @@
 # Top Users for February 2023
-Last Updated: 02/15/2023 11:21:37 UTC
+Last Updated: 02/15/2023 12:46:46 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 17 |
 | [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 7 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 6 |
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 5 |
-| [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 4 |
+| [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 5 |
 | [TonyRedmond](https://techhub.social/@TonyRedmond) | Tony Redmond | techhub.social | 3 |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 3 |
 | [yovirtualizador](https://mastodon.social/@yovirtualizador) | YoVirtualizador | mastodon.social | 2 |
