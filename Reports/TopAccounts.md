@@ -1,5 +1,5 @@
 # Top Users for February 2023
-Last Updated: 02/17/2023 14:24:04 UTC
+Last Updated: 02/17/2023 15:25:57 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 17 |
@@ -9,9 +9,9 @@ Last Updated: 02/17/2023 14:24:04 UTC
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 5 |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 4 |
 | [sstranger](https://techhub.social/@sstranger) | Stefan Stranger | techhub.social | 3 |
+| [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 3 |
 | [TonyRedmond](https://techhub.social/@TonyRedmond) | Tony Redmond | techhub.social | 3 |
 | [aeveltstra](https://mastodon.social/@aeveltstra) | André E. Veltstra | mastodon.social | 2 |
-| [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 2 |
 | [AndrewPlaTech](https://techhub.social/@AndrewPlaTech) | AndrewPlaTech | techhub.social | 2 |
 | [CloudProtectNinja](https://infosec.exchange/@CloudProtectNinja) | Dustin Schutzeichel | infosec.exchange | 2 |
 | [JefTek](https://infosec.exchange/@JefTek) | Jef Kazimer😶‍🌫️ | infosec.exchange | 2 |
