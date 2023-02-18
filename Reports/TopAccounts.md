@@ -1,5 +1,5 @@
 # Top Users for February 2023
-Last Updated: 02/18/2023 21:20:50 UTC
+Last Updated: 02/18/2023 22:24:19 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 18 |
@@ -42,14 +42,15 @@ Last Updated: 02/18/2023 21:20:50 UTC
 | [gaelcolas](https://hachyderm.io/@gaelcolas) | gaelcolas | hachyderm.io | 1 |
 | [wg](https://hachyderm.io/@wg) | W.Gross | hachyderm.io | 1 |
 | [hipsterino](https://home.social/@hipsterino) | hipsterino | home.social | 1 |
-| [geekland](https://mastodon.social/@geekland) | Geekland | mastodon.social | 1 |
 | [benjackson](https://infosec.exchange/@benjackson) | Ben Jackson | infosec.exchange | 1 |
+| [eric_capuano](https://infosec.exchange/@eric_capuano) | Eric Capuano | infosec.exchange | 1 |
 | [lukasberancz](https://infosec.exchange/@lukasberancz) | Lukas Beran | infosec.exchange | 1 |
 | [luzkenin](https://infosec.exchange/@luzkenin) | Joe 🏔️ King of NYNEX | infosec.exchange | 1 |
 | [phoney](https://infosec.exchange/@phoney) | phoney | infosec.exchange | 1 |
 | [THM_T17](https://infosec.exchange/@THM_T17) | THM | infosec.exchange | 1 |
 | [talhaturan](https://mas.to/@talhaturan) | Talha Turan | mas.to | 1 |
 | [tezoatlipoca](https://mas.to/@tezoatlipoca) | Third spruce tree on the left | mas.to | 1 |
+| [bjompen](https://mastodon.nu/@bjompen) | Bjompen | mastodon.nu | 1 |
 | [bitbonk](https://mastodon.social/@bitbonk) | bitbonk | mastodon.social | 1 |
-| [eric_capuano](https://infosec.exchange/@eric_capuano) | Eric Capuano | infosec.exchange | 1 |
+| [geekland](https://mastodon.social/@geekland) | Geekland | mastodon.social | 1 |
 | [thorstenbutz](https://twit.social/@thorstenbutz) | Thorsten Butz | twit.social | 1 |
