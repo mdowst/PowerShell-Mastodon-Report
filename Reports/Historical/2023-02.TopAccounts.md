@@ -1,5 +1,5 @@
 # Top Users for February 2023
-Last Updated: 02/21/2023 21:22:42 UTC
+Last Updated: 02/21/2023 22:25:55 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 23 |
@@ -13,6 +13,7 @@ Last Updated: 02/21/2023 21:22:42 UTC
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 5 |
 | [TonyRedmond](https://techhub.social/@TonyRedmond) | Tony Redmond | techhub.social | 3 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 3 |
+| [AndrewPlaTech](https://techhub.social/@AndrewPlaTech) | AndrewPlaTech | techhub.social | 3 |
 | [Kjacobsen](https://infosec.exchange/@Kjacobsen) | Kieran Jacobsen | infosec.exchange | 2 |
 | [yovirtualizador](https://mastodon.social/@yovirtualizador) | YoVirtualizador | mastodon.social | 2 |
 | [JefTek](https://infosec.exchange/@JefTek) | Jef Kazimer😶‍🌫️ | infosec.exchange | 2 |
@@ -21,7 +22,6 @@ Last Updated: 02/21/2023 21:22:42 UTC
 | [jmau111](https://ioc.exchange/@jmau111) | Julien Maury | ioc.exchange | 2 |
 | [CloudProtectNinja](https://infosec.exchange/@CloudProtectNinja) | Dustin Schutzeichel | infosec.exchange | 2 |
 | [NathanHamblin_MI6](https://tech.lgbt/@NathanHamblin_MI6) | NathanHamblin_MI6 | tech.lgbt | 2 |
-| [AndrewPlaTech](https://techhub.social/@AndrewPlaTech) | AndrewPlaTech | techhub.social | 2 |
 | [paulsanders](https://infosec.exchange/@paulsanders) | Paul Sanders | infosec.exchange | 2 |
 | [geekland](https://mastodon.social/@geekland) | Geekland | mastodon.social | 1 |
 | [codykonior](https://mastodon.social/@codykonior) | Cody Konior | mastodon.social | 1 |
