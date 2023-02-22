@@ -1,13 +1,13 @@
 # Top Users for February 2023
-Last Updated: 02/22/2023 11:22:13 UTC
+Last Updated: 02/22/2023 12:46:43 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 23 |
 | [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 11 |
 | [rodtrent](https://infosec.exchange/@rodtrent) | rodtrent :verified: | infosec.exchange | 9 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 8 |
+| [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 7 |
 | [sstranger](https://techhub.social/@sstranger) | Stefan Stranger | techhub.social | 6 |
-| [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 6 |
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 6 |
 | [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 5 |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 5 |
@@ -23,11 +23,11 @@ Last Updated: 02/22/2023 11:22:13 UTC
 | [jmau111](https://ioc.exchange/@jmau111) | Julien Maury | ioc.exchange | 2 |
 | [luzkenin](https://infosec.exchange/@luzkenin) | Joe 🏔️ King of NYNEX | infosec.exchange | 2 |
 | [NathanHamblin_MI6](https://tech.lgbt/@NathanHamblin_MI6) | NathanHamblin_MI6 | tech.lgbt | 2 |
+| [GreatBigTable](https://mastodon.social/@GreatBigTable) | Jim Jones | mastodon.social | 2 |
 | [paulsanders](https://infosec.exchange/@paulsanders) | Paul Sanders | infosec.exchange | 2 |
 | [geekland](https://mastodon.social/@geekland) | Geekland | mastodon.social | 1 |
 | [codykonior](https://mastodon.social/@codykonior) | Cody Konior | mastodon.social | 1 |
 | [bitbonk](https://mastodon.social/@bitbonk) | bitbonk | mastodon.social | 1 |
-| [GreatBigTable](https://mastodon.social/@GreatBigTable) | Jim Jones | mastodon.social | 1 |
 | [JdeBP](https://mastodonapp.uk/@JdeBP) | JdeBP | mastodonapp.uk | 1 |
 | [joshooaj](https://mastodon.social/@joshooaj) | Josh Hendricks | mastodon.social | 1 |
 | [AnEntropyBubble](https://mstdn.social/@AnEntropyBubble) | Andrew Hall | mstdn.social | 1 |
