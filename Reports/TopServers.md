@@ -1,5 +1,5 @@
 # Top Servers for February 2023
-Last Updated: 02/22/2023 14:24:36 UTC
+Last Updated: 02/22/2023 15:26:47 UTC
 | Server | Posts | Active Users |
 | -- | -- | -- |
 | [techhub.social](https://techhub.social/tags/PowerShell) | 46 | 9 |
