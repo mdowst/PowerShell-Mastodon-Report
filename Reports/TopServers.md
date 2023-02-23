@@ -1,11 +1,11 @@
 # Top Servers for February 2023
-Last Updated: 02/23/2023 13:37:13 UTC
+Last Updated: 02/23/2023 14:25:23 UTC
 | Server | Posts | Active Users |
 | -- | -- | -- |
 | [techhub.social](https://techhub.social/tags/PowerShell) | 48 | 10 |
 | [infosec.exchange](https://infosec.exchange/tags/PowerShell) | 31 | 17 |
 | [mastodon.social](https://mastodon.social/tags/PowerShell) | 29 | 11 |
-| [fosstodon.org](https://fosstodon.org/tags/PowerShell) | 20 | 7 |
+| [fosstodon.org](https://fosstodon.org/tags/PowerShell) | 21 | 7 |
 | [mastodonapp.uk](https://mastodonapp.uk/tags/PowerShell) | 7 | 2 |
 | [masto.ai](https://masto.ai/tags/PowerShell) | 6 | 2 |
 | [hachyderm.io](https://hachyderm.io/tags/PowerShell) | 4 | 4 |
