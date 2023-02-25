@@ -1,5 +1,5 @@
 # Top Users for February 2023
-Last Updated: 02/25/2023 14:22:24 UTC
+Last Updated: 02/25/2023 15:23:34 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 28 |
@@ -7,9 +7,9 @@ Last Updated: 02/25/2023 14:22:24 UTC
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 11 |
 | [rodtrent](https://infosec.exchange/@rodtrent) | rodtrent :verified: | infosec.exchange | 9 |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 8 |
+| [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 7 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 7 |
 | [sstranger](https://techhub.social/@sstranger) | Stefan Stranger | techhub.social | 6 |
-| [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 6 |
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 6 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 4 |
 | [luzkenin](https://infosec.exchange/@luzkenin) | Joe 🏔️ King of NYNEX | infosec.exchange | 4 |
