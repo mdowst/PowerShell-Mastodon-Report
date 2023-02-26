@@ -1,5 +1,5 @@
 # Top Servers for February 2023
-Last Updated: 02/26/2023 10:26:52 UTC
+Last Updated: 02/26/2023 11:20:43 UTC
 | Server | Posts | Active Users |
 | -- | -- | -- |
 | [techhub.social](https://techhub.social/tags/PowerShell) | 52 | 10 |
@@ -11,8 +11,8 @@ Last Updated: 02/26/2023 10:26:52 UTC
 | [hachyderm.io](https://hachyderm.io/tags/PowerShell) | 5 | 5 |
 | [mstdn.social](https://mstdn.social/tags/PowerShell) | 5 | 4 |
 | [tech.lgbt](https://tech.lgbt/tags/PowerShell) | 4 | 2 |
+| [home.social](https://home.social/tags/PowerShell) | 3 | 3 |
 | [twit.social](https://twit.social/tags/PowerShell) | 3 | 3 |
-| [home.social](https://home.social/tags/PowerShell) | 2 | 2 |
 | [ioc.exchange](https://ioc.exchange/tags/PowerShell) | 2 | 1 |
 | [mas.to](https://mas.to/tags/PowerShell) | 2 | 2 |
 | [dataplatform.social](https://dataplatform.social/tags/PowerShell) | 1 | 1 |
