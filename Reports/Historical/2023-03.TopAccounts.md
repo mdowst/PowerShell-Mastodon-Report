@@ -1,5 +1,5 @@
 # Top Users for March 2023
-Last Updated: 03/03/2023 12:43:46 UTC
+Last Updated: 03/03/2023 13:30:48 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 2 |
@@ -9,6 +9,7 @@ Last Updated: 03/03/2023 12:43:46 UTC
 | [xeo](https://home.social/@xeo) | Chief Posh ☑ | home.social | 1 |
 | [kaidja](https://infosec.exchange/@kaidja) | Kaido Järvemets | infosec.exchange | 1 |
 | [luzkenin](https://infosec.exchange/@luzkenin) | Joe 🏔️ King of NYNEX | infosec.exchange | 1 |
+| [redbeardsec](https://infosec.exchange/@redbeardsec) | Redbeard | infosec.exchange | 1 |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 1 |
 | [mortensummer](https://masto.ai/@mortensummer) | Tom | masto.ai | 1 |
 | [dHardestBattles](https://mastodon.social/@dHardestBattles) | The Hardest Battles :birdsite: | mastodon.social | 1 |
