@@ -1,9 +1,10 @@
 # Top Users for March 2023
-Last Updated: 03/03/2023 06:31:26 UTC
+Last Updated: 03/03/2023 07:23:18 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 2 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 1 |
+| [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 1 |
 | [xeo](https://home.social/@xeo) | Chief Posh ☑ | home.social | 1 |
 | [kaidja](https://infosec.exchange/@kaidja) | Kaido Järvemets | infosec.exchange | 1 |
 | [luzkenin](https://infosec.exchange/@luzkenin) | Joe 🏔️ King of NYNEX | infosec.exchange | 1 |
