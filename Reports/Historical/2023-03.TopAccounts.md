@@ -1,5 +1,5 @@
 # Top Users for March 2023
-Last Updated: 03/04/2023 15:24:43 UTC
+Last Updated: 03/04/2023 16:31:40 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 4 |
@@ -16,4 +16,5 @@ Last Updated: 03/04/2023 15:24:43 UTC
 | [mortensummer](https://masto.ai/@mortensummer) | Tom | masto.ai | 1 |
 | [dHardestBattles](https://mastodon.social/@dHardestBattles) | The Hardest Battles :birdsite: | mastodon.social | 1 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 1 |
+| [xtecnomundo](https://mastodon.social/@xtecnomundo) | xTecnoMundo :mastodon: 🇵🇪 | mastodon.social | 1 |
 | [dcac](https://techhub.social/@dcac) | Denny Cherry & Assoc | techhub.social | 1 |
