@@ -1,5 +1,5 @@
 # Top Users for March 2023
-Last Updated: 03/04/2023 13:28:08 UTC
+Last Updated: 03/04/2023 14:23:38 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 4 |
@@ -11,6 +11,7 @@ Last Updated: 03/04/2023 13:28:08 UTC
 | [sstranger](https://techhub.social/@sstranger) | Stefan Stranger | techhub.social | 2 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 1 |
 | [xeo](https://home.social/@xeo) | Chief Posh ☑ | home.social | 1 |
+| [dwmetz](https://infosec.exchange/@dwmetz) | Doug Metz | infosec.exchange | 1 |
 | [redbeardsec](https://infosec.exchange/@redbeardsec) | Redbeard | infosec.exchange | 1 |
 | [mortensummer](https://masto.ai/@mortensummer) | Tom | masto.ai | 1 |
 | [dHardestBattles](https://mastodon.social/@dHardestBattles) | The Hardest Battles :birdsite: | mastodon.social | 1 |
