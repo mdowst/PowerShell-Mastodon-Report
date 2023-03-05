@@ -1,5 +1,5 @@
 # Top Users for March 2023
-Last Updated: 03/05/2023 19:19:31 UTC
+Last Updated: 03/05/2023 20:24:40 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 4 |
@@ -10,6 +10,7 @@ Last Updated: 03/05/2023 19:19:31 UTC
 | [luzkenin](https://infosec.exchange/@luzkenin) | Joe 🏔️ King of NYNEX | infosec.exchange | 2 |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 2 |
 | [cl](https://tech.lgbt/@cl) | Chrissy LeMaire :thonkpad: | tech.lgbt | 2 |
+| [gom](https://chaos.social/@gom) | gom | chaos.social | 1 |
 | [dcac](https://techhub.social/@dcac) | Denny Cherry & Assoc | techhub.social | 1 |
 | [bowencode](https://techhub.social/@bowencode) | John Bowen | techhub.social | 1 |
 | [xtecnomundo](https://mastodon.social/@xtecnomundo) | xTecnoMundo :mastodon: 🇵🇪 | mastodon.social | 1 |
