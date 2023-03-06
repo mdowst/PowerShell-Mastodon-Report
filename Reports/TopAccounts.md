@@ -1,5 +1,5 @@
 # Top Users for March 2023
-Last Updated: 03/06/2023 11:22:01 UTC
+Last Updated: 03/06/2023 12:47:42 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 4 |
@@ -12,6 +12,7 @@ Last Updated: 03/06/2023 11:22:01 UTC
 | [cl](https://tech.lgbt/@cl) | Chrissy LeMaire :thonkpad: | tech.lgbt | 2 |
 | [gom](https://chaos.social/@gom) | gom | chaos.social | 1 |
 | [dcac](https://techhub.social/@dcac) | Denny Cherry & Assoc | techhub.social | 1 |
+| [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 1 |
 | [bowencode](https://techhub.social/@bowencode) | John Bowen | techhub.social | 1 |
 | [alecthegeek](https://mstdn.social/@alecthegeek) | Alec :tux: 🇦🇺 🖥️ | mstdn.social | 1 |
 | [xtecnomundo](https://mastodon.social/@xtecnomundo) | xTecnoMundo :mastodon: 🇵🇪 | mastodon.social | 1 |
