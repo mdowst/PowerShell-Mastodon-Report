@@ -1,5 +1,5 @@
 # Top Users for March 2023
-Last Updated: 03/09/2023 16:35:57 UTC
+Last Updated: 03/09/2023 17:25:18 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 7 |
@@ -11,10 +11,11 @@ Last Updated: 03/09/2023 16:35:57 UTC
 | [chrisbradshaw](https://mas.to/@chrisbradshaw) | Chris Bradshaw | mas.to | 2 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 2 |
 | [kaidja](https://infosec.exchange/@kaidja) | Kaido Järvemets | infosec.exchange | 2 |
-| [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 2 |
+| [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 2 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 2 |
 | [sstranger](https://techhub.social/@sstranger) | Stefan Stranger | techhub.social | 2 |
 | [gom](https://chaos.social/@gom) | gom | chaos.social | 2 |
+| [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 2 |
 | [gregglsc](https://techhub.social/@gregglsc) | Gregg Lott | techhub.social | 1 |
 | [jdm2](https://techhub.social/@jdm2) | jdm2 | techhub.social | 1 |
 | [bowencode](https://techhub.social/@bowencode) | John Bowen | techhub.social | 1 |
@@ -26,7 +27,6 @@ Last Updated: 03/09/2023 16:35:57 UTC
 | [coda](https://meow.social/@coda) | Coda | meow.social | 1 |
 | [dcac](https://techhub.social/@dcac) | Denny Cherry & Assoc | techhub.social | 1 |
 | [TechNews](https://aspiechattr.me/@TechNews) | Tech News Worldwide | aspiechattr.me | 1 |
-| [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 1 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 1 |
 | [tyno](https://bne.social/@tyno) | Tyno | bne.social | 1 |
 | [falkheiland](https://fosstodon.org/@falkheiland) | Falk Heiland 🇺🇦 | fosstodon.org | 1 |
