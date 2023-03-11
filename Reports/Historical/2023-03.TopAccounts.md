@@ -1,5 +1,5 @@
 # Top Users for March 2023
-Last Updated: 03/11/2023 04:28:21 UTC
+Last Updated: 03/11/2023 05:22:48 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 11 |
@@ -29,19 +29,20 @@ Last Updated: 03/11/2023 04:28:21 UTC
 | [umbraroze](https://tech.lgbt/@umbraroze) | Yesterday's Rose | tech.lgbt | 1 |
 | [dcac](https://techhub.social/@dcac) | Denny Cherry & Assoc | techhub.social | 1 |
 | [TechNews](https://aspiechattr.me/@TechNews) | Tech News Worldwide | aspiechattr.me | 1 |
-| [dHardestBattles](https://mastodon.social/@dHardestBattles) | The Hardest Battles :birdsite: | mastodon.social | 1 |
-| [cavorter](https://twit.social/@cavorter) | Nathan Stohlmann | twit.social | 1 |
-| [archer72](https://mastodon.sdf.org/@archer72) | Mark | mastodon.sdf.org | 1 |
-| [mortensummer](https://masto.ai/@mortensummer) | Tom | masto.ai | 1 |
-| [rodtrent](https://infosec.exchange/@rodtrent) | rodtrent :verified: | infosec.exchange | 1 |
-| [redbeardsec](https://infosec.exchange/@redbeardsec) | Redbeard | infosec.exchange | 1 |
-| [paulsanders](https://infosec.exchange/@paulsanders) | Paul Sanders | infosec.exchange | 1 |
-| [onelin](https://infosec.exchange/@onelin) | Joshua McKinnon | infosec.exchange | 1 |
-| [oldschool](https://infosec.exchange/@oldschool) | %profile% | infosec.exchange | 1 |
-| [xeo](https://home.social/@xeo) | Chief Posh ☑ | home.social | 1 |
-| [holgerjs](https://hachyderm.io/@holgerjs) | holger | hachyderm.io | 1 |
-| [deadlydog](https://hachyderm.io/@deadlydog) | Dan Schroeder | hachyderm.io | 1 |
-| [falkheiland](https://fosstodon.org/@falkheiland) | Falk Heiland 🇺🇦 | fosstodon.org | 1 |
-| [tyno](https://bne.social/@tyno) | Tyno | bne.social | 1 |
 | [xtecnomundo](https://mastodon.social/@xtecnomundo) | xTecnoMundo :mastodon: 🇵🇪 | mastodon.social | 1 |
+| [tyno](https://bne.social/@tyno) | Tyno | bne.social | 1 |
+| [falkheiland](https://fosstodon.org/@falkheiland) | Falk Heiland 🇺🇦 | fosstodon.org | 1 |
+| [deadlydog](https://hachyderm.io/@deadlydog) | Dan Schroeder | hachyderm.io | 1 |
+| [holgerjs](https://hachyderm.io/@holgerjs) | holger | hachyderm.io | 1 |
+| [xeo](https://home.social/@xeo) | Chief Posh ☑ | home.social | 1 |
+| [oldschool](https://infosec.exchange/@oldschool) | %profile% | infosec.exchange | 1 |
+| [nicferr](https://mastodon.uno/@nicferr) | Nicola Ferrini | mastodon.uno | 1 |
+| [onelin](https://infosec.exchange/@onelin) | Joshua McKinnon | infosec.exchange | 1 |
+| [redbeardsec](https://infosec.exchange/@redbeardsec) | Redbeard | infosec.exchange | 1 |
+| [rodtrent](https://infosec.exchange/@rodtrent) | rodtrent :verified: | infosec.exchange | 1 |
+| [mortensummer](https://masto.ai/@mortensummer) | Tom | masto.ai | 1 |
+| [archer72](https://mastodon.sdf.org/@archer72) | Mark | mastodon.sdf.org | 1 |
+| [cavorter](https://twit.social/@cavorter) | Nathan Stohlmann | twit.social | 1 |
+| [dHardestBattles](https://mastodon.social/@dHardestBattles) | The Hardest Battles :birdsite: | mastodon.social | 1 |
+| [paulsanders](https://infosec.exchange/@paulsanders) | Paul Sanders | infosec.exchange | 1 |
 | [ebmarquez](https://twit.social/@ebmarquez) | Eric Marquez | twit.social | 1 |
