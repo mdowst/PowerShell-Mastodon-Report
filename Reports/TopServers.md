@@ -1,22 +1,22 @@
 # Top Servers for March 2023
-Last Updated: 03/14/2023 14:28:35 UTC
+Last Updated: 03/14/2023 15:31:15 UTC
 | Server | Posts | Active Users |
 | -- | -- | -- |
-| [techhub.social](https://techhub.social/tags/PowerShell) | 31 | 10 |
+| [techhub.social](https://techhub.social/tags/PowerShell) | 32 | 10 |
 | [infosec.exchange](https://infosec.exchange/tags/PowerShell) | 16 | 10 |
 | [mastodon.social](https://mastodon.social/tags/PowerShell) | 15 | 6 |
 | [fosstodon.org](https://fosstodon.org/tags/PowerShell) | 13 | 6 |
 | [mastodonapp.uk](https://mastodonapp.uk/tags/PowerShell) | 9 | 1 |
 | [masto.ai](https://masto.ai/tags/PowerShell) | 3 | 2 |
 | [tech.lgbt](https://tech.lgbt/tags/PowerShell) | 3 | 2 |
+| [chaos.social](https://chaos.social/tags/PowerShell) | 3 | 1 |
 | [hachyderm.io](https://hachyderm.io/tags/PowerShell) | 3 | 3 |
 | [mas.to](https://mas.to/tags/PowerShell) | 3 | 2 |
 | [mstdn.social](https://mstdn.social/tags/PowerShell) | 2 | 2 |
 | [twit.social](https://twit.social/tags/PowerShell) | 2 | 2 |
 | [home.social](https://home.social/tags/PowerShell) | 2 | 2 |
-| [chaos.social](https://chaos.social/tags/PowerShell) | 2 | 1 |
-| [mastodon.uno](https://mastodon.uno/tags/PowerShell) | 1 | 1 |
+| [mastodon.sdf.org](https://mastodon.sdf.org/tags/PowerShell) | 1 | 1 |
 | [meow.social](https://meow.social/tags/PowerShell) | 1 | 1 |
 | [bne.social](https://bne.social/tags/PowerShell) | 1 | 1 |
-| [mastodon.sdf.org](https://mastodon.sdf.org/tags/PowerShell) | 1 | 1 |
+| [mastodon.uno](https://mastodon.uno/tags/PowerShell) | 1 | 1 |
 | [aspiechattr.me](https://aspiechattr.me/tags/PowerShell) | 1 | 1 |
