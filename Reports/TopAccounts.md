@@ -1,5 +1,5 @@
 # Top Users for March 2023
-Last Updated: 03/14/2023 15:31:15 UTC
+Last Updated: 03/14/2023 16:40:58 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 18 |
@@ -18,10 +18,10 @@ Last Updated: 03/14/2023 15:31:15 UTC
 | [kaidja](https://infosec.exchange/@kaidja) | Kaido Järvemets | infosec.exchange | 2 |
 | [cl](https://tech.lgbt/@cl) | Chrissy LeMaire :thonkpad: | tech.lgbt | 2 |
 | [dwmetz](https://infosec.exchange/@dwmetz) | Doug Metz | infosec.exchange | 2 |
+| [dcac](https://techhub.social/@dcac) | Denny Cherry & Assoc | techhub.social | 2 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 2 |
 | [sstranger](https://techhub.social/@sstranger) | Stefan Stranger | techhub.social | 2 |
 | [bowencode](https://techhub.social/@bowencode) | John Bowen | techhub.social | 1 |
-| [dcac](https://techhub.social/@dcac) | Denny Cherry & Assoc | techhub.social | 1 |
 | [gregglsc](https://techhub.social/@gregglsc) | Gregg Lott | techhub.social | 1 |
 | [catboy](https://mstdn.social/@catboy) | Katzenjunge :QueerCat_Pride:​ | mstdn.social | 1 |
 | [alecthegeek](https://mstdn.social/@alecthegeek) | Alec :tux: 🇦🇺 🖥️ | mstdn.social | 1 |
