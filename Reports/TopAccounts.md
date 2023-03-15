@@ -1,5 +1,5 @@
 # Top Users for March 2023
-Last Updated: 03/15/2023 06:29:42 UTC
+Last Updated: 03/15/2023 07:21:59 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 20 |
@@ -22,15 +22,16 @@ Last Updated: 03/15/2023 06:29:42 UTC
 | [sstranger](https://techhub.social/@sstranger) | Stefan Stranger | techhub.social | 2 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 2 |
 | [bowencode](https://techhub.social/@bowencode) | John Bowen | techhub.social | 1 |
-| [Stark9837](https://techhub.social/@Stark9837) | stark@ubuntu:~$ :idle: | techhub.social | 1 |
 | [xtecnomundo](https://mastodon.social/@xtecnomundo) | xTecnoMundo :mastodon: 🇵🇪 | mastodon.social | 1 |
+| [Stark9837](https://techhub.social/@Stark9837) | stark@ubuntu:~$ :idle: | techhub.social | 1 |
 | [nicferr](https://mastodon.uno/@nicferr) | Nicola Ferrini | mastodon.uno | 1 |
 | [JdeBP](https://mastodonapp.uk/@JdeBP) | JdeBP | mastodonapp.uk | 1 |
 | [jdm2](https://techhub.social/@jdm2) | jdm2 | techhub.social | 1 |
 | [coda](https://meow.social/@coda) | Coda | meow.social | 1 |
-| [JamesDBartlett3](https://techhub.social/@JamesDBartlett3) | James Bartlett :terminal: | techhub.social | 1 |
 | [alecthegeek](https://mstdn.social/@alecthegeek) | Alec :tux: 🇦🇺 🖥️ | mstdn.social | 1 |
+| [JamesDBartlett3](https://techhub.social/@JamesDBartlett3) | James Bartlett :terminal: | techhub.social | 1 |
 | [catboy](https://mstdn.social/@catboy) | Katzenjunge :QueerCat_Pride:​ | mstdn.social | 1 |
+| [fabiscafe](https://mstdn.social/@fabiscafe) | Fabian :blobcatlul: | mstdn.social | 1 |
 | [YourAnonRiots](https://mstdn.social/@YourAnonRiots) | Anonymous  :anarchism: 🏴 | mstdn.social | 1 |
 | [gregglsc](https://techhub.social/@gregglsc) | Gregg Lott | techhub.social | 1 |
 | [umbraroze](https://tech.lgbt/@umbraroze) | Yesterday's Rose | tech.lgbt | 1 |
