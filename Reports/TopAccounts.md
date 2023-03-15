@@ -1,5 +1,5 @@
 # Top Users for March 2023
-Last Updated: 03/14/2023 23:24:01 UTC
+Last Updated: 03/15/2023 01:47:48 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 20 |
@@ -12,6 +12,7 @@ Last Updated: 03/14/2023 23:24:01 UTC
 | [luzkenin](https://infosec.exchange/@luzkenin) | Joe 🏔️ King of NYNEX | infosec.exchange | 3 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 3 |
 | [AndrewPlaTech](https://techhub.social/@AndrewPlaTech) | AndrewPlaTech | techhub.social | 3 |
+| [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 2 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 2 |
 | [chrisbradshaw](https://mas.to/@chrisbradshaw) | Chris Bradshaw | mas.to | 2 |
 | [kaidja](https://infosec.exchange/@kaidja) | Kaido Järvemets | infosec.exchange | 2 |
@@ -20,19 +21,19 @@ Last Updated: 03/14/2023 23:24:01 UTC
 | [dcac](https://techhub.social/@dcac) | Denny Cherry & Assoc | techhub.social | 2 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 2 |
 | [sstranger](https://techhub.social/@sstranger) | Stefan Stranger | techhub.social | 2 |
-| [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 2 |
-| [geekland](https://mastodon.social/@geekland) | Geekland | mastodon.social | 1 |
 | [bowencode](https://techhub.social/@bowencode) | John Bowen | techhub.social | 1 |
 | [gregglsc](https://techhub.social/@gregglsc) | Gregg Lott | techhub.social | 1 |
+| [YourAnonRiots](https://mstdn.social/@YourAnonRiots) | Anonymous  :anarchism: 🏴 | mstdn.social | 1 |
 | [catboy](https://mstdn.social/@catboy) | Katzenjunge :QueerCat_Pride:​ | mstdn.social | 1 |
 | [alecthegeek](https://mstdn.social/@alecthegeek) | Alec :tux: 🇦🇺 🖥️ | mstdn.social | 1 |
-| [coda](https://meow.social/@coda) | Coda | meow.social | 1 |
 | [JamesDBartlett3](https://techhub.social/@JamesDBartlett3) | James Bartlett :terminal: | techhub.social | 1 |
+| [coda](https://meow.social/@coda) | Coda | meow.social | 1 |
 | [jdm2](https://techhub.social/@jdm2) | jdm2 | techhub.social | 1 |
 | [nicferr](https://mastodon.uno/@nicferr) | Nicola Ferrini | mastodon.uno | 1 |
 | [xtecnomundo](https://mastodon.social/@xtecnomundo) | xTecnoMundo :mastodon: 🇵🇪 | mastodon.social | 1 |
 | [Stark9837](https://techhub.social/@Stark9837) | stark@ubuntu:~$ :idle: | techhub.social | 1 |
 | [umbraroze](https://tech.lgbt/@umbraroze) | Yesterday's Rose | tech.lgbt | 1 |
+| [geekland](https://mastodon.social/@geekland) | Geekland | mastodon.social | 1 |
 | [TechNews](https://aspiechattr.me/@TechNews) | Tech News Worldwide | aspiechattr.me | 1 |
 | [archer72](https://mastodon.sdf.org/@archer72) | Mark | mastodon.sdf.org | 1 |
 | [tyno](https://bne.social/@tyno) | Tyno | bne.social | 1 |
