@@ -1,8 +1,8 @@
 # Top Users for March 2023
-Last Updated: 03/17/2023 12:44:15 UTC
+Last Updated: 03/17/2023 13:29:38 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
-| [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 22 |
+| [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 23 |
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 9 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 9 |
 | [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 7 |
@@ -14,6 +14,7 @@ Last Updated: 03/17/2023 12:44:15 UTC
 | [dcac](https://techhub.social/@dcac) | Denny Cherry & Assoc | techhub.social | 3 |
 | [redbeardsec](https://infosec.exchange/@redbeardsec) | Redbeard | infosec.exchange | 3 |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 3 |
+| [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 3 |
 | [gom](https://chaos.social/@gom) | gom | chaos.social | 3 |
 | [chrisbradshaw](https://mas.to/@chrisbradshaw) | Chris Bradshaw | mas.to | 2 |
 | [mammaclauds](https://fosstodon.org/@mammaclauds) | Claudia Regio | fosstodon.org | 2 |
@@ -21,7 +22,6 @@ Last Updated: 03/17/2023 12:44:15 UTC
 | [dwmetz](https://infosec.exchange/@dwmetz) | Doug Metz | infosec.exchange | 2 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 2 |
 | [kaidja](https://infosec.exchange/@kaidja) | Kaido Järvemets | infosec.exchange | 2 |
-| [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 2 |
 | [sstranger](https://techhub.social/@sstranger) | Stefan Stranger | techhub.social | 2 |
 | [coda](https://meow.social/@coda) | Coda | meow.social | 1 |
 | [nicferr](https://mastodon.uno/@nicferr) | Nicola Ferrini | mastodon.uno | 1 |
