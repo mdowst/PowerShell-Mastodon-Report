@@ -1,11 +1,11 @@
 # Top Users for March 2023
-Last Updated: 03/18/2023 15:22:54 UTC
+Last Updated: 03/18/2023 16:30:12 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 25 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 12 |
+| [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 10 |
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 9 |
-| [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 9 |
 | [HansBrender](https://mastodon.social/@HansBrender) | Hans Brender, Mr.OneDrive | mastodon.social | 5 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 4 |
 | [dcac](https://techhub.social/@dcac) | Denny Cherry & Assoc | techhub.social | 3 |
