@@ -1,5 +1,5 @@
 # Top Users for March 2023
-Last Updated: 03/22/2023 11:19:39 UTC
+Last Updated: 03/22/2023 12:41:36 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 25 |
@@ -7,8 +7,8 @@ Last Updated: 03/22/2023 11:19:39 UTC
 | [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 11 |
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 10 |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 6 |
+| [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 6 |
 | [HansBrender](https://mastodon.social/@HansBrender) | Hans Brender, Mr.OneDrive | mastodon.social | 5 |
-| [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 5 |
 | [dcac](https://techhub.social/@dcac) | Denny Cherry & Assoc | techhub.social | 3 |
 | [luzkenin](https://infosec.exchange/@luzkenin) | Joe 🏔️ King of NYNEX | infosec.exchange | 3 |
 | [redbeardsec](https://infosec.exchange/@redbeardsec) | Redbeard | infosec.exchange | 3 |
