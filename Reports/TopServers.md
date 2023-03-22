@@ -1,5 +1,5 @@
 # Top Servers for March 2023
-Last Updated: 03/22/2023 08:28:02 UTC
+Last Updated: 03/22/2023 09:22:30 UTC
 | Server | Posts | Active Users |
 | -- | -- | -- |
 | [techhub.social](https://techhub.social/tags/PowerShell) | 43 | 10 |
@@ -13,9 +13,9 @@ Last Updated: 03/22/2023 08:28:02 UTC
 | [mstdn.social](https://mstdn.social/tags/PowerShell) | 4 | 4 |
 | [chaos.social](https://chaos.social/tags/PowerShell) | 3 | 1 |
 | [mas.to](https://mas.to/tags/PowerShell) | 3 | 2 |
+| [twit.social](https://twit.social/tags/PowerShell) | 3 | 3 |
 | [home.social](https://home.social/tags/PowerShell) | 2 | 2 |
 | [ioc.exchange](https://ioc.exchange/tags/PowerShell) | 2 | 2 |
-| [twit.social](https://twit.social/tags/PowerShell) | 2 | 2 |
 | [aspiechattr.me](https://aspiechattr.me/tags/PowerShell) | 1 | 1 |
 | [social.tchncs.de](https://social.tchncs.de/tags/PowerShell) | 1 | 1 |
 | [mastodon.nu](https://mastodon.nu/tags/PowerShell) | 1 | 1 |
