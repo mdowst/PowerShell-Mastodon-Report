@@ -1,5 +1,5 @@
 # Top Users for March 2023
-Last Updated: 03/28/2023 01:45:11 UTC
+Last Updated: 03/28/2023 02:40:47 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 33 |
@@ -11,9 +11,9 @@ Last Updated: 03/28/2023 01:45:11 UTC
 | [HansBrender](https://mastodon.social/@HansBrender) | Hans Brender, Mr.OneDrive | mastodon.social | 5 |
 | [JdeBP](https://mastodonapp.uk/@JdeBP) | JdeBP | mastodonapp.uk | 4 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 4 |
+| [thedavecarroll](https://fosstodon.org/@thedavecarroll) | Dave Carroll | fosstodon.org | 4 |
 | [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 3 |
 | [gom](https://chaos.social/@gom) | gom | chaos.social | 3 |
-| [thedavecarroll](https://fosstodon.org/@thedavecarroll) | Dave Carroll | fosstodon.org | 3 |
 | [redbeardsec](https://infosec.exchange/@redbeardsec) | Redbeard | infosec.exchange | 3 |
 | [luzkenin](https://infosec.exchange/@luzkenin) | Joe 🏔️ King of NYNEX | infosec.exchange | 3 |
 | [dcac](https://techhub.social/@dcac) | Denny Cherry & Assoc | techhub.social | 3 |
