@@ -1,5 +1,5 @@
 # Top Users for April 2023
-Last Updated: 04/01/2023 21:18:41 UTC
+Last Updated: 04/01/2023 22:21:44 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [r1cksec](https://infosec.exchange/@r1cksec) | r1cksec | infosec.exchange | 1 |
