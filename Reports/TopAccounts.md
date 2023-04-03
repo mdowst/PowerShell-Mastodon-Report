@@ -1,8 +1,9 @@
 # Top Users for April 2023
-Last Updated: 04/03/2023 17:21:35 UTC
+Last Updated: 04/03/2023 19:17:29 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [jborean](https://fosstodon.org/@jborean) | Jordan Borean | fosstodon.org | 1 |
+| [ctrlaltsecurity](https://infosec.exchange/@ctrlaltsecurity) | Mark Blair ✅ 🛡 :donor: | infosec.exchange | 1 |
 | [fabian_bader](https://infosec.exchange/@fabian_bader) | Fabian Bader | infosec.exchange | 1 |
 | [r1cksec](https://infosec.exchange/@r1cksec) | r1cksec | infosec.exchange | 1 |
 | [mortensummer](https://masto.ai/@mortensummer) | Tom | masto.ai | 1 |
