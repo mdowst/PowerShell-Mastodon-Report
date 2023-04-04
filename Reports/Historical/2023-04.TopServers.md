@@ -1,5 +1,5 @@
 # Top Servers for April 2023
-Last Updated: 04/04/2023 21:19:44 UTC
+Last Updated: 04/04/2023 22:22:30 UTC
 | Server | Posts | Active Users |
 | -- | -- | -- |
 | [infosec.exchange](https://infosec.exchange/tags/PowerShell) | 4 | 4 |
