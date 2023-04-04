@@ -1,7 +1,8 @@
 # Top Users for April 2023
-Last Updated: 04/04/2023 05:22:18 UTC
+Last Updated: 04/04/2023 06:27:50 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
+| [kubikpixel](https://chaos.social/@kubikpixel) | KubikPixel™ | chaos.social | 1 |
 | [jborean](https://fosstodon.org/@jborean) | Jordan Borean | fosstodon.org | 1 |
 | [thedavecarroll](https://fosstodon.org/@thedavecarroll) | Dave Carroll | fosstodon.org | 1 |
 | [ctrlaltsecurity](https://infosec.exchange/@ctrlaltsecurity) | Mark Blair ✅ 🛡 :donor: | infosec.exchange | 1 |
