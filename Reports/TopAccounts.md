@@ -1,5 +1,5 @@
 # Top Users for April 2023
-Last Updated: 04/04/2023 14:23:27 UTC
+Last Updated: 04/04/2023 15:23:06 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [kubikpixel](https://chaos.social/@kubikpixel) | KubikPixel™ | chaos.social | 1 |
@@ -13,5 +13,6 @@ Last Updated: 04/04/2023 14:23:27 UTC
 | [imsampro](https://mastodon.social/@imsampro) | Soumyadeep Mandal | mastodon.social | 1 |
 | [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 1 |
 | [orion3311](https://mastodon.social/@orion3311) | JeffG | mastodon.social | 1 |
+| [JdeBP](https://mastodonapp.uk/@JdeBP) | JdeBP | mastodonapp.uk | 1 |
 | [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 1 |
 | [TonyRedmond](https://techhub.social/@TonyRedmond) | Tony Redmond | techhub.social | 1 |
