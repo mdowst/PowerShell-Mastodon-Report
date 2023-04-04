@@ -1,5 +1,5 @@
 # Top Users for April 2023
-Last Updated: 04/04/2023 03:22:36 UTC
+Last Updated: 04/04/2023 04:26:12 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [jborean](https://fosstodon.org/@jborean) | Jordan Borean | fosstodon.org | 1 |
