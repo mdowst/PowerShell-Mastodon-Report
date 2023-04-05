@@ -1,8 +1,10 @@
 # Top Users for April 2023
-Last Updated: 04/05/2023 17:23:56 UTC
+Last Updated: 04/05/2023 18:30:43 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
+| [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 2 |
 | [kubikpixel](https://chaos.social/@kubikpixel) | KubikPixel™ | chaos.social | 1 |
+| [tarnkappeinfo](https://social.tchncs.de/@tarnkappeinfo) | Tarnkappe.info | social.tchncs.de | 1 |
 | [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 1 |
 | [JdeBP](https://mastodonapp.uk/@JdeBP) | JdeBP | mastodonapp.uk | 1 |
 | [orion3311](https://mastodon.social/@orion3311) | JeffG | mastodon.social | 1 |
@@ -10,7 +12,6 @@ Last Updated: 04/05/2023 17:23:56 UTC
 | [imsampro](https://mastodon.social/@imsampro) | Soumyadeep Mandal | mastodon.social | 1 |
 | [mortensummer](https://masto.ai/@mortensummer) | Tom | masto.ai | 1 |
 | [Toxic_Flange](https://infosec.exchange/@Toxic_Flange) | Gurjeet 🍆 🍁🐱‍💻💩 | infosec.exchange | 1 |
-| [tarnkappeinfo](https://social.tchncs.de/@tarnkappeinfo) | Tarnkappe.info | social.tchncs.de | 1 |
 | [r1cksec](https://infosec.exchange/@r1cksec) | r1cksec | infosec.exchange | 1 |
 | [ctrlaltsecurity](https://infosec.exchange/@ctrlaltsecurity) | Mark Blair ✅ 🛡 :donor: | infosec.exchange | 1 |
 | [bpfinn](https://infosec.exchange/@bpfinn) | Brian Finn | infosec.exchange | 1 |
