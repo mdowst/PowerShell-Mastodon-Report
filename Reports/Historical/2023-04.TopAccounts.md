@@ -1,5 +1,5 @@
 # Top Users for April 2023
-Last Updated: 04/05/2023 08:29:51 UTC
+Last Updated: 04/05/2023 09:24:16 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [kubikpixel](https://chaos.social/@kubikpixel) | KubikPixel™ | chaos.social | 1 |
