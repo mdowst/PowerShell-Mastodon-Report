@@ -1,5 +1,5 @@
 # Top Users for April 2023
-Last Updated: 04/05/2023 23:19:11 UTC
+Last Updated: 04/06/2023 01:38:01 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 2 |
@@ -13,9 +13,11 @@ Last Updated: 04/05/2023 23:19:11 UTC
 | [mortensummer](https://masto.ai/@mortensummer) | Tom | masto.ai | 1 |
 | [Toxic_Flange](https://infosec.exchange/@Toxic_Flange) | Gurjeet 🍆 🍁🐱‍💻💩 | infosec.exchange | 1 |
 | [r1cksec](https://infosec.exchange/@r1cksec) | r1cksec | infosec.exchange | 1 |
+| [keen456](https://infosec.exchange/@keen456) | Steve Zakulec | infosec.exchange | 1 |
 | [ctrlaltsecurity](https://infosec.exchange/@ctrlaltsecurity) | Mark Blair ✅ 🛡 :donor: | infosec.exchange | 1 |
 | [bpfinn](https://infosec.exchange/@bpfinn) | Brian Finn | infosec.exchange | 1 |
 | [thedavecarroll](https://fosstodon.org/@thedavecarroll) | Dave Carroll | fosstodon.org | 1 |
+| [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 1 |
 | [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 1 |
 | [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 1 |
 | [lgeurts](https://fosstodon.org/@lgeurts) | Flous :gnome: :debian: | fosstodon.org | 1 |
