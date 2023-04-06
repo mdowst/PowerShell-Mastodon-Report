@@ -1,11 +1,11 @@
 # Top Users for April 2023
-Last Updated: 04/06/2023 03:22:46 UTC
+Last Updated: 04/06/2023 04:26:31 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
+| [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 2 |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 2 |
 | [kubikpixel](https://chaos.social/@kubikpixel) | KubikPixel™ | chaos.social | 1 |
 | [tarnkappeinfo](https://social.tchncs.de/@tarnkappeinfo) | Tarnkappe.info | social.tchncs.de | 1 |
-| [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 1 |
 | [JdeBP](https://mastodonapp.uk/@JdeBP) | JdeBP | mastodonapp.uk | 1 |
 | [orion3311](https://mastodon.social/@orion3311) | JeffG | mastodon.social | 1 |
 | [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 1 |
