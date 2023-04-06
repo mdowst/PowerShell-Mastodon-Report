@@ -1,5 +1,5 @@
 # Top Users for April 2023
-Last Updated: 04/06/2023 06:27:02 UTC
+Last Updated: 04/06/2023 07:19:48 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 2 |
