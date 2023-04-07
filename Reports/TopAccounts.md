@@ -1,11 +1,11 @@
 # Top Users for April 2023
-Last Updated: 04/07/2023 20:22:14 UTC
+Last Updated: 04/07/2023 21:18:50 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
+| [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 3 |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 2 |
 | [cl](https://tech.lgbt/@cl) | Chrissy LeMaire :thonkpad: | tech.lgbt | 2 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 2 |
-| [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 2 |
 | [mortensummer](https://masto.ai/@mortensummer) | Tom | masto.ai | 2 |
 | [kubikpixel](https://chaos.social/@kubikpixel) | KubikPixel™ | chaos.social | 1 |
 | [msclouditpro](https://techhub.social/@msclouditpro) | Microsoft Cloud IT Pro Podcast | techhub.social | 1 |
