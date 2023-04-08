@@ -1,5 +1,5 @@
 # Top Users for April 2023
-Last Updated: 04/08/2023 04:25:57 UTC
+Last Updated: 04/08/2023 05:20:55 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 3 |
