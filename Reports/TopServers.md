@@ -1,5 +1,5 @@
 # Top Servers for April 2023
-Last Updated: 04/09/2023 21:18:13 UTC
+Last Updated: 04/09/2023 22:21:43 UTC
 | Server | Posts | Active Users |
 | -- | -- | -- |
 | [fosstodon.org](https://fosstodon.org/tags/PowerShell) | 10 | 8 |
