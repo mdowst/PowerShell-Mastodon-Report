@@ -1,5 +1,5 @@
 # Top Users for April 2023
-Last Updated: 04/09/2023 04:25:42 UTC
+Last Updated: 04/09/2023 05:21:41 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 3 |
@@ -23,6 +23,7 @@ Last Updated: 04/09/2023 04:25:42 UTC
 | [r1cksec](https://infosec.exchange/@r1cksec) | r1cksec | infosec.exchange | 1 |
 | [keen456](https://infosec.exchange/@keen456) | Steve Zakulec | infosec.exchange | 1 |
 | [fabian_bader](https://infosec.exchange/@fabian_bader) | Fabian Bader | infosec.exchange | 1 |
+| [ehmiiz](https://infosec.exchange/@ehmiiz) | Emil Larsson | infosec.exchange | 1 |
 | [ctrlaltsecurity](https://infosec.exchange/@ctrlaltsecurity) | Mark Blair ✅ 🛡 :donor: | infosec.exchange | 1 |
 | [bpfinn](https://infosec.exchange/@bpfinn) | Brian Finn | infosec.exchange | 1 |
 | [Chrisayers](https://hachyderm.io/@Chrisayers) | Chris Ayers | hachyderm.io | 1 |
