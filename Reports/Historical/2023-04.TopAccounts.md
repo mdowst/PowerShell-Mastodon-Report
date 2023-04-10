@@ -1,19 +1,19 @@
 # Top Users for April 2023
-Last Updated: 04/10/2023 17:21:21 UTC
+Last Updated: 04/10/2023 18:26:31 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 3 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 3 |
+| [TechDirectArchive](https://mastodon.social/@TechDirectArchive) | TechDirectArchive | mastodon.social | 2 |
 | [cl](https://tech.lgbt/@cl) | Chrissy LeMaire :thonkpad: | tech.lgbt | 2 |
-| [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 2 |
 | [mortensummer](https://masto.ai/@mortensummer) | Tom | masto.ai | 2 |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 2 |
+| [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 2 |
 | [ManningPublications](https://techhub.social/@ManningPublications) | Manning Publications | techhub.social | 1 |
-| [msclouditpro](https://techhub.social/@msclouditpro) | Microsoft Cloud IT Pro Podcast | techhub.social | 1 |
 | [tarnkappeinfo](https://social.tchncs.de/@tarnkappeinfo) | Tarnkappe.info | social.tchncs.de | 1 |
 | [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 1 |
 | [JdeBP](https://mastodonapp.uk/@JdeBP) | JdeBP | mastodonapp.uk | 1 |
-| [TechDirectArchive](https://mastodon.social/@TechDirectArchive) | TechDirectArchive | mastodon.social | 1 |
+| [msclouditpro](https://techhub.social/@msclouditpro) | Microsoft Cloud IT Pro Podcast | techhub.social | 1 |
 | [orion3311](https://mastodon.social/@orion3311) | JeffG | mastodon.social | 1 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 1 |
 | [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 1 |
