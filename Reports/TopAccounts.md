@@ -1,5 +1,5 @@
 # Top Users for April 2023
-Last Updated: 04/14/2023 15:21:47 UTC
+Last Updated: 04/14/2023 16:29:23 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 6 |
@@ -14,18 +14,18 @@ Last Updated: 04/14/2023 15:21:47 UTC
 | [cl](https://tech.lgbt/@cl) | Chrissy LeMaire :thonkpad: | tech.lgbt | 2 |
 | [TechDirectArchive](https://mastodon.social/@TechDirectArchive) | TechDirectArchive | mastodon.social | 2 |
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 2 |
+| [JdeBP](https://mastodonapp.uk/@JdeBP) | JdeBP | mastodonapp.uk | 2 |
 | [orion3311](https://mastodon.social/@orion3311) | JeffG | mastodon.social | 1 |
 | [rmathew](https://mastodon.social/@rmathew) | रञ्जित (Ranjit Mathew) | mastodon.social | 1 |
 | [rooneymcnibnug](https://mastodon.social/@rooneymcnibnug) | RooneyMcNibNug | mastodon.social | 1 |
 | [kubikpixel](https://chaos.social/@kubikpixel) | KubikPixel™ | chaos.social | 1 |
-| [FL](https://mastodontech.de/@FL) | FL | mastodontech.de | 1 |
 | [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 1 |
 | [tarnkappeinfo](https://social.tchncs.de/@tarnkappeinfo) | Tarnkappe.info | social.tchncs.de | 1 |
 | [AndrewPlaTech](https://techhub.social/@AndrewPlaTech) | AndrewPlaTech | techhub.social | 1 |
 | [malt](https://techhub.social/@malt) | Malt | techhub.social | 1 |
 | [ManningPublications](https://techhub.social/@ManningPublications) | Manning Publications | techhub.social | 1 |
 | [msclouditpro](https://techhub.social/@msclouditpro) | Microsoft Cloud IT Pro Podcast | techhub.social | 1 |
-| [JdeBP](https://mastodonapp.uk/@JdeBP) | JdeBP | mastodonapp.uk | 1 |
+| [FL](https://mastodontech.de/@FL) | FL | mastodontech.de | 1 |
 | [imsampro](https://mastodon.social/@imsampro) | Soumyadeep Mandal | mastodon.social | 1 |
 | [digon](https://mastodon.social/@digon) | Digão | mastodon.social | 1 |
 | [furicle](https://mastodon.social/@furicle) | furicle | mastodon.social | 1 |
