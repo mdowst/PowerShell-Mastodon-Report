@@ -1,5 +1,5 @@
 # Top Users for April 2023
-Last Updated: 04/14/2023 09:21:57 UTC
+Last Updated: 04/14/2023 10:25:06 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 6 |
