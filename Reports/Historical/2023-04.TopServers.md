@@ -1,5 +1,5 @@
 # Top Servers for April 2023
-Last Updated: 04/18/2023 08:27:38 UTC
+Last Updated: 04/18/2023 09:22:25 UTC
 | Server | Posts | Active Users |
 | -- | -- | -- |
 | [mastodon.social](https://mastodon.social/tags/PowerShell) | 16 | 12 |
@@ -10,10 +10,10 @@ Last Updated: 04/18/2023 08:27:38 UTC
 | [hachyderm.io](https://hachyderm.io/tags/PowerShell) | 4 | 3 |
 | [masto.ai](https://masto.ai/tags/PowerShell) | 4 | 2 |
 | [mstdn.social](https://mstdn.social/tags/PowerShell) | 4 | 1 |
+| [mastodon.nu](https://mastodon.nu/tags/PowerShell) | 2 | 1 |
 | [tech.lgbt](https://tech.lgbt/tags/PowerShell) | 2 | 1 |
 | [chaos.social](https://chaos.social/tags/PowerShell) | 1 | 1 |
 | [ioc.exchange](https://ioc.exchange/tags/PowerShell) | 1 | 1 |
 | [mas.to](https://mas.to/tags/PowerShell) | 1 | 1 |
-| [mastodon.nu](https://mastodon.nu/tags/PowerShell) | 1 | 1 |
 | [mastodontech.de](https://mastodontech.de/tags/PowerShell) | 1 | 1 |
 | [social.tchncs.de](https://social.tchncs.de/tags/PowerShell) | 1 | 1 |
