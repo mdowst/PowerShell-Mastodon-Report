@@ -1,9 +1,9 @@
 # Top Users for April 2023
-Last Updated: 04/19/2023 18:27:28 UTC
+Last Updated: 04/19/2023 19:18:08 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 7 |
-| [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 5 |
+| [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 6 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 4 |
 | [TechDirectArchive](https://mastodon.social/@TechDirectArchive) | TechDirectArchive | mastodon.social | 4 |
 | [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 3 |
