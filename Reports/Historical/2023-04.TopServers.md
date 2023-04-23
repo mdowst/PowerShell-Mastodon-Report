@@ -1,5 +1,5 @@
 # Top Servers for April 2023
-Last Updated: 04/23/2023 17:20:43 UTC
+Last Updated: 04/23/2023 18:25:28 UTC
 | Server | Posts | Active Users |
 | -- | -- | -- |
 | [mastodon.social](https://mastodon.social/tags/PowerShell) | 23 | 13 |
