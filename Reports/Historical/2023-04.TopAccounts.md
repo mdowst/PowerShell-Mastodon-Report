@@ -1,5 +1,5 @@
 # Top Users for April 2023
-Last Updated: 04/24/2023 22:23:03 UTC
+Last Updated: 04/24/2023 23:22:05 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [bjompen](https://mastodon.nu/@bjompen) | Bjompen | mastodon.nu | 13 |
