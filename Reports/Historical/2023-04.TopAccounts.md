@@ -1,5 +1,5 @@
 # Top Users for April 2023
-Last Updated: 04/24/2023 08:28:30 UTC
+Last Updated: 04/24/2023 09:22:53 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [bjompen](https://mastodon.nu/@bjompen) | Bjompen | mastodon.nu | 13 |
@@ -12,10 +12,10 @@ Last Updated: 04/24/2023 08:28:30 UTC
 | [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 3 |
 | [JdeBP](https://mastodonapp.uk/@JdeBP) | JdeBP | mastodonapp.uk | 3 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 3 |
+| [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 3 |
 | [mortensummer](https://masto.ai/@mortensummer) | Tom | masto.ai | 2 |
 | [tinuwalther](https://techhub.social/@tinuwalther) | Tinu 🇨🇭 | techhub.social | 2 |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 2 |
-| [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 2 |
 | [r1cksec](https://infosec.exchange/@r1cksec) | r1cksec | infosec.exchange | 2 |
 | [furicle](https://mastodon.social/@furicle) | furicle | mastodon.social | 2 |
 | [juneb](https://mstdn.social/@juneb) | June Blender | mstdn.social | 2 |
