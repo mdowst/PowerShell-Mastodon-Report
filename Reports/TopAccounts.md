@@ -1,5 +1,5 @@
 # Top Users for April 2023
-Last Updated: 04/25/2023 19:17:59 UTC
+Last Updated: 04/25/2023 20:23:15 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [bjompen](https://mastodon.nu/@bjompen) | Bjompen | mastodon.nu | 13 |
@@ -23,11 +23,12 @@ Last Updated: 04/25/2023 19:17:59 UTC
 | [tarnkappeinfo](https://social.tchncs.de/@tarnkappeinfo) | Tarnkappe.info | social.tchncs.de | 2 |
 | [PSConfEU](https://hachyderm.io/@PSConfEU) | PSConfEU | hachyderm.io | 2 |
 | [cl](https://tech.lgbt/@cl) | Chrissy LeMaire :thonkpad: | tech.lgbt | 2 |
+| [AndrewPlaTech](https://techhub.social/@AndrewPlaTech) | AndrewPlaTech | techhub.social | 2 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 2 |
 | [thedavecarroll](https://fosstodon.org/@thedavecarroll) | Dave Carroll | fosstodon.org | 2 |
 | [malt](https://techhub.social/@malt) | Malt | techhub.social | 2 |
-| [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 2 |
 | [sirber](https://fosstodon.org/@sirber) | StephOne | fosstodon.org | 2 |
+| [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 2 |
 | [imsampro](https://mastodon.social/@imsampro) | Soumyadeep Mandal | mastodon.social | 1 |
 | [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 1 |
 | [msclouditpro](https://techhub.social/@msclouditpro) | Microsoft Cloud IT Pro Podcast | techhub.social | 1 |
@@ -36,7 +37,6 @@ Last Updated: 04/25/2023 19:17:59 UTC
 | [rmathew](https://mastodon.social/@rmathew) | रञ्जित (Ranjit Mathew) | mastodon.social | 1 |
 | [rooneymcnibnug](https://mastodon.social/@rooneymcnibnug) | RooneyMcNibNug | mastodon.social | 1 |
 | [WinFuture](https://mastodon.social/@WinFuture) | WinFuture.de | mastodon.social | 1 |
-| [AndrewPlaTech](https://techhub.social/@AndrewPlaTech) | AndrewPlaTech | techhub.social | 1 |
 | [andthisismrspeacock](https://tech.lgbt/@andthisismrspeacock) | AndThisIsMrsPeacock 🏳️‍🌈 | tech.lgbt | 1 |
 | [FL](https://mastodontech.de/@FL) | FL | mastodontech.de | 1 |
 | [kohelet](https://mstdn.social/@kohelet) | Collei :verified: | mstdn.social | 1 |
