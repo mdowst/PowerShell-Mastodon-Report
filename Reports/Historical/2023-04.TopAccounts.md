@@ -1,5 +1,5 @@
 # Top Users for April 2023
-Last Updated: 04/26/2023 20:22:52 UTC
+Last Updated: 04/26/2023 21:20:01 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [bjompen](https://mastodon.nu/@bjompen) | Bjompen | mastodon.nu | 13 |
@@ -17,19 +17,19 @@ Last Updated: 04/26/2023 20:22:52 UTC
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 2 |
 | [tinuwalther](https://techhub.social/@tinuwalther) | Tinu 🇨🇭 | techhub.social | 2 |
 | [mortensummer](https://masto.ai/@mortensummer) | Tom | masto.ai | 2 |
+| [HansBrender](https://mastodon.social/@HansBrender) | Hans Brender, Mr.OneDrive | mastodon.social | 2 |
 | [deoleary](https://masto.ai/@deoleary) | Deirdre O'Leary | masto.ai | 2 |
 | [juneb](https://mstdn.social/@juneb) | June Blender | mstdn.social | 2 |
 | [furicle](https://mastodon.social/@furicle) | furicle | mastodon.social | 2 |
 | [tarnkappeinfo](https://social.tchncs.de/@tarnkappeinfo) | Tarnkappe.info | social.tchncs.de | 2 |
-| [PSConfEU](https://hachyderm.io/@PSConfEU) | PSConfEU | hachyderm.io | 2 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 2 |
+| [PSConfEU](https://hachyderm.io/@PSConfEU) | PSConfEU | hachyderm.io | 2 |
 | [cl](https://tech.lgbt/@cl) | Chrissy LeMaire :thonkpad: | tech.lgbt | 2 |
-| [AndrewPlaTech](https://techhub.social/@AndrewPlaTech) | AndrewPlaTech | techhub.social | 2 |
-| [thedavecarroll](https://fosstodon.org/@thedavecarroll) | Dave Carroll | fosstodon.org | 2 |
 | [malt](https://techhub.social/@malt) | Malt | techhub.social | 2 |
+| [AndrewPlaTech](https://techhub.social/@AndrewPlaTech) | AndrewPlaTech | techhub.social | 2 |
 | [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 2 |
 | [sirber](https://fosstodon.org/@sirber) | StephOne | fosstodon.org | 2 |
-| [HansBrender](https://mastodon.social/@HansBrender) | Hans Brender, Mr.OneDrive | mastodon.social | 1 |
+| [thedavecarroll](https://fosstodon.org/@thedavecarroll) | Dave Carroll | fosstodon.org | 2 |
 | [msclouditpro](https://techhub.social/@msclouditpro) | Microsoft Cloud IT Pro Podcast | techhub.social | 1 |
 | [ManningPublications](https://techhub.social/@ManningPublications) | Manning Publications | techhub.social | 1 |
 | [imsampro](https://mastodon.social/@imsampro) | Soumyadeep Mandal | mastodon.social | 1 |
