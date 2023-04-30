@@ -1,5 +1,5 @@
 # Top Users for April 2023
-Last Updated: 04/30/2023 09:20:11 UTC
+Last Updated: 04/30/2023 10:24:00 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [bjompen](https://mastodon.nu/@bjompen) | Bjompen | mastodon.nu | 13 |
@@ -10,8 +10,8 @@ Last Updated: 04/30/2023 09:20:11 UTC
 | [TechDirectArchive](https://mastodon.social/@TechDirectArchive) | TechDirectArchive | mastodon.social | 5 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 4 |
 | [JdeBP](https://mastodonapp.uk/@JdeBP) | JdeBP | mastodonapp.uk | 4 |
+| [tinuwalther](https://techhub.social/@tinuwalther) | Tinu 🇨🇭 | techhub.social | 4 |
 | [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 3 |
-| [tinuwalther](https://techhub.social/@tinuwalther) | Tinu 🇨🇭 | techhub.social | 3 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 3 |
 | [AndrewPlaTech](https://techhub.social/@AndrewPlaTech) | AndrewPlaTech | techhub.social | 3 |
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 3 |
