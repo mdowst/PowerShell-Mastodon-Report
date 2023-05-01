@@ -1,5 +1,5 @@
 # Top Users for May 2023
-Last Updated: 05/01/2023 19:18:23 UTC
+Last Updated: 05/01/2023 20:23:07 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [jhx](https://fosstodon.org/@jhx) | jhx | fosstodon.org | 2 |
