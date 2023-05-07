@@ -1,16 +1,16 @@
 # Top Users for May 2023
-Last Updated: 05/07/2023 11:18:00 UTC
+Last Updated: 05/07/2023 12:36:40 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 6 |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 6 |
 | [jhx](https://fosstodon.org/@jhx) | jhx | fosstodon.org | 2 |
+| [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 2 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 2 |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 2 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 2 |
 | [lukemurray](https://aus.social/@lukemurray) | Luke Murray | aus.social | 1 |
 | [rh](https://dataplatform.social/@rh) | Rich Howell | dataplatform.social | 1 |
-| [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 1 |
 | [aboxofsox](https://indieweb.social/@aboxofsox) | aboxofsox 🧙🏼 | indieweb.social | 1 |
 | [tribalcyber](https://infosec.exchange/@tribalcyber) | 𝕋𝕣𝕚𝕓𝕒𝕝ℂ𝕪𝕓𝕖𝕣𝕊𝕖𝕔𝕦𝕣𝕚𝕥𝕪 | infosec.exchange | 1 |
 | [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 1 |
