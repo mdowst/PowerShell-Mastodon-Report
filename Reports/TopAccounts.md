@@ -1,9 +1,9 @@
 # Top Users for May 2023
-Last Updated: 05/09/2023 14:23:55 UTC
+Last Updated: 05/09/2023 15:23:49 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
+| [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 7 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 7 |
-| [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 6 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 4 |
 | [thorstenbutz](https://twit.social/@thorstenbutz) | Thorsten Butz | twit.social | 2 |
 | [jhx](https://fosstodon.org/@jhx) | jhx | fosstodon.org | 2 |
