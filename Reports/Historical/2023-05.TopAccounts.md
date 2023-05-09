@@ -1,9 +1,9 @@
 # Top Users for May 2023
-Last Updated: 05/09/2023 22:22:49 UTC
+Last Updated: 05/09/2023 23:22:00 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
+| [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 8 |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 7 |
-| [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 7 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 4 |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 2 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 2 |
