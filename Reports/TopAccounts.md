@@ -1,5 +1,5 @@
 # Top Users for May 2023
-Last Updated: 05/19/2023 14:21:52 UTC
+Last Updated: 05/19/2023 15:21:45 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 9 |
@@ -7,8 +7,8 @@ Last Updated: 05/19/2023 14:21:52 UTC
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 7 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 4 |
 | [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 4 |
+| [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 3 |
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 3 |
-| [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 2 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 2 |
 | [thorstenbutz](https://twit.social/@thorstenbutz) | Thorsten Butz | twit.social | 2 |
 | [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 2 |
