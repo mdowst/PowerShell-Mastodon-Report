@@ -1,5 +1,5 @@
 # Top Servers for May 2023
-Last Updated: 05/23/2023 07:19:42 UTC
+Last Updated: 05/23/2023 08:26:04 UTC
 | Server | Posts | Active Users |
 | -- | -- | -- |
 | [fosstodon.org](https://fosstodon.org/tags/PowerShell) | 21 | 8 |
@@ -13,11 +13,11 @@ Last Updated: 05/23/2023 07:19:42 UTC
 | [twit.social](https://twit.social/tags/PowerShell) | 2 | 1 |
 | [home.social](https://home.social/tags/PowerShell) | 2 | 1 |
 | [hachyderm.io](https://hachyderm.io/tags/PowerShell) | 2 | 2 |
+| [dataplatform.social](https://dataplatform.social/tags/PowerShell) | 2 | 2 |
 | [indieweb.social](https://indieweb.social/tags/PowerShell) | 1 | 1 |
 | [mastodon.uno](https://mastodon.uno/tags/PowerShell) | 1 | 1 |
 | [mstdn.social](https://mstdn.social/tags/PowerShell) | 1 | 1 |
 | [social.coop](https://social.coop/tags/PowerShell) | 1 | 1 |
-| [dataplatform.social](https://dataplatform.social/tags/PowerShell) | 1 | 1 |
 | [tech.lgbt](https://tech.lgbt/tags/PowerShell) | 1 | 1 |
 | [ioc.exchange](https://ioc.exchange/tags/PowerShell) | 1 | 1 |
 | [mastodon.nu](https://mastodon.nu/tags/PowerShell) | 1 | 1 |
