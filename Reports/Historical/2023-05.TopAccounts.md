@@ -1,8 +1,8 @@
 # Top Users for May 2023
-Last Updated: 05/23/2023 09:21:24 UTC
+Last Updated: 05/23/2023 10:25:25 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
-| [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 9 |
+| [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 10 |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 8 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 7 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 6 |
