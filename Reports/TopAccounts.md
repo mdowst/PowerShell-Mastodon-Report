@@ -1,5 +1,5 @@
 # Top Users for May 2023
-Last Updated: 05/31/2023 17:22:32 UTC
+Last Updated: 05/31/2023 18:26:13 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 13 |
@@ -8,11 +8,11 @@ Last Updated: 05/31/2023 17:22:32 UTC
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 8 |
 | [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 6 |
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 4 |
+| [jhx](https://fosstodon.org/@jhx) | jhx | fosstodon.org | 4 |
 | [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 4 |
 | [stib](https://aus.social/@stib) |  | aus.social | 3 |
 | [beandev](https://social.tchncs.de/@beandev) | Aljoscha Rittner (beandev) | social.tchncs.de | 3 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 3 |
-| [jhx](https://fosstodon.org/@jhx) | jhx | fosstodon.org | 3 |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 3 |
 | [bjompen](https://mastodon.nu/@bjompen) | Bjompen | mastodon.nu | 2 |
 | [gioxx](https://mastodon.uno/@gioxx) | Gioxx | mastodon.uno | 2 |
