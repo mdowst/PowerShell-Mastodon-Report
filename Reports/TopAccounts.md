@@ -1,11 +1,11 @@
 # Top Users for May 2023
-Last Updated: 05/31/2023 03:25:31 UTC
+Last Updated: 05/31/2023 04:24:35 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 13 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 12 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 9 |
-| [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 7 |
+| [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 8 |
 | [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 5 |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 3 |
 | [stib](https://aus.social/@stib) |  | aus.social | 3 |
