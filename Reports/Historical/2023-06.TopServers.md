@@ -1,5 +1,5 @@
 # Top Servers for June 2023
-Last Updated: 06/01/2023 17:21:50 UTC
+Last Updated: 06/01/2023 18:28:09 UTC
 | Server | Posts | Active Users |
 | -- | -- | -- |
 | [mas.to](https://mas.to/tags/PowerShell) | 1 | 1 |
