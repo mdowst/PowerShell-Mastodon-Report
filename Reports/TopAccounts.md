@@ -1,5 +1,5 @@
 # Top Users for June 2023
-Last Updated: 06/02/2023 12:41:59 UTC
+Last Updated: 06/02/2023 13:27:13 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 2 |
