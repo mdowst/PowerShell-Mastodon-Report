@@ -1,11 +1,12 @@
 # Top Users for June 2023
-Last Updated: 06/07/2023 08:26:54 UTC
+Last Updated: 06/07/2023 09:21:07 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 2 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 2 |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 2 |
 | [TracyBoggiano](https://dataplatform.social/@TracyBoggiano) | Tracy Boggiano | dataplatform.social | 1 |
+| [falkheiland](https://fosstodon.org/@falkheiland) | Falk Heiland 🇺🇦 | fosstodon.org | 1 |
 | [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 1 |
 | [joncojonathan](https://infosec.exchange/@joncojonathan) | joncojonathan | infosec.exchange | 1 |
 | [dn_mason](https://mas.to/@dn_mason) | David Mason | mas.to | 1 |
