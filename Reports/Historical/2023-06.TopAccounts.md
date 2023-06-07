@@ -1,5 +1,5 @@
 # Top Users for June 2023
-Last Updated: 06/07/2023 04:25:48 UTC
+Last Updated: 06/07/2023 05:23:06 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 2 |
@@ -11,6 +11,7 @@ Last Updated: 06/07/2023 04:25:48 UTC
 | [dn_mason](https://mas.to/@dn_mason) | David Mason | mas.to | 1 |
 | [anmalkov](https://mastodon.social/@anmalkov) | Andrew Malkov | mastodon.social | 1 |
 | [furicle](https://mastodon.social/@furicle) | furicle | mastodon.social | 1 |
+| [JerryGonzalez](https://mastodon.social/@JerryGonzalez) | Jerry Gonzalez | mastodon.social | 1 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 1 |
 | [TechDirectArchive](https://mastodon.social/@TechDirectArchive) | TechDirectArchive | mastodon.social | 1 |
 | [lucasefontes](https://techhub.social/@lucasefontes) | Lucas Fontes | techhub.social | 1 |
