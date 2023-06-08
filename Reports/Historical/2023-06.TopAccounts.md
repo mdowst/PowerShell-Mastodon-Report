@@ -1,5 +1,5 @@
 # Top Users for June 2023
-Last Updated: 06/08/2023 14:22:38 UTC
+Last Updated: 06/08/2023 15:22:38 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [furicle](https://mastodon.social/@furicle) | furicle | mastodon.social | 3 |
