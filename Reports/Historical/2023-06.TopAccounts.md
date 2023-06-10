@@ -1,12 +1,12 @@
 # Top Users for June 2023
-Last Updated: 06/10/2023 04:25:01 UTC
+Last Updated: 06/10/2023 05:22:09 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 5 |
 | [furicle](https://mastodon.social/@furicle) | furicle | mastodon.social | 3 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 3 |
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 3 |
-| [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 2 |
+| [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 3 |
 | [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 2 |
 | [JerryGonzalez](https://mastodon.social/@JerryGonzalez) | Jerry Gonzalez | mastodon.social | 2 |
 | [AndrewPlaTech](https://techhub.social/@AndrewPlaTech) | AndrewPlaTech | techhub.social | 1 |
