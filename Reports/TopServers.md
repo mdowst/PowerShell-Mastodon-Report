@@ -1,5 +1,5 @@
 # Top Servers for June 2023
-Last Updated: 06/12/2023 17:20:25 UTC
+Last Updated: 06/12/2023 18:26:15 UTC
 | Server | Posts | Active Users |
 | -- | -- | -- |
 | [mastodon.social](https://mastodon.social/tags/PowerShell) | 15 | 9 |
@@ -7,8 +7,8 @@ Last Updated: 06/12/2023 17:20:25 UTC
 | [fosstodon.org](https://fosstodon.org/tags/PowerShell) | 5 | 5 |
 | [infosec.exchange](https://infosec.exchange/tags/PowerShell) | 4 | 2 |
 | [hachyderm.io](https://hachyderm.io/tags/PowerShell) | 2 | 2 |
+| [mstdn.social](https://mstdn.social/tags/PowerShell) | 2 | 1 |
 | [dataplatform.social](https://dataplatform.social/tags/PowerShell) | 1 | 1 |
 | [mas.to](https://mas.to/tags/PowerShell) | 1 | 1 |
 | [mastodonapp.uk](https://mastodonapp.uk/tags/PowerShell) | 1 | 1 |
-| [mstdn.social](https://mstdn.social/tags/PowerShell) | 1 | 1 |
 | [social.tchncs.de](https://social.tchncs.de/tags/PowerShell) | 1 | 1 |
