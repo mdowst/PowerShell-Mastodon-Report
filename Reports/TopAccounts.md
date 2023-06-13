@@ -1,24 +1,25 @@
 # Top Users for June 2023
-Last Updated: 06/13/2023 22:23:31 UTC
+Last Updated: 06/13/2023 23:19:46 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 7 |
 | [furicle](https://mastodon.social/@furicle) | furicle | mastodon.social | 3 |
 | [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 3 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 3 |
-| [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 3 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 3 |
+| [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 3 |
 | [JerryGonzalez](https://mastodon.social/@JerryGonzalez) | Jerry Gonzalez | mastodon.social | 2 |
 | [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 2 |
-| [geekland](https://mastodon.social/@geekland) | Geekland | mastodon.social | 1 |
 | [TechDirectArchive](https://mastodon.social/@TechDirectArchive) | TechDirectArchive | mastodon.social | 1 |
-| [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 1 |
-| [gbraad](https://mastodon.social/@gbraad) | Gerard Braad | mastodon.social | 1 |
+| [zadjii](https://mastodon.social/@zadjii) | Mike Griese | mastodon.social | 1 |
 | [nyxerebos](https://mastodontech.de/@nyxerebos) | Ȧ1th3r | mastodontech.de | 1 |
+| [geekland](https://mastodon.social/@geekland) | Geekland | mastodon.social | 1 |
 | [oli](https://social.tchncs.de/@oli) | Oli | social.tchncs.de | 1 |
 | [AndrewPlaTech](https://techhub.social/@AndrewPlaTech) | AndrewPlaTech | techhub.social | 1 |
+| [JamesDBartlett3](https://techhub.social/@JamesDBartlett3) | James Bartlett :terminal: | techhub.social | 1 |
 | [lucasefontes](https://techhub.social/@lucasefontes) | Lucas Fontes | techhub.social | 1 |
-| [zadjii](https://mastodon.social/@zadjii) | Mike Griese | mastodon.social | 1 |
+| [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 1 |
+| [gbraad](https://mastodon.social/@gbraad) | Gerard Braad | mastodon.social | 1 |
 | [TracyBoggiano](https://dataplatform.social/@TracyBoggiano) | Tracy Boggiano | dataplatform.social | 1 |
 | [anmalkov](https://mastodon.social/@anmalkov) | Andrew Malkov | mastodon.social | 1 |
 | [dn_mason](https://mas.to/@dn_mason) | David Mason | mas.to | 1 |
