@@ -1,26 +1,27 @@
 # Top Users for June 2023
-Last Updated: 06/15/2023 03:22:49 UTC
+Last Updated: 06/15/2023 04:25:16 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 7 |
-| [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 3 |
+| [furicle](https://mastodon.social/@furicle) | furicle | mastodon.social | 3 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 3 |
 | [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 3 |
-| [furicle](https://mastodon.social/@furicle) | furicle | mastodon.social | 3 |
+| [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 3 |
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 3 |
 | [JerryGonzalez](https://mastodon.social/@JerryGonzalez) | Jerry Gonzalez | mastodon.social | 2 |
 | [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 2 |
 | [TechDirectArchive](https://mastodon.social/@TechDirectArchive) | TechDirectArchive | mastodon.social | 1 |
 | [Wiredcanuck](https://mastodon.social/@Wiredcanuck) | Pierre Roman | mastodon.social | 1 |
 | [zadjii](https://mastodon.social/@zadjii) | Mike Griese | mastodon.social | 1 |
+| [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 1 |
 | [nyxerebos](https://mastodontech.de/@nyxerebos) | Ȧ1th3r | mastodontech.de | 1 |
-| [juengling](https://mastodontech.de/@juengling) | Christoph Jüngling | mastodontech.de | 1 |
+| [kkarhan](https://mstdn.social/@kkarhan) | Kevin Karhan :verified: | mstdn.social | 1 |
 | [oli](https://social.tchncs.de/@oli) | Oli | social.tchncs.de | 1 |
 | [andthisismrspeacock](https://tech.lgbt/@andthisismrspeacock) | AndThisIsMrsPeacock 🏳️‍🌈 | tech.lgbt | 1 |
 | [AndrewPlaTech](https://techhub.social/@AndrewPlaTech) | AndrewPlaTech | techhub.social | 1 |
 | [JamesDBartlett3](https://techhub.social/@JamesDBartlett3) | James Bartlett :terminal: | techhub.social | 1 |
 | [lucasefontes](https://techhub.social/@lucasefontes) | Lucas Fontes | techhub.social | 1 |
-| [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 1 |
+| [juengling](https://mastodontech.de/@juengling) | Christoph Jüngling | mastodontech.de | 1 |
 | [TracyBoggiano](https://dataplatform.social/@TracyBoggiano) | Tracy Boggiano | dataplatform.social | 1 |
 | [gbraad](https://mastodon.social/@gbraad) | Gerard Braad | mastodon.social | 1 |
 | [StepanResl](https://techhub.social/@StepanResl) | Štěpán Rešl | techhub.social | 1 |
