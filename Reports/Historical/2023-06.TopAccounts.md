@@ -1,8 +1,8 @@
 # Top Users for June 2023
-Last Updated: 06/17/2023 17:21:01 UTC
+Last Updated: 06/17/2023 18:25:05 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
-| [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 7 |
+| [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 8 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 4 |
 | [gioxx](https://mastodon.uno/@gioxx) | Gioxx | mastodon.uno | 3 |
 | [furicle](https://mastodon.social/@furicle) | furicle | mastodon.social | 3 |
