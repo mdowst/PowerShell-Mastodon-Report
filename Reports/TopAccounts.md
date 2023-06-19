@@ -1,5 +1,5 @@
 # Top Users for June 2023
-Last Updated: 06/19/2023 17:22:07 UTC
+Last Updated: 06/19/2023 18:26:39 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 10 |
@@ -11,12 +11,13 @@ Last Updated: 06/19/2023 17:22:07 UTC
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 3 |
 | [rodtrent](https://infosec.exchange/@rodtrent) | rodtrent :verified: | infosec.exchange | 3 |
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 2 |
-| [Slvlombardo](https://mstdn.social/@Slvlombardo) | Salvatore Lombardo | mstdn.social | 2 |
+| [sue_llamada](https://mastodon.social/@sue_llamada) | Sue | mastodon.social | 2 |
 | [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 2 |
 | [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 2 |
+| [Slvlombardo](https://mstdn.social/@Slvlombardo) | Salvatore Lombardo | mstdn.social | 2 |
 | [JerryGonzalez](https://mastodon.social/@JerryGonzalez) | Jerry Gonzalez | mastodon.social | 2 |
 | [kkarhan](https://mstdn.social/@kkarhan) | Kevin Karhan :verified: | mstdn.social | 1 |
-| [sue_llamada](https://mastodon.social/@sue_llamada) | Sue | mastodon.social | 1 |
+| [AnonNewsDE](https://social.tchncs.de/@AnonNewsDE) | Anonymous Germany | social.tchncs.de | 1 |
 | [oli](https://social.tchncs.de/@oli) | Oli | social.tchncs.de | 1 |
 | [andthisismrspeacock](https://tech.lgbt/@andthisismrspeacock) | AndThisIsMrsPeacock 🏳️‍🌈 | tech.lgbt | 1 |
 | [nyxerebos](https://mastodontech.de/@nyxerebos) | Ȧ1th3r | mastodontech.de | 1 |
@@ -27,7 +28,6 @@ Last Updated: 06/19/2023 17:22:07 UTC
 | [zadjii](https://mastodon.social/@zadjii) | Mike Griese | mastodon.social | 1 |
 | [Wiredcanuck](https://mastodon.social/@Wiredcanuck) | Pierre Roman | mastodon.social | 1 |
 | [TechDirectArchive](https://mastodon.social/@TechDirectArchive) | TechDirectArchive | mastodon.social | 1 |
-| [AnonNewsDE](https://social.tchncs.de/@AnonNewsDE) | Anonymous Germany | social.tchncs.de | 1 |
 | [oleschri](https://chaos.social/@oleschri) |  | chaos.social | 1 |
 | [StepanResl](https://techhub.social/@StepanResl) | Štěpán Rešl | techhub.social | 1 |
 | [TracyBoggiano](https://dataplatform.social/@TracyBoggiano) | Tracy Boggiano | dataplatform.social | 1 |
