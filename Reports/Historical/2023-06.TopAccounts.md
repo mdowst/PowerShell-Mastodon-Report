@@ -1,8 +1,8 @@
 # Top Users for June 2023
-Last Updated: 06/19/2023 08:27:37 UTC
+Last Updated: 06/19/2023 09:22:40 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
-| [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 8 |
+| [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 9 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 4 |
 | [gioxx](https://mastodon.uno/@gioxx) | Gioxx | mastodon.uno | 3 |
 | [furicle](https://mastodon.social/@furicle) | furicle | mastodon.social | 3 |
@@ -13,12 +13,12 @@ Last Updated: 06/19/2023 08:27:37 UTC
 | [JerryGonzalez](https://mastodon.social/@JerryGonzalez) | Jerry Gonzalez | mastodon.social | 2 |
 | [Slvlombardo](https://mstdn.social/@Slvlombardo) | Salvatore Lombardo | mstdn.social | 2 |
 | [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 2 |
+| [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 2 |
 | [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 2 |
 | [Wiredcanuck](https://mastodon.social/@Wiredcanuck) | Pierre Roman | mastodon.social | 1 |
 | [zadjii](https://mastodon.social/@zadjii) | Mike Griese | mastodon.social | 1 |
 | [lucasefontes](https://techhub.social/@lucasefontes) | Lucas Fontes | techhub.social | 1 |
 | [JamesDBartlett3](https://techhub.social/@JamesDBartlett3) | James Bartlett :terminal: | techhub.social | 1 |
-| [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 1 |
 | [nyxerebos](https://mastodontech.de/@nyxerebos) | Ȧ1th3r | mastodontech.de | 1 |
 | [AndrewPlaTech](https://techhub.social/@AndrewPlaTech) | AndrewPlaTech | techhub.social | 1 |
 | [TechDirectArchive](https://mastodon.social/@TechDirectArchive) | TechDirectArchive | mastodon.social | 1 |
