@@ -1,5 +1,5 @@
 # Top Users for June 2023
-Last Updated: 06/27/2023 17:25:04 UTC
+Last Updated: 06/27/2023 18:30:18 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 10 |
@@ -9,12 +9,12 @@ Last Updated: 06/27/2023 17:25:04 UTC
 | [rodtrent](https://infosec.exchange/@rodtrent) | rodtrent :verified: | infosec.exchange | 4 |
 | [furicle](https://mastodon.social/@furicle) | furicle | mastodon.social | 4 |
 | [gioxx](https://mastodon.uno/@gioxx) | Gioxx | mastodon.uno | 4 |
+| [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 3 |
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 3 |
 | [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 3 |
 | [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 3 |
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 3 |
 | [AndrewPlaTech](https://techhub.social/@AndrewPlaTech) | AndrewPlaTech | techhub.social | 2 |
-| [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 2 |
 | [jborean](https://fosstodon.org/@jborean) | Jordan Borean | fosstodon.org | 2 |
 | [JerryGonzalez](https://mastodon.social/@JerryGonzalez) | Jerry Gonzalez | mastodon.social | 2 |
 | [Slvlombardo](https://mstdn.social/@Slvlombardo) | Salvatore Lombardo | mstdn.social | 2 |
