@@ -1,10 +1,11 @@
 # Top Users for June 2023
-Last Updated: 06/27/2023 23:24:35 UTC
+Last Updated: 06/28/2023 02:04:12 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 10 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 5 |
 | [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 5 |
+| [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 4 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 4 |
 | [furicle](https://mastodon.social/@furicle) | furicle | mastodon.social | 4 |
 | [gioxx](https://mastodon.uno/@gioxx) | Gioxx | mastodon.uno | 4 |
@@ -12,7 +13,6 @@ Last Updated: 06/27/2023 23:24:35 UTC
 | [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 3 |
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 3 |
 | [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 3 |
-| [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 3 |
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 3 |
 | [AndrewPlaTech](https://techhub.social/@AndrewPlaTech) | AndrewPlaTech | techhub.social | 2 |
 | [jborean](https://fosstodon.org/@jborean) | Jordan Borean | fosstodon.org | 2 |
