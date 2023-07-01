@@ -1,5 +1,5 @@
 # Top Users for July 2023
-Last Updated: 07/01/2023 18:28:03 UTC
+Last Updated: 07/01/2023 19:19:20 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 1 |
@@ -7,3 +7,4 @@ Last Updated: 07/01/2023 18:28:03 UTC
 | [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 1 |
 | [Slvlombardo](https://mstdn.social/@Slvlombardo) | Salvatore Lombardo | mstdn.social | 1 |
 | [dariusw](https://tech.lgbt/@dariusw) | Darius Whiteplume | tech.lgbt | 1 |
+| [angelhdzmultimedia](https://techhub.social/@angelhdzmultimedia) | AngelHdz | techhub.social | 1 |
