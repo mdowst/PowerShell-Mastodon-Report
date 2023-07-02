@@ -1,5 +1,5 @@
 # Top Users for July 2023
-Last Updated: 07/01/2023 23:22:56 UTC
+Last Updated: 07/02/2023 02:10:44 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 1 |
