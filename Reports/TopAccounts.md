@@ -1,9 +1,9 @@
 # Top Users for July 2023
-Last Updated: 07/02/2023 15:23:50 UTC
+Last Updated: 07/02/2023 16:29:59 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
+| [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 4 |
 | [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 2 |
-| [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 1 |
 | [MattDaines](https://mastodon.social/@MattDaines) | Matt Daines | mastodon.social | 1 |
 | [tigermanroot](https://mastodon.social/@tigermanroot) | TigermamRoot | mastodon.social | 1 |
 | [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 1 |
@@ -11,3 +11,4 @@ Last Updated: 07/02/2023 15:23:50 UTC
 | [dariusw](https://tech.lgbt/@dariusw) | Darius Whiteplume | tech.lgbt | 1 |
 | [umbraroze](https://tech.lgbt/@umbraroze) | Yesterday's Rose | tech.lgbt | 1 |
 | [angelhdzmultimedia](https://techhub.social/@angelhdzmultimedia) | AngelHdz | techhub.social | 1 |
+| [noah](https://twit.social/@noah) | Noah W. | twit.social | 1 |
