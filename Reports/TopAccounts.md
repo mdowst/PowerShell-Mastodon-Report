@@ -1,11 +1,12 @@
 # Top Users for July 2023
-Last Updated: 07/05/2023 20:26:54 UTC
+Last Updated: 07/05/2023 21:23:04 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 5 |
 | [MattDaines](https://mastodon.social/@MattDaines) | Matt Daines | mastodon.social | 2 |
 | [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 2 |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 2 |
+| [funes](https://infosec.exchange/@funes) | Funes | infosec.exchange | 2 |
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 2 |
 | [SAPIENTech](https://techhub.social/@SAPIENTech) | SAPIENTech | techhub.social | 1 |
 | [angelhdzmultimedia](https://techhub.social/@angelhdzmultimedia) | AngelHdz | techhub.social | 1 |
@@ -20,7 +21,6 @@ Last Updated: 07/05/2023 20:26:54 UTC
 | [still](https://infosec.exchange/@still) | 安坂星海 Azaka Sekai | infosec.exchange | 1 |
 | [paulsanders](https://infosec.exchange/@paulsanders) | Paul Sanders | infosec.exchange | 1 |
 | [jrdepriest](https://infosec.exchange/@jrdepriest) | J. R. DePriest :verified_trans: :donor: (she / her) :EA DATA. SF: | infosec.exchange | 1 |
-| [funes](https://infosec.exchange/@funes) | Funes | infosec.exchange | 1 |
 | [davidshq](https://hachyderm.io/@davidshq) | Dave Mackey | hachyderm.io | 1 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 1 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 1 |
