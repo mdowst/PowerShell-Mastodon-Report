@@ -1,5 +1,5 @@
 # Top Users for July 2023
-Last Updated: 07/06/2023 16:33:48 UTC
+Last Updated: 07/06/2023 17:26:23 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 5 |
@@ -18,9 +18,10 @@ Last Updated: 07/06/2023 16:33:48 UTC
 | [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 1 |
 | [tigermanroot](https://mastodon.social/@tigermanroot) | TigermamRoot | mastodon.social | 1 |
 | [nerdemma](https://mastodon.social/@nerdemma) | Emmanuel D. Breyaue | mastodon.social | 1 |
-| [JordanOrdix](https://mastodon.social/@JordanOrdix) | Andreas Jordan (ORDIX AG) | mastodon.social | 1 |
 | [spacecadet](https://ioc.exchange/@spacecadet) | Space Cadet | ioc.exchange | 1 |
+| [gpunktschmitz](https://toot.cafe/@gpunktschmitz) | Guenther Schmitz ⏎ | toot.cafe | 1 |
 | [still](https://infosec.exchange/@still) | 安坂星海 Azaka Sekai | infosec.exchange | 1 |
+| [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 1 |
 | [paulsanders](https://infosec.exchange/@paulsanders) | Paul Sanders | infosec.exchange | 1 |
 | [Kjacobsen](https://infosec.exchange/@Kjacobsen) | Kieran Jacobsen | infosec.exchange | 1 |
 | [jrdepriest](https://infosec.exchange/@jrdepriest) | J. R. DePriest :verified_trans: :donor: (she / her) :EA DATA. SF: | infosec.exchange | 1 |
@@ -29,5 +30,5 @@ Last Updated: 07/06/2023 16:33:48 UTC
 | [davidshq](https://hachyderm.io/@davidshq) | Dave Mackey | hachyderm.io | 1 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 1 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 1 |
-| [gpunktschmitz](https://toot.cafe/@gpunktschmitz) | Guenther Schmitz ⏎ | toot.cafe | 1 |
+| [JordanOrdix](https://mastodon.social/@JordanOrdix) | Andreas Jordan (ORDIX AG) | mastodon.social | 1 |
 | [noah](https://twit.social/@noah) | Noah W. | twit.social | 1 |
