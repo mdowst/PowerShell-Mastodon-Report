@@ -1,5 +1,5 @@
 # Top Users for July 2023
-Last Updated: 07/06/2023 19:19:56 UTC
+Last Updated: 07/06/2023 20:25:28 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 5 |
@@ -19,7 +19,8 @@ Last Updated: 07/06/2023 19:19:56 UTC
 | [SAPIENTech](https://techhub.social/@SAPIENTech) | SAPIENTech | techhub.social | 1 |
 | [tigermanroot](https://mastodon.social/@tigermanroot) | TigermamRoot | mastodon.social | 1 |
 | [genebean](https://fosstodon.org/@genebean) | GeneBean | fosstodon.org | 1 |
-| [JordanOrdix](https://mastodon.social/@JordanOrdix) | Andreas Jordan (ORDIX AG) | mastodon.social | 1 |
+| [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 1 |
+| [gpunktschmitz](https://toot.cafe/@gpunktschmitz) | Guenther Schmitz ⏎ | toot.cafe | 1 |
 | [spacecadet](https://ioc.exchange/@spacecadet) | Space Cadet | ioc.exchange | 1 |
 | [still](https://infosec.exchange/@still) | 安坂星海 Azaka Sekai | infosec.exchange | 1 |
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 1 |
@@ -31,5 +32,5 @@ Last Updated: 07/06/2023 19:19:56 UTC
 | [davidshq](https://hachyderm.io/@davidshq) | Dave Mackey | hachyderm.io | 1 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 1 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 1 |
-| [gpunktschmitz](https://toot.cafe/@gpunktschmitz) | Guenther Schmitz ⏎ | toot.cafe | 1 |
+| [JordanOrdix](https://mastodon.social/@JordanOrdix) | Andreas Jordan (ORDIX AG) | mastodon.social | 1 |
 | [noah](https://twit.social/@noah) | Noah W. | twit.social | 1 |
