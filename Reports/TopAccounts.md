@@ -1,5 +1,5 @@
 # Top Users for July 2023
-Last Updated: 07/07/2023 12:47:28 UTC
+Last Updated: 07/07/2023 13:30:48 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 6 |
