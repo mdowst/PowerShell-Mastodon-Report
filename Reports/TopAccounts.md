@@ -1,8 +1,8 @@
 # Top Users for July 2023
-Last Updated: 07/06/2023 23:25:11 UTC
+Last Updated: 07/07/2023 02:04:32 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
-| [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 5 |
+| [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 6 |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 4 |
 | [funes](https://infosec.exchange/@funes) | Funes | infosec.exchange | 2 |
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 2 |
