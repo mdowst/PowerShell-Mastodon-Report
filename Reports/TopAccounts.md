@@ -1,5 +1,5 @@
 # Top Users for July 2023
-Last Updated: 07/10/2023 20:25:24 UTC
+Last Updated: 07/10/2023 21:22:00 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 7 |
@@ -10,6 +10,7 @@ Last Updated: 07/10/2023 20:25:24 UTC
 | [dariusw](https://tech.lgbt/@dariusw) | Darius Whiteplume | tech.lgbt | 3 |
 | [funes](https://infosec.exchange/@funes) | Funes | infosec.exchange | 2 |
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 2 |
+| [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 2 |
 | [MattDaines](https://mastodon.social/@MattDaines) | Matt Daines | mastodon.social | 2 |
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 2 |
 | [ShellWen](https://meow.social/@ShellWen) | ShellWen⚝ | 颉文 :verified_paw: | meow.social | 1 |
@@ -20,7 +21,6 @@ Last Updated: 07/10/2023 20:25:24 UTC
 | [robsewell](https://tech.lgbt/@robsewell) | Rob Sewell He/Him | tech.lgbt | 1 |
 | [umbraroze](https://tech.lgbt/@umbraroze) | Yesterday's Rose | tech.lgbt | 1 |
 | [angelhdzmultimedia](https://techhub.social/@angelhdzmultimedia) | AngelHdz | techhub.social | 1 |
-| [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 1 |
 | [kmruddy](https://techhub.social/@kmruddy) | Kyle Ruddy | techhub.social | 1 |
 | [SAPIENTech](https://techhub.social/@SAPIENTech) | SAPIENTech | techhub.social | 1 |
 | [montrak](https://norden.social/@montrak) | montrak | norden.social | 1 |
