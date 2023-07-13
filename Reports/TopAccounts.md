@@ -1,5 +1,5 @@
 # Top Users for July 2023
-Last Updated: 07/13/2023 15:24:12 UTC
+Last Updated: 07/13/2023 16:31:26 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 7 |
@@ -37,13 +37,14 @@ Last Updated: 07/13/2023 15:24:12 UTC
 | [Cirio](https://infosec.exchange/@Cirio) | Cirio | infosec.exchange | 1 |
 | [dszp](https://infosec.exchange/@dszp) | David Szpunar | infosec.exchange | 1 |
 | [dwmetz](https://infosec.exchange/@dwmetz) | Doug Metz | infosec.exchange | 1 |
-| [Pxtl](https://mastodon.social/@Pxtl) | Pxtl | mastodon.social | 1 |
 | [franklesniak](https://infosec.exchange/@franklesniak) | Frank Lesniak | infosec.exchange | 1 |
+| [jrdepriest](https://infosec.exchange/@jrdepriest) | J. R. DePriest :verified_trans: :donor: (she / her) :EA DATA. SF: | infosec.exchange | 1 |
 | [Kjacobsen](https://infosec.exchange/@Kjacobsen) | Kieran Jacobsen | infosec.exchange | 1 |
 | [onelin](https://infosec.exchange/@onelin) | Joshua McKinnon | infosec.exchange | 1 |
 | [paulsanders](https://infosec.exchange/@paulsanders) | Paul Sanders | infosec.exchange | 1 |
 | [spacecadet](https://ioc.exchange/@spacecadet) | Space Cadet | ioc.exchange | 1 |
 | [gpunktschmitz](https://toot.cafe/@gpunktschmitz) | Guenther Schmitz ⏎ | toot.cafe | 1 |
 | [JordanOrdix](https://mastodon.social/@JordanOrdix) | Andreas Jordan (ORDIX AG) | mastodon.social | 1 |
-| [jrdepriest](https://infosec.exchange/@jrdepriest) | J. R. DePriest :verified_trans: :donor: (she / her) :EA DATA. SF: | infosec.exchange | 1 |
+| [mercathin](https://mastodon.social/@mercathin) | Mercathin | mastodon.social | 1 |
+| [Pxtl](https://mastodon.social/@Pxtl) | Pxtl | mastodon.social | 1 |
 | [noah](https://twit.social/@noah) | Noah W. | twit.social | 1 |
