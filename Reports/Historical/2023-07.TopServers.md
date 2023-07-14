@@ -1,10 +1,10 @@
 # Top Servers for July 2023
-Last Updated: 07/14/2023 05:26:09 UTC
+Last Updated: 07/14/2023 06:31:18 UTC
 | Server | Posts | Active Users |
 | -- | -- | -- |
 | [fosstodon.org](https://fosstodon.org/tags/PowerShell) | 22 | 6 |
 | [infosec.exchange](https://infosec.exchange/tags/PowerShell) | 17 | 13 |
-| [techhub.social](https://techhub.social/tags/PowerShell) | 11 | 5 |
+| [techhub.social](https://techhub.social/tags/PowerShell) | 12 | 6 |
 | [mastodon.social](https://mastodon.social/tags/PowerShell) | 10 | 8 |
 | [tech.lgbt](https://tech.lgbt/tags/PowerShell) | 5 | 3 |
 | [mastodonapp.uk](https://mastodonapp.uk/tags/PowerShell) | 2 | 1 |
