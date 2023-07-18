@@ -1,5 +1,5 @@
 # Top Users for July 2023
-Last Updated: 07/18/2023 09:23:16 UTC
+Last Updated: 07/18/2023 10:28:08 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 9 |
@@ -46,15 +46,16 @@ Last Updated: 07/18/2023 09:23:16 UTC
 | [dwmetz](https://infosec.exchange/@dwmetz) | Doug Metz | infosec.exchange | 1 |
 | [jrdepriest](https://infosec.exchange/@jrdepriest) | J. R. DePriest :verified_trans: :donor: (she / her) :EA DATA. SF: | infosec.exchange | 1 |
 | [Kjacobsen](https://infosec.exchange/@Kjacobsen) | Kieran Jacobsen | infosec.exchange | 1 |
+| [nerdemma](https://mastodon.social/@nerdemma) | Emmanuel D. Breyaue | mastodon.social | 1 |
 | [onelin](https://infosec.exchange/@onelin) | Joshua McKinnon | infosec.exchange | 1 |
-| [paulsanders](https://infosec.exchange/@paulsanders) | Paul Sanders | infosec.exchange | 1 |
 | [rj07thomas](https://infosec.exchange/@rj07thomas) | rj07thomas | infosec.exchange | 1 |
 | [spacecadet](https://ioc.exchange/@spacecadet) | Space Cadet | ioc.exchange | 1 |
 | [bjompen](https://mastodon.nu/@bjompen) | Bjompen | mastodon.nu | 1 |
+| [asmodai](https://mastodon.social/@asmodai) | Jeroen Ruigrok van der Werven | mastodon.social | 1 |
 | [bazcurtis](https://mastodon.social/@bazcurtis) | bazcurtis | mastodon.social | 1 |
 | [colincogle](https://mastodon.social/@colincogle) | Colin Cogle 🔵 | mastodon.social | 1 |
 | [gpunktschmitz](https://toot.cafe/@gpunktschmitz) | Guenther Schmitz ⏎ | toot.cafe | 1 |
 | [JordanOrdix](https://mastodon.social/@JordanOrdix) | Andreas Jordan (ORDIX AG) | mastodon.social | 1 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 1 |
-| [nerdemma](https://mastodon.social/@nerdemma) | Emmanuel D. Breyaue | mastodon.social | 1 |
+| [paulsanders](https://infosec.exchange/@paulsanders) | Paul Sanders | infosec.exchange | 1 |
 | [noah](https://twit.social/@noah) | Noah W. | twit.social | 1 |
