@@ -1,5 +1,5 @@
 # Top Users for July 2023
-Last Updated: 07/19/2023 03:06:04 UTC
+Last Updated: 07/19/2023 04:00:56 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 9 |
@@ -10,20 +10,20 @@ Last Updated: 07/19/2023 03:06:04 UTC
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 4 |
 | [brndnsh](https://infosec.exchange/@brndnsh) | brandon | infosec.exchange | 3 |
 | [dariusw](https://tech.lgbt/@dariusw) | Darius Whiteplume | tech.lgbt | 3 |
+| [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 2 |
 | [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 2 |
 | [funes](https://infosec.exchange/@funes) | Funes | infosec.exchange | 2 |
 | [franklesniak](https://infosec.exchange/@franklesniak) | Frank Lesniak | infosec.exchange | 2 |
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 2 |
+| [still](https://infosec.exchange/@still) | 安坂星海 Azaka Sekai | infosec.exchange | 2 |
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 2 |
 | [poshlandPRO](https://techhub.social/@poshlandPRO) | Damian Garbus | techhub.social | 2 |
 | [MattDaines](https://mastodon.social/@MattDaines) | Matt Daines | mastodon.social | 2 |
-| [still](https://infosec.exchange/@still) | 安坂星海 Azaka Sekai | infosec.exchange | 2 |
-| [gsalvisberg](https://mastodontech.de/@gsalvisberg) | Gabriela Salvisberg | mastodontech.de | 1 |
 | [ShellWen](https://meow.social/@ShellWen) | ShellWen⚝ | 颉文 :verified_paw: | meow.social | 1 |
 | [gomoot](https://mastodon.uno/@gomoot) | Gomoot | mastodon.uno | 1 |
 | [tigermanroot](https://mastodon.social/@tigermanroot) | TigermamRoot | mastodon.social | 1 |
-| [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 1 |
 | [Slvlombardo](https://mstdn.social/@Slvlombardo) | Salvatore Lombardo | mstdn.social | 1 |
+| [gsalvisberg](https://mastodontech.de/@gsalvisberg) | Gabriela Salvisberg | mastodontech.de | 1 |
 | [oleschri](https://chaos.social/@oleschri) |  | chaos.social | 1 |
 | [umbraroze](https://tech.lgbt/@umbraroze) | Yesterday's Rose | tech.lgbt | 1 |
 | [montrak](https://norden.social/@montrak) | montrak | norden.social | 1 |
