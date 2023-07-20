@@ -1,43 +1,44 @@
 # Top Users for July 2023
-Last Updated: 07/19/2023 23:20:43 UTC
+Last Updated: 07/20/2023 01:43:50 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 9 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 6 |
-| [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 5 |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 5 |
-| [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 4 |
+| [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 5 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 4 |
-| [brndnsh](https://infosec.exchange/@brndnsh) | brandon | infosec.exchange | 3 |
+| [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 4 |
 | [dariusw](https://tech.lgbt/@dariusw) | Darius Whiteplume | tech.lgbt | 3 |
-| [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 2 |
-| [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 2 |
-| [funes](https://infosec.exchange/@funes) | Funes | infosec.exchange | 2 |
-| [franklesniak](https://infosec.exchange/@franklesniak) | Frank Lesniak | infosec.exchange | 2 |
-| [dwmetz](https://infosec.exchange/@dwmetz) | Doug Metz | infosec.exchange | 2 |
-| [still](https://infosec.exchange/@still) | 安坂星海 Azaka Sekai | infosec.exchange | 2 |
-| [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 2 |
-| [poshlandPRO](https://techhub.social/@poshlandPRO) | Damian Garbus | techhub.social | 2 |
-| [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 2 |
+| [brndnsh](https://infosec.exchange/@brndnsh) | brandon | infosec.exchange | 3 |
 | [MattDaines](https://mastodon.social/@MattDaines) | Matt Daines | mastodon.social | 2 |
 | [ospalh](https://chaos.social/@ospalh) | ospalh | chaos.social | 2 |
-| [gsalvisberg](https://mastodontech.de/@gsalvisberg) | Gabriela Salvisberg | mastodontech.de | 1 |
+| [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 2 |
+| [funes](https://infosec.exchange/@funes) | Funes | infosec.exchange | 2 |
+| [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 2 |
+| [dwmetz](https://infosec.exchange/@dwmetz) | Doug Metz | infosec.exchange | 2 |
+| [franklesniak](https://infosec.exchange/@franklesniak) | Frank Lesniak | infosec.exchange | 2 |
+| [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 2 |
+| [poshlandPRO](https://techhub.social/@poshlandPRO) | Damian Garbus | techhub.social | 2 |
+| [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 2 |
+| [still](https://infosec.exchange/@still) | 安坂星海 Azaka Sekai | infosec.exchange | 2 |
+| [ShellWen](https://meow.social/@ShellWen) | ShellWen⚝ | 颉文 :verified_paw: | meow.social | 1 |
 | [gomoot](https://mastodon.uno/@gomoot) | Gomoot | mastodon.uno | 1 |
 | [Slvlombardo](https://mstdn.social/@Slvlombardo) | Salvatore Lombardo | mstdn.social | 1 |
 | [dassascha](https://norden.social/@dassascha) | dassascha :verified: | norden.social | 1 |
-| [ShellWen](https://meow.social/@ShellWen) | ShellWen⚝ | 颉文 :verified_paw: | meow.social | 1 |
+| [gsalvisberg](https://mastodontech.de/@gsalvisberg) | Gabriela Salvisberg | mastodontech.de | 1 |
+| [montrak](https://norden.social/@montrak) | montrak | norden.social | 1 |
 | [oleschri](https://chaos.social/@oleschri) |  | chaos.social | 1 |
-| [angelhdzmultimedia](https://techhub.social/@angelhdzmultimedia) | AngelHdz | techhub.social | 1 |
-| [AnonNewsDE](https://social.tchncs.de/@AnonNewsDE) | Anonymous Germany | social.tchncs.de | 1 |
 | [robsewell](https://tech.lgbt/@robsewell) | Rob Sewell He/Him | tech.lgbt | 1 |
 | [umbraroze](https://tech.lgbt/@umbraroze) | Yesterday's Rose | tech.lgbt | 1 |
+| [angelhdzmultimedia](https://techhub.social/@angelhdzmultimedia) | AngelHdz | techhub.social | 1 |
 | [tigermanroot](https://mastodon.social/@tigermanroot) | TigermamRoot | mastodon.social | 1 |
 | [EdTittel](https://techhub.social/@EdTittel) | Ed Tittel | techhub.social | 1 |
+| [gregglsc](https://techhub.social/@gregglsc) | Gregg Lott | techhub.social | 1 |
 | [kmruddy](https://techhub.social/@kmruddy) | Kyle Ruddy | techhub.social | 1 |
 | [SAPIENTech](https://techhub.social/@SAPIENTech) | SAPIENTech | techhub.social | 1 |
 | [sstranger](https://techhub.social/@sstranger) | Stefan Stranger | techhub.social | 1 |
 | [tinuwalther](https://techhub.social/@tinuwalther) | Tinu 🇨🇭 | techhub.social | 1 |
-| [montrak](https://norden.social/@montrak) | montrak | norden.social | 1 |
+| [AnonNewsDE](https://social.tchncs.de/@AnonNewsDE) | Anonymous Germany | social.tchncs.de | 1 |
 | [Pxtl](https://mastodon.social/@Pxtl) | Pxtl | mastodon.social | 1 |
 | [erossini](https://mastodon.social/@erossini) | Enrico | mastodon.social | 1 |
 | [mercathin](https://mastodon.social/@mercathin) | Mercathin | mastodon.social | 1 |
