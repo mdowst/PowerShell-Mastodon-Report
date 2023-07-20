@@ -1,5 +1,5 @@
 # Top Users for July 2023
-Last Updated: 07/20/2023 06:27:43 UTC
+Last Updated: 07/20/2023 07:20:16 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 9 |
@@ -10,23 +10,23 @@ Last Updated: 07/20/2023 06:27:43 UTC
 | [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 4 |
 | [dariusw](https://tech.lgbt/@dariusw) | Darius Whiteplume | tech.lgbt | 3 |
 | [brndnsh](https://infosec.exchange/@brndnsh) | brandon | infosec.exchange | 3 |
-| [MattDaines](https://mastodon.social/@MattDaines) | Matt Daines | mastodon.social | 2 |
+| [franklesniak](https://infosec.exchange/@franklesniak) | Frank Lesniak | infosec.exchange | 2 |
 | [ospalh](https://chaos.social/@ospalh) | ospalh | chaos.social | 2 |
 | [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 2 |
 | [funes](https://infosec.exchange/@funes) | Funes | infosec.exchange | 2 |
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 2 |
 | [dwmetz](https://infosec.exchange/@dwmetz) | Doug Metz | infosec.exchange | 2 |
-| [franklesniak](https://infosec.exchange/@franklesniak) | Frank Lesniak | infosec.exchange | 2 |
+| [still](https://infosec.exchange/@still) | 安坂星海 Azaka Sekai | infosec.exchange | 2 |
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 2 |
+| [MattDaines](https://mastodon.social/@MattDaines) | Matt Daines | mastodon.social | 2 |
 | [poshlandPRO](https://techhub.social/@poshlandPRO) | Damian Garbus | techhub.social | 2 |
 | [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 2 |
-| [still](https://infosec.exchange/@still) | 安坂星海 Azaka Sekai | infosec.exchange | 2 |
 | [ShellWen](https://meow.social/@ShellWen) | ShellWen⚝ | 颉文 :verified_paw: | meow.social | 1 |
-| [gomoot](https://mastodon.uno/@gomoot) | Gomoot | mastodon.uno | 1 |
 | [Slvlombardo](https://mstdn.social/@Slvlombardo) | Salvatore Lombardo | mstdn.social | 1 |
-| [dassascha](https://norden.social/@dassascha) | dassascha :verified: | norden.social | 1 |
 | [gsalvisberg](https://mastodontech.de/@gsalvisberg) | Gabriela Salvisberg | mastodontech.de | 1 |
+| [dassascha](https://norden.social/@dassascha) | dassascha :verified: | norden.social | 1 |
 | [montrak](https://norden.social/@montrak) | montrak | norden.social | 1 |
+| [gomoot](https://mastodon.uno/@gomoot) | Gomoot | mastodon.uno | 1 |
 | [oleschri](https://chaos.social/@oleschri) |  | chaos.social | 1 |
 | [robsewell](https://tech.lgbt/@robsewell) | Rob Sewell He/Him | tech.lgbt | 1 |
 | [umbraroze](https://tech.lgbt/@umbraroze) | Yesterday's Rose | tech.lgbt | 1 |
@@ -52,9 +52,10 @@ Last Updated: 07/20/2023 06:27:43 UTC
 | [dszp](https://infosec.exchange/@dszp) | David Szpunar | infosec.exchange | 1 |
 | [jrdepriest](https://infosec.exchange/@jrdepriest) | J. R. DePriest :verified_trans: :donor: (she / her) :EA DATA. SF: | infosec.exchange | 1 |
 | [Kjacobsen](https://infosec.exchange/@Kjacobsen) | Kieran Jacobsen | infosec.exchange | 1 |
-| [nerdemma](https://mastodon.social/@nerdemma) | Emmanuel D. Breyaue | mastodon.social | 1 |
 | [onelin](https://infosec.exchange/@onelin) | Joshua McKinnon | infosec.exchange | 1 |
+| [paulsanders](https://infosec.exchange/@paulsanders) | Paul Sanders | infosec.exchange | 1 |
 | [rj07thomas](https://infosec.exchange/@rj07thomas) | rj07thomas | infosec.exchange | 1 |
+| [telan](https://infosec.exchange/@telan) | F. Omar Telan | infosec.exchange | 1 |
 | [spacecadet](https://ioc.exchange/@spacecadet) | Space Cadet | ioc.exchange | 1 |
 | [bjompen](https://mastodon.nu/@bjompen) | Bjompen | mastodon.nu | 1 |
 | [asmodai](https://mastodon.social/@asmodai) | Jeroen Ruigrok van der Werven | mastodon.social | 1 |
@@ -64,5 +65,5 @@ Last Updated: 07/20/2023 06:27:43 UTC
 | [geekland](https://mastodon.social/@geekland) | Geekland | mastodon.social | 1 |
 | [JordanOrdix](https://mastodon.social/@JordanOrdix) | Andreas Jordan (ORDIX AG) | mastodon.social | 1 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 1 |
-| [paulsanders](https://infosec.exchange/@paulsanders) | Paul Sanders | infosec.exchange | 1 |
+| [nerdemma](https://mastodon.social/@nerdemma) | Emmanuel D. Breyaue | mastodon.social | 1 |
 | [noah](https://twit.social/@noah) | Noah W. | twit.social | 1 |
