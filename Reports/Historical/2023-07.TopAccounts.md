@@ -1,5 +1,5 @@
 # Top Users for July 2023
-Last Updated: 07/22/2023 12:37:41 UTC
+Last Updated: 07/22/2023 13:23:10 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 9 |
@@ -9,8 +9,8 @@ Last Updated: 07/22/2023 12:37:41 UTC
 | [poshlandPRO](https://techhub.social/@poshlandPRO) | Damian Garbus | techhub.social | 5 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 5 |
 | [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 4 |
+| [brndnsh](https://infosec.exchange/@brndnsh) | brandon | infosec.exchange | 4 |
 | [dariusw](https://tech.lgbt/@dariusw) | Darius Whiteplume | tech.lgbt | 3 |
-| [brndnsh](https://infosec.exchange/@brndnsh) | brandon | infosec.exchange | 3 |
 | [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 3 |
 | [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 2 |
 | [funes](https://infosec.exchange/@funes) | Funes | infosec.exchange | 2 |
