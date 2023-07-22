@@ -1,5 +1,5 @@
 # Top Users for July 2023
-Last Updated: 07/22/2023 08:24:10 UTC
+Last Updated: 07/22/2023 09:20:26 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 9 |
@@ -8,6 +8,7 @@ Last Updated: 07/22/2023 08:24:10 UTC
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 5 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 5 |
 | [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 4 |
+| [poshlandPRO](https://techhub.social/@poshlandPRO) | Damian Garbus | techhub.social | 4 |
 | [dariusw](https://tech.lgbt/@dariusw) | Darius Whiteplume | tech.lgbt | 3 |
 | [brndnsh](https://infosec.exchange/@brndnsh) | brandon | infosec.exchange | 3 |
 | [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 3 |
@@ -15,13 +16,12 @@ Last Updated: 07/22/2023 08:24:10 UTC
 | [funes](https://infosec.exchange/@funes) | Funes | infosec.exchange | 2 |
 | [franklesniak](https://infosec.exchange/@franklesniak) | Frank Lesniak | infosec.exchange | 2 |
 | [dwmetz](https://infosec.exchange/@dwmetz) | Doug Metz | infosec.exchange | 2 |
-| [colincogle](https://mastodon.social/@colincogle) | Colin Cogle 🔵 | mastodon.social | 2 |
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 2 |
-| [poshlandPRO](https://techhub.social/@poshlandPRO) | Damian Garbus | techhub.social | 2 |
+| [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 2 |
 | [still](https://infosec.exchange/@still) | 安坂星海 Azaka Sekai | infosec.exchange | 2 |
 | [MattDaines](https://mastodon.social/@MattDaines) | Matt Daines | mastodon.social | 2 |
 | [ospalh](https://chaos.social/@ospalh) | ospalh | chaos.social | 2 |
-| [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 2 |
+| [colincogle](https://mastodon.social/@colincogle) | Colin Cogle 🔵 | mastodon.social | 2 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 2 |
 | [oleschri](https://chaos.social/@oleschri) |  | chaos.social | 1 |
 | [Slvlombardo](https://mstdn.social/@Slvlombardo) | Salvatore Lombardo | mstdn.social | 1 |
