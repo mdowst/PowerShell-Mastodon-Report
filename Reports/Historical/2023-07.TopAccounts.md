@@ -1,5 +1,5 @@
 # Top Users for July 2023
-Last Updated: 07/26/2023 06:26:15 UTC
+Last Updated: 07/26/2023 07:20:06 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 10 |
@@ -63,8 +63,8 @@ Last Updated: 07/26/2023 06:26:15 UTC
 | [dszp](https://infosec.exchange/@dszp) | David Szpunar | infosec.exchange | 1 |
 | [jrdepriest](https://infosec.exchange/@jrdepriest) | J. R. DePriest :verified_trans: :donor: (she / her) :EA DATA. SF: | infosec.exchange | 1 |
 | [Kjacobsen](https://infosec.exchange/@Kjacobsen) | Kieran Jacobsen | infosec.exchange | 1 |
+| [marco_k](https://mastodon.social/@marco_k) | Marco Kleinert | mastodon.social | 1 |
 | [mw](https://infosec.exchange/@mw) | Miriam Wiesner | infosec.exchange | 1 |
-| [onelin](https://infosec.exchange/@onelin) | Joshua McKinnon | infosec.exchange | 1 |
 | [paulsanders](https://infosec.exchange/@paulsanders) | Paul Sanders | infosec.exchange | 1 |
 | [rj07thomas](https://infosec.exchange/@rj07thomas) | rj07thomas | infosec.exchange | 1 |
 | [scottlink](https://infosec.exchange/@scottlink) | ath0 | infosec.exchange | 1 |
@@ -77,5 +77,6 @@ Last Updated: 07/26/2023 06:26:15 UTC
 | [bytefish](https://mastodon.social/@bytefish) | Philipp Wagner | mastodon.social | 1 |
 | [erossini](https://mastodon.social/@erossini) | Enrico | mastodon.social | 1 |
 | [geekland](https://mastodon.social/@geekland) | Geekland | mastodon.social | 1 |
-| [marco_k](https://mastodon.social/@marco_k) | Marco Kleinert | mastodon.social | 1 |
+| [HeikoBrenn](https://mastodon.social/@HeikoBrenn) | Heiko Brenn | mastodon.social | 1 |
+| [onelin](https://infosec.exchange/@onelin) | Joshua McKinnon | infosec.exchange | 1 |
 | [noah](https://twit.social/@noah) | Noah W. | twit.social | 1 |
