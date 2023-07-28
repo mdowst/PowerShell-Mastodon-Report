@@ -1,5 +1,5 @@
 # Top Users for July 2023
-Last Updated: 07/28/2023 12:40:01 UTC
+Last Updated: 07/28/2023 13:26:23 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 10 |
@@ -13,11 +13,11 @@ Last Updated: 07/28/2023 12:40:01 UTC
 | [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 4 |
 | [SAPIENTech](https://techhub.social/@SAPIENTech) | SAPIENTech | techhub.social | 3 |
 | [dariusw](https://tech.lgbt/@dariusw) | Darius Whiteplume | tech.lgbt | 3 |
+| [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 3 |
 | [TechDirectArchive](https://mastodon.social/@TechDirectArchive) | TechDirectArchive | mastodon.social | 3 |
 | [bjompen](https://mastodon.nu/@bjompen) | Bjompen | mastodon.nu | 2 |
 | [mortensummer](https://masto.ai/@mortensummer) | Tom | masto.ai | 2 |
 | [still](https://infosec.exchange/@still) | 安坂星海 Azaka Sekai | infosec.exchange | 2 |
-| [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 2 |
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 2 |
 | [funes](https://infosec.exchange/@funes) | Funes | infosec.exchange | 2 |
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 2 |
