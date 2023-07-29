@@ -1,5 +1,5 @@
 # Top Users for July 2023
-Last Updated: 07/29/2023 05:21:44 UTC
+Last Updated: 07/29/2023 06:24:50 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 10 |
@@ -17,6 +17,7 @@ Last Updated: 07/29/2023 05:21:44 UTC
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 3 |
 | [SAPIENTech](https://techhub.social/@SAPIENTech) | SAPIENTech | techhub.social | 3 |
 | [sstranger](https://techhub.social/@sstranger) | Stefan Stranger | techhub.social | 3 |
+| [HeikoBrenn](https://mastodon.social/@HeikoBrenn) | Heiko Brenn | mastodon.social | 3 |
 | [colincogle](https://mastodon.social/@colincogle) | Colin Cogle 🔵 | mastodon.social | 2 |
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 2 |
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 2 |
@@ -28,15 +29,14 @@ Last Updated: 07/29/2023 05:21:44 UTC
 | [funes](https://infosec.exchange/@funes) | Funes | infosec.exchange | 2 |
 | [dwmetz](https://infosec.exchange/@dwmetz) | Doug Metz | infosec.exchange | 2 |
 | [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 2 |
-| [HeikoBrenn](https://mastodon.social/@HeikoBrenn) | Heiko Brenn | mastodon.social | 2 |
 | [still](https://infosec.exchange/@still) | 安坂星海 Azaka Sekai | infosec.exchange | 2 |
-| [mercathin](https://mastodon.social/@mercathin) | Mercathin | mastodon.social | 1 |
 | [gomoot](https://mastodon.uno/@gomoot) | Gomoot | mastodon.uno | 1 |
 | [tigermanroot](https://mastodon.social/@tigermanroot) | TigermamRoot | mastodon.social | 1 |
 | [Pxtl](https://mastodon.social/@Pxtl) | Pxtl | mastodon.social | 1 |
 | [gsalvisberg](https://mastodontech.de/@gsalvisberg) | Gabriela Salvisberg | mastodontech.de | 1 |
 | [nerdemma](https://mastodon.social/@nerdemma) | Emmanuel D. Breyaue | mastodon.social | 1 |
 | [ShellWen](https://meow.social/@ShellWen) | ShellWen⚝ | 颉文 :verified_paw: | meow.social | 1 |
+| [mercathin](https://mastodon.social/@mercathin) | Mercathin | mastodon.social | 1 |
 | [oleschri](https://chaos.social/@oleschri) |  | chaos.social | 1 |
 | [Slvlombardo](https://mstdn.social/@Slvlombardo) | Salvatore Lombardo | mstdn.social | 1 |
 | [tinuwalther](https://techhub.social/@tinuwalther) | Tinu 🇨🇭 | techhub.social | 1 |
