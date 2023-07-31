@@ -1,17 +1,17 @@
 # Top Servers for July 2023
-Last Updated: 07/31/2023 18:26:12 UTC
+Last Updated: 07/31/2023 19:17:42 UTC
 | Server | Posts | Active Users |
 | -- | -- | -- |
 | [fosstodon.org](https://fosstodon.org/tags/PowerShell) | 40 | 12 |
-| [infosec.exchange](https://infosec.exchange/tags/PowerShell) | 37 | 23 |
+| [infosec.exchange](https://infosec.exchange/tags/PowerShell) | 38 | 23 |
 | [techhub.social](https://techhub.social/tags/PowerShell) | 34 | 14 |
 | [mastodon.social](https://mastodon.social/tags/PowerShell) | 34 | 21 |
 | [tech.lgbt](https://tech.lgbt/tags/PowerShell) | 6 | 3 |
 | [mstdn.social](https://mstdn.social/tags/PowerShell) | 5 | 4 |
 | [chaos.social](https://chaos.social/tags/PowerShell) | 3 | 2 |
+| [mastodon.nu](https://mastodon.nu/tags/PowerShell) | 3 | 1 |
 | [ioc.exchange](https://ioc.exchange/tags/PowerShell) | 2 | 2 |
 | [masto.ai](https://masto.ai/tags/PowerShell) | 2 | 1 |
-| [mastodon.nu](https://mastodon.nu/tags/PowerShell) | 2 | 1 |
 | [mastodonapp.uk](https://mastodonapp.uk/tags/PowerShell) | 2 | 1 |
 | [norden.social](https://norden.social/tags/PowerShell) | 2 | 2 |
 | [social.tchncs.de](https://social.tchncs.de/tags/PowerShell) | 1 | 1 |
