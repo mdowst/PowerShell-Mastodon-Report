@@ -1,5 +1,5 @@
 # Top Users for August 2023
-Last Updated: 08/01/2023 12:41:11 UTC
+Last Updated: 08/01/2023 13:26:05 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [marodriguezd](https://mastodon.social/@marodriguezd) | Miguel Ángel | mastodon.social | 1 |
