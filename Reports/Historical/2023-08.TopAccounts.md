@@ -1,7 +1,8 @@
 # Top Users for August 2023
-Last Updated: 08/02/2023 07:20:17 UTC
+Last Updated: 08/02/2023 08:26:30 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
+| [gioxx](https://mastodon.uno/@gioxx) | Gioxx | mastodon.uno | 2 |
 | [psugh](https://norden.social/@psugh) | PowerShell Usergroup Hannover | norden.social | 2 |
 | [HeikoBrenn](https://mastodon.social/@HeikoBrenn) | Heiko Brenn | mastodon.social | 1 |
 | [marodriguezd](https://mastodon.social/@marodriguezd) | Miguel Ángel | mastodon.social | 1 |
