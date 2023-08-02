@@ -1,5 +1,5 @@
 # Top Users for August 2023
-Last Updated: 08/02/2023 18:26:25 UTC
+Last Updated: 08/02/2023 19:18:14 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [HeikoBrenn](https://mastodon.social/@HeikoBrenn) | Heiko Brenn | mastodon.social | 2 |
