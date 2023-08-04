@@ -1,5 +1,5 @@
 # Top Users for August 2023
-Last Updated: 08/03/2023 23:20:32 UTC
+Last Updated: 08/04/2023 01:39:44 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 3 |
@@ -8,6 +8,7 @@ Last Updated: 08/03/2023 23:20:32 UTC
 | [gioxx](https://mastodon.uno/@gioxx) | Gioxx | mastodon.uno | 2 |
 | [psugh](https://norden.social/@psugh) | PowerShell Usergroup Hannover | norden.social | 2 |
 | [SAPIENTech](https://techhub.social/@SAPIENTech) | SAPIENTech | techhub.social | 2 |
+| [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 1 |
 | [jborean](https://fosstodon.org/@jborean) | Jordan Borean | fosstodon.org | 1 |
 | [ninovandermark](https://fosstodon.org/@ninovandermark) | Nino van der Mark | fosstodon.org | 1 |
 | [hantoyma](https://mastodon.social/@hantoyma) | hantoyma | mastodon.social | 1 |
