@@ -1,8 +1,8 @@
 # Top Users for August 2023
-Last Updated: 08/05/2023 12:36:20 UTC
+Last Updated: 08/05/2023 13:21:43 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
-| [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 4 |
+| [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 5 |
 | [SAPIENTech](https://techhub.social/@SAPIENTech) | SAPIENTech | techhub.social | 3 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 3 |
 | [psugh](https://norden.social/@psugh) | PowerShell Usergroup Hannover | norden.social | 2 |
