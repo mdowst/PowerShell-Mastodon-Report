@@ -1,10 +1,10 @@
 # Top Servers for August 2023
-Last Updated: 08/08/2023 15:23:07 UTC
+Last Updated: 08/08/2023 16:28:54 UTC
 | Server | Posts | Active Users |
 | -- | -- | -- |
 | [techhub.social](https://techhub.social/tags/PowerShell) | 15 | 6 |
 | [fosstodon.org](https://fosstodon.org/tags/PowerShell) | 10 | 5 |
-| [mastodon.social](https://mastodon.social/tags/PowerShell) | 9 | 8 |
+| [mastodon.social](https://mastodon.social/tags/PowerShell) | 10 | 8 |
 | [mastodon.uno](https://mastodon.uno/tags/PowerShell) | 2 | 1 |
 | [mastodonapp.uk](https://mastodonapp.uk/tags/PowerShell) | 2 | 1 |
 | [norden.social](https://norden.social/tags/PowerShell) | 2 | 1 |
