@@ -1,5 +1,5 @@
 # Top Users for August 2023
-Last Updated: 08/09/2023 11:19:10 UTC
+Last Updated: 08/09/2023 12:42:48 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 6 |
@@ -7,6 +7,7 @@ Last Updated: 08/09/2023 11:19:10 UTC
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 4 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 3 |
 | [HeikoBrenn](https://mastodon.social/@HeikoBrenn) | Heiko Brenn | mastodon.social | 3 |
+| [jborean](https://fosstodon.org/@jborean) | Jordan Borean | fosstodon.org | 2 |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 2 |
 | [psugh](https://norden.social/@psugh) | PowerShell Usergroup Hannover | norden.social | 2 |
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 2 |
@@ -25,6 +26,5 @@ Last Updated: 08/09/2023 11:19:10 UTC
 | [Tinolle](https://hachyderm.io/@Tinolle) | Milos Constantin | hachyderm.io | 1 |
 | [ninovandermark](https://fosstodon.org/@ninovandermark) | Nino van der Mark | fosstodon.org | 1 |
 | [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 1 |
-| [jborean](https://fosstodon.org/@jborean) | Jordan Borean | fosstodon.org | 1 |
 | [marodriguezd](https://mastodon.social/@marodriguezd) | Miguel Ángel | mastodon.social | 1 |
 | [TonyRedmond](https://techhub.social/@TonyRedmond) | Tony Redmond | techhub.social | 1 |
