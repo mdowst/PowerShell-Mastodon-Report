@@ -1,5 +1,5 @@
 # Top Users for August 2023
-Last Updated: 08/11/2023 20:21:50 UTC
+Last Updated: 08/11/2023 21:18:35 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 7 |
@@ -32,6 +32,7 @@ Last Updated: 08/11/2023 20:21:50 UTC
 | [rmaloley](https://infosec.exchange/@rmaloley) | rye | infosec.exchange | 1 |
 | [paulsanders](https://infosec.exchange/@paulsanders) | Paul Sanders | infosec.exchange | 1 |
 | [Tinolle](https://hachyderm.io/@Tinolle) | Milos Constantin | hachyderm.io | 1 |
+| [deadlydog](https://hachyderm.io/@deadlydog) | Dan Schroeder | hachyderm.io | 1 |
 | [ninovandermark](https://fosstodon.org/@ninovandermark) | Nino van der Mark | fosstodon.org | 1 |
 | [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 1 |
 | [marodriguezd](https://mastodon.social/@marodriguezd) | Miguel Ángel | mastodon.social | 1 |
