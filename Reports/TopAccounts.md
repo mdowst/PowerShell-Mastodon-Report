@@ -1,5 +1,5 @@
 # Top Users for August 2023
-Last Updated: 08/12/2023 14:20:10 UTC
+Last Updated: 08/12/2023 15:19:47 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 7 |
@@ -8,19 +8,19 @@ Last Updated: 08/12/2023 14:20:10 UTC
 | [SAPIENTech](https://techhub.social/@SAPIENTech) | SAPIENTech | techhub.social | 4 |
 | [HeikoBrenn](https://mastodon.social/@HeikoBrenn) | Heiko Brenn | mastodon.social | 4 |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 3 |
-| [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 2 |
-| [jborean](https://fosstodon.org/@jborean) | Jordan Borean | fosstodon.org | 2 |
-| [gregglsc](https://techhub.social/@gregglsc) | Gregg Lott | techhub.social | 2 |
-| [dwmetz](https://infosec.exchange/@dwmetz) | Doug Metz | infosec.exchange | 2 |
+| [TonyRedmond](https://techhub.social/@TonyRedmond) | Tony Redmond | techhub.social | 2 |
 | [gioxx](https://mastodon.uno/@gioxx) | Gioxx | mastodon.uno | 2 |
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 2 |
 | [psugh](https://norden.social/@psugh) | PowerShell Usergroup Hannover | norden.social | 2 |
-| [AndrewPlaTech](https://techhub.social/@AndrewPlaTech) | AndrewPlaTech | techhub.social | 1 |
+| [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 2 |
+| [dwmetz](https://infosec.exchange/@dwmetz) | Doug Metz | infosec.exchange | 2 |
+| [gregglsc](https://techhub.social/@gregglsc) | Gregg Lott | techhub.social | 2 |
+| [jborean](https://fosstodon.org/@jborean) | Jordan Borean | fosstodon.org | 2 |
 | [dertechblog](https://social.tchncs.de/@dertechblog) | Dertechblog | social.tchncs.de | 1 |
-| [dariusw](https://tech.lgbt/@dariusw) | Darius Whiteplume :ms_queer:​:theythem:​:any:​ | tech.lgbt | 1 |
 | [Tinolle](https://mastodon.social/@Tinolle) | Constantin Milos | mastodon.social | 1 |
 | [MagicLike](https://mstdn.social/@MagicLike) | MagicLike |💙💛| :heart_pride: | mstdn.social | 1 |
-| [osiris687](https://dataplatform.social/@osiris687) | Frank Henninger | dataplatform.social | 1 |
+| [dariusw](https://tech.lgbt/@dariusw) | Darius Whiteplume :ms_queer:​:theythem:​:any:​ | tech.lgbt | 1 |
+| [AndrewPlaTech](https://techhub.social/@AndrewPlaTech) | AndrewPlaTech | techhub.social | 1 |
 | [joshooaj](https://mastodon.social/@joshooaj) | Josh Hendricks | mastodon.social | 1 |
 | [kielkontrovers](https://mastodon.social/@kielkontrovers) | KielKontrovers | mastodon.social | 1 |
 | [sstranger](https://techhub.social/@sstranger) | Stefan Stranger | techhub.social | 1 |
@@ -36,4 +36,4 @@ Last Updated: 08/12/2023 14:20:10 UTC
 | [ninovandermark](https://fosstodon.org/@ninovandermark) | Nino van der Mark | fosstodon.org | 1 |
 | [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 1 |
 | [marodriguezd](https://mastodon.social/@marodriguezd) | Miguel Ángel | mastodon.social | 1 |
-| [TonyRedmond](https://techhub.social/@TonyRedmond) | Tony Redmond | techhub.social | 1 |
+| [osiris687](https://dataplatform.social/@osiris687) | Frank Henninger | dataplatform.social | 1 |
