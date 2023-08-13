@@ -1,5 +1,5 @@
 # Top Servers for August 2023
-Last Updated: 08/13/2023 17:20:10 UTC
+Last Updated: 08/13/2023 18:23:43 UTC
 | Server | Posts | Active Users |
 | -- | -- | -- |
 | [techhub.social](https://techhub.social/tags/PowerShell) | 20 | 7 |
