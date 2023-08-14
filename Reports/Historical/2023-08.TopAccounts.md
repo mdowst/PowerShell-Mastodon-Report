@@ -1,5 +1,5 @@
 # Top Users for August 2023
-Last Updated: 08/14/2023 15:21:05 UTC
+Last Updated: 08/14/2023 16:25:34 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 10 |
@@ -28,6 +28,7 @@ Last Updated: 08/14/2023 15:21:05 UTC
 | [hantoyma](https://mastodon.social/@hantoyma) | hantoyma | mastodon.social | 1 |
 | [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 1 |
 | [ChrisWarwick](https://mas.to/@ChrisWarwick) | Chris Warwick | mas.to | 1 |
+| [USBTypeSTeve](https://infosec.exchange/@USBTypeSTeve) | USB Type-Steve :verified: | infosec.exchange | 1 |
 | [tedi](https://infosec.exchange/@tedi) | Tedi Heriyanto | infosec.exchange | 1 |
 | [rmaloley](https://infosec.exchange/@rmaloley) | rye | infosec.exchange | 1 |
 | [paulsanders](https://infosec.exchange/@paulsanders) | Paul Sanders | infosec.exchange | 1 |
