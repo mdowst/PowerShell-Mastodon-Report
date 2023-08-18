@@ -1,8 +1,8 @@
 # Top Users for August 2023
-Last Updated: 08/18/2023 07:18:23 UTC
+Last Updated: 08/18/2023 08:25:18 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
-| [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 13 |
+| [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 14 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 8 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 7 |
 | [HeikoBrenn](https://mastodon.social/@HeikoBrenn) | Heiko Brenn | mastodon.social | 4 |
@@ -15,6 +15,7 @@ Last Updated: 08/18/2023 07:18:23 UTC
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 2 |
 | [TonyRedmond](https://techhub.social/@TonyRedmond) | Tony Redmond | techhub.social | 2 |
 | [jborean](https://fosstodon.org/@jborean) | Jordan Borean | fosstodon.org | 2 |
+| [deadlydog](https://hachyderm.io/@deadlydog) | Dan Schroeder | hachyderm.io | 2 |
 | [dwmetz](https://infosec.exchange/@dwmetz) | Doug Metz | infosec.exchange | 2 |
 | [simonmigliano](https://infosec.exchange/@simonmigliano) | Simon Migliano | infosec.exchange | 1 |
 | [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 1 |
@@ -23,7 +24,6 @@ Last Updated: 08/18/2023 07:18:23 UTC
 | [AndrewPlaTech](https://techhub.social/@AndrewPlaTech) | AndrewPlaTech | techhub.social | 1 |
 | [dariusw](https://tech.lgbt/@dariusw) | Darius Whiteplume :ms_queer:​:theythem:​:any:​ | tech.lgbt | 1 |
 | [dertechblog](https://social.tchncs.de/@dertechblog) | Dertechblog | social.tchncs.de | 1 |
-| [deadlydog](https://hachyderm.io/@deadlydog) | Dan Schroeder | hachyderm.io | 1 |
 | [AAKL](https://noc.social/@AAKL) | Aida Akl | noc.social | 1 |
 | [MagicLike](https://mstdn.social/@MagicLike) | MagicLike |💙💛| :heart_pride: | mstdn.social | 1 |
 | [Tinolle](https://hachyderm.io/@Tinolle) | Milos Constantin | hachyderm.io | 1 |
