@@ -1,5 +1,5 @@
 # Top Users for August 2023
-Last Updated: 08/18/2023 11:17:33 UTC
+Last Updated: 08/18/2023 12:36:48 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 15 |
@@ -7,7 +7,7 @@ Last Updated: 08/18/2023 11:17:33 UTC
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 7 |
 | [HeikoBrenn](https://mastodon.social/@HeikoBrenn) | Heiko Brenn | mastodon.social | 4 |
 | [SAPIENTech](https://techhub.social/@SAPIENTech) | SAPIENTech | techhub.social | 4 |
-| [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 3 |
+| [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 4 |
 | [deadlydog](https://hachyderm.io/@deadlydog) | Dan Schroeder | hachyderm.io | 3 |
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 3 |
 | [gregglsc](https://techhub.social/@gregglsc) | Gregg Lott | techhub.social | 2 |
