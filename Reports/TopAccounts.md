@@ -1,5 +1,5 @@
 # Top Users for August 2023
-Last Updated: 08/18/2023 12:36:48 UTC
+Last Updated: 08/18/2023 13:23:30 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 15 |
@@ -10,10 +10,10 @@ Last Updated: 08/18/2023 12:36:48 UTC
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 4 |
 | [deadlydog](https://hachyderm.io/@deadlydog) | Dan Schroeder | hachyderm.io | 3 |
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 3 |
+| [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 3 |
 | [gregglsc](https://techhub.social/@gregglsc) | Gregg Lott | techhub.social | 2 |
 | [psugh](https://norden.social/@psugh) | PowerShell Usergroup Hannover | norden.social | 2 |
 | [gioxx](https://mastodon.uno/@gioxx) | Gioxx | mastodon.uno | 2 |
-| [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 2 |
 | [TonyRedmond](https://techhub.social/@TonyRedmond) | Tony Redmond | techhub.social | 2 |
 | [jborean](https://fosstodon.org/@jborean) | Jordan Borean | fosstodon.org | 2 |
 | [dwmetz](https://infosec.exchange/@dwmetz) | Doug Metz | infosec.exchange | 2 |
