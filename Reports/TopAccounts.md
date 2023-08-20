@@ -1,5 +1,5 @@
 # Top Users for August 2023
-Last Updated: 08/20/2023 07:17:47 UTC
+Last Updated: 08/20/2023 08:22:26 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 16 |
@@ -16,10 +16,10 @@ Last Updated: 08/20/2023 07:17:47 UTC
 | [gioxx](https://mastodon.uno/@gioxx) | Gioxx | mastodon.uno | 2 |
 | [TonyRedmond](https://techhub.social/@TonyRedmond) | Tony Redmond | techhub.social | 2 |
 | [jborean](https://fosstodon.org/@jborean) | Jordan Borean | fosstodon.org | 2 |
+| [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 2 |
 | [dwmetz](https://infosec.exchange/@dwmetz) | Doug Metz | infosec.exchange | 2 |
 | [simonmigliano](https://infosec.exchange/@simonmigliano) | Simon Migliano | infosec.exchange | 1 |
 | [jhx](https://fosstodon.org/@jhx) | jhx | fosstodon.org | 1 |
-| [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 1 |
 | [ninovandermark](https://fosstodon.org/@ninovandermark) | Nino van der Mark | fosstodon.org | 1 |
 | [AndrewPlaTech](https://techhub.social/@AndrewPlaTech) | AndrewPlaTech | techhub.social | 1 |
 | [dariusw](https://tech.lgbt/@dariusw) | Darius Whiteplume :ms_queer:​:theythem:​:any:​ | tech.lgbt | 1 |
