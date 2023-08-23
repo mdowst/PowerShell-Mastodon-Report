@@ -1,5 +1,5 @@
 # Top Users for August 2023
-Last Updated: 08/23/2023 10:24:56 UTC
+Last Updated: 08/23/2023 11:18:06 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 19 |
@@ -17,6 +17,7 @@ Last Updated: 08/23/2023 10:24:56 UTC
 | [psugh](https://norden.social/@psugh) | PowerShell Usergroup Hannover | norden.social | 2 |
 | [jborean](https://fosstodon.org/@jborean) | Jordan Borean | fosstodon.org | 2 |
 | [gregglsc](https://techhub.social/@gregglsc) | Gregg Lott | techhub.social | 2 |
+| [joshooaj](https://mastodon.social/@joshooaj) | Josh Hendricks | mastodon.social | 2 |
 | [dwmetz](https://infosec.exchange/@dwmetz) | Doug Metz | infosec.exchange | 2 |
 | [dariusw](https://tech.lgbt/@dariusw) | Darius Whiteplume :ms_queer:​:theythem:​:any:​ | tech.lgbt | 1 |
 | [dertechblog](https://social.tchncs.de/@dertechblog) | Dertechblog | social.tchncs.de | 1 |
@@ -27,7 +28,6 @@ Last Updated: 08/23/2023 10:24:56 UTC
 | [JamesDBartlett3](https://techhub.social/@JamesDBartlett3) | James Bartlett :terminal: | techhub.social | 1 |
 | [marodriguezd](https://mastodon.social/@marodriguezd) | Miguel Ángel | mastodon.social | 1 |
 | [kielkontrovers](https://mastodon.social/@kielkontrovers) | KielKontrovers | mastodon.social | 1 |
-| [joshooaj](https://mastodon.social/@joshooaj) | Josh Hendricks | mastodon.social | 1 |
 | [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 1 |
 | [hantoyma](https://mastodon.social/@hantoyma) | hantoyma | mastodon.social | 1 |
 | [jhx](https://fosstodon.org/@jhx) | jhx | fosstodon.org | 1 |
