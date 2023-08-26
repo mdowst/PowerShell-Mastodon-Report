@@ -1,10 +1,10 @@
 # Top Users for August 2023
-Last Updated: 08/26/2023 12:34:31 UTC
+Last Updated: 08/26/2023 13:21:42 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 19 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 10 |
-| [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 9 |
+| [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 10 |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 5 |
 | [HeikoBrenn](https://mastodon.social/@HeikoBrenn) | Heiko Brenn | mastodon.social | 4 |
 | [jborean](https://fosstodon.org/@jborean) | Jordan Borean | fosstodon.org | 4 |
