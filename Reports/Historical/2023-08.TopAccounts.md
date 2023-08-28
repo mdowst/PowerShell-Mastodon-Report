@@ -1,5 +1,5 @@
 # Top Users for August 2023
-Last Updated: 08/28/2023 12:39:30 UTC
+Last Updated: 08/28/2023 13:25:27 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 19 |
@@ -17,11 +17,11 @@ Last Updated: 08/28/2023 12:39:30 UTC
 | [gioxx](https://mastodon.uno/@gioxx) | Gioxx | mastodon.uno | 2 |
 | [psugh](https://norden.social/@psugh) | PowerShell Usergroup Hannover | norden.social | 2 |
 | [dwmetz](https://infosec.exchange/@dwmetz) | Doug Metz | infosec.exchange | 2 |
+| [dariusw](https://tech.lgbt/@dariusw) | Darius Whiteplume :ms_queer:​:theythem:​:any:​ | tech.lgbt | 2 |
 | [gregglsc](https://techhub.social/@gregglsc) | Gregg Lott | techhub.social | 2 |
 | [JamesDBartlett3](https://techhub.social/@JamesDBartlett3) | James Bartlett :terminal: | techhub.social | 2 |
 | [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 2 |
 | [dertechblog](https://social.tchncs.de/@dertechblog) | Dertechblog | social.tchncs.de | 1 |
-| [dariusw](https://tech.lgbt/@dariusw) | Darius Whiteplume :ms_queer:​:theythem:​:any:​ | tech.lgbt | 1 |
 | [AAKL](https://noc.social/@AAKL) | Aida Akl | noc.social | 1 |
 | [MagicLike](https://mstdn.social/@MagicLike) | MagicLike |💙💛| :heart_pride: | mstdn.social | 1 |
 | [AndrewPlaTech](https://techhub.social/@AndrewPlaTech) | AndrewPlaTech | techhub.social | 1 |
