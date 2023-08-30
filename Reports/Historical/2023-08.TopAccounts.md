@@ -1,11 +1,11 @@
 # Top Users for August 2023
-Last Updated: 08/30/2023 11:18:24 UTC
+Last Updated: 08/30/2023 12:38:54 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 20 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 10 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 10 |
-| [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 5 |
+| [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 6 |
 | [HeikoBrenn](https://mastodon.social/@HeikoBrenn) | Heiko Brenn | mastodon.social | 4 |
 | [jborean](https://fosstodon.org/@jborean) | Jordan Borean | fosstodon.org | 4 |
 | [SAPIENTech](https://techhub.social/@SAPIENTech) | SAPIENTech | techhub.social | 4 |
@@ -43,8 +43,8 @@ Last Updated: 08/30/2023 11:18:24 UTC
 | [Tinolle](https://hachyderm.io/@Tinolle) | Milos Constantin | hachyderm.io | 1 |
 | [drsbaitso](https://infosec.exchange/@drsbaitso) | Dr. Sbaitso | infosec.exchange | 1 |
 | [JasonFossen](https://infosec.exchange/@JasonFossen) | Jason Fossen SANS | infosec.exchange | 1 |
+| [hantoyma](https://mastodon.social/@hantoyma) | hantoyma | mastodon.social | 1 |
 | [luzkenin](https://infosec.exchange/@luzkenin) | Joe 🏔️ King of NYNEX :donor: | infosec.exchange | 1 |
-| [Pacers31Colts18](https://infosec.exchange/@Pacers31Colts18) |  | infosec.exchange | 1 |
 | [paulsanders](https://infosec.exchange/@paulsanders) | Paul Sanders | infosec.exchange | 1 |
 | [rmaloley](https://infosec.exchange/@rmaloley) | rye | infosec.exchange | 1 |
 | [simonmigliano](https://infosec.exchange/@simonmigliano) | Simon Migliano | infosec.exchange | 1 |
@@ -52,6 +52,7 @@ Last Updated: 08/30/2023 11:18:24 UTC
 | [USBTypeSTeve](https://infosec.exchange/@USBTypeSTeve) | USB Type-Steve :verified: | infosec.exchange | 1 |
 | [andthisismrspeacock](https://mas.to/@andthisismrspeacock) | AndThisIsMrsPeacock 🏳‍🌈 | mas.to | 1 |
 | [ChrisWarwick](https://mas.to/@ChrisWarwick) | Chris Warwick | mas.to | 1 |
+| [JohanSelmosson](https://mastodon.nu/@JohanSelmosson) | Johan Selmosson | mastodon.nu | 1 |
 | [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 1 |
-| [hantoyma](https://mastodon.social/@hantoyma) | hantoyma | mastodon.social | 1 |
+| [Pacers31Colts18](https://infosec.exchange/@Pacers31Colts18) |  | infosec.exchange | 1 |
 | [cavorter](https://twit.social/@cavorter) | Nathan Stohlmann | twit.social | 1 |
