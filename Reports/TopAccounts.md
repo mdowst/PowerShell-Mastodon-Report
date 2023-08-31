@@ -1,5 +1,5 @@
 # Top Users for August 2023
-Last Updated: 08/31/2023 15:22:40 UTC
+Last Updated: 08/31/2023 16:28:53 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 20 |
@@ -9,9 +9,9 @@ Last Updated: 08/31/2023 15:22:40 UTC
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 5 |
 | [jborean](https://fosstodon.org/@jborean) | Jordan Borean | fosstodon.org | 4 |
 | [TonyRedmond](https://techhub.social/@TonyRedmond) | Tony Redmond | techhub.social | 4 |
+| [psugh](https://norden.social/@psugh) | PowerShell Usergroup Hannover | norden.social | 4 |
 | [SAPIENTech](https://techhub.social/@SAPIENTech) | SAPIENTech | techhub.social | 4 |
 | [HeikoBrenn](https://mastodon.social/@HeikoBrenn) | Heiko Brenn | mastodon.social | 4 |
-| [psugh](https://norden.social/@psugh) | PowerShell Usergroup Hannover | norden.social | 3 |
 | [deadlydog](https://hachyderm.io/@deadlydog) | Dan Schroeder | hachyderm.io | 3 |
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 3 |
 | [dariusw](https://tech.lgbt/@dariusw) | Darius Whiteplume :ms_queer:​:theythem:​:any:​ | tech.lgbt | 2 |
