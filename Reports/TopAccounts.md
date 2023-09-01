@@ -1,5 +1,5 @@
 # Top Users for September 2023
-Last Updated: 09/01/2023 13:24:47 UTC
+Last Updated: 09/01/2023 14:22:58 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 2 |
