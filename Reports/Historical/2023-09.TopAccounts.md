@@ -1,5 +1,5 @@
 # Top Users for September 2023
-Last Updated: 09/01/2023 21:18:36 UTC
+Last Updated: 09/01/2023 22:22:38 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 2 |
@@ -7,6 +7,7 @@ Last Updated: 09/01/2023 21:18:36 UTC
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 1 |
 | [USBTypeSTeve](https://infosec.exchange/@USBTypeSTeve) | USB Type-Steve :verified: | infosec.exchange | 1 |
 | [crohnenberg](https://mastodon.social/@crohnenberg) |  | mastodon.social | 1 |
+| [furicle](https://mastodon.social/@furicle) | furicle | mastodon.social | 1 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 1 |
 | [rulix](https://mastodon.social/@rulix) | Ruslan Gordeev | mastodon.social | 1 |
 | [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 1 |
