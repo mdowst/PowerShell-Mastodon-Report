@@ -1,5 +1,5 @@
 # Top Users for September 2023
-Last Updated: 09/05/2023 02:14:52 UTC
+Last Updated: 09/05/2023 03:13:54 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 2 |
