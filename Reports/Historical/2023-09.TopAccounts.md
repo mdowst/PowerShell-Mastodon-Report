@@ -1,5 +1,5 @@
 # Top Users for September 2023
-Last Updated: 09/06/2023 16:14:08 UTC
+Last Updated: 09/06/2023 17:13:25 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 4 |
@@ -8,6 +8,7 @@ Last Updated: 09/06/2023 16:14:08 UTC
 | [franklesniak](https://infosec.exchange/@franklesniak) | Frank Lesniak | infosec.exchange | 2 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 1 |
 | [psugh](https://norden.social/@psugh) | PowerShell Usergroup Hannover | norden.social | 1 |
+| [dassascha](https://norden.social/@dassascha) | dassascha :verified: | norden.social | 1 |
 | [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 1 |
 | [rulix](https://mastodon.social/@rulix) | Ruslan Gordeev | mastodon.social | 1 |
 | [rmathew](https://mastodon.social/@rmathew) | रञ्जित (Ranjit Mathew) | mastodon.social | 1 |
