@@ -1,5 +1,5 @@
 # Top Users for September 2023
-Last Updated: 09/06/2023 18:14:33 UTC
+Last Updated: 09/06/2023 19:13:18 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 4 |
@@ -21,6 +21,7 @@ Last Updated: 09/06/2023 18:14:33 UTC
 | [LeeArchinal](https://ioc.exchange/@LeeArchinal) | Just Another Blue Teamer | ioc.exchange | 1 |
 | [USBTypeSTeve](https://infosec.exchange/@USBTypeSTeve) | USB Type-Steve :verified: | infosec.exchange | 1 |
 | [tedi](https://infosec.exchange/@tedi) | Tedi Heriyanto | infosec.exchange | 1 |
+| [lapt0r](https://infosec.exchange/@lapt0r) | lapt0r :blinking_cursor: :blueteamcat: | infosec.exchange | 1 |
 | [ehmiiz](https://infosec.exchange/@ehmiiz) | Emil Larsson | infosec.exchange | 1 |
 | [anthro_packets](https://infosec.exchange/@anthro_packets) | Christopher Bauer :debian: ​:blobcatthinkingglare: :i3wm: | infosec.exchange | 1 |
 | [deadlydog](https://hachyderm.io/@deadlydog) | Dan Schroeder | hachyderm.io | 1 |
