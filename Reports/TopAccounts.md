@@ -1,12 +1,13 @@
 # Top Users for September 2023
-Last Updated: 09/07/2023 00:24:14 UTC
+Last Updated: 09/07/2023 01:30:49 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 4 |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 2 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 2 |
+| [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 2 |
+| [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 2 |
 | [franklesniak](https://infosec.exchange/@franklesniak) | Frank Lesniak | infosec.exchange | 2 |
-| [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 1 |
 | [psugh](https://norden.social/@psugh) | PowerShell Usergroup Hannover | norden.social | 1 |
 | [dassascha](https://norden.social/@dassascha) | dassascha :verified: | norden.social | 1 |
 | [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 1 |
@@ -25,7 +26,6 @@ Last Updated: 09/07/2023 00:24:14 UTC
 | [ehmiiz](https://infosec.exchange/@ehmiiz) | Emil Larsson | infosec.exchange | 1 |
 | [anthro_packets](https://infosec.exchange/@anthro_packets) | Christopher Bauer :debian: ​:blobcatthinkingglare: :i3wm: | infosec.exchange | 1 |
 | [deadlydog](https://hachyderm.io/@deadlydog) | Dan Schroeder | hachyderm.io | 1 |
-| [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 1 |
 | [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 1 |
 | [jhx](https://fosstodon.org/@jhx) | jhx | fosstodon.org | 1 |
 | [jborean](https://fosstodon.org/@jborean) | Jordan Borean | fosstodon.org | 1 |
