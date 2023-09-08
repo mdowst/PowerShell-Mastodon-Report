@@ -1,15 +1,16 @@
 # Top Users for September 2023
-Last Updated: 09/08/2023 06:14:35 UTC
+Last Updated: 09/08/2023 07:13:33 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 5 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 3 |
 | [89netram](https://hachyderm.io/@89netram) | Mårten Åsberg | hachyderm.io | 3 |
-| [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 2 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 2 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 2 |
 | [deadlydog](https://hachyderm.io/@deadlydog) | Dan Schroeder | hachyderm.io | 2 |
+| [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 2 |
 | [franklesniak](https://infosec.exchange/@franklesniak) | Frank Lesniak | infosec.exchange | 2 |
+| [falkheiland](https://fosstodon.org/@falkheiland) | Falk Heiland 🇺🇦 | fosstodon.org | 1 |
 | [joshooaj](https://mastodon.social/@joshooaj) | Josh Hendricks | mastodon.social | 1 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 1 |
 | [mharleydev](https://mastodon.social/@mharleydev) | Mike | mastodon.social | 1 |
@@ -21,7 +22,7 @@ Last Updated: 09/08/2023 06:14:35 UTC
 | [JamesDBartlett3](https://techhub.social/@JamesDBartlett3) | James Bartlett :terminal: | techhub.social | 1 |
 | [rulix](https://mastodon.social/@rulix) | Ruslan Gordeev | mastodon.social | 1 |
 | [furicle](https://mastodon.social/@furicle) | furicle | mastodon.social | 1 |
-| [falkheiland](https://fosstodon.org/@falkheiland) | Falk Heiland 🇺🇦 | fosstodon.org | 1 |
+| [bjompen](https://mastodon.nu/@bjompen) | Bjompen | mastodon.nu | 1 |
 | [colincogle](https://mastodon.social/@colincogle) | Colin Cogle 🔵 | mastodon.social | 1 |
 | [techdailycfp](https://techhub.social/@techdailycfp) | TechDailyCFP | techhub.social | 1 |
 | [LeeArchinal](https://ioc.exchange/@LeeArchinal) | Just Another Blue Teamer | ioc.exchange | 1 |
