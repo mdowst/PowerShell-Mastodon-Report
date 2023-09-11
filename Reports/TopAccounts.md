@@ -1,5 +1,5 @@
 # Top Users for September 2023
-Last Updated: 09/11/2023 17:13:55 UTC
+Last Updated: 09/11/2023 18:14:46 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 6 |
@@ -8,9 +8,9 @@ Last Updated: 09/11/2023 17:13:55 UTC
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 3 |
 | [89netram](https://hachyderm.io/@89netram) | Mårten Åsberg | hachyderm.io | 3 |
 | [deadlydog](https://hachyderm.io/@deadlydog) | Dan Schroeder | hachyderm.io | 3 |
+| [psugh](https://norden.social/@psugh) | PowerShell Usergroup Hannover | norden.social | 3 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 2 |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 2 |
-| [psugh](https://norden.social/@psugh) | PowerShell Usergroup Hannover | norden.social | 2 |
 | [franklesniak](https://infosec.exchange/@franklesniak) | Frank Lesniak | infosec.exchange | 2 |
 | [dedsyn4ps3](https://fosstodon.org/@dedsyn4ps3) | :arch: dedSyn4ps3 :nixos: | fosstodon.org | 1 |
 | [joshooaj](https://mastodon.social/@joshooaj) | Josh Hendricks | mastodon.social | 1 |
