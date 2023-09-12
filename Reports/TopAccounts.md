@@ -1,5 +1,5 @@
 # Top Users for September 2023
-Last Updated: 09/12/2023 15:14:10 UTC
+Last Updated: 09/12/2023 16:14:45 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 7 |
@@ -9,22 +9,23 @@ Last Updated: 09/12/2023 15:14:10 UTC
 | [89netram](https://hachyderm.io/@89netram) | Mårten Åsberg | hachyderm.io | 3 |
 | [deadlydog](https://hachyderm.io/@deadlydog) | Dan Schroeder | hachyderm.io | 3 |
 | [psugh](https://norden.social/@psugh) | PowerShell Usergroup Hannover | norden.social | 3 |
+| [ehmiiz](https://infosec.exchange/@ehmiiz) | Emil Larsson | infosec.exchange | 2 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 2 |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 2 |
-| [ehmiiz](https://infosec.exchange/@ehmiiz) | Emil Larsson | infosec.exchange | 2 |
 | [franklesniak](https://infosec.exchange/@franklesniak) | Frank Lesniak | infosec.exchange | 2 |
-| [dedsyn4ps3](https://fosstodon.org/@dedsyn4ps3) | :arch: dedSyn4ps3 :nixos: | fosstodon.org | 1 |
 | [mharleydev](https://mastodon.social/@mharleydev) | Mike | mastodon.social | 1 |
 | [ptcurley](https://mastodon.social/@ptcurley) | Patrick Curley | mastodon.social | 1 |
 | [rmathew](https://mastodon.social/@rmathew) | रञ्जित (Ranjit Mathew) | mastodon.social | 1 |
 | [rulix](https://mastodon.social/@rulix) | Ruslan Gordeev | mastodon.social | 1 |
+| [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 1 |
+| [dedsyn4ps3](https://fosstodon.org/@dedsyn4ps3) | :arch: dedSyn4ps3 :nixos: | fosstodon.org | 1 |
 | [dassascha](https://norden.social/@dassascha) | dassascha :verified: | norden.social | 1 |
-| [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 1 |
 | [joshooaj](https://mastodon.social/@joshooaj) | Josh Hendricks | mastodon.social | 1 |
 | [SuperSluether](https://tech.lgbt/@SuperSluether) | SuperSluether :blobfox: | tech.lgbt | 1 |
+| [EdTittel](https://techhub.social/@EdTittel) | Ed Tittel | techhub.social | 1 |
 | [gregglsc](https://techhub.social/@gregglsc) | Gregg Lott | techhub.social | 1 |
 | [JamesDBartlett3](https://techhub.social/@JamesDBartlett3) | James Bartlett :terminal: | techhub.social | 1 |
-| [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 1 |
+| [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 1 |
 | [JordanOrdix](https://mastodon.social/@JordanOrdix) | Andreas Jordan (ORDIX AG) | mastodon.social | 1 |
 | [Edthedev](https://mastodon.sdf.org/@Edthedev) | Ed | mastodon.sdf.org | 1 |
 | [crohnenberg](https://mastodon.social/@crohnenberg) |  | mastodon.social | 1 |
