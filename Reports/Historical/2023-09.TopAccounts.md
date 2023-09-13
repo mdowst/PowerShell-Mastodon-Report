@@ -1,14 +1,14 @@
 # Top Users for September 2023
-Last Updated: 09/13/2023 18:14:32 UTC
+Last Updated: 09/13/2023 19:12:57 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 7 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 5 |
+| [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 5 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 4 |
-| [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 4 |
+| [psugh](https://norden.social/@psugh) | PowerShell Usergroup Hannover | norden.social | 4 |
 | [89netram](https://hachyderm.io/@89netram) | Mårten Åsberg | hachyderm.io | 3 |
 | [deadlydog](https://hachyderm.io/@deadlydog) | Dan Schroeder | hachyderm.io | 3 |
-| [psugh](https://norden.social/@psugh) | PowerShell Usergroup Hannover | norden.social | 3 |
 | [ehmiiz](https://infosec.exchange/@ehmiiz) | Emil Larsson | infosec.exchange | 2 |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 2 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 2 |
