@@ -1,10 +1,10 @@
 # Top Users for September 2023
-Last Updated: 09/15/2023 19:12:38 UTC
+Last Updated: 09/15/2023 20:13:51 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 7 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 6 |
-| [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 5 |
+| [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 6 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 4 |
 | [deadlydog](https://hachyderm.io/@deadlydog) | Dan Schroeder | hachyderm.io | 4 |
 | [psugh](https://norden.social/@psugh) | PowerShell Usergroup Hannover | norden.social | 4 |
