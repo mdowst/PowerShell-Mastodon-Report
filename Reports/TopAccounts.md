@@ -1,21 +1,22 @@
 # Top Users for September 2023
-Last Updated: 09/19/2023 15:13:39 UTC
+Last Updated: 09/19/2023 16:14:15 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 9 |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 7 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 6 |
 | [deadlydog](https://hachyderm.io/@deadlydog) | Dan Schroeder | hachyderm.io | 5 |
-| [psugh](https://norden.social/@psugh) | PowerShell Usergroup Hannover | norden.social | 4 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 4 |
+| [psugh](https://norden.social/@psugh) | PowerShell Usergroup Hannover | norden.social | 4 |
+| [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 4 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 4 |
 | [89netram](https://hachyderm.io/@89netram) | Mårten Åsberg | hachyderm.io | 3 |
-| [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 3 |
-| [crohnenberg](https://mastodon.social/@crohnenberg) |  | mastodon.social | 2 |
-| [jhx](https://fosstodon.org/@jhx) | jhx | fosstodon.org | 2 |
-| [joshooaj](https://mastodon.social/@joshooaj) | Josh Hendricks | mastodon.social | 2 |
-| [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 2 |
 | [ehmiiz](https://infosec.exchange/@ehmiiz) | Emil Larsson | infosec.exchange | 2 |
+| [crohnenberg](https://mastodon.social/@crohnenberg) |  | mastodon.social | 2 |
+| [joshooaj](https://mastodon.social/@joshooaj) | Josh Hendricks | mastodon.social | 2 |
+| [jhx](https://fosstodon.org/@jhx) | jhx | fosstodon.org | 2 |
+| [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 2 |
+| [JamesDBartlett3](https://techhub.social/@JamesDBartlett3) | James Bartlett :terminal: | techhub.social | 2 |
 | [franklesniak](https://infosec.exchange/@franklesniak) | Frank Lesniak | infosec.exchange | 2 |
 | [mharleydev](https://mastodon.social/@mharleydev) | Mike | mastodon.social | 1 |
 | [ptcurley](https://mastodon.social/@ptcurley) | Patrick Curley | mastodon.social | 1 |
@@ -29,7 +30,6 @@ Last Updated: 09/19/2023 15:13:39 UTC
 | [SuperSluether](https://tech.lgbt/@SuperSluether) | SuperSluether :blobfox: | tech.lgbt | 1 |
 | [EdTittel](https://techhub.social/@EdTittel) | Ed Tittel | techhub.social | 1 |
 | [gregglsc](https://techhub.social/@gregglsc) | Gregg Lott | techhub.social | 1 |
-| [JamesDBartlett3](https://techhub.social/@JamesDBartlett3) | James Bartlett :terminal: | techhub.social | 1 |
 | [gioxx](https://mastodon.uno/@gioxx) | Gioxx | mastodon.uno | 1 |
 | [dedsyn4ps3](https://fosstodon.org/@dedsyn4ps3) | :arch: dedSyn4ps3 :nixos: | fosstodon.org | 1 |
 | [bjompen](https://mastodon.nu/@bjompen) | Bjompen | mastodon.nu | 1 |
