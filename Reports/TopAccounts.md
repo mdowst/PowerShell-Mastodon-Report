@@ -1,5 +1,5 @@
 # Top Users for September 2023
-Last Updated: 09/20/2023 18:14:29 UTC
+Last Updated: 09/20/2023 19:13:07 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 9 |
@@ -11,13 +11,13 @@ Last Updated: 09/20/2023 18:14:29 UTC
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 4 |
 | [psugh](https://norden.social/@psugh) | PowerShell Usergroup Hannover | norden.social | 4 |
 | [89netram](https://hachyderm.io/@89netram) | Mårten Åsberg | hachyderm.io | 3 |
+| [jhx](https://fosstodon.org/@jhx) | jhx | fosstodon.org | 3 |
 | [ehmiiz](https://infosec.exchange/@ehmiiz) | Emil Larsson | infosec.exchange | 2 |
-| [joshooaj](https://mastodon.social/@joshooaj) | Josh Hendricks | mastodon.social | 2 |
 | [crohnenberg](https://mastodon.social/@crohnenberg) |  | mastodon.social | 2 |
-| [jhx](https://fosstodon.org/@jhx) | jhx | fosstodon.org | 2 |
+| [franklesniak](https://infosec.exchange/@franklesniak) | Frank Lesniak | infosec.exchange | 2 |
 | [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 2 |
 | [JamesDBartlett3](https://techhub.social/@JamesDBartlett3) | James Bartlett :terminal: | techhub.social | 2 |
-| [franklesniak](https://infosec.exchange/@franklesniak) | Frank Lesniak | infosec.exchange | 2 |
+| [joshooaj](https://mastodon.social/@joshooaj) | Josh Hendricks | mastodon.social | 2 |
 | [JordanOrdix](https://mastodon.social/@JordanOrdix) | Andreas Jordan (ORDIX AG) | mastodon.social | 1 |
 | [mharleydev](https://mastodon.social/@mharleydev) | Mike | mastodon.social | 1 |
 | [ptcurley](https://mastodon.social/@ptcurley) | Patrick Curley | mastodon.social | 1 |

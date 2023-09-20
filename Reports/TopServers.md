@@ -1,9 +1,9 @@
 # Top Servers for September 2023
-Last Updated: 09/20/2023 18:14:29 UTC
+Last Updated: 09/20/2023 19:13:07 UTC
 | Server | Posts | Active Users |
 | -- | -- | -- |
 | [techhub.social](https://techhub.social/tags/PowerShell) | 21 | 6 |
-| [fosstodon.org](https://fosstodon.org/tags/PowerShell) | 19 | 9 |
+| [fosstodon.org](https://fosstodon.org/tags/PowerShell) | 20 | 9 |
 | [mastodon.social](https://mastodon.social/tags/PowerShell) | 17 | 11 |
 | [infosec.exchange](https://infosec.exchange/tags/PowerShell) | 14 | 12 |
 | [hachyderm.io](https://hachyderm.io/tags/PowerShell) | 9 | 3 |
