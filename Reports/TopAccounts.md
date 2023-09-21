@@ -1,21 +1,21 @@
 # Top Users for September 2023
-Last Updated: 09/21/2023 13:14:12 UTC
+Last Updated: 09/21/2023 14:13:43 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 9 |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 7 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 6 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 5 |
-| [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 5 |
 | [deadlydog](https://hachyderm.io/@deadlydog) | Dan Schroeder | hachyderm.io | 5 |
+| [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 5 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 4 |
 | [psugh](https://norden.social/@psugh) | PowerShell Usergroup Hannover | norden.social | 4 |
 | [89netram](https://hachyderm.io/@89netram) | Mårten Åsberg | hachyderm.io | 3 |
+| [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 3 |
 | [jhx](https://fosstodon.org/@jhx) | jhx | fosstodon.org | 3 |
 | [ehmiiz](https://infosec.exchange/@ehmiiz) | Emil Larsson | infosec.exchange | 2 |
 | [crohnenberg](https://mastodon.social/@crohnenberg) |  | mastodon.social | 2 |
 | [franklesniak](https://infosec.exchange/@franklesniak) | Frank Lesniak | infosec.exchange | 2 |
-| [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 2 |
 | [JamesDBartlett3](https://techhub.social/@JamesDBartlett3) | James Bartlett :terminal: | techhub.social | 2 |
 | [joshooaj](https://mastodon.social/@joshooaj) | Josh Hendricks | mastodon.social | 2 |
 | [JordanOrdix](https://mastodon.social/@JordanOrdix) | Andreas Jordan (ORDIX AG) | mastodon.social | 1 |
