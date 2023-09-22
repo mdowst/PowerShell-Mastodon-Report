@@ -1,5 +1,5 @@
 # Top Users for September 2023
-Last Updated: 09/22/2023 11:12:51 UTC
+Last Updated: 09/22/2023 12:14:44 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 9 |
@@ -9,20 +9,21 @@ Last Updated: 09/22/2023 11:12:51 UTC
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 6 |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 5 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 4 |
-| [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 4 |
 | [psugh](https://norden.social/@psugh) | PowerShell Usergroup Hannover | norden.social | 4 |
+| [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 4 |
 | [jhx](https://fosstodon.org/@jhx) | jhx | fosstodon.org | 3 |
 | [89netram](https://hachyderm.io/@89netram) | Mårten Åsberg | hachyderm.io | 3 |
 | [franklesniak](https://infosec.exchange/@franklesniak) | Frank Lesniak | infosec.exchange | 2 |
 | [ehmiiz](https://infosec.exchange/@ehmiiz) | Emil Larsson | infosec.exchange | 2 |
 | [crohnenberg](https://mastodon.social/@crohnenberg) |  | mastodon.social | 2 |
-| [USBTypeSTeve](https://infosec.exchange/@USBTypeSTeve) | USB Type-Steve :verified: | infosec.exchange | 2 |
 | [EdTittel](https://techhub.social/@EdTittel) | Ed Tittel | techhub.social | 2 |
 | [joshooaj](https://mastodon.social/@joshooaj) | Josh Hendricks | mastodon.social | 2 |
 | [JamesDBartlett3](https://techhub.social/@JamesDBartlett3) | James Bartlett :terminal: | techhub.social | 2 |
+| [falkheiland](https://fosstodon.org/@falkheiland) | Falk Heiland 🇺🇦 | fosstodon.org | 2 |
+| [USBTypeSTeve](https://infosec.exchange/@USBTypeSTeve) | USB Type-Steve :verified: | infosec.exchange | 2 |
+| [ptcurley](https://mastodon.social/@ptcurley) | Patrick Curley | mastodon.social | 1 |
 | [mharleydev](https://mastodon.social/@mharleydev) | Mike | mastodon.social | 1 |
 | [mabster](https://mastodon.social/@mabster) | Matt Hamilton | mastodon.social | 1 |
-| [ptcurley](https://mastodon.social/@ptcurley) | Patrick Curley | mastodon.social | 1 |
 | [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 1 |
 | [rulix](https://mastodon.social/@rulix) | Ruslan Gordeev | mastodon.social | 1 |
 | [gioxx](https://mastodon.uno/@gioxx) | Gioxx | mastodon.uno | 1 |
@@ -34,9 +35,8 @@ Last Updated: 09/22/2023 11:12:51 UTC
 | [gregglsc](https://techhub.social/@gregglsc) | Gregg Lott | techhub.social | 1 |
 | [rmathew](https://mastodon.social/@rmathew) | रञ्जित (Ranjit Mathew) | mastodon.social | 1 |
 | [dedsyn4ps3](https://fosstodon.org/@dedsyn4ps3) | :arch: dedSyn4ps3 :nixos: | fosstodon.org | 1 |
-| [Edthedev](https://mastodon.sdf.org/@Edthedev) | Ed | mastodon.sdf.org | 1 |
+| [archer72](https://mastodon.sdf.org/@archer72) | Mark | mastodon.sdf.org | 1 |
 | [colincogle](https://mastodon.social/@colincogle) | Colin Cogle 🔵 | mastodon.social | 1 |
-| [falkheiland](https://fosstodon.org/@falkheiland) | Falk Heiland 🇺🇦 | fosstodon.org | 1 |
 | [governa](https://fosstodon.org/@governa) | ricardo :mastodon: | fosstodon.org | 1 |
 | [jborean](https://fosstodon.org/@jborean) | Jordan Borean | fosstodon.org | 1 |
 | [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 1 |
@@ -54,6 +54,7 @@ Last Updated: 09/22/2023 11:12:51 UTC
 | [LeeArchinal](https://ioc.exchange/@LeeArchinal) | Just Another Blue Teamer | ioc.exchange | 1 |
 | [bjompen](https://mastodon.nu/@bjompen) | Bjompen | mastodon.nu | 1 |
 | [techdailycfp](https://techhub.social/@techdailycfp) | TechDailyCFP | techhub.social | 1 |
+| [Edthedev](https://mastodon.sdf.org/@Edthedev) | Ed | mastodon.sdf.org | 1 |
 | [Andreas_Sturm](https://mastodon.social/@Andreas_Sturm) | Andreas Sturm 💚🚴🏻 🧗‍♂️ 🥋 | mastodon.social | 1 |
 | [furicle](https://mastodon.social/@furicle) | furicle | mastodon.social | 1 |
 | [bflipp](https://vmst.io/@bflipp) | Brett Flippin | vmst.io | 1 |
