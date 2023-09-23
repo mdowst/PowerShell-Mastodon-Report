@@ -1,13 +1,13 @@
 # Top Users for September 2023
-Last Updated: 09/23/2023 19:12:45 UTC
+Last Updated: 09/23/2023 20:13:42 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 10 |
+| [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 9 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 9 |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 8 |
 | [deadlydog](https://hachyderm.io/@deadlydog) | Dan Schroeder | hachyderm.io | 7 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 6 |
-| [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 6 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 5 |
 | [psugh](https://norden.social/@psugh) | PowerShell Usergroup Hannover | norden.social | 4 |
 | [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 4 |
@@ -36,8 +36,8 @@ Last Updated: 09/23/2023 19:12:45 UTC
 | [gregglsc](https://techhub.social/@gregglsc) | Gregg Lott | techhub.social | 1 |
 | [rmathew](https://mastodon.social/@rmathew) | रञ्जित (Ranjit Mathew) | mastodon.social | 1 |
 | [JordanOrdix](https://mastodon.social/@JordanOrdix) | Andreas Jordan (ORDIX AG) | mastodon.social | 1 |
-| [archer72](https://mastodon.sdf.org/@archer72) | Mark | mastodon.sdf.org | 1 |
-| [colincogle](https://mastodon.social/@colincogle) | Colin Cogle 🔵 | mastodon.social | 1 |
+| [Edthedev](https://mastodon.sdf.org/@Edthedev) | Ed | mastodon.sdf.org | 1 |
+| [DaveMasonDotMe](https://mastodon.social/@DaveMasonDotMe) | Dave Mason | mastodon.social | 1 |
 | [governa](https://fosstodon.org/@governa) | ricardo :mastodon: | fosstodon.org | 1 |
 | [jborean](https://fosstodon.org/@jborean) | Jordan Borean | fosstodon.org | 1 |
 | [wholesomedonut](https://fosstodon.org/@wholesomedonut) | donut :windows: :dotnet: | fosstodon.org | 1 |
@@ -46,15 +46,16 @@ Last Updated: 09/23/2023 19:12:45 UTC
 | [decio](https://infosec.exchange/@decio) | :mastodon: decio㉿kali:~$:blinking_cursor: | infosec.exchange | 1 |
 | [dennisfaucher](https://infosec.exchange/@dennisfaucher) | Dennis Faucher :donor: :mastodon: | infosec.exchange | 1 |
 | [drsbaitso](https://infosec.exchange/@drsbaitso) | Dr. Sbaitso | infosec.exchange | 1 |
-| [furicle](https://mastodon.social/@furicle) | furicle | mastodon.social | 1 |
 | [dwmetz](https://infosec.exchange/@dwmetz) | Doug Metz | infosec.exchange | 1 |
+| [lapt0r](https://infosec.exchange/@lapt0r) | lapt0r :blinking_cursor: :blueteamcat: | infosec.exchange | 1 |
 | [r1cksec](https://infosec.exchange/@r1cksec) | r1cksec | infosec.exchange | 1 |
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 1 |
 | [tedi](https://infosec.exchange/@tedi) | Tedi Heriyanto | infosec.exchange | 1 |
 | [LeeArchinal](https://ioc.exchange/@LeeArchinal) | Just Another Blue Teamer | ioc.exchange | 1 |
 | [bjompen](https://mastodon.nu/@bjompen) | Bjompen | mastodon.nu | 1 |
+| [archer72](https://mastodon.sdf.org/@archer72) | Mark | mastodon.sdf.org | 1 |
 | [techdailycfp](https://techhub.social/@techdailycfp) | TechDailyCFP | techhub.social | 1 |
-| [Edthedev](https://mastodon.sdf.org/@Edthedev) | Ed | mastodon.sdf.org | 1 |
 | [Andreas_Sturm](https://mastodon.social/@Andreas_Sturm) | Andreas Sturm 💚🚴🏻 🧗‍♂️ 🥋 | mastodon.social | 1 |
-| [lapt0r](https://infosec.exchange/@lapt0r) | lapt0r :blinking_cursor: :blueteamcat: | infosec.exchange | 1 |
+| [colincogle](https://mastodon.social/@colincogle) | Colin Cogle 🔵 | mastodon.social | 1 |
+| [furicle](https://mastodon.social/@furicle) | furicle | mastodon.social | 1 |
 | [bflipp](https://vmst.io/@bflipp) | Brett Flippin | vmst.io | 1 |
