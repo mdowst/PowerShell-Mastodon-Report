@@ -1,5 +1,5 @@
 # Top Users for September 2023
-Last Updated: 09/23/2023 08:13:59 UTC
+Last Updated: 09/23/2023 09:12:45 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 10 |
