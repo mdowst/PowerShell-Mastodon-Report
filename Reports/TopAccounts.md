@@ -1,10 +1,10 @@
 # Top Users for September 2023
-Last Updated: 09/25/2023 10:13:36 UTC
+Last Updated: 09/25/2023 11:12:42 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
+| [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 10 |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 10 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 9 |
-| [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 9 |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 8 |
 | [deadlydog](https://hachyderm.io/@deadlydog) | Dan Schroeder | hachyderm.io | 7 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 6 |
