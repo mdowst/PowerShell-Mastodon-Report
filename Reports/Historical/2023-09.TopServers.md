@@ -1,5 +1,5 @@
 # Top Servers for September 2023
-Last Updated: 09/25/2023 12:14:38 UTC
+Last Updated: 09/25/2023 13:14:26 UTC
 | Server | Posts | Active Users |
 | -- | -- | -- |
 | [fosstodon.org](https://fosstodon.org/tags/PowerShell) | 27 | 9 |
