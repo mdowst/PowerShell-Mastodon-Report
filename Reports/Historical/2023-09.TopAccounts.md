@@ -1,5 +1,5 @@
 # Top Users for September 2023
-Last Updated: 09/25/2023 17:12:54 UTC
+Last Updated: 09/25/2023 18:14:08 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 10 |
@@ -13,6 +13,7 @@ Last Updated: 09/25/2023 17:12:54 UTC
 | [jhx](https://fosstodon.org/@jhx) | jhx | fosstodon.org | 4 |
 | [psugh](https://norden.social/@psugh) | PowerShell Usergroup Hannover | norden.social | 4 |
 | [89netram](https://hachyderm.io/@89netram) | Mårten Åsberg | hachyderm.io | 3 |
+| [ptcurley](https://mastodon.social/@ptcurley) | Patrick Curley | mastodon.social | 2 |
 | [franklesniak](https://infosec.exchange/@franklesniak) | Frank Lesniak | infosec.exchange | 2 |
 | [joshooaj](https://mastodon.social/@joshooaj) | Josh Hendricks | mastodon.social | 2 |
 | [dwmetz](https://infosec.exchange/@dwmetz) | Doug Metz | infosec.exchange | 2 |
@@ -24,7 +25,6 @@ Last Updated: 09/25/2023 17:12:54 UTC
 | [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 2 |
 | [ehmiiz](https://infosec.exchange/@ehmiiz) | Emil Larsson | infosec.exchange | 2 |
 | [mharleydev](https://mastodon.social/@mharleydev) | Mike | mastodon.social | 1 |
-| [ptcurley](https://mastodon.social/@ptcurley) | Patrick Curley | mastodon.social | 1 |
 | [rmathew](https://mastodon.social/@rmathew) | रञ्जित (Ranjit Mathew) | mastodon.social | 1 |
 | [mabster](https://mastodon.social/@mabster) | Matt Hamilton | mastodon.social | 1 |
 | [dedsyn4ps3](https://fosstodon.org/@dedsyn4ps3) | :arch: dedSyn4ps3 :nixos: | fosstodon.org | 1 |
