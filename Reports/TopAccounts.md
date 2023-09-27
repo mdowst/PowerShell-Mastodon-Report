@@ -1,5 +1,5 @@
 # Top Users for September 2023
-Last Updated: 09/27/2023 14:13:09 UTC
+Last Updated: 09/27/2023 15:14:07 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 11 |
@@ -12,8 +12,8 @@ Last Updated: 09/27/2023 14:13:09 UTC
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 5 |
 | [psugh](https://norden.social/@psugh) | PowerShell Usergroup Hannover | norden.social | 4 |
 | [jhx](https://fosstodon.org/@jhx) | jhx | fosstodon.org | 4 |
+| [89netram](https://hachyderm.io/@89netram) | Mårten Åsberg | hachyderm.io | 4 |
 | [dwmetz](https://infosec.exchange/@dwmetz) | Doug Metz | infosec.exchange | 3 |
-| [89netram](https://hachyderm.io/@89netram) | Mårten Åsberg | hachyderm.io | 3 |
 | [ehmiiz](https://infosec.exchange/@ehmiiz) | Emil Larsson | infosec.exchange | 2 |
 | [r1cksec](https://infosec.exchange/@r1cksec) | r1cksec | infosec.exchange | 2 |
 | [wandersick](https://mastodon.social/@wandersick) | wandersick | mastodon.social | 2 |
