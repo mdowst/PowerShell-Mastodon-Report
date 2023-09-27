@@ -1,43 +1,43 @@
 # Top Users for September 2023
-Last Updated: 09/27/2023 11:12:37 UTC
+Last Updated: 09/27/2023 12:14:58 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 11 |
-| [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 10 |
+| [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 11 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 9 |
-| [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 8 |
 | [deadlydog](https://hachyderm.io/@deadlydog) | Dan Schroeder | hachyderm.io | 8 |
+| [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 8 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 6 |
 | [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 6 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 5 |
-| [jhx](https://fosstodon.org/@jhx) | jhx | fosstodon.org | 4 |
 | [psugh](https://norden.social/@psugh) | PowerShell Usergroup Hannover | norden.social | 4 |
+| [jhx](https://fosstodon.org/@jhx) | jhx | fosstodon.org | 4 |
+| [dwmetz](https://infosec.exchange/@dwmetz) | Doug Metz | infosec.exchange | 3 |
 | [89netram](https://hachyderm.io/@89netram) | Mårten Åsberg | hachyderm.io | 3 |
-| [r1cksec](https://infosec.exchange/@r1cksec) | r1cksec | infosec.exchange | 2 |
-| [USBTypeSTeve](https://infosec.exchange/@USBTypeSTeve) | USB Type-Steve :verified: | infosec.exchange | 2 |
 | [ehmiiz](https://infosec.exchange/@ehmiiz) | Emil Larsson | infosec.exchange | 2 |
+| [r1cksec](https://infosec.exchange/@r1cksec) | r1cksec | infosec.exchange | 2 |
+| [wandersick](https://mastodon.social/@wandersick) | wandersick | mastodon.social | 2 |
 | [ptcurley](https://mastodon.social/@ptcurley) | Patrick Curley | mastodon.social | 2 |
 | [crohnenberg](https://mastodon.social/@crohnenberg) |  | mastodon.social | 2 |
-| [wandersick](https://mastodon.social/@wandersick) | wandersick | mastodon.social | 2 |
+| [USBTypeSTeve](https://infosec.exchange/@USBTypeSTeve) | USB Type-Steve :verified: | infosec.exchange | 2 |
 | [franklesniak](https://infosec.exchange/@franklesniak) | Frank Lesniak | infosec.exchange | 2 |
 | [joshooaj](https://mastodon.social/@joshooaj) | Josh Hendricks | mastodon.social | 2 |
-| [dwmetz](https://infosec.exchange/@dwmetz) | Doug Metz | infosec.exchange | 2 |
 | [falkheiland](https://fosstodon.org/@falkheiland) | Falk Heiland 🇺🇦 | fosstodon.org | 2 |
 | [JamesDBartlett3](https://techhub.social/@JamesDBartlett3) | James Bartlett :terminal: | techhub.social | 2 |
 | [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 2 |
 | [EdTittel](https://techhub.social/@EdTittel) | Ed Tittel | techhub.social | 2 |
-| [SuperSluether](https://tech.lgbt/@SuperSluether) | SuperSluether :blobfox: | tech.lgbt | 1 |
-| [gioxx](https://mastodon.uno/@gioxx) | Gioxx | mastodon.uno | 1 |
-| [bmo](https://techhub.social/@bmo) | BMO | techhub.social | 1 |
-| [mabster](https://mastodon.social/@mabster) | Matt Hamilton | mastodon.social | 1 |
-| [rulix](https://mastodon.social/@rulix) | Ruslan Gordeev | mastodon.social | 1 |
-| [rmathew](https://mastodon.social/@rmathew) | रञ्जित (Ranjit Mathew) | mastodon.social | 1 |
-| [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 1 |
-| [gregglsc](https://techhub.social/@gregglsc) | Gregg Lott | techhub.social | 1 |
-| [mharleydev](https://mastodon.social/@mharleydev) | Mike | mastodon.social | 1 |
-| [rubymayvalentine](https://tech.lgbt/@rubymayvalentine) | Ruby | tech.lgbt | 1 |
 | [dassascha](https://norden.social/@dassascha) | dassascha :verified: | norden.social | 1 |
+| [mharleydev](https://mastodon.social/@mharleydev) | Mike | mastodon.social | 1 |
+| [gregglsc](https://techhub.social/@gregglsc) | Gregg Lott | techhub.social | 1 |
+| [rmathew](https://mastodon.social/@rmathew) | रञ्जित (Ranjit Mathew) | mastodon.social | 1 |
+| [rulix](https://mastodon.social/@rulix) | Ruslan Gordeev | mastodon.social | 1 |
+| [bmo](https://techhub.social/@bmo) | BMO | techhub.social | 1 |
+| [gioxx](https://mastodon.uno/@gioxx) | Gioxx | mastodon.uno | 1 |
+| [SuperSluether](https://tech.lgbt/@SuperSluether) | SuperSluether :blobfox: | tech.lgbt | 1 |
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 1 |
+| [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 1 |
+| [rubymayvalentine](https://tech.lgbt/@rubymayvalentine) | Ruby | tech.lgbt | 1 |
+| [mabster](https://mastodon.social/@mabster) | Matt Hamilton | mastodon.social | 1 |
 | [dedsyn4ps3](https://fosstodon.org/@dedsyn4ps3) | :arch: dedSyn4ps3 :nixos: | fosstodon.org | 1 |
 | [Edthedev](https://mastodon.sdf.org/@Edthedev) | Ed | mastodon.sdf.org | 1 |
 | [furicle](https://mastodon.social/@furicle) | furicle | mastodon.social | 1 |
