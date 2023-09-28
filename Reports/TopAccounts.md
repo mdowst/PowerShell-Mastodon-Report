@@ -1,8 +1,8 @@
 # Top Users for September 2023
-Last Updated: 09/28/2023 11:12:46 UTC
+Last Updated: 09/28/2023 12:14:34 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
-| [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 12 |
+| [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 13 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 11 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 9 |
 | [deadlydog](https://hachyderm.io/@deadlydog) | Dan Schroeder | hachyderm.io | 8 |
