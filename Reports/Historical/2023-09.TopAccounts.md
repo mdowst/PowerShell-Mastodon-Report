@@ -1,11 +1,11 @@
 # Top Users for September 2023
-Last Updated: 09/30/2023 20:13:37 UTC
+Last Updated: 09/30/2023 21:12:32 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 16 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 12 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 11 |
-| [deadlydog](https://hachyderm.io/@deadlydog) | Dan Schroeder | hachyderm.io | 9 |
+| [deadlydog](https://hachyderm.io/@deadlydog) | Dan Schroeder | hachyderm.io | 10 |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 8 |
 | [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 7 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 6 |
@@ -14,16 +14,16 @@ Last Updated: 09/30/2023 20:13:37 UTC
 | [89netram](https://hachyderm.io/@89netram) | Mårten Åsberg | hachyderm.io | 4 |
 | [psugh](https://norden.social/@psugh) | PowerShell Usergroup Hannover | norden.social | 4 |
 | [dwmetz](https://infosec.exchange/@dwmetz) | Doug Metz | infosec.exchange | 3 |
-| [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 2 |
-| [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 2 |
-| [ehmiiz](https://infosec.exchange/@ehmiiz) | Emil Larsson | infosec.exchange | 2 |
-| [bjompen](https://mastodon.nu/@bjompen) | Bjompen | mastodon.nu | 2 |
+| [joshooaj](https://mastodon.social/@joshooaj) | Josh Hendricks | mastodon.social | 3 |
 | [wandersick](https://mastodon.social/@wandersick) | wandersick | mastodon.social | 2 |
-| [crohnenberg](https://mastodon.social/@crohnenberg) |  | mastodon.social | 2 |
-| [ptcurley](https://mastodon.social/@ptcurley) | Patrick Curley | mastodon.social | 2 |
 | [USBTypeSTeve](https://infosec.exchange/@USBTypeSTeve) | USB Type-Steve :verified: | infosec.exchange | 2 |
+| [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 2 |
+| [crohnenberg](https://mastodon.social/@crohnenberg) |  | mastodon.social | 2 |
+| [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 2 |
+| [ptcurley](https://mastodon.social/@ptcurley) | Patrick Curley | mastodon.social | 2 |
+| [bjompen](https://mastodon.nu/@bjompen) | Bjompen | mastodon.nu | 2 |
 | [r1cksec](https://infosec.exchange/@r1cksec) | r1cksec | infosec.exchange | 2 |
-| [joshooaj](https://mastodon.social/@joshooaj) | Josh Hendricks | mastodon.social | 2 |
+| [ehmiiz](https://infosec.exchange/@ehmiiz) | Emil Larsson | infosec.exchange | 2 |
 | [franklesniak](https://infosec.exchange/@franklesniak) | Frank Lesniak | infosec.exchange | 2 |
 | [falkheiland](https://fosstodon.org/@falkheiland) | Falk Heiland 🇺🇦 | fosstodon.org | 2 |
 | [JamesDBartlett3](https://techhub.social/@JamesDBartlett3) | James Bartlett :terminal: | techhub.social | 2 |
