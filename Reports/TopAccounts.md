@@ -1,5 +1,5 @@
 # Top Users for October 2023
-Last Updated: 10/07/2023 10:13:29 UTC
+Last Updated: 10/07/2023 11:13:01 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 2 |
@@ -10,6 +10,7 @@ Last Updated: 10/07/2023 10:13:29 UTC
 | [deadlydog](https://hachyderm.io/@deadlydog) | Dan Schroeder | hachyderm.io | 1 |
 | [saltyoldgeek](https://hachyderm.io/@saltyoldgeek) | saltyoldgeek | hachyderm.io | 1 |
 | [13reak](https://infosec.exchange/@13reak) | 13reak | infosec.exchange | 1 |
+| [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 1 |
 | [joshooaj](https://mastodon.social/@joshooaj) | Josh Hendricks | mastodon.social | 1 |
 | [Pxtl](https://mastodon.social/@Pxtl) | Pxtl | mastodon.social | 1 |
 | [Randriksen](https://mastodon.social/@Randriksen) | Randriksen | mastodon.social | 1 |
