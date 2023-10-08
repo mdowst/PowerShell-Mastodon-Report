@@ -1,11 +1,11 @@
 # Top Users for October 2023
-Last Updated: 10/08/2023 14:12:57 UTC
+Last Updated: 10/08/2023 15:13:15 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 3 |
+| [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 3 |
 | [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 2 |
 | [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 2 |
-| [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 2 |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 2 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 1 |
 | [jhx](https://fosstodon.org/@jhx) | jhx | fosstodon.org | 1 |
