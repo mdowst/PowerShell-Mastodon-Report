@@ -1,5 +1,5 @@
 # Top Users for October 2023
-Last Updated: 10/09/2023 22:13:25 UTC
+Last Updated: 10/09/2023 23:13:33 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 4 |
@@ -11,6 +11,7 @@ Last Updated: 10/09/2023 22:13:25 UTC
 | [romu700](https://mastodon.social/@romu700) | Romu | mastodon.social | 1 |
 | [Randriksen](https://mastodon.social/@Randriksen) | Randriksen | mastodon.social | 1 |
 | [Pxtl](https://mastodon.social/@Pxtl) | Pxtl | mastodon.social | 1 |
+| [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 1 |
 | [joshooaj](https://mastodon.social/@joshooaj) | Josh Hendricks | mastodon.social | 1 |
 | [HeyItsGilbert](https://fosstodon.org/@HeyItsGilbert) | Gilbert Sanchez :omya_windows: | fosstodon.org | 1 |
 | [13reak](https://infosec.exchange/@13reak) | 13reak | infosec.exchange | 1 |
