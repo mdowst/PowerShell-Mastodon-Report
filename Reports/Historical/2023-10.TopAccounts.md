@@ -1,5 +1,5 @@
 # Top Users for October 2023
-Last Updated: 10/09/2023 07:13:44 UTC
+Last Updated: 10/09/2023 08:14:31 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 3 |
