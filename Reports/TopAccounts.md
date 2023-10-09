@@ -1,13 +1,14 @@
 # Top Users for October 2023
-Last Updated: 10/09/2023 18:14:10 UTC
+Last Updated: 10/09/2023 19:13:10 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 4 |
-| [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 3 |
 | [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 3 |
+| [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 3 |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 2 |
 | [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 2 |
 | [pirafrank](https://mastodon.uno/@pirafrank) | Francesco Pira :verified: | mastodon.uno | 1 |
+| [romu700](https://mastodon.social/@romu700) | Romu | mastodon.social | 1 |
 | [Randriksen](https://mastodon.social/@Randriksen) | Randriksen | mastodon.social | 1 |
 | [Pxtl](https://mastodon.social/@Pxtl) | Pxtl | mastodon.social | 1 |
 | [joshooaj](https://mastodon.social/@joshooaj) | Josh Hendricks | mastodon.social | 1 |
