@@ -1,5 +1,5 @@
 # Top Users for October 2023
-Last Updated: 10/09/2023 03:14:06 UTC
+Last Updated: 10/09/2023 04:13:53 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 3 |
@@ -16,6 +16,7 @@ Last Updated: 10/09/2023 03:14:06 UTC
 | [deadlydog](https://hachyderm.io/@deadlydog) | Dan Schroeder | hachyderm.io | 1 |
 | [d2718](https://hachyderm.io/@d2718) | d2718 | hachyderm.io | 1 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 1 |
+| [jimlawless](https://fosstodon.org/@jimlawless) | Jim Lawless | fosstodon.org | 1 |
 | [jhx](https://fosstodon.org/@jhx) | jhx | fosstodon.org | 1 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 1 |
 | [13reak](https://infosec.exchange/@13reak) | 13reak | infosec.exchange | 1 |
