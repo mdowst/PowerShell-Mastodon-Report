@@ -1,8 +1,8 @@
 # Top Servers for October 2023
-Last Updated: 10/10/2023 11:13:18 UTC
+Last Updated: 10/10/2023 12:15:13 UTC
 | Server | Posts | Active Users |
 | -- | -- | -- |
-| [techhub.social](https://techhub.social/tags/PowerShell) | 11 | 6 |
+| [techhub.social](https://techhub.social/tags/PowerShell) | 12 | 6 |
 | [mastodon.social](https://mastodon.social/tags/PowerShell) | 9 | 6 |
 | [fosstodon.org](https://fosstodon.org/tags/PowerShell) | 6 | 5 |
 | [infosec.exchange](https://infosec.exchange/tags/PowerShell) | 5 | 3 |
