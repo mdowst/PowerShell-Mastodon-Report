@@ -1,5 +1,5 @@
 # Top Users for October 2023
-Last Updated: 10/11/2023 14:13:52 UTC
+Last Updated: 10/11/2023 15:13:29 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 5 |
@@ -8,8 +8,8 @@ Last Updated: 10/11/2023 14:13:52 UTC
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 3 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 3 |
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 3 |
+| [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 3 |
 | [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 2 |
-| [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 2 |
 | [SOZDBA](https://techhub.social/@SOZDBA) | Shane O'Neill | techhub.social | 1 |
 | [poshlandPRO](https://techhub.social/@poshlandPRO) | Damian Garbus | techhub.social | 1 |
 | [JamesDBartlett3](https://techhub.social/@JamesDBartlett3) | James Bartlett :terminal: | techhub.social | 1 |
