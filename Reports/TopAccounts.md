@@ -1,8 +1,8 @@
 # Top Users for October 2023
-Last Updated: 10/12/2023 17:13:43 UTC
+Last Updated: 10/12/2023 18:14:43 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
-| [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 6 |
+| [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 7 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 5 |
 | [TonyRedmond](https://techhub.social/@TonyRedmond) | Tony Redmond | techhub.social | 4 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 4 |
