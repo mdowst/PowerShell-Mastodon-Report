@@ -1,5 +1,5 @@
 # Top Servers for October 2023
-Last Updated: 10/12/2023 00:23:00 UTC
+Last Updated: 10/12/2023 01:30:50 UTC
 | Server | Posts | Active Users |
 | -- | -- | -- |
 | [techhub.social](https://techhub.social/tags/PowerShell) | 16 | 8 |
