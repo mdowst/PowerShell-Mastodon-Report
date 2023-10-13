@@ -1,5 +1,5 @@
 # Top Users for October 2023
-Last Updated: 10/13/2023 14:13:21 UTC
+Last Updated: 10/13/2023 15:13:49 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 9 |
@@ -20,15 +20,16 @@ Last Updated: 10/13/2023 14:13:21 UTC
 | [jhx](https://fosstodon.org/@jhx) | jhx | fosstodon.org | 1 |
 | [jimlawless](https://fosstodon.org/@jimlawless) | Jim Lawless | fosstodon.org | 1 |
 | [pirafrank](https://mastodon.uno/@pirafrank) | Francesco Pira :verified: | mastodon.uno | 1 |
-| [saltyoldgeek](https://hachyderm.io/@saltyoldgeek) | saltyoldgeek | hachyderm.io | 1 |
 | [romu700](https://mastodon.social/@romu700) | Romu | mastodon.social | 1 |
+| [Randriksen](https://mastodon.social/@Randriksen) | Randriksen | mastodon.social | 1 |
 | [Pxtl](https://mastodon.social/@Pxtl) | Pxtl | mastodon.social | 1 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 1 |
 | [d2718](https://hachyderm.io/@d2718) | d2718 | hachyderm.io | 1 |
 | [TheSilentHolographer](https://techhub.social/@TheSilentHolographer) | TheSilentHolographer | techhub.social | 1 |
 | [deadlydog](https://hachyderm.io/@deadlydog) | Dan Schroeder | hachyderm.io | 1 |
+| [simontsui](https://infosec.exchange/@simontsui) | Simon | infosec.exchange | 1 |
 | [def](https://hachyderm.io/@def) | Tomáš Odehnal | hachyderm.io | 1 |
 | [franklesniak](https://infosec.exchange/@franklesniak) | Frank Lesniak | infosec.exchange | 1 |
 | [13reak](https://infosec.exchange/@13reak) | 13reak | infosec.exchange | 1 |
-| [Randriksen](https://mastodon.social/@Randriksen) | Randriksen | mastodon.social | 1 |
+| [saltyoldgeek](https://hachyderm.io/@saltyoldgeek) | saltyoldgeek | hachyderm.io | 1 |
 | [HeyItsGilbert](https://fosstodon.org/@HeyItsGilbert) | Gilbert Sanchez :omya_windows: | fosstodon.org | 1 |
