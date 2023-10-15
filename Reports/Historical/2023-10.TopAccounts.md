@@ -1,5 +1,5 @@
 # Top Users for October 2023
-Last Updated: 10/15/2023 15:13:25 UTC
+Last Updated: 10/15/2023 16:14:13 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 10 |
