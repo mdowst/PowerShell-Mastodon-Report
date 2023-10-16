@@ -1,5 +1,5 @@
 # Top Users for October 2023
-Last Updated: 10/16/2023 19:12:54 UTC
+Last Updated: 10/16/2023 20:14:08 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 10 |
@@ -10,6 +10,7 @@ Last Updated: 10/16/2023 19:12:54 UTC
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 5 |
 | [TonyRedmond](https://techhub.social/@TonyRedmond) | Tony Redmond | techhub.social | 4 |
 | [Bluedepth](https://mastodon.social/@Bluedepth) |  | mastodon.social | 3 |
+| [ollimenzel](https://techhub.social/@ollimenzel) | Oliver Menzel | techhub.social | 2 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 2 |
 | [JamesDBartlett3](https://techhub.social/@JamesDBartlett3) | James Bartlett :terminal: | techhub.social | 2 |
 | [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 2 |
@@ -18,7 +19,6 @@ Last Updated: 10/16/2023 19:12:54 UTC
 | [sstranger](https://techhub.social/@sstranger) | Stefan Stranger | techhub.social | 1 |
 | [SOZDBA](https://techhub.social/@SOZDBA) | Shane O'Neill | techhub.social | 1 |
 | [poshlandPRO](https://techhub.social/@poshlandPRO) | Damian Garbus | techhub.social | 1 |
-| [ollimenzel](https://techhub.social/@ollimenzel) | Oliver Menzel | techhub.social | 1 |
 | [jhx](https://fosstodon.org/@jhx) | jhx | fosstodon.org | 1 |
 | [pirafrank](https://mastodon.uno/@pirafrank) | Francesco Pira :verified: | mastodon.uno | 1 |
 | [romu700](https://mastodon.social/@romu700) | Romu | mastodon.social | 1 |
