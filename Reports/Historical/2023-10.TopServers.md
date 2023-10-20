@@ -1,5 +1,5 @@
 # Top Servers for October 2023
-Last Updated: 10/20/2023 02:15:32 UTC
+Last Updated: 10/20/2023 03:13:36 UTC
 | Server | Posts | Active Users |
 | -- | -- | -- |
 | [mastodon.social](https://mastodon.social/tags/PowerShell) | 42 | 13 |
