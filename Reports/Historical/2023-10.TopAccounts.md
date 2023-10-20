@@ -1,5 +1,5 @@
 # Top Users for October 2023
-Last Updated: 10/20/2023 14:13:10 UTC
+Last Updated: 10/20/2023 15:13:22 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [Bluedepth](https://mastodon.social/@Bluedepth) |  | mastodon.social | 12 |
@@ -16,14 +16,14 @@ Last Updated: 10/20/2023 14:13:10 UTC
 | [colincogle](https://mastodon.social/@colincogle) | Colin Cogle 🔵 | mastodon.social | 2 |
 | [bynkii](https://mastodon.social/@bynkii) | Bynkii (they/them) | mastodon.social | 2 |
 | [Randriksen](https://mastodon.social/@Randriksen) | Randriksen | mastodon.social | 2 |
-| [JamesDBartlett3](https://techhub.social/@JamesDBartlett3) | James Bartlett :terminal: | techhub.social | 2 |
+| [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 2 |
 | [joshooaj](https://mastodon.social/@joshooaj) | Josh Hendricks | mastodon.social | 2 |
-| [ollimenzel](https://techhub.social/@ollimenzel) | Oliver Menzel | techhub.social | 2 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 2 |
+| [ollimenzel](https://techhub.social/@ollimenzel) | Oliver Menzel | techhub.social | 2 |
+| [JamesDBartlett3](https://techhub.social/@JamesDBartlett3) | James Bartlett :terminal: | techhub.social | 2 |
 | [jhx](https://fosstodon.org/@jhx) | jhx | fosstodon.org | 1 |
 | [psugh](https://norden.social/@psugh) | PowerShell Usergroup Hannover | norden.social | 1 |
 | [kkarhan](https://mstdn.social/@kkarhan) | Kevin Karhan :verified: | mstdn.social | 1 |
-| [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 1 |
 | [pirafrank](https://mastodon.uno/@pirafrank) | Francesco Pira :verified: | mastodon.uno | 1 |
 | [romu700](https://mastodon.social/@romu700) | Romu | mastodon.social | 1 |
 | [rmbolger](https://mastodon.social/@rmbolger) | Ryan Bolger | mastodon.social | 1 |
