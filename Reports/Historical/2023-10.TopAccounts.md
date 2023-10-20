@@ -1,5 +1,5 @@
 # Top Users for October 2023
-Last Updated: 10/20/2023 11:13:01 UTC
+Last Updated: 10/20/2023 12:14:54 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [Bluedepth](https://mastodon.social/@Bluedepth) |  | mastodon.social | 12 |
@@ -28,9 +28,9 @@ Last Updated: 10/20/2023 11:13:01 UTC
 | [romu700](https://mastodon.social/@romu700) | Romu | mastodon.social | 1 |
 | [rmbolger](https://mastodon.social/@rmbolger) | Ryan Bolger | mastodon.social | 1 |
 | [poshlandPRO](https://techhub.social/@poshlandPRO) | Damian Garbus | techhub.social | 1 |
+| [Pxtl](https://mastodon.social/@Pxtl) | Pxtl | mastodon.social | 1 |
 | [SOZDBA](https://techhub.social/@SOZDBA) | Shane O'Neill | techhub.social | 1 |
 | [sstranger](https://techhub.social/@sstranger) | Stefan Stranger | techhub.social | 1 |
-| [Pxtl](https://mastodon.social/@Pxtl) | Pxtl | mastodon.social | 1 |
 | [mabster](https://mastodon.social/@mabster) | Matt Hamilton | mastodon.social | 1 |
 | [d2718](https://hachyderm.io/@d2718) | d2718 | hachyderm.io | 1 |
 | [ChrisHunt](https://hachyderm.io/@ChrisHunt) | Chris Hunt | hachyderm.io | 1 |
@@ -41,13 +41,14 @@ Last Updated: 10/20/2023 11:13:01 UTC
 | [0xberserkr](https://infosec.exchange/@0xberserkr) | 0xberserkr | infosec.exchange | 1 |
 | [13reak](https://infosec.exchange/@13reak) | 13reak | infosec.exchange | 1 |
 | [franklesniak](https://infosec.exchange/@franklesniak) | Frank Lesniak | infosec.exchange | 1 |
+| [jimlawless](https://fosstodon.org/@jimlawless) | Jim Lawless | fosstodon.org | 1 |
 | [r1cksec](https://infosec.exchange/@r1cksec) | r1cksec | infosec.exchange | 1 |
 | [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 1 |
 | [simontsui](https://infosec.exchange/@simontsui) | Simon | infosec.exchange | 1 |
 | [t93ht6enw](https://infosec.exchange/@t93ht6enw) | whistle_out | infosec.exchange | 1 |
 | [chrisbradshaw](https://mas.to/@chrisbradshaw) | Chris Bradshaw | mas.to | 1 |
-| [mikefrobbins](https://fosstodon.org/@mikefrobbins) | Mike F. Robbins | fosstodon.org | 1 |
 | [TheSilentHolographer](https://techhub.social/@TheSilentHolographer) | TheSilentHolographer | techhub.social | 1 |
+| [mikefrobbins](https://fosstodon.org/@mikefrobbins) | Mike F. Robbins | fosstodon.org | 1 |
 | [furicle](https://mastodon.social/@furicle) | furicle | mastodon.social | 1 |
-| [jimlawless](https://fosstodon.org/@jimlawless) | Jim Lawless | fosstodon.org | 1 |
+| [ren](https://infosec.exchange/@ren) | Paul Reynolds :verified: | infosec.exchange | 1 |
 | [HeyItsGilbert](https://fosstodon.org/@HeyItsGilbert) | Gilbert Sanchez :omya_windows: | fosstodon.org | 1 |
