@@ -1,12 +1,12 @@
 # Top Users for October 2023
-Last Updated: 10/23/2023 15:13:53 UTC
+Last Updated: 10/23/2023 16:14:36 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [Bluedepth](https://mastodon.social/@Bluedepth) |  | mastodon.social | 12 |
 | [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 11 |
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 9 |
+| [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 9 |
 | [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 8 |
-| [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 8 |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 6 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 6 |
 | [TonyRedmond](https://techhub.social/@TonyRedmond) | Tony Redmond | techhub.social | 5 |
