@@ -1,5 +1,5 @@
 # Top Users for October 2023
-Last Updated: 10/27/2023 16:14:19 UTC
+Last Updated: 10/27/2023 17:12:42 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [Bluedepth](https://mastodon.social/@Bluedepth) |  | mastodon.social | 12 |
@@ -12,10 +12,10 @@ Last Updated: 10/27/2023 16:14:19 UTC
 | [TonyRedmond](https://techhub.social/@TonyRedmond) | Tony Redmond | techhub.social | 5 |
 | [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 4 |
 | [joshooaj](https://mastodon.social/@joshooaj) | Josh Hendricks | mastodon.social | 4 |
+| [ollimenzel](https://techhub.social/@ollimenzel) | Oliver Menzel | techhub.social | 4 |
 | [deadlydog](https://hachyderm.io/@deadlydog) | Dan Schroeder | hachyderm.io | 4 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 3 |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 3 |
-| [ollimenzel](https://techhub.social/@ollimenzel) | Oliver Menzel | techhub.social | 3 |
 | [j2inet](https://masto.ai/@j2inet) | j2i.net | masto.ai | 3 |
 | [Randriksen](https://mastodon.social/@Randriksen) | Randriksen | mastodon.social | 2 |
 | [r1cksec](https://infosec.exchange/@r1cksec) | r1cksec | infosec.exchange | 2 |
