@@ -1,5 +1,5 @@
 # Top Users for October 2023
-Last Updated: 10/29/2023 14:12:42 UTC
+Last Updated: 10/29/2023 15:13:06 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [Bluedepth](https://mastodon.social/@Bluedepth) |  | mastodon.social | 12 |
@@ -9,17 +9,17 @@ Last Updated: 10/29/2023 14:12:42 UTC
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 9 |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 7 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 6 |
-| [TonyRedmond](https://techhub.social/@TonyRedmond) | Tony Redmond | techhub.social | 5 |
+| [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 5 |
 | [joshooaj](https://mastodon.social/@joshooaj) | Josh Hendricks | mastodon.social | 5 |
-| [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 4 |
+| [TonyRedmond](https://techhub.social/@TonyRedmond) | Tony Redmond | techhub.social | 5 |
 | [deadlydog](https://hachyderm.io/@deadlydog) | Dan Schroeder | hachyderm.io | 4 |
-| [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 4 |
+| [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 4 |
 | [ollimenzel](https://techhub.social/@ollimenzel) | Oliver Menzel | techhub.social | 4 |
 | [Randriksen](https://mastodon.social/@Randriksen) | Randriksen | mastodon.social | 3 |
-| [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 3 |
 | [j2inet](https://masto.ai/@j2inet) | j2i.net | masto.ai | 3 |
-| [r1cksec](https://infosec.exchange/@r1cksec) | r1cksec | infosec.exchange | 2 |
+| [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 3 |
 | [t93ht6enw](https://infosec.exchange/@t93ht6enw) | whistle_out | infosec.exchange | 2 |
+| [r1cksec](https://infosec.exchange/@r1cksec) | r1cksec | infosec.exchange | 2 |
 | [franklesniak](https://infosec.exchange/@franklesniak) | Frank Lesniak | infosec.exchange | 2 |
 | [colincogle](https://mastodon.social/@colincogle) | Colin Cogle 🔵 | mastodon.social | 2 |
 | [bynkii](https://mastodon.social/@bynkii) | Bynkii (they/them) | mastodon.social | 2 |
