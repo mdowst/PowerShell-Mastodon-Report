@@ -1,5 +1,5 @@
 # Top Users for October 2023
-Last Updated: 10/29/2023 04:13:52 UTC
+Last Updated: 10/29/2023 05:13:36 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [Bluedepth](https://mastodon.social/@Bluedepth) |  | mastodon.social | 12 |
@@ -10,8 +10,8 @@ Last Updated: 10/29/2023 04:13:52 UTC
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 7 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 6 |
 | [TonyRedmond](https://techhub.social/@TonyRedmond) | Tony Redmond | techhub.social | 5 |
+| [joshooaj](https://mastodon.social/@joshooaj) | Josh Hendricks | mastodon.social | 5 |
 | [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 4 |
-| [joshooaj](https://mastodon.social/@joshooaj) | Josh Hendricks | mastodon.social | 4 |
 | [ollimenzel](https://techhub.social/@ollimenzel) | Oliver Menzel | techhub.social | 4 |
 | [deadlydog](https://hachyderm.io/@deadlydog) | Dan Schroeder | hachyderm.io | 4 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 3 |
