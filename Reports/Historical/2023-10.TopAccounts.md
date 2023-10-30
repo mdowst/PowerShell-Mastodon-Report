@@ -1,5 +1,5 @@
 # Top Users for October 2023
-Last Updated: 10/30/2023 14:13:25 UTC
+Last Updated: 10/30/2023 15:13:35 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [adamdriscoll](https://mastodon.social/@adamdriscoll) | Adam Driscoll | mastodon.social | 12 |
@@ -16,9 +16,9 @@ Last Updated: 10/30/2023 14:13:25 UTC
 | [deadlydog](https://hachyderm.io/@deadlydog) | Dan Schroeder | hachyderm.io | 4 |
 | [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 4 |
 | [ollimenzel](https://techhub.social/@ollimenzel) | Oliver Menzel | techhub.social | 4 |
+| [Randriksen](https://mastodon.social/@Randriksen) | Randriksen | mastodon.social | 4 |
 | [j2inet](https://masto.ai/@j2inet) | j2i.net | masto.ai | 3 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 3 |
-| [Randriksen](https://mastodon.social/@Randriksen) | Randriksen | mastodon.social | 3 |
 | [franklesniak](https://infosec.exchange/@franklesniak) | Frank Lesniak | infosec.exchange | 2 |
 | [t93ht6enw](https://infosec.exchange/@t93ht6enw) | whistle_out | infosec.exchange | 2 |
 | [r1cksec](https://infosec.exchange/@r1cksec) | r1cksec | infosec.exchange | 2 |
