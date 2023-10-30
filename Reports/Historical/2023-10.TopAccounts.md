@@ -1,5 +1,5 @@
 # Top Users for October 2023
-Last Updated: 10/30/2023 22:13:19 UTC
+Last Updated: 10/30/2023 23:13:18 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [Bluedepth](https://mastodon.social/@Bluedepth) |  | mastodon.social | 12 |
