@@ -1,5 +1,5 @@
 # Top Users for October 2023
-Last Updated: 10/31/2023 12:14:36 UTC
+Last Updated: 10/31/2023 13:13:50 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 12 |
@@ -26,8 +26,8 @@ Last Updated: 10/31/2023 12:14:36 UTC
 | [t93ht6enw](https://infosec.exchange/@t93ht6enw) | whistle_out | infosec.exchange | 2 |
 | [r1cksec](https://infosec.exchange/@r1cksec) | r1cksec | infosec.exchange | 2 |
 | [lukemurray](https://aus.social/@lukemurray) | Luke Murray | aus.social | 2 |
+| [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 2 |
 | [franklesniak](https://infosec.exchange/@franklesniak) | Frank Lesniak | infosec.exchange | 2 |
-| [lukasberancz](https://infosec.exchange/@lukasberancz) | Lukas Beran | infosec.exchange | 1 |
 | [rmbolger](https://mastodon.social/@rmbolger) | Ryan Bolger | mastodon.social | 1 |
 | [romu700](https://mastodon.social/@romu700) | Romu | mastodon.social | 1 |
 | [pirafrank](https://mastodon.uno/@pirafrank) | Francesco Pira :verified: | mastodon.uno | 1 |
@@ -46,7 +46,7 @@ Last Updated: 10/31/2023 12:14:36 UTC
 | [TheSilentHolographer](https://techhub.social/@TheSilentHolographer) | TheSilentHolographer | techhub.social | 1 |
 | [mikefrobbins](https://fosstodon.org/@mikefrobbins) | Mike F. Robbins | fosstodon.org | 1 |
 | [Pxtl](https://mastodon.social/@Pxtl) | Pxtl | mastodon.social | 1 |
-| [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 1 |
+| [lukasberancz](https://infosec.exchange/@lukasberancz) | Lukas Beran | infosec.exchange | 1 |
 | [mabster](https://mastodon.social/@mabster) | Matt Hamilton | mastodon.social | 1 |
 | [ren](https://infosec.exchange/@ren) | Paul Reynolds :verified: | infosec.exchange | 1 |
 | [simontsui](https://infosec.exchange/@simontsui) | Simon | infosec.exchange | 1 |
