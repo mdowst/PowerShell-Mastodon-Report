@@ -1,5 +1,5 @@
 # Top Users for November 2023
-Last Updated: 11/03/2023 11:13:10 UTC
+Last Updated: 11/03/2023 12:14:29 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [voltagex](https://aus.social/@voltagex) | Adam ♿ | aus.social | 1 |
@@ -12,3 +12,4 @@ Last Updated: 11/03/2023 11:13:10 UTC
 | [joshooaj](https://mastodon.social/@joshooaj) | Josh Hendricks | mastodon.social | 1 |
 | [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 1 |
 | [rmbolger](https://mastodon.social/@rmbolger) | Ryan Bolger | mastodon.social | 1 |
+| [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 1 |
