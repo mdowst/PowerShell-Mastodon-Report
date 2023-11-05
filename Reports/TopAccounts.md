@@ -1,5 +1,5 @@
 # Top Users for November 2023
-Last Updated: 11/05/2023 17:13:21 UTC
+Last Updated: 11/05/2023 18:13:47 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 3 |
@@ -7,6 +7,7 @@ Last Updated: 11/05/2023 17:13:21 UTC
 | [mikefrobbins](https://fosstodon.org/@mikefrobbins) | Mike F. Robbins | fosstodon.org | 1 |
 | [deadlydog](https://hachyderm.io/@deadlydog) | Dan Schroeder | hachyderm.io | 1 |
 | [SnoopJ](https://hachyderm.io/@SnoopJ) | SnoopJ 🫠 | hachyderm.io | 1 |
+| [fabian_bader](https://infosec.exchange/@fabian_bader) | Fabian Bader | infosec.exchange | 1 |
 | [paulsanders](https://infosec.exchange/@paulsanders) | Paul Sanders | infosec.exchange | 1 |
 | [r1cksec](https://infosec.exchange/@r1cksec) | r1cksec | infosec.exchange | 1 |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 1 |
