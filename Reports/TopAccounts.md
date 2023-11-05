@@ -1,8 +1,8 @@
 # Top Users for November 2023
-Last Updated: 11/05/2023 09:13:13 UTC
+Last Updated: 11/05/2023 10:13:36 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
-| [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 2 |
+| [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 3 |
 | [voltagex](https://aus.social/@voltagex) | Adam ♿ | aus.social | 1 |
 | [mikefrobbins](https://fosstodon.org/@mikefrobbins) | Mike F. Robbins | fosstodon.org | 1 |
 | [deadlydog](https://hachyderm.io/@deadlydog) | Dan Schroeder | hachyderm.io | 1 |

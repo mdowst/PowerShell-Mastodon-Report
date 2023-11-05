@@ -1,8 +1,8 @@
 # Top Servers for November 2023
-Last Updated: 11/05/2023 09:13:13 UTC
+Last Updated: 11/05/2023 10:13:36 UTC
 | Server | Posts | Active Users |
 | -- | -- | -- |
-| [mastodon.social](https://mastodon.social/tags/PowerShell) | 4 | 3 |
+| [mastodon.social](https://mastodon.social/tags/PowerShell) | 5 | 3 |
 | [hachyderm.io](https://hachyderm.io/tags/PowerShell) | 2 | 2 |
 | [infosec.exchange](https://infosec.exchange/tags/PowerShell) | 2 | 2 |
 | [aus.social](https://aus.social/tags/PowerShell) | 1 | 1 |
