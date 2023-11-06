@@ -1,10 +1,11 @@
 # Top Users for November 2023
-Last Updated: 11/06/2023 21:13:06 UTC
+Last Updated: 11/06/2023 22:13:05 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 3 |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 2 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 2 |
+| [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 1 |
 | [chirpbirb](https://meow.social/@chirpbirb) | taco, bird/cat :verified420: | meow.social | 1 |
 | [rmbolger](https://mastodon.social/@rmbolger) | Ryan Bolger | mastodon.social | 1 |
 | [kalipike](https://mastodon.social/@kalipike) | kalipike | mastodon.social | 1 |
