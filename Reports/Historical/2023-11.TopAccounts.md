@@ -1,5 +1,5 @@
 # Top Users for November 2023
-Last Updated: 11/05/2023 23:13:04 UTC
+Last Updated: 11/06/2023 00:25:40 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 3 |
@@ -12,6 +12,7 @@ Last Updated: 11/05/2023 23:13:04 UTC
 | [paulsanders](https://infosec.exchange/@paulsanders) | Paul Sanders | infosec.exchange | 1 |
 | [r1cksec](https://infosec.exchange/@r1cksec) | r1cksec | infosec.exchange | 1 |
 | [colincogle](https://mastodon.social/@colincogle) | Colin Cogle 🔵 | mastodon.social | 1 |
+| [furicle](https://mastodon.social/@furicle) | furicle | mastodon.social | 1 |
 | [joshooaj](https://mastodon.social/@joshooaj) | Josh Hendricks | mastodon.social | 1 |
 | [rmbolger](https://mastodon.social/@rmbolger) | Ryan Bolger | mastodon.social | 1 |
 | [chirpbirb](https://meow.social/@chirpbirb) | taco, bird/cat :verified420: | meow.social | 1 |
