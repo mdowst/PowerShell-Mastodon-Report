@@ -1,9 +1,10 @@
 # Top Users for November 2023
-Last Updated: 11/07/2023 05:13:09 UTC
+Last Updated: 11/07/2023 06:14:28 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 3 |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 2 |
+| [colincogle](https://mastodon.social/@colincogle) | Colin Cogle 🔵 | mastodon.social | 2 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 2 |
 | [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 1 |
 | [chirpbirb](https://meow.social/@chirpbirb) | taco, bird/cat :verified420: | meow.social | 1 |
@@ -11,7 +12,6 @@ Last Updated: 11/07/2023 05:13:09 UTC
 | [kalipike](https://mastodon.social/@kalipike) | kalipike | mastodon.social | 1 |
 | [joshooaj](https://mastodon.social/@joshooaj) | Josh Hendricks | mastodon.social | 1 |
 | [furicle](https://mastodon.social/@furicle) | furicle | mastodon.social | 1 |
-| [colincogle](https://mastodon.social/@colincogle) | Colin Cogle 🔵 | mastodon.social | 1 |
 | [voltagex](https://aus.social/@voltagex) | Adam ♿ | aus.social | 1 |
 | [r1cksec](https://infosec.exchange/@r1cksec) | r1cksec | infosec.exchange | 1 |
 | [paulsanders](https://infosec.exchange/@paulsanders) | Paul Sanders | infosec.exchange | 1 |
