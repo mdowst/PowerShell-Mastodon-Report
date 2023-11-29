@@ -1,5 +1,5 @@
 # Top Users for November 2023
-Last Updated: 11/29/2023 14:13:09 UTC
+Last Updated: 11/29/2023 15:13:16 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 10 |
@@ -19,11 +19,11 @@ Last Updated: 11/29/2023 14:13:09 UTC
 | [bradwilson](https://mastodon.social/@bradwilson) | Brad Wilson | mastodon.social | 2 |
 | [colincogle](https://mastodon.social/@colincogle) | Colin Cogle 🔵 | mastodon.social | 2 |
 | [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 2 |
+| [SAPIENTech](https://techhub.social/@SAPIENTech) | SAPIENTech | techhub.social | 2 |
 | [jborean](https://fosstodon.org/@jborean) | Jordan Borean | fosstodon.org | 2 |
 | [ChrisHunt](https://hachyderm.io/@ChrisHunt) | Chris Hunt | hachyderm.io | 2 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 2 |
 | [mikefrobbins](https://fosstodon.org/@mikefrobbins) | Mike F. Robbins | fosstodon.org | 2 |
-| [SAPIENTech](https://techhub.social/@SAPIENTech) | SAPIENTech | techhub.social | 1 |
 | [furicle](https://mastodon.social/@furicle) | furicle | mastodon.social | 1 |
 | [HansBrender](https://mastodon.social/@HansBrender) | Hans Brender, Mr.OneDrive | mastodon.social | 1 |
 | [EdTittel](https://techhub.social/@EdTittel) | Ed Tittel | techhub.social | 1 |
