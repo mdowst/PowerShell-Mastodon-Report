@@ -1,9 +1,9 @@
 # Top Users for November 2023
-Last Updated: 11/30/2023 00:26:02 UTC
+Last Updated: 11/30/2023 01:34:32 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
+| [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 11 |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 10 |
-| [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 10 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 7 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 4 |
 | [TonyRedmond](https://techhub.social/@TonyRedmond) | Tony Redmond | techhub.social | 3 |
