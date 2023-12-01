@@ -1,5 +1,5 @@
 # Top Users for December 2023
-Last Updated: 12/01/2023 22:13:03 UTC
+Last Updated: 12/01/2023 23:13:15 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [lukemurray](https://aus.social/@lukemurray) | Luke Murray | aus.social | 1 |
