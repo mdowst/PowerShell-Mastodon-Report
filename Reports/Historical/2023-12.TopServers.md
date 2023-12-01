@@ -1,5 +1,5 @@
 # Top Servers for December 2023
-Last Updated: 12/01/2023 15:13:27 UTC
+Last Updated: 12/01/2023 16:14:00 UTC
 | Server | Posts | Active Users |
 | -- | -- | -- |
 | [aus.social](https://aus.social/tags/PowerShell) | 1 | 1 |
