@@ -1,5 +1,5 @@
 # Top Users for December 2023
-Last Updated: 12/02/2023 01:32:17 UTC
+Last Updated: 12/02/2023 02:16:50 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 2 |
