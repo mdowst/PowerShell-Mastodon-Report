@@ -1,8 +1,8 @@
 # Top Users for December 2023
-Last Updated: 12/05/2023 00:26:37 UTC
+Last Updated: 12/05/2023 01:35:53 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
-| [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 3 |
+| [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 4 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 3 |
 | [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 2 |
 | [kkarhan](https://mstdn.social/@kkarhan) | Kevin Karhan :verified: | mstdn.social | 2 |
