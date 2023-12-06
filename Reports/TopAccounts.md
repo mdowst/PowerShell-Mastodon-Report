@@ -1,5 +1,5 @@
 # Top Users for December 2023
-Last Updated: 12/06/2023 15:13:51 UTC
+Last Updated: 12/06/2023 16:14:13 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 6 |
@@ -14,5 +14,6 @@ Last Updated: 12/06/2023 15:13:51 UTC
 | [taylorparizo](https://infosec.exchange/@taylorparizo) | Taylor Parizo | infosec.exchange | 1 |
 | [JordanOrdix](https://mastodon.social/@JordanOrdix) | Andreas Jordan (ORDIX AG) | mastodon.social | 1 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 1 |
+| [mrtbone](https://mastodon.social/@mrtbone) | Mr Tbone | mastodon.social | 1 |
 | [EdTittel](https://techhub.social/@EdTittel) | Ed Tittel | techhub.social | 1 |
 | [gpunktschmitz](https://toot.cafe/@gpunktschmitz) | Guenther Schmitz ⏎ | toot.cafe | 1 |
