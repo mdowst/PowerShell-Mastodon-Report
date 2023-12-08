@@ -1,5 +1,5 @@
 # Top Users for December 2023
-Last Updated: 12/08/2023 05:13:04 UTC
+Last Updated: 12/08/2023 06:14:18 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 6 |
@@ -16,6 +16,7 @@ Last Updated: 12/08/2023 05:13:04 UTC
 | [JordanOrdix](https://mastodon.social/@JordanOrdix) | Andreas Jordan (ORDIX AG) | mastodon.social | 1 |
 | [taylorparizo](https://infosec.exchange/@taylorparizo) | Taylor Parizo | infosec.exchange | 1 |
 | [pebessec](https://infosec.exchange/@pebessec) | pebes | infosec.exchange | 1 |
+| [wg](https://hachyderm.io/@wg) | W.Gross | hachyderm.io | 1 |
 | [jgrote](https://hachyderm.io/@jgrote) | Justin Grote | hachyderm.io | 1 |
 | [89netram](https://hachyderm.io/@89netram) | Mårten Åsberg | hachyderm.io | 1 |
 | [potentengineer](https://techhub.social/@potentengineer) | Daniel Ratliff | techhub.social | 1 |
