@@ -1,5 +1,5 @@
 # Top Users for December 2023
-Last Updated: 12/08/2023 18:14:01 UTC
+Last Updated: 12/08/2023 19:12:31 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 7 |
@@ -13,11 +13,12 @@ Last Updated: 12/08/2023 18:14:01 UTC
 | [2kool4idkwhat](https://techhub.social/@2kool4idkwhat) | Luna | techhub.social | 1 |
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 1 |
 | [mrtbone](https://mastodon.social/@mrtbone) | Mr Tbone | mastodon.social | 1 |
+| [potentengineer](https://techhub.social/@potentengineer) | Daniel Ratliff | techhub.social | 1 |
 | [JordanOrdix](https://mastodon.social/@JordanOrdix) | Andreas Jordan (ORDIX AG) | mastodon.social | 1 |
 | [taylorparizo](https://infosec.exchange/@taylorparizo) | Taylor Parizo | infosec.exchange | 1 |
 | [pebessec](https://infosec.exchange/@pebessec) | pebes | infosec.exchange | 1 |
 | [wg](https://hachyderm.io/@wg) | W.Gross | hachyderm.io | 1 |
 | [jgrote](https://hachyderm.io/@jgrote) | Justin Grote | hachyderm.io | 1 |
 | [89netram](https://hachyderm.io/@89netram) | Mårten Åsberg | hachyderm.io | 1 |
-| [potentengineer](https://techhub.social/@potentengineer) | Daniel Ratliff | techhub.social | 1 |
+| [rmbolger](https://mastodon.social/@rmbolger) | Ryan Bolger | mastodon.social | 1 |
 | [gpunktschmitz](https://toot.cafe/@gpunktschmitz) | Guenther Schmitz ⏎ | toot.cafe | 1 |
