@@ -1,5 +1,5 @@
 # Top Users for December 2023
-Last Updated: 12/09/2023 22:12:56 UTC
+Last Updated: 12/09/2023 23:13:11 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 7 |
@@ -13,8 +13,9 @@ Last Updated: 12/09/2023 22:12:56 UTC
 | [2kool4idkwhat](https://techhub.social/@2kool4idkwhat) | Luna | techhub.social | 1 |
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 1 |
 | [mrtbone](https://mastodon.social/@mrtbone) | Mr Tbone | mastodon.social | 1 |
+| [potentengineer](https://techhub.social/@potentengineer) | Daniel Ratliff | techhub.social | 1 |
 | [lukemurray](https://aus.social/@lukemurray) | Luke Murray | aus.social | 1 |
-| [JordanOrdix](https://mastodon.social/@JordanOrdix) | Andreas Jordan (ORDIX AG) | mastodon.social | 1 |
+| [GreatBigTable](https://mastodon.social/@GreatBigTable) | Jim Jones | mastodon.social | 1 |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 1 |
 | [thedxt](https://infosec.exchange/@thedxt) | Daniel Keer | infosec.exchange | 1 |
 | [taylorparizo](https://infosec.exchange/@taylorparizo) | Taylor Parizo | infosec.exchange | 1 |
@@ -24,5 +25,5 @@ Last Updated: 12/09/2023 22:12:56 UTC
 | [89netram](https://hachyderm.io/@89netram) | Mårten Åsberg | hachyderm.io | 1 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 1 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 1 |
-| [potentengineer](https://techhub.social/@potentengineer) | Daniel Ratliff | techhub.social | 1 |
+| [JordanOrdix](https://mastodon.social/@JordanOrdix) | Andreas Jordan (ORDIX AG) | mastodon.social | 1 |
 | [gpunktschmitz](https://toot.cafe/@gpunktschmitz) | Guenther Schmitz ⏎ | toot.cafe | 1 |
