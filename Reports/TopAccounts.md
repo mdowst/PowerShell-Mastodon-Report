@@ -1,5 +1,5 @@
 # Top Users for December 2023
-Last Updated: 12/09/2023 18:13:38 UTC
+Last Updated: 12/09/2023 19:12:46 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 7 |
@@ -22,5 +22,6 @@ Last Updated: 12/09/2023 18:13:38 UTC
 | [jgrote](https://hachyderm.io/@jgrote) | Justin Grote | hachyderm.io | 1 |
 | [89netram](https://hachyderm.io/@89netram) | Mårten Åsberg | hachyderm.io | 1 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 1 |
+| [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 1 |
 | [potentengineer](https://techhub.social/@potentengineer) | Daniel Ratliff | techhub.social | 1 |
 | [gpunktschmitz](https://toot.cafe/@gpunktschmitz) | Guenther Schmitz ⏎ | toot.cafe | 1 |
