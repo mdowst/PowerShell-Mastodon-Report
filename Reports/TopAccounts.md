@@ -1,9 +1,9 @@
 # Top Users for December 2023
-Last Updated: 12/10/2023 12:14:39 UTC
+Last Updated: 12/10/2023 13:13:47 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
+| [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 7 |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 7 |
-| [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 6 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 4 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 2 |
 | [kkarhan](https://mstdn.social/@kkarhan) | Kevin Karhan :verified: | mstdn.social | 2 |
@@ -18,6 +18,7 @@ Last Updated: 12/10/2023 12:14:39 UTC
 | [lukemurray](https://aus.social/@lukemurray) | Luke Murray | aus.social | 1 |
 | [JordanOrdix](https://mastodon.social/@JordanOrdix) | Andreas Jordan (ORDIX AG) | mastodon.social | 1 |
 | [GreatBigTable](https://mastodon.social/@GreatBigTable) | Jim Jones | mastodon.social | 1 |
+| [geekland](https://mastodon.social/@geekland) | Geekland | mastodon.social | 1 |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 1 |
 | [thedxt](https://infosec.exchange/@thedxt) | Daniel Keer | infosec.exchange | 1 |
 | [taylorparizo](https://infosec.exchange/@taylorparizo) | Taylor Parizo | infosec.exchange | 1 |
