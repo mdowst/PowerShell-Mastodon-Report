@@ -1,5 +1,5 @@
 # Top Users for December 2023
-Last Updated: 12/10/2023 09:13:18 UTC
+Last Updated: 12/10/2023 10:13:27 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 7 |
@@ -12,6 +12,7 @@ Last Updated: 12/10/2023 09:13:18 UTC
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 2 |
 | [EdTittel](https://techhub.social/@EdTittel) | Ed Tittel | techhub.social | 1 |
 | [2kool4idkwhat](https://techhub.social/@2kool4idkwhat) | Luna | techhub.social | 1 |
+| [mialikescoffee](https://social.tchncs.de/@mialikescoffee) | Julian | social.tchncs.de | 1 |
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 1 |
 | [mrtbone](https://mastodon.social/@mrtbone) | Mr Tbone | mastodon.social | 1 |
 | [lukemurray](https://aus.social/@lukemurray) | Luke Murray | aus.social | 1 |
