@@ -1,5 +1,5 @@
 # Top Servers for December 2023
-Last Updated: 12/11/2023 13:14:21 UTC
+Last Updated: 12/11/2023 14:13:19 UTC
 | Server | Posts | Active Users |
 | -- | -- | -- |
 | [mastodon.social](https://mastodon.social/tags/PowerShell) | 15 | 7 |
