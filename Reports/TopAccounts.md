@@ -1,5 +1,5 @@
 # Top Users for December 2023
-Last Updated: 12/11/2023 04:13:59 UTC
+Last Updated: 12/11/2023 05:13:28 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 7 |
