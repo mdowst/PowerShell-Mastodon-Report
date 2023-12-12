@@ -1,8 +1,8 @@
 # Top Users for December 2023
-Last Updated: 12/12/2023 11:12:59 UTC
+Last Updated: 12/12/2023 12:14:54 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
-| [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 8 |
+| [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 9 |
 | [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 7 |
 | [wg](https://hachyderm.io/@wg) | W.Gross | hachyderm.io | 5 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 4 |
