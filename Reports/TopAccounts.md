@@ -1,5 +1,5 @@
 # Top Users for December 2023
-Last Updated: 12/13/2023 19:12:48 UTC
+Last Updated: 12/13/2023 20:13:30 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 12 |
@@ -7,7 +7,7 @@ Last Updated: 12/13/2023 19:12:48 UTC
 | [wg](https://hachyderm.io/@wg) | W.Gross | hachyderm.io | 5 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 4 |
 | [kkarhan](https://mstdn.social/@kkarhan) | Kevin Karhan :verified: | mstdn.social | 4 |
-| [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 3 |
+| [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 4 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 2 |
 | [EdTittel](https://techhub.social/@EdTittel) | Ed Tittel | techhub.social | 2 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 2 |
