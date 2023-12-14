@@ -1,5 +1,5 @@
 # Top Users for December 2023
-Last Updated: 12/14/2023 19:12:50 UTC
+Last Updated: 12/14/2023 20:13:29 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 12 |
@@ -23,6 +23,7 @@ Last Updated: 12/14/2023 19:12:50 UTC
 | [potentengineer](https://techhub.social/@potentengineer) | Daniel Ratliff | techhub.social | 1 |
 | [geekland](https://mastodon.social/@geekland) | Geekland | mastodon.social | 1 |
 | [edwardvb](https://mastodon.social/@edwardvb) |  | mastodon.social | 1 |
+| [balterwenjamin42](https://mastodon.social/@balterwenjamin42) | Kalle Sandås | mastodon.social | 1 |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 1 |
 | [thedxt](https://infosec.exchange/@thedxt) | Daniel Keer | infosec.exchange | 1 |
 | [taylorparizo](https://infosec.exchange/@taylorparizo) | Taylor Parizo | infosec.exchange | 1 |
