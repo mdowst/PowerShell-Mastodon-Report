@@ -1,5 +1,5 @@
 # Top Users for December 2023
-Last Updated: 12/15/2023 17:13:14 UTC
+Last Updated: 12/15/2023 18:14:02 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 14 |
@@ -23,18 +23,19 @@ Last Updated: 12/15/2023 17:13:14 UTC
 | [JordanOrdix](https://mastodon.social/@JordanOrdix) | Andreas Jordan (ORDIX AG) | mastodon.social | 1 |
 | [geekland](https://mastodon.social/@geekland) | Geekland | mastodon.social | 1 |
 | [potentengineer](https://techhub.social/@potentengineer) | Daniel Ratliff | techhub.social | 1 |
-| [furicle](https://mastodon.social/@furicle) | furicle | mastodon.social | 1 |
-| [edwardvb](https://mastodon.social/@edwardvb) |  | mastodon.social | 1 |
-| [colincogle](https://mastodon.social/@colincogle) | Colin Cogle 🔵 | mastodon.social | 1 |
-| [balterwenjamin42](https://mastodon.social/@balterwenjamin42) | Kalle Sandås | mastodon.social | 1 |
-| [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 1 |
-| [thedxt](https://infosec.exchange/@thedxt) | Daniel Keer | infosec.exchange | 1 |
-| [taylorparizo](https://infosec.exchange/@taylorparizo) | Taylor Parizo | infosec.exchange | 1 |
-| [pebessec](https://infosec.exchange/@pebessec) | pebes | infosec.exchange | 1 |
-| [crazypedia](https://hackers.town/@crazypedia) | Crazypedia⍼ :verified_pride: | hackers.town | 1 |
-| [jgrote](https://hachyderm.io/@jgrote) | Justin Grote | hachyderm.io | 1 |
-| [89netram](https://hachyderm.io/@89netram) | Mårten Åsberg | hachyderm.io | 1 |
-| [jborean](https://fosstodon.org/@jborean) | Jordan Borean | fosstodon.org | 1 |
 | [FlohEinstein](https://chaos.social/@FlohEinstein) | Flo(h)rian Kohler | chaos.social | 1 |
+| [jborean](https://fosstodon.org/@jborean) | Jordan Borean | fosstodon.org | 1 |
+| [89netram](https://hachyderm.io/@89netram) | Mårten Åsberg | hachyderm.io | 1 |
+| [jgrote](https://hachyderm.io/@jgrote) | Justin Grote | hachyderm.io | 1 |
+| [crazypedia](https://hackers.town/@crazypedia) | Crazypedia⍼ :verified_pride: | hackers.town | 1 |
+| [pebessec](https://infosec.exchange/@pebessec) | pebes | infosec.exchange | 1 |
 | [GreatBigTable](https://mastodon.social/@GreatBigTable) | Jim Jones | mastodon.social | 1 |
+| [taylorparizo](https://infosec.exchange/@taylorparizo) | Taylor Parizo | infosec.exchange | 1 |
+| [sjosjo](https://mas.to/@sjosjo) | SPdeValk 🐘️ ☑️ | mas.to | 1 |
+| [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 1 |
+| [balterwenjamin42](https://mastodon.social/@balterwenjamin42) | Kalle Sandås | mastodon.social | 1 |
+| [colincogle](https://mastodon.social/@colincogle) | Colin Cogle 🔵 | mastodon.social | 1 |
+| [edwardvb](https://mastodon.social/@edwardvb) |  | mastodon.social | 1 |
+| [furicle](https://mastodon.social/@furicle) | furicle | mastodon.social | 1 |
+| [thedxt](https://infosec.exchange/@thedxt) | Daniel Keer | infosec.exchange | 1 |
 | [gpunktschmitz](https://toot.cafe/@gpunktschmitz) | Guenther Schmitz ⏎ | toot.cafe | 1 |
