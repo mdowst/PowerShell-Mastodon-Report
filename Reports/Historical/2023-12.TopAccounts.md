@@ -1,5 +1,5 @@
 # Top Users for December 2023
-Last Updated: 12/19/2023 20:12:58 UTC
+Last Updated: 12/19/2023 21:12:20 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 15 |
@@ -8,26 +8,28 @@ Last Updated: 12/19/2023 20:12:58 UTC
 | [wg](https://hachyderm.io/@wg) | W.Gross | hachyderm.io | 5 |
 | [kkarhan](https://mstdn.social/@kkarhan) | Kevin Karhan :verified: | mstdn.social | 4 |
 | [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 4 |
-| [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 3 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 3 |
+| [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 3 |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 3 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 2 |
 | [EdTittel](https://techhub.social/@EdTittel) | Ed Tittel | techhub.social | 2 |
-| [rmbolger](https://mastodon.social/@rmbolger) | Ryan Bolger | mastodon.social | 2 |
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 2 |
+| [rmbolger](https://mastodon.social/@rmbolger) | Ryan Bolger | mastodon.social | 2 |
 | [lukemurray](https://aus.social/@lukemurray) | Luke Murray | aus.social | 1 |
 | [mrtbone](https://mastodon.social/@mrtbone) | Mr Tbone | mastodon.social | 1 |
 | [psugh](https://norden.social/@psugh) | PowerShell Usergroup Hannover | norden.social | 1 |
+| [JordanOrdix](https://mastodon.social/@JordanOrdix) | Andreas Jordan (ORDIX AG) | mastodon.social | 1 |
 | [mialikescoffee](https://social.tchncs.de/@mialikescoffee) | Julian | social.tchncs.de | 1 |
 | [2kool4idkwhat](https://techhub.social/@2kool4idkwhat) | Luna | techhub.social | 1 |
 | [ollimenzel](https://techhub.social/@ollimenzel) | Oliver Menzel | techhub.social | 1 |
 | [nicferr](https://mastodon.uno/@nicferr) | Nicola Ferrini | mastodon.uno | 1 |
-| [JordanOrdix](https://mastodon.social/@JordanOrdix) | Andreas Jordan (ORDIX AG) | mastodon.social | 1 |
+| [GreatBigTable](https://mastodon.social/@GreatBigTable) | Jim Jones | mastodon.social | 1 |
 | [furicle](https://mastodon.social/@furicle) | furicle | mastodon.social | 1 |
-| [geekland](https://mastodon.social/@geekland) | Geekland | mastodon.social | 1 |
+| [potentengineer](https://techhub.social/@potentengineer) | Daniel Ratliff | techhub.social | 1 |
 | [FlohEinstein](https://chaos.social/@FlohEinstein) | Flo(h)rian Kohler | chaos.social | 1 |
 | [jborean](https://fosstodon.org/@jborean) | Jordan Borean | fosstodon.org | 1 |
 | [89netram](https://hachyderm.io/@89netram) | Mårten Åsberg | hachyderm.io | 1 |
+| [gdlf](https://hachyderm.io/@gdlf) | Gustavo 👾🌈🎯🎉 | hachyderm.io | 1 |
 | [jgrote](https://hachyderm.io/@jgrote) | Justin Grote | hachyderm.io | 1 |
 | [smurthys](https://hachyderm.io/@smurthys) | Sean Murthy | hachyderm.io | 1 |
 | [crazypedia](https://hackers.town/@crazypedia) | Crazypedia⍼ :verified_pride: | hackers.town | 1 |
@@ -39,6 +41,5 @@ Last Updated: 12/19/2023 20:12:58 UTC
 | [balterwenjamin42](https://mastodon.social/@balterwenjamin42) | Kalle Sandås | mastodon.social | 1 |
 | [colincogle](https://mastodon.social/@colincogle) | Colin Cogle 🔵 | mastodon.social | 1 |
 | [edwardvb](https://mastodon.social/@edwardvb) |  | mastodon.social | 1 |
-| [potentengineer](https://techhub.social/@potentengineer) | Daniel Ratliff | techhub.social | 1 |
-| [GreatBigTable](https://mastodon.social/@GreatBigTable) | Jim Jones | mastodon.social | 1 |
+| [geekland](https://mastodon.social/@geekland) | Geekland | mastodon.social | 1 |
 | [gpunktschmitz](https://toot.cafe/@gpunktschmitz) | Guenther Schmitz ⏎ | toot.cafe | 1 |
