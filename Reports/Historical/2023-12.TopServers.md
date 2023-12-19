@@ -1,8 +1,8 @@
 # Top Servers for December 2023
-Last Updated: 12/19/2023 11:12:39 UTC
+Last Updated: 12/19/2023 12:14:37 UTC
 | Server | Posts | Active Users |
 | -- | -- | -- |
-| [techhub.social](https://techhub.social/tags/PowerShell) | 24 | 6 |
+| [techhub.social](https://techhub.social/tags/PowerShell) | 25 | 6 |
 | [mastodon.social](https://mastodon.social/tags/PowerShell) | 23 | 11 |
 | [hachyderm.io](https://hachyderm.io/tags/PowerShell) | 8 | 4 |
 | [mstdn.social](https://mstdn.social/tags/PowerShell) | 8 | 2 |
