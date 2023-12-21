@@ -1,5 +1,5 @@
 # Top Users for December 2023
-Last Updated: 12/21/2023 15:13:09 UTC
+Last Updated: 12/21/2023 16:13:33 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 16 |
@@ -9,10 +9,10 @@ Last Updated: 12/21/2023 15:13:09 UTC
 | [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 5 |
 | [kkarhan](https://mstdn.social/@kkarhan) | Kevin Karhan :verified: | mstdn.social | 4 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 3 |
+| [EdTittel](https://techhub.social/@EdTittel) | Ed Tittel | techhub.social | 3 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 3 |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 3 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 2 |
-| [EdTittel](https://techhub.social/@EdTittel) | Ed Tittel | techhub.social | 2 |
 | [rmbolger](https://mastodon.social/@rmbolger) | Ryan Bolger | mastodon.social | 2 |
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 2 |
 | [mrtbone](https://mastodon.social/@mrtbone) | Mr Tbone | mastodon.social | 1 |
