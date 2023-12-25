@@ -1,5 +1,5 @@
 # Top Users for December 2023
-Last Updated: 12/25/2023 21:12:35 UTC
+Last Updated: 12/25/2023 22:12:54 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 18 |
