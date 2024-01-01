@@ -1,5 +1,5 @@
 # Top Users for January 2024
-Last Updated: 01/01/2024 20:13:45 UTC
+Last Updated: 01/01/2024 21:12:48 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 1 |
