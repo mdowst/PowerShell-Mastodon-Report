@@ -1,5 +1,5 @@
 # Top Users for January 2024
-Last Updated: 01/02/2024 13:13:42 UTC
+Last Updated: 01/02/2024 14:13:02 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 1 |
