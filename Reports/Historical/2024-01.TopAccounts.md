@@ -1,5 +1,5 @@
 # Top Users for January 2024
-Last Updated: 01/03/2024 10:13:50 UTC
+Last Updated: 01/03/2024 11:12:48 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [planetpowershell](https://infosec.exchange/@planetpowershell) | Planet PowerShell | infosec.exchange | 3 |
@@ -7,4 +7,5 @@ Last Updated: 01/03/2024 10:13:50 UTC
 | [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 1 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 1 |
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 1 |
+| [erik365online](https://techhub.social/@erik365online) | erik | techhub.social | 1 |
 | [cavorter](https://twit.social/@cavorter) | Nathan Stohlmann | twit.social | 1 |
