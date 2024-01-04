@@ -1,8 +1,8 @@
 # Top Users for January 2024
-Last Updated: 01/04/2024 15:13:34 UTC
+Last Updated: 01/04/2024 16:13:52 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
-| [planetpowershell](https://infosec.exchange/@planetpowershell) | Planet PowerShell | infosec.exchange | 5 |
+| [planetpowershell](https://infosec.exchange/@planetpowershell) | Planet PowerShell | infosec.exchange | 6 |
 | [erik365online](https://techhub.social/@erik365online) | erik | techhub.social | 2 |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 2 |
 | [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 1 |
