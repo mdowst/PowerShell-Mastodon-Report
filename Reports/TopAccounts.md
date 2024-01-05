@@ -1,5 +1,5 @@
 # Top Users for January 2024
-Last Updated: 01/05/2024 04:13:52 UTC
+Last Updated: 01/05/2024 05:13:19 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [planetpowershell](https://infosec.exchange/@planetpowershell) | Planet PowerShell | infosec.exchange | 6 |
@@ -9,6 +9,7 @@ Last Updated: 01/05/2024 04:13:52 UTC
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 1 |
 | [ChrisHunt](https://hachyderm.io/@ChrisHunt) | Chris Hunt | hachyderm.io | 1 |
 | [mapache](https://hachyderm.io/@mapache) | Maho Pacheco 🦝🍻 | hachyderm.io | 1 |
+| [Sempf](https://infosec.exchange/@Sempf) | Bill | infosec.exchange | 1 |
 | [furicle](https://mastodon.social/@furicle) | furicle | mastodon.social | 1 |
 | [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 1 |
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 1 |
