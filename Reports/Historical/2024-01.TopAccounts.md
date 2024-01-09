@@ -1,5 +1,5 @@
 # Top Users for January 2024
-Last Updated: 01/09/2024 12:14:40 UTC
+Last Updated: 01/09/2024 13:15:38 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [planetpowershell](https://infosec.exchange/@planetpowershell) | Planet PowerShell | infosec.exchange | 33 |
@@ -11,6 +11,7 @@ Last Updated: 01/09/2024 12:14:40 UTC
 | [agardnerit](https://techhub.social/@agardnerit) | Adam Gardner | techhub.social | 1 |
 | [YourAnonRiots](https://mstdn.social/@YourAnonRiots) | Anonymous  :anarchism: 🏴 | mstdn.social | 1 |
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 1 |
+| [mrtbone](https://mastodon.social/@mrtbone) | Mr Tbone | mastodon.social | 1 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 1 |
 | [infiniteserenity](https://mastodon.social/@infiniteserenity) | Mr. SN | mastodon.social | 1 |
 | [furicle](https://mastodon.social/@furicle) | furicle | mastodon.social | 1 |
