@@ -1,5 +1,5 @@
 # Top Users for January 2024
-Last Updated: 01/10/2024 09:13:30 UTC
+Last Updated: 01/10/2024 10:13:41 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [planetpowershell](https://infosec.exchange/@planetpowershell) | Planet PowerShell | infosec.exchange | 33 |
@@ -8,10 +8,10 @@ Last Updated: 01/10/2024 09:13:30 UTC
 | [furicle](https://mastodon.social/@furicle) | furicle | mastodon.social | 2 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 2 |
 | [erik365online](https://techhub.social/@erik365online) | erik | techhub.social | 2 |
+| [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 2 |
 | [AndrewPlaTech](https://techhub.social/@AndrewPlaTech) | AndrewPlaTech | techhub.social | 1 |
 | [agardnerit](https://techhub.social/@agardnerit) | Adam Gardner | techhub.social | 1 |
 | [YourAnonRiots](https://mstdn.social/@YourAnonRiots) | Anonymous  :anarchism: 🏴 | mstdn.social | 1 |
-| [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 1 |
 | [mrtbone](https://mastodon.social/@mrtbone) | Mr Tbone | mastodon.social | 1 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 1 |
 | [jborean](https://fosstodon.org/@jborean) | Jordan Borean | fosstodon.org | 1 |
