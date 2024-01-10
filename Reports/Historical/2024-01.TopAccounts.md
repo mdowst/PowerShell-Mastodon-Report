@@ -1,10 +1,11 @@
 # Top Users for January 2024
-Last Updated: 01/10/2024 04:13:53 UTC
+Last Updated: 01/10/2024 05:13:09 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [planetpowershell](https://infosec.exchange/@planetpowershell) | Planet PowerShell | infosec.exchange | 33 |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 7 |
 | [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 4 |
+| [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 2 |
 | [erik365online](https://techhub.social/@erik365online) | erik | techhub.social | 2 |
 | [furicle](https://mastodon.social/@furicle) | furicle | mastodon.social | 2 |
 | [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 1 |
@@ -22,6 +23,5 @@ Last Updated: 01/10/2024 04:13:53 UTC
 | [g0rb](https://infosec.exchange/@g0rb) | G0rb | infosec.exchange | 1 |
 | [mapache](https://hachyderm.io/@mapache) | Maho Pacheco 🦝🍻 | hachyderm.io | 1 |
 | [ChrisHunt](https://hachyderm.io/@ChrisHunt) | Chris Hunt | hachyderm.io | 1 |
-| [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 1 |
 | [SAPIENTech](https://techhub.social/@SAPIENTech) | SAPIENTech | techhub.social | 1 |
 | [cavorter](https://twit.social/@cavorter) | Nathan Stohlmann | twit.social | 1 |
