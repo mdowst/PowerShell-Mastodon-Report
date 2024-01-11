@@ -1,5 +1,5 @@
 # Top Users for January 2024
-Last Updated: 01/11/2024 19:12:45 UTC
+Last Updated: 01/11/2024 20:13:50 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [planetpowershell](https://infosec.exchange/@planetpowershell) | Planet PowerShell | infosec.exchange | 33 |
@@ -26,6 +26,7 @@ Last Updated: 01/11/2024 19:12:45 UTC
 | [r1cksec](https://infosec.exchange/@r1cksec) | r1cksec | infosec.exchange | 1 |
 | [g0rb](https://infosec.exchange/@g0rb) | G0rb | infosec.exchange | 1 |
 | [bastienperez](https://infosec.exchange/@bastienperez) | Bastien | infosec.exchange | 1 |
+| [mikael](https://hachyderm.io/@mikael) | Mikael Hansson | hachyderm.io | 1 |
 | [mapache](https://hachyderm.io/@mapache) | Maho Pacheco 🦝🍻 | hachyderm.io | 1 |
 | [lotharschulz](https://hachyderm.io/@lotharschulz) | Lothar Schulz | hachyderm.io | 1 |
 | [ChrisHunt](https://hachyderm.io/@ChrisHunt) | Chris Hunt | hachyderm.io | 1 |
