@@ -1,9 +1,9 @@
 # Top Users for January 2024
-Last Updated: 01/11/2024 11:12:39 UTC
+Last Updated: 01/11/2024 12:14:40 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [planetpowershell](https://infosec.exchange/@planetpowershell) | Planet PowerShell | infosec.exchange | 33 |
-| [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 8 |
+| [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 9 |
 | [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 4 |
 | [furicle](https://mastodon.social/@furicle) | furicle | mastodon.social | 3 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 2 |
