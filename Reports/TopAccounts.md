@@ -1,15 +1,15 @@
 # Top Users for January 2024
-Last Updated: 01/12/2024 21:13:00 UTC
+Last Updated: 01/12/2024 22:13:25 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [planetpowershell](https://infosec.exchange/@planetpowershell) | Planet PowerShell | infosec.exchange | 33 |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 10 |
 | [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 4 |
 | [furicle](https://mastodon.social/@furicle) | furicle | mastodon.social | 3 |
+| [Shawn_Brink](https://techhub.social/@Shawn_Brink) | Shawn Brink | techhub.social | 2 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 2 |
 | [erik365online](https://techhub.social/@erik365online) | erik | techhub.social | 2 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 2 |
-| [Shawn_Brink](https://techhub.social/@Shawn_Brink) | Shawn Brink | techhub.social | 2 |
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 2 |
 | [infiniteserenity](https://mastodon.social/@infiniteserenity) | Mr. SN | mastodon.social | 1 |
 | [mrtbone](https://mastodon.social/@mrtbone) | Mr Tbone | mastodon.social | 1 |
@@ -29,6 +29,7 @@ Last Updated: 01/12/2024 21:13:00 UTC
 | [r1cksec](https://infosec.exchange/@r1cksec) | r1cksec | infosec.exchange | 1 |
 | [g0rb](https://infosec.exchange/@g0rb) | G0rb | infosec.exchange | 1 |
 | [bastienperez](https://infosec.exchange/@bastienperez) | Bastien | infosec.exchange | 1 |
+| [willow_datawitch](https://hachyderm.io/@willow_datawitch) | Willow, Data Witch | hachyderm.io | 1 |
 | [mikael](https://hachyderm.io/@mikael) | Mikael Hansson | hachyderm.io | 1 |
 | [mapache](https://hachyderm.io/@mapache) | Maho Pacheco 🦝🍻 | hachyderm.io | 1 |
 | [lotharschulz](https://hachyderm.io/@lotharschulz) | Lothar Schulz | hachyderm.io | 1 |
