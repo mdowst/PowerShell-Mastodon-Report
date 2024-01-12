@@ -1,5 +1,5 @@
 # Top Users for January 2024
-Last Updated: 01/12/2024 15:13:22 UTC
+Last Updated: 01/12/2024 16:14:27 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [planetpowershell](https://infosec.exchange/@planetpowershell) | Planet PowerShell | infosec.exchange | 33 |
@@ -8,10 +8,10 @@ Last Updated: 01/12/2024 15:13:22 UTC
 | [furicle](https://mastodon.social/@furicle) | furicle | mastodon.social | 3 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 2 |
 | [erik365online](https://techhub.social/@erik365online) | erik | techhub.social | 2 |
+| [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 2 |
 | [Shawn_Brink](https://techhub.social/@Shawn_Brink) | Shawn Brink | techhub.social | 2 |
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 2 |
 | [infiniteserenity](https://mastodon.social/@infiniteserenity) | Mr. SN | mastodon.social | 1 |
-| [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 1 |
 | [mrtbone](https://mastodon.social/@mrtbone) | Mr Tbone | mastodon.social | 1 |
 | [agardnerit](https://techhub.social/@agardnerit) | Adam Gardner | techhub.social | 1 |
 | [AndrewPlaTech](https://techhub.social/@AndrewPlaTech) | AndrewPlaTech | techhub.social | 1 |
