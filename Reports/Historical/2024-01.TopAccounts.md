@@ -1,5 +1,5 @@
 # Top Users for January 2024
-Last Updated: 01/12/2024 18:14:05 UTC
+Last Updated: 01/12/2024 19:12:42 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [planetpowershell](https://infosec.exchange/@planetpowershell) | Planet PowerShell | infosec.exchange | 33 |
@@ -20,7 +20,8 @@ Last Updated: 01/12/2024 18:14:05 UTC
 | [SAPIENTech](https://techhub.social/@SAPIENTech) | SAPIENTech | techhub.social | 1 |
 | [YourAnonRiots](https://mstdn.social/@YourAnonRiots) | Anonymous  :anarchism: 🏴 | mstdn.social | 1 |
 | [jborean](https://fosstodon.org/@jborean) | Jordan Borean | fosstodon.org | 1 |
-| [digon](https://mastodon.social/@digon) | Digão | mastodon.social | 1 |
+| [bazcurtis](https://mastodon.social/@bazcurtis) | bazcurtis | mastodon.social | 1 |
+| [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 1 |
 | [LeeArchinal](https://ioc.exchange/@LeeArchinal) | Just Another Blue Teamer | ioc.exchange | 1 |
 | [USBTypeSTeve](https://infosec.exchange/@USBTypeSTeve) | USB Type-Steve :verified: | infosec.exchange | 1 |
 | [Sempf](https://infosec.exchange/@Sempf) | Bill | infosec.exchange | 1 |
@@ -33,5 +34,5 @@ Last Updated: 01/12/2024 18:14:05 UTC
 | [lotharschulz](https://hachyderm.io/@lotharschulz) | Lothar Schulz | hachyderm.io | 1 |
 | [ChrisHunt](https://hachyderm.io/@ChrisHunt) | Chris Hunt | hachyderm.io | 1 |
 | [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 1 |
-| [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 1 |
+| [digon](https://mastodon.social/@digon) | Digão | mastodon.social | 1 |
 | [cavorter](https://twit.social/@cavorter) | Nathan Stohlmann | twit.social | 1 |
