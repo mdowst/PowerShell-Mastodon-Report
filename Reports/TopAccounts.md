@@ -1,5 +1,5 @@
 # Top Users for January 2024
-Last Updated: 01/12/2024 07:13:00 UTC
+Last Updated: 01/12/2024 08:13:59 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [planetpowershell](https://infosec.exchange/@planetpowershell) | Planet PowerShell | infosec.exchange | 33 |
@@ -24,6 +24,7 @@ Last Updated: 01/12/2024 07:13:00 UTC
 | [LeeArchinal](https://ioc.exchange/@LeeArchinal) | Just Another Blue Teamer | ioc.exchange | 1 |
 | [USBTypeSTeve](https://infosec.exchange/@USBTypeSTeve) | USB Type-Steve :verified: | infosec.exchange | 1 |
 | [Sempf](https://infosec.exchange/@Sempf) | Bill | infosec.exchange | 1 |
+| [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 1 |
 | [r1cksec](https://infosec.exchange/@r1cksec) | r1cksec | infosec.exchange | 1 |
 | [g0rb](https://infosec.exchange/@g0rb) | G0rb | infosec.exchange | 1 |
 | [bastienperez](https://infosec.exchange/@bastienperez) | Bastien | infosec.exchange | 1 |
