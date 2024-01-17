@@ -1,5 +1,5 @@
 # Top Users for January 2024
-Last Updated: 01/16/2024 23:13:40 UTC
+Last Updated: 01/17/2024 00:26:28 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [planetpowershell](https://infosec.exchange/@planetpowershell) | Planet PowerShell | infosec.exchange | 33 |
