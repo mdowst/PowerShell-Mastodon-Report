@@ -1,5 +1,5 @@
 # Top Users for January 2024
-Last Updated: 01/20/2024 14:12:46 UTC
+Last Updated: 01/20/2024 15:12:56 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [planetpowershell](https://infosec.exchange/@planetpowershell) | Planet PowerShell | infosec.exchange | 33 |
@@ -11,6 +11,7 @@ Last Updated: 01/20/2024 14:12:46 UTC
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 3 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 2 |
 | [erik365online](https://techhub.social/@erik365online) | erik | techhub.social | 2 |
+| [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 2 |
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 2 |
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 2 |
 | [jborean](https://fosstodon.org/@jborean) | Jordan Borean | fosstodon.org | 1 |
@@ -20,7 +21,6 @@ Last Updated: 01/20/2024 14:12:46 UTC
 | [psugh](https://norden.social/@psugh) | PowerShell Usergroup Hannover | norden.social | 1 |
 | [agardnerit](https://techhub.social/@agardnerit) | Adam Gardner | techhub.social | 1 |
 | [AndrewPlaTech](https://techhub.social/@AndrewPlaTech) | AndrewPlaTech | techhub.social | 1 |
-| [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 1 |
 | [EdTittel](https://techhub.social/@EdTittel) | Ed Tittel | techhub.social | 1 |
 | [mrtbone](https://mastodon.social/@mrtbone) | Mr Tbone | mastodon.social | 1 |
 | [DaveMasonDotMe](https://mastodon.social/@DaveMasonDotMe) | Dave Mason | mastodon.social | 1 |
