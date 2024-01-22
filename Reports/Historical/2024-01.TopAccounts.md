@@ -1,5 +1,5 @@
 # Top Users for January 2024
-Last Updated: 01/22/2024 10:13:38 UTC
+Last Updated: 01/22/2024 11:13:05 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [planetpowershell](https://infosec.exchange/@planetpowershell) | Planet PowerShell | infosec.exchange | 33 |
@@ -7,10 +7,10 @@ Last Updated: 01/22/2024 10:13:38 UTC
 | [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 5 |
 | [furicle](https://mastodon.social/@furicle) | furicle | mastodon.social | 4 |
 | [SAPIENTech](https://techhub.social/@SAPIENTech) | SAPIENTech | techhub.social | 3 |
+| [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 3 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 3 |
 | [Shawn_Brink](https://techhub.social/@Shawn_Brink) | Shawn Brink | techhub.social | 3 |
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 2 |
-| [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 2 |
 | [bazcurtis](https://mastodon.social/@bazcurtis) | bazcurtis | mastodon.social | 2 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 2 |
 | [erik365online](https://techhub.social/@erik365online) | erik | techhub.social | 2 |
