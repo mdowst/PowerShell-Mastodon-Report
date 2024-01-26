@@ -1,5 +1,5 @@
 # Top Users for January 2024
-Last Updated: 01/26/2024 16:13:27 UTC
+Last Updated: 01/26/2024 17:12:32 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [planetpowershell](https://infosec.exchange/@planetpowershell) | Planet PowerShell | infosec.exchange | 33 |
@@ -7,9 +7,9 @@ Last Updated: 01/26/2024 16:13:27 UTC
 | [SAPIENTech](https://techhub.social/@SAPIENTech) | SAPIENTech | techhub.social | 9 |
 | [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 6 |
 | [furicle](https://mastodon.social/@furicle) | furicle | mastodon.social | 4 |
+| [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 4 |
 | [Shawn_Brink](https://techhub.social/@Shawn_Brink) | Shawn Brink | techhub.social | 3 |
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 3 |
-| [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 3 |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 2 |
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 2 |
 | [bazcurtis](https://mastodon.social/@bazcurtis) | bazcurtis | mastodon.social | 2 |
