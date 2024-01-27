@@ -1,5 +1,5 @@
 # Top Servers for January 2024
-Last Updated: 01/27/2024 01:29:36 UTC
+Last Updated: 01/27/2024 02:14:03 UTC
 | Server | Posts | Active Users |
 | -- | -- | -- |
 | [infosec.exchange](https://infosec.exchange/tags/PowerShell) | 43 | 9 |
