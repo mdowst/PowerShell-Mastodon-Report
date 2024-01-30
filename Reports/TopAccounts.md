@@ -1,5 +1,5 @@
 # Top Users for January 2024
-Last Updated: 01/30/2024 14:12:34 UTC
+Last Updated: 01/30/2024 15:13:04 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [planetpowershell](https://infosec.exchange/@planetpowershell) | Planet PowerShell | infosec.exchange | 33 |
@@ -10,9 +10,9 @@ Last Updated: 01/30/2024 14:12:34 UTC
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 4 |
 | [Shawn_Brink](https://techhub.social/@Shawn_Brink) | Shawn Brink | techhub.social | 3 |
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 3 |
+| [mrtbone](https://mastodon.social/@mrtbone) | Mr Tbone | mastodon.social | 3 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 3 |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 2 |
-| [mrtbone](https://mastodon.social/@mrtbone) | Mr Tbone | mastodon.social | 2 |
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 2 |
 | [bazcurtis](https://mastodon.social/@bazcurtis) | bazcurtis | mastodon.social | 2 |
 | [wg](https://hachyderm.io/@wg) | W.Gross | hachyderm.io | 2 |
