@@ -1,5 +1,5 @@
 # Top Users for February 2024
-Last Updated: 02/02/2024 10:13:14 UTC
+Last Updated: 02/02/2024 11:12:31 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [SAPIENTech](https://techhub.social/@SAPIENTech) | SAPIENTech | techhub.social | 2 |
@@ -9,4 +9,5 @@ Last Updated: 02/02/2024 10:13:14 UTC
 | [Fabian_Niesen](https://mastodon.social/@Fabian_Niesen) | Fabian Niesen | mastodon.social | 1 |
 | [nicferr](https://mastodon.uno/@nicferr) | Nicola Ferrini | mastodon.uno | 1 |
 | [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 1 |
+| [fabiscafe](https://mstdn.social/@fabiscafe) | Fabian :antifa: 🏳️‍🌈 | mstdn.social | 1 |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 1 |
