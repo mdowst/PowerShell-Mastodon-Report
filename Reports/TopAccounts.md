@@ -1,11 +1,12 @@
 # Top Users for February 2024
-Last Updated: 02/03/2024 14:12:37 UTC
+Last Updated: 02/03/2024 15:12:42 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [SAPIENTech](https://techhub.social/@SAPIENTech) | SAPIENTech | techhub.social | 2 |
 | [zirias](https://techhub.social/@zirias) | Felix Palmen 📯 | techhub.social | 2 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 1 |
 | [CitraBenzoet](https://infosec.exchange/@CitraBenzoet) | CitraBenzoet | infosec.exchange | 1 |
+| [luzkenin](https://infosec.exchange/@luzkenin) | Joe 🏔️ King of NYNEX :donor: | infosec.exchange | 1 |
 | [nemo](https://mas.to/@nemo) | nemo™ 🇺🇦 | mas.to | 1 |
 | [bjompen](https://mastodon.nu/@bjompen) | Bjompen | mastodon.nu | 1 |
 | [Fabian_Niesen](https://mastodon.social/@Fabian_Niesen) | Fabian Niesen | mastodon.social | 1 |
