@@ -1,5 +1,5 @@
 # Top Users for February 2024
-Last Updated: 02/04/2024 17:12:20 UTC
+Last Updated: 02/04/2024 18:13:39 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [SAPIENTech](https://techhub.social/@SAPIENTech) | SAPIENTech | techhub.social | 2 |
@@ -16,3 +16,4 @@ Last Updated: 02/04/2024 17:12:20 UTC
 | [fabiscafe](https://mstdn.social/@fabiscafe) | Fabian :antifa: 🏳️‍🌈 | mstdn.social | 1 |
 | [azuretracks](https://techhub.social/@azuretracks) | AzureTracks | techhub.social | 1 |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 1 |
+| [thorstenbutz](https://twit.social/@thorstenbutz) | Thorsten Butz | twit.social | 1 |
