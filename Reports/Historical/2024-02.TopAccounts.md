@@ -1,10 +1,10 @@
 # Top Users for February 2024
-Last Updated: 02/06/2024 20:13:14 UTC
+Last Updated: 02/06/2024 21:12:36 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [SAPIENTech](https://techhub.social/@SAPIENTech) | SAPIENTech | techhub.social | 4 |
+| [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 3 |
 | [zirias](https://techhub.social/@zirias) | Felix Palmen 📯 | techhub.social | 2 |
-| [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 2 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 1 |
 | [Shawn_Brink](https://techhub.social/@Shawn_Brink) | Shawn Brink | techhub.social | 1 |
 | [azuretracks](https://techhub.social/@azuretracks) | AzureTracks | techhub.social | 1 |
