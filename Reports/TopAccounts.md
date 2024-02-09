@@ -1,5 +1,5 @@
 # Top Users for February 2024
-Last Updated: 02/09/2024 04:13:11 UTC
+Last Updated: 02/09/2024 05:12:39 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [SAPIENTech](https://techhub.social/@SAPIENTech) | SAPIENTech | techhub.social | 5 |
@@ -11,6 +11,7 @@ Last Updated: 02/09/2024 04:13:11 UTC
 | [fabiscafe](https://mstdn.social/@fabiscafe) | Fabian :antifa: 🏳️‍🌈 | mstdn.social | 1 |
 | [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 1 |
 | [nicferr](https://mastodon.uno/@nicferr) | Nicola Ferrini | mastodon.uno | 1 |
+| [thorstenbutz](https://twit.social/@thorstenbutz) | Thorsten Butz | twit.social | 1 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 1 |
 | [Fabian_Niesen](https://mastodon.social/@Fabian_Niesen) | Fabian Niesen | mastodon.social | 1 |
 | [altf4formation](https://mastodon.social/@altf4formation) | AltF4-Formation | mastodon.social | 1 |
@@ -20,5 +21,5 @@ Last Updated: 02/09/2024 04:13:11 UTC
 | [CitraBenzoet](https://infosec.exchange/@CitraBenzoet) | CitraBenzoet | infosec.exchange | 1 |
 | [ajn142](https://infosec.exchange/@ajn142) | Buttered Jorts | infosec.exchange | 1 |
 | [BenjaminHCCarr](https://hachyderm.io/@BenjaminHCCarr) | Benjamin Carr, Ph.D. 👨🏻‍💻🧬 | hachyderm.io | 1 |
-| [thorstenbutz](https://twit.social/@thorstenbutz) | Thorsten Butz | twit.social | 1 |
+| [gbraad](https://mastodon.social/@gbraad) | Gerard Braad | mastodon.social | 1 |
 | [Childebrandt42](https://vmst.io/@Childebrandt42) | Childebrandt42 | vmst.io | 1 |
