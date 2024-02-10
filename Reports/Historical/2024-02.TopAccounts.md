@@ -1,5 +1,5 @@
 # Top Users for February 2024
-Last Updated: 02/10/2024 13:13:13 UTC
+Last Updated: 02/10/2024 14:12:36 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [SAPIENTech](https://techhub.social/@SAPIENTech) | SAPIENTech | techhub.social | 5 |
@@ -17,10 +17,12 @@ Last Updated: 02/10/2024 13:13:13 UTC
 | [Fabian_Niesen](https://mastodon.social/@Fabian_Niesen) | Fabian Niesen | mastodon.social | 1 |
 | [expertenkommision_cyberunfall](https://mastodon.social/@expertenkommision_cyberunfall) | Expertenkommision Cyberunfall | mastodon.social | 1 |
 | [altf4formation](https://mastodon.social/@altf4formation) | AltF4-Formation | mastodon.social | 1 |
+| [alexandreborges](https://mastodon.social/@alexandreborges) | Alexandre Borges | mastodon.social | 1 |
 | [bjompen](https://mastodon.nu/@bjompen) | Bjompen | mastodon.nu | 1 |
 | [nemo](https://mas.to/@nemo) | nemo™ 🇺🇦 | mas.to | 1 |
 | [luzkenin](https://infosec.exchange/@luzkenin) | Joe 🏔️ King of NYNEX :donor: | infosec.exchange | 1 |
 | [CitraBenzoet](https://infosec.exchange/@CitraBenzoet) | CitraBenzoet | infosec.exchange | 1 |
+| [alexandreborges](https://infosec.exchange/@alexandreborges) | Alexandre Borges | infosec.exchange | 1 |
 | [ajn142](https://infosec.exchange/@ajn142) | Buttered Jorts | infosec.exchange | 1 |
 | [michaelabon](https://hachyderm.io/@michaelabon) | Michael Abon :1password: | hachyderm.io | 1 |
 | [BenjaminHCCarr](https://hachyderm.io/@BenjaminHCCarr) | Benjamin Carr, Ph.D. 👨🏻‍💻🧬 | hachyderm.io | 1 |
