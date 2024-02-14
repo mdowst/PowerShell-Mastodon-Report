@@ -1,5 +1,5 @@
 # Top Users for February 2024
-Last Updated: 02/13/2024 23:12:42 UTC
+Last Updated: 02/14/2024 00:24:40 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [SAPIENTech](https://techhub.social/@SAPIENTech) | SAPIENTech | techhub.social | 6 |
@@ -24,10 +24,12 @@ Last Updated: 02/13/2024 23:12:42 UTC
 | [alexandreborges](https://mastodon.social/@alexandreborges) | Alexandre Borges | mastodon.social | 1 |
 | [bjompen](https://mastodon.nu/@bjompen) | Bjompen | mastodon.nu | 1 |
 | [nemo](https://mas.to/@nemo) | nemo™ 🇺🇦 | mas.to | 1 |
+| [seanm](https://infosec.exchange/@seanm) | Sean | infosec.exchange | 1 |
 | [luzkenin](https://infosec.exchange/@luzkenin) | Joe 🏔️ King of NYNEX :donor: | infosec.exchange | 1 |
 | [CitraBenzoet](https://infosec.exchange/@CitraBenzoet) | CitraBenzoet | infosec.exchange | 1 |
 | [alexandreborges](https://infosec.exchange/@alexandreborges) | Alexandre Borges | infosec.exchange | 1 |
 | [ajn142](https://infosec.exchange/@ajn142) | Buttered Jorts | infosec.exchange | 1 |
+| [plasma4045](https://indieweb.social/@plasma4045) | carbon offsets are BS ☕️🥬 | indieweb.social | 1 |
 | [michaelabon](https://hachyderm.io/@michaelabon) | Michael Abon :1password: | hachyderm.io | 1 |
 | [BenjaminHCCarr](https://hachyderm.io/@BenjaminHCCarr) | Benjamin Carr, Ph.D. 👨🏻‍💻🧬 | hachyderm.io | 1 |
 | [thorstenbutz](https://twit.social/@thorstenbutz) | Thorsten Butz | twit.social | 1 |
