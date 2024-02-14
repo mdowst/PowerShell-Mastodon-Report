@@ -1,10 +1,10 @@
 # Top Users for February 2024
-Last Updated: 02/14/2024 22:12:27 UTC
+Last Updated: 02/14/2024 23:13:29 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [SAPIENTech](https://techhub.social/@SAPIENTech) | SAPIENTech | techhub.social | 6 |
+| [skatterbrainz](https://techhub.social/@skatterbrainz) | Sk@tterBr@iNz | techhub.social | 5 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 4 |
-| [skatterbrainz](https://techhub.social/@skatterbrainz) | Sk@tterBr@iNz | techhub.social | 4 |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 4 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 3 |
 | [zirias](https://techhub.social/@zirias) | Felix Palmen 📯 | techhub.social | 2 |
