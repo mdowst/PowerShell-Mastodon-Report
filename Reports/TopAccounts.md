@@ -1,5 +1,5 @@
 # Top Users for February 2024
-Last Updated: 02/14/2024 20:12:51 UTC
+Last Updated: 02/14/2024 21:12:24 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [SAPIENTech](https://techhub.social/@SAPIENTech) | SAPIENTech | techhub.social | 6 |
@@ -13,11 +13,12 @@ Last Updated: 02/14/2024 20:12:51 UTC
 | [poshlandPRO](https://techhub.social/@poshlandPRO) | Damian Garbus | techhub.social | 1 |
 | [ollimenzel](https://techhub.social/@ollimenzel) | Oliver Menzel | techhub.social | 1 |
 | [azuretracks](https://techhub.social/@azuretracks) | AzureTracks | techhub.social | 1 |
+| [psugh](https://norden.social/@psugh) | PowerShell Usergroup Hannover | norden.social | 1 |
 | [fabiscafe](https://mstdn.social/@fabiscafe) | Fabian :antifa: 🏳️‍🌈 | mstdn.social | 1 |
 | [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 1 |
 | [nicferr](https://mastodon.uno/@nicferr) | Nicola Ferrini | mastodon.uno | 1 |
+| [thorstenbutz](https://twit.social/@thorstenbutz) | Thorsten Butz | twit.social | 1 |
 | [mborus](https://mastodon.social/@mborus) | mborus | mastodon.social | 1 |
-| [gbraad](https://mastodon.social/@gbraad) | Gerard Braad | mastodon.social | 1 |
 | [Fabian_Niesen](https://mastodon.social/@Fabian_Niesen) | Fabian Niesen | mastodon.social | 1 |
 | [expertenkommision_cyberunfall](https://mastodon.social/@expertenkommision_cyberunfall) | Expertenkommision Cyberunfall | mastodon.social | 1 |
 | [altf4formation](https://mastodon.social/@altf4formation) | AltF4-Formation | mastodon.social | 1 |
@@ -32,5 +33,5 @@ Last Updated: 02/14/2024 20:12:51 UTC
 | [plasma4045](https://indieweb.social/@plasma4045) | carbon offsets are BS ☕️🥬 | indieweb.social | 1 |
 | [michaelabon](https://hachyderm.io/@michaelabon) | Michael Abon :1password: | hachyderm.io | 1 |
 | [BenjaminHCCarr](https://hachyderm.io/@BenjaminHCCarr) | Benjamin Carr, Ph.D. 👨🏻‍💻🧬 | hachyderm.io | 1 |
-| [thorstenbutz](https://twit.social/@thorstenbutz) | Thorsten Butz | twit.social | 1 |
+| [gbraad](https://mastodon.social/@gbraad) | Gerard Braad | mastodon.social | 1 |
 | [Childebrandt42](https://vmst.io/@Childebrandt42) | Childebrandt42 | vmst.io | 1 |
