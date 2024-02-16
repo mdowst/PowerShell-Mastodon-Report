@@ -1,5 +1,5 @@
 # Top Users for February 2024
-Last Updated: 02/16/2024 11:12:18 UTC
+Last Updated: 02/16/2024 12:14:05 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [SAPIENTech](https://techhub.social/@SAPIENTech) | SAPIENTech | techhub.social | 8 |
@@ -9,6 +9,7 @@ Last Updated: 02/16/2024 11:12:18 UTC
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 3 |
 | [zirias](https://techhub.social/@zirias) | Felix Palmen 📯 | techhub.social | 2 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 2 |
+| [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 2 |
 | [alexandreborges](https://infosec.exchange/@alexandreborges) | Alexandre Borges | infosec.exchange | 1 |
 | [BenjaminHCCarr](https://hachyderm.io/@BenjaminHCCarr) | Benjamin Carr, Ph.D. 👨🏻‍💻🧬 | hachyderm.io | 1 |
 | [Shawn_Brink](https://techhub.social/@Shawn_Brink) | Shawn Brink | techhub.social | 1 |
@@ -20,7 +21,6 @@ Last Updated: 02/16/2024 11:12:18 UTC
 | [psugh](https://norden.social/@psugh) | PowerShell Usergroup Hannover | norden.social | 1 |
 | [fabiscafe](https://mstdn.social/@fabiscafe) | Fabian :antifa: 🏳️‍🌈 | mstdn.social | 1 |
 | [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 1 |
-| [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 1 |
 | [nicferr](https://mastodon.uno/@nicferr) | Nicola Ferrini | mastodon.uno | 1 |
 | [techygeekshome](https://mastodon.social/@techygeekshome) | A.J. Armstrong | mastodon.social | 1 |
 | [thorstenbutz](https://twit.social/@thorstenbutz) | Thorsten Butz | twit.social | 1 |
