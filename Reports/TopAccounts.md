@@ -1,5 +1,5 @@
 # Top Users for February 2024
-Last Updated: 02/16/2024 19:12:46 UTC
+Last Updated: 02/16/2024 20:13:00 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [SAPIENTech](https://techhub.social/@SAPIENTech) | SAPIENTech | techhub.social | 10 |
@@ -9,6 +9,7 @@ Last Updated: 02/16/2024 19:12:46 UTC
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 4 |
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 2 |
 | [zirias](https://techhub.social/@zirias) | Felix Palmen 📯 | techhub.social | 2 |
+| [expertenkommision_cyberunfall](https://mastodon.social/@expertenkommision_cyberunfall) | Expertenkommision Cyberunfall | mastodon.social | 2 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 2 |
 | [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 1 |
 | [Shawn_Brink](https://techhub.social/@Shawn_Brink) | Shawn Brink | techhub.social | 1 |
@@ -22,14 +23,13 @@ Last Updated: 02/16/2024 19:12:46 UTC
 | [kohelet](https://mstdn.social/@kohelet) | Collei :verified: | mstdn.social | 1 |
 | [fabiscafe](https://mstdn.social/@fabiscafe) | Fabian :antifa: 🏳️‍🌈 | mstdn.social | 1 |
 | [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 1 |
-| [plasma4045](https://indieweb.social/@plasma4045) | carbon offsets are BS ☕️🥬 | indieweb.social | 1 |
 | [ajn142](https://infosec.exchange/@ajn142) | Buttered Jorts | infosec.exchange | 1 |
+| [nicferr](https://mastodon.uno/@nicferr) | Nicola Ferrini | mastodon.uno | 1 |
 | [techygeekshome](https://mastodon.social/@techygeekshome) | A.J. Armstrong | mastodon.social | 1 |
 | [thorstenbutz](https://twit.social/@thorstenbutz) | Thorsten Butz | twit.social | 1 |
 | [mborus](https://mastodon.social/@mborus) | mborus | mastodon.social | 1 |
 | [gbraad](https://mastodon.social/@gbraad) | Gerard Braad | mastodon.social | 1 |
 | [Fabian_Niesen](https://mastodon.social/@Fabian_Niesen) | Fabian Niesen | mastodon.social | 1 |
-| [expertenkommision_cyberunfall](https://mastodon.social/@expertenkommision_cyberunfall) | Expertenkommision Cyberunfall | mastodon.social | 1 |
 | [altf4formation](https://mastodon.social/@altf4formation) | AltF4-Formation | mastodon.social | 1 |
 | [alexandreborges](https://mastodon.social/@alexandreborges) | Alexandre Borges | mastodon.social | 1 |
 | [bjompen](https://mastodon.nu/@bjompen) | Bjompen | mastodon.nu | 1 |
@@ -38,5 +38,5 @@ Last Updated: 02/16/2024 19:12:46 UTC
 | [luzkenin](https://infosec.exchange/@luzkenin) | Joe 🏔️ King of NYNEX :donor: | infosec.exchange | 1 |
 | [CitraBenzoet](https://infosec.exchange/@CitraBenzoet) | CitraBenzoet | infosec.exchange | 1 |
 | [alexandreborges](https://infosec.exchange/@alexandreborges) | Alexandre Borges | infosec.exchange | 1 |
-| [nicferr](https://mastodon.uno/@nicferr) | Nicola Ferrini | mastodon.uno | 1 |
+| [plasma4045](https://indieweb.social/@plasma4045) | carbon offsets are BS ☕️🥬 | indieweb.social | 1 |
 | [Childebrandt42](https://vmst.io/@Childebrandt42) | Childebrandt42 | vmst.io | 1 |
