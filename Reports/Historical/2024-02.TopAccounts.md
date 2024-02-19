@@ -1,5 +1,5 @@
 # Top Users for February 2024
-Last Updated: 02/19/2024 14:13:15 UTC
+Last Updated: 02/19/2024 15:13:13 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [SAPIENTech](https://techhub.social/@SAPIENTech) | SAPIENTech | techhub.social | 10 |
@@ -23,8 +23,8 @@ Last Updated: 02/19/2024 14:13:15 UTC
 | [nicferr](https://mastodon.uno/@nicferr) | Nicola Ferrini | mastodon.uno | 1 |
 | [ollimenzel](https://techhub.social/@ollimenzel) | Oliver Menzel | techhub.social | 1 |
 | [voltagex](https://aus.social/@voltagex) | Adam ♿ | aus.social | 1 |
-| [mborus](https://mastodon.social/@mborus) | mborus | mastodon.social | 1 |
 | [gbraad](https://mastodon.social/@gbraad) | Gerard Braad | mastodon.social | 1 |
+| [thorstenbutz](https://twit.social/@thorstenbutz) | Thorsten Butz | twit.social | 1 |
 | [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 1 |
 | [BenjaminHCCarr](https://hachyderm.io/@BenjaminHCCarr) | Benjamin Carr, Ph.D. 👨🏻‍💻🧬 | hachyderm.io | 1 |
 | [michaelabon](https://hachyderm.io/@michaelabon) | Michael Abon :1password: | hachyderm.io | 1 |
@@ -32,14 +32,15 @@ Last Updated: 02/19/2024 14:13:15 UTC
 | [ajn142](https://infosec.exchange/@ajn142) | Buttered Jorts | infosec.exchange | 1 |
 | [alexandreborges](https://infosec.exchange/@alexandreborges) | Alexandre Borges | infosec.exchange | 1 |
 | [CitraBenzoet](https://infosec.exchange/@CitraBenzoet) | CitraBenzoet | infosec.exchange | 1 |
-| [thorstenbutz](https://twit.social/@thorstenbutz) | Thorsten Butz | twit.social | 1 |
 | [grubbslinger](https://infosec.exchange/@grubbslinger) | Sam Grubb | infosec.exchange | 1 |
+| [luzkenin](https://infosec.exchange/@luzkenin) | Joe 🏔️ King of NYNEX :donor: | infosec.exchange | 1 |
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 1 |
 | [seanm](https://infosec.exchange/@seanm) | Sean | infosec.exchange | 1 |
+| [USBTypeSTeve](https://infosec.exchange/@USBTypeSTeve) | USB Type-Steve :verified: | infosec.exchange | 1 |
 | [nemo](https://mas.to/@nemo) | nemo™ 🇺🇦 | mas.to | 1 |
 | [bjompen](https://mastodon.nu/@bjompen) | Bjompen | mastodon.nu | 1 |
 | [alexandreborges](https://mastodon.social/@alexandreborges) | Alexandre Borges | mastodon.social | 1 |
 | [altf4formation](https://mastodon.social/@altf4formation) | AltF4-Formation | mastodon.social | 1 |
 | [Fabian_Niesen](https://mastodon.social/@Fabian_Niesen) | Fabian Niesen | mastodon.social | 1 |
-| [luzkenin](https://infosec.exchange/@luzkenin) | Joe 🏔️ King of NYNEX :donor: | infosec.exchange | 1 |
+| [mborus](https://mastodon.social/@mborus) | mborus | mastodon.social | 1 |
 | [Childebrandt42](https://vmst.io/@Childebrandt42) | Childebrandt42 | vmst.io | 1 |
