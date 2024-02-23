@@ -1,5 +1,5 @@
 # Top Users for February 2024
-Last Updated: 02/23/2024 12:14:11 UTC
+Last Updated: 02/23/2024 13:13:21 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [SAPIENTech](https://techhub.social/@SAPIENTech) | SAPIENTech | techhub.social | 12 |
@@ -13,13 +13,13 @@ Last Updated: 02/23/2024 12:14:11 UTC
 | [altf4formation](https://mastodon.social/@altf4formation) | AltF4-Formation | mastodon.social | 2 |
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 2 |
 | [expertenkommision_cyberunfall](https://mastodon.social/@expertenkommision_cyberunfall) | Expertenkommision Cyberunfall | mastodon.social | 2 |
+| [Shawn_Brink](https://techhub.social/@Shawn_Brink) | Shawn Brink | techhub.social | 2 |
 | [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 2 |
 | [zirias](https://techhub.social/@zirias) | Felix Palmen 📯 | techhub.social | 2 |
 | [JamesDBartlett3](https://techhub.social/@JamesDBartlett3) | James Bartlett :terminal: | techhub.social | 1 |
 | [poshlandPRO](https://techhub.social/@poshlandPRO) | Damian Garbus | techhub.social | 1 |
 | [azuretracks](https://techhub.social/@azuretracks) | AzureTracks | techhub.social | 1 |
 | [psugh](https://norden.social/@psugh) | PowerShell Usergroup Hannover | norden.social | 1 |
-| [Shawn_Brink](https://techhub.social/@Shawn_Brink) | Shawn Brink | techhub.social | 1 |
 | [kohelet](https://mstdn.social/@kohelet) | Collei :verified: | mstdn.social | 1 |
 | [TonyRedmond](https://techhub.social/@TonyRedmond) | Tony Redmond | techhub.social | 1 |
 | [fabiscafe](https://mstdn.social/@fabiscafe) | Fabian :antifa: 🏳️‍🌈 | mstdn.social | 1 |
