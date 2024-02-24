@@ -1,13 +1,13 @@
 # Top Users for February 2024
-Last Updated: 02/24/2024 01:28:16 UTC
+Last Updated: 02/24/2024 02:13:45 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [SAPIENTech](https://techhub.social/@SAPIENTech) | SAPIENTech | techhub.social | 12 |
 | [skatterbrainz](https://techhub.social/@skatterbrainz) | Sk@tterBr@iNz | techhub.social | 8 |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 5 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 5 |
+| [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 5 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 4 |
-| [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 4 |
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 3 |
 | [USBTypeSTeve](https://infosec.exchange/@USBTypeSTeve) | USB Type-Steve :verified: | infosec.exchange | 3 |
 | [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 3 |
