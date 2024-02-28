@@ -1,5 +1,5 @@
 # Top Users for February 2024
-Last Updated: 02/27/2024 23:12:40 UTC
+Last Updated: 02/28/2024 00:23:52 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [SAPIENTech](https://techhub.social/@SAPIENTech) | SAPIENTech | techhub.social | 12 |
