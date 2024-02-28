@@ -1,5 +1,5 @@
 # Top Users for February 2024
-Last Updated: 02/28/2024 11:13:00 UTC
+Last Updated: 02/28/2024 12:14:18 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [SAPIENTech](https://techhub.social/@SAPIENTech) | SAPIENTech | techhub.social | 12 |
@@ -8,17 +8,17 @@ Last Updated: 02/28/2024 11:13:00 UTC
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 6 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 5 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 5 |
+| [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 3 |
 | [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 3 |
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 3 |
 | [USBTypeSTeve](https://infosec.exchange/@USBTypeSTeve) | USB Type-Steve :verified: | infosec.exchange | 3 |
-| [altf4formation](https://mastodon.social/@altf4formation) | AltF4-Formation | mastodon.social | 2 |
 | [expertenkommision_cyberunfall](https://mastodon.social/@expertenkommision_cyberunfall) | Expertenkommision Cyberunfall | mastodon.social | 2 |
 | [deadlydog](https://hachyderm.io/@deadlydog) | Dan Schroeder | hachyderm.io | 2 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 2 |
 | [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 2 |
 | [zirias](https://techhub.social/@zirias) | Felix Palmen 📯 | techhub.social | 2 |
 | [Shawn_Brink](https://techhub.social/@Shawn_Brink) | Shawn Brink | techhub.social | 2 |
-| [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 2 |
+| [altf4formation](https://mastodon.social/@altf4formation) | AltF4-Formation | mastodon.social | 2 |
 | [nicferr](https://mastodon.uno/@nicferr) | Nicola Ferrini | mastodon.uno | 1 |
 | [techygeekshome](https://mastodon.social/@techygeekshome) | A.J. Armstrong | mastodon.social | 1 |
 | [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 1 |
