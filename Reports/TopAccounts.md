@@ -1,8 +1,9 @@
 # Top Users for March 2024
-Last Updated: 03/02/2024 19:12:15 UTC
+Last Updated: 03/02/2024 20:13:06 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 3 |
+| [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 1 |
 | [sourcenouveau](https://fosstodon.org/@sourcenouveau) | M. Dudley | fosstodon.org | 1 |
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 1 |
 | [joshooaj](https://mastodon.social/@joshooaj) | Josh Hendricks | mastodon.social | 1 |
