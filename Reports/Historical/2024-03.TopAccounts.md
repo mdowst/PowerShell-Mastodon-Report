@@ -1,5 +1,5 @@
 # Top Users for March 2024
-Last Updated: 03/03/2024 19:12:21 UTC
+Last Updated: 03/03/2024 20:13:23 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 3 |
