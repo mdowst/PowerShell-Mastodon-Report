@@ -1,5 +1,5 @@
 # Top Users for March 2024
-Last Updated: 03/06/2024 21:12:45 UTC
+Last Updated: 03/06/2024 22:13:15 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 5 |
@@ -11,6 +11,7 @@ Last Updated: 03/06/2024 21:12:45 UTC
 | [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 1 |
 | [sourcenouveau](https://fosstodon.org/@sourcenouveau) | M. Dudley | fosstodon.org | 1 |
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 1 |
+| [cs](https://mastodon.sdf.org/@cs) | cseiler | mastodon.sdf.org | 1 |
 | [altf4formation](https://mastodon.social/@altf4formation) | AltF4-Formation | mastodon.social | 1 |
 | [geekland](https://mastodon.social/@geekland) | Geekland | mastodon.social | 1 |
 | [joshooaj](https://mastodon.social/@joshooaj) | Josh Hendricks | mastodon.social | 1 |
