@@ -1,5 +1,5 @@
 # Top Users for March 2024
-Last Updated: 03/09/2024 19:12:01 UTC
+Last Updated: 03/09/2024 20:12:43 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 8 |
@@ -18,6 +18,7 @@ Last Updated: 03/09/2024 19:12:01 UTC
 | [geekland](https://mastodon.social/@geekland) | Geekland | mastodon.social | 1 |
 | [cs](https://mastodon.sdf.org/@cs) | cseiler | mastodon.sdf.org | 1 |
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 1 |
+| [r1cksec](https://infosec.exchange/@r1cksec) | r1cksec | infosec.exchange | 1 |
 | [taijidude](https://hachyderm.io/@taijidude) | taijidude | hachyderm.io | 1 |
 | [sourcenouveau](https://fosstodon.org/@sourcenouveau) | M. Dudley | fosstodon.org | 1 |
 | [joshooaj](https://mastodon.social/@joshooaj) | Josh Hendricks | mastodon.social | 1 |
