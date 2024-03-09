@@ -1,8 +1,8 @@
 # Top Users for March 2024
-Last Updated: 03/09/2024 00:25:38 UTC
+Last Updated: 03/09/2024 01:28:07 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
-| [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 7 |
+| [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 8 |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 6 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 3 |
 | [SAPIENTech](https://techhub.social/@SAPIENTech) | SAPIENTech | techhub.social | 3 |
