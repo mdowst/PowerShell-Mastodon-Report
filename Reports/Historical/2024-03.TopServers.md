@@ -1,5 +1,5 @@
 # Top Servers for March 2024
-Last Updated: 03/11/2024 14:12:48 UTC
+Last Updated: 03/11/2024 15:13:10 UTC
 | Server | Posts | Active Users |
 | -- | -- | -- |
 | [fosstodon.org](https://fosstodon.org/tags/PowerShell) | 17 | 5 |
