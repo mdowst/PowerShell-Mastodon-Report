@@ -1,5 +1,5 @@
 # Top Users for March 2024
-Last Updated: 03/15/2024 13:13:18 UTC
+Last Updated: 03/15/2024 14:12:58 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 9 |
@@ -14,13 +14,13 @@ Last Updated: 03/15/2024 13:13:18 UTC
 | [joergi](https://chaos.social/@joergi) | Jörgi | chaos.social | 2 |
 | [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 2 |
 | [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 2 |
+| [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 2 |
 | [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 1 |
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 1 |
 | [gregglsc](https://techhub.social/@gregglsc) | Gregg Lott | techhub.social | 1 |
 | [RedPacketSecurity](https://mastodon.social/@RedPacketSecurity) | RedPacket Security | mastodon.social | 1 |
 | [marczin](https://mastodon.social/@marczin) | Daniel Marczin | mastodon.social | 1 |
 | [ollimenzel](https://techhub.social/@ollimenzel) | Oliver Menzel | techhub.social | 1 |
-| [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 1 |
 | [koenig123](https://mastodon.social/@koenig123) |  | mastodon.social | 1 |
 | [cs](https://mastodon.sdf.org/@cs) | cseiler | mastodon.sdf.org | 1 |
 | [geekland](https://mastodon.social/@geekland) | Geekland | mastodon.social | 1 |
