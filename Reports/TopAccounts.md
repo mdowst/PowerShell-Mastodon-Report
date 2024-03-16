@@ -1,12 +1,12 @@
 # Top Users for March 2024
-Last Updated: 03/16/2024 12:14:11 UTC
+Last Updated: 03/16/2024 13:13:17 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 10 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 9 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 7 |
 | [SAPIENTech](https://techhub.social/@SAPIENTech) | SAPIENTech | techhub.social | 5 |
-| [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 3 |
+| [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 4 |
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 3 |
 | [EdTittel](https://techhub.social/@EdTittel) | Ed Tittel | techhub.social | 3 |
 | [altf4formation](https://mastodon.social/@altf4formation) | AltF4-Formation | mastodon.social | 2 |
