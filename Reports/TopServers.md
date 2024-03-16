@@ -1,10 +1,10 @@
 # Top Servers for March 2024
-Last Updated: 03/16/2024 14:12:36 UTC
+Last Updated: 03/16/2024 15:12:36 UTC
 | Server | Posts | Active Users |
 | -- | -- | -- |
 | [techhub.social](https://techhub.social/tags/PowerShell) | 25 | 7 |
 | [fosstodon.org](https://fosstodon.org/tags/PowerShell) | 23 | 6 |
-| [mastodon.social](https://mastodon.social/tags/PowerShell) | 11 | 8 |
+| [mastodon.social](https://mastodon.social/tags/PowerShell) | 12 | 9 |
 | [infosec.exchange](https://infosec.exchange/tags/PowerShell) | 4 | 2 |
 | [chaos.social](https://chaos.social/tags/PowerShell) | 3 | 2 |
 | [hachyderm.io](https://hachyderm.io/tags/PowerShell) | 3 | 3 |
