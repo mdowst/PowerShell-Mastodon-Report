@@ -1,5 +1,5 @@
 # Top Users for March 2024
-Last Updated: 03/17/2024 21:12:57 UTC
+Last Updated: 03/17/2024 22:12:40 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 10 |
@@ -25,15 +25,16 @@ Last Updated: 03/17/2024 21:12:57 UTC
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 1 |
 | [RedPacketSecurity](https://mastodon.social/@RedPacketSecurity) | RedPacket Security | mastodon.social | 1 |
 | [alvinashcraft](https://hachyderm.io/@alvinashcraft) | Alvin Ashcraft 🐿️ | hachyderm.io | 1 |
+| [r1cksec](https://infosec.exchange/@r1cksec) | r1cksec | infosec.exchange | 1 |
 | [marczin](https://mastodon.social/@marczin) | Daniel Marczin | mastodon.social | 1 |
-| [deadlydog](https://hachyderm.io/@deadlydog) | Dan Schroeder | hachyderm.io | 1 |
 | [koenig123](https://mastodon.social/@koenig123) |  | mastodon.social | 1 |
 | [joshooaj](https://mastodon.social/@joshooaj) | Josh Hendricks | mastodon.social | 1 |
 | [geekland](https://mastodon.social/@geekland) | Geekland | mastodon.social | 1 |
 | [DigitalJacobin](https://mastodon.social/@DigitalJacobin) | Logan 🇵🇸💾🌹 | mastodon.social | 1 |
+| [bradwilson](https://mastodon.social/@bradwilson) | Brad Wilson | mastodon.social | 1 |
 | [taijidude](https://hachyderm.io/@taijidude) | taijidude | hachyderm.io | 1 |
 | [cs](https://mastodon.sdf.org/@cs) | cseiler | mastodon.sdf.org | 1 |
 | [bjompen](https://mastodon.nu/@bjompen) | Bjompen | mastodon.nu | 1 |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 1 |
-| [r1cksec](https://infosec.exchange/@r1cksec) | r1cksec | infosec.exchange | 1 |
+| [deadlydog](https://hachyderm.io/@deadlydog) | Dan Schroeder | hachyderm.io | 1 |
 | [TonyRedmond](https://techhub.social/@TonyRedmond) | Tony Redmond | techhub.social | 1 |
