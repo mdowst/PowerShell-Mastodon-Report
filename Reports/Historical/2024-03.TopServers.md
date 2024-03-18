@@ -1,5 +1,5 @@
 # Top Servers for March 2024
-Last Updated: 03/18/2024 22:12:54 UTC
+Last Updated: 03/18/2024 23:13:08 UTC
 | Server | Posts | Active Users |
 | -- | -- | -- |
 | [techhub.social](https://techhub.social/tags/PowerShell) | 27 | 7 |
@@ -14,3 +14,4 @@ Last Updated: 03/18/2024 22:12:54 UTC
 | [mastodon.nu](https://mastodon.nu/tags/PowerShell) | 1 | 1 |
 | [mastodon.sdf.org](https://mastodon.sdf.org/tags/PowerShell) | 1 | 1 |
 | [mastodonapp.uk](https://mastodonapp.uk/tags/PowerShell) | 1 | 1 |
+| [norden.social](https://norden.social/tags/PowerShell) | 1 | 1 |
