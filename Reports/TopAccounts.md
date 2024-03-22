@@ -1,5 +1,5 @@
 # Top Users for March 2024
-Last Updated: 03/22/2024 16:13:35 UTC
+Last Updated: 03/22/2024 17:12:37 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 11 |
@@ -18,7 +18,7 @@ Last Updated: 03/22/2024 16:13:35 UTC
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 2 |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 2 |
 | [joergi](https://chaos.social/@joergi) | Jörgi | chaos.social | 2 |
-| [bjompen](https://mastodon.nu/@bjompen) | Bjompen | mastodon.nu | 1 |
+| [r1cksec](https://infosec.exchange/@r1cksec) | r1cksec | infosec.exchange | 1 |
 | [ollimenzel](https://techhub.social/@ollimenzel) | Oliver Menzel | techhub.social | 1 |
 | [ly2en](https://chaos.social/@ly2en) | Simonas Kareiva LY2EN | chaos.social | 1 |
 | [JamesDBartlett3](https://techhub.social/@JamesDBartlett3) | James Bartlett :terminal: | techhub.social | 1 |
@@ -30,17 +30,18 @@ Last Updated: 03/22/2024 16:13:35 UTC
 | [thomy2000](https://fosstodon.org/@thomy2000) | Thomas Frans 🇺🇦 | fosstodon.org | 1 |
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 1 |
 | [RedPacketSecurity](https://mastodon.social/@RedPacketSecurity) | RedPacket Security | mastodon.social | 1 |
+| [hanscees](https://mas.to/@hanscees) | Hans-Cees | mas.to | 1 |
 | [alvinashcraft](https://hachyderm.io/@alvinashcraft) | Alvin Ashcraft 🐿️ | hachyderm.io | 1 |
-| [marczin](https://mastodon.social/@marczin) | Daniel Marczin | mastodon.social | 1 |
-| [deadlydog](https://hachyderm.io/@deadlydog) | Dan Schroeder | hachyderm.io | 1 |
+| [ChrisHunt](https://hachyderm.io/@ChrisHunt) | Chris Hunt | hachyderm.io | 1 |
 | [koenig123](https://mastodon.social/@koenig123) |  | mastodon.social | 1 |
 | [joshooaj](https://mastodon.social/@joshooaj) | Josh Hendricks | mastodon.social | 1 |
 | [ITeeTechMonkey](https://mastodon.social/@ITeeTechMonkey) |  | mastodon.social | 1 |
 | [geekland](https://mastodon.social/@geekland) | Geekland | mastodon.social | 1 |
 | [DigitalJacobin](https://mastodon.social/@DigitalJacobin) | Logan 🇵🇸💾🌹 | mastodon.social | 1 |
+| [deadlydog](https://hachyderm.io/@deadlydog) | Dan Schroeder | hachyderm.io | 1 |
 | [taijidude](https://hachyderm.io/@taijidude) | taijidude | hachyderm.io | 1 |
-| [r1cksec](https://infosec.exchange/@r1cksec) | r1cksec | infosec.exchange | 1 |
 | [ajarmstrong](https://mastodon.social/@ajarmstrong) | AJ Armstrong | mastodon.social | 1 |
 | [cs](https://mastodon.sdf.org/@cs) | cseiler | mastodon.sdf.org | 1 |
-| [hanscees](https://mas.to/@hanscees) | Hans-Cees | mas.to | 1 |
+| [bjompen](https://mastodon.nu/@bjompen) | Bjompen | mastodon.nu | 1 |
+| [marczin](https://mastodon.social/@marczin) | Daniel Marczin | mastodon.social | 1 |
 | [bradwilson](https://mastodon.social/@bradwilson) | Brad Wilson | mastodon.social | 1 |
