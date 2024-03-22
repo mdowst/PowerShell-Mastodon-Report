@@ -1,5 +1,5 @@
 # Top Users for March 2024
-Last Updated: 03/22/2024 11:12:49 UTC
+Last Updated: 03/22/2024 12:14:21 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 11 |
@@ -10,14 +10,14 @@ Last Updated: 03/22/2024 11:12:49 UTC
 | [altf4formation](https://mastodon.social/@altf4formation) | AltF4-Formation | mastodon.social | 5 |
 | [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 4 |
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 4 |
+| [TonyRedmond](https://techhub.social/@TonyRedmond) | Tony Redmond | techhub.social | 3 |
 | [EdTittel](https://techhub.social/@EdTittel) | Ed Tittel | techhub.social | 3 |
 | [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 3 |
 | [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 3 |
-| [joergi](https://chaos.social/@joergi) | Jörgi | chaos.social | 2 |
 | [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 2 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 2 |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 2 |
-| [TonyRedmond](https://techhub.social/@TonyRedmond) | Tony Redmond | techhub.social | 2 |
+| [joergi](https://chaos.social/@joergi) | Jörgi | chaos.social | 2 |
 | [bjompen](https://mastodon.nu/@bjompen) | Bjompen | mastodon.nu | 1 |
 | [ollimenzel](https://techhub.social/@ollimenzel) | Oliver Menzel | techhub.social | 1 |
 | [ly2en](https://chaos.social/@ly2en) | Simonas Kareiva LY2EN | chaos.social | 1 |
