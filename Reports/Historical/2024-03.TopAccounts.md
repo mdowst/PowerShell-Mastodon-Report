@@ -1,5 +1,5 @@
 # Top Users for March 2024
-Last Updated: 03/22/2024 09:13:38 UTC
+Last Updated: 03/22/2024 10:13:41 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 11 |
@@ -26,6 +26,7 @@ Last Updated: 03/22/2024 09:13:38 UTC
 | [jborean](https://fosstodon.org/@jborean) | Jordan Borean | fosstodon.org | 1 |
 | [sourcenouveau](https://fosstodon.org/@sourcenouveau) | M. Dudley | fosstodon.org | 1 |
 | [maniabel](https://norden.social/@maniabel) | maniabel by Chris | norden.social | 1 |
+| [MPullen1969](https://mstdn.social/@MPullen1969) | MPullen1969 | mstdn.social | 1 |
 | [thomy2000](https://fosstodon.org/@thomy2000) | Thomas Frans 🇺🇦 | fosstodon.org | 1 |
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 1 |
 | [RedPacketSecurity](https://mastodon.social/@RedPacketSecurity) | RedPacket Security | mastodon.social | 1 |
@@ -39,6 +40,7 @@ Last Updated: 03/22/2024 09:13:38 UTC
 | [DigitalJacobin](https://mastodon.social/@DigitalJacobin) | Logan 🇵🇸💾🌹 | mastodon.social | 1 |
 | [taijidude](https://hachyderm.io/@taijidude) | taijidude | hachyderm.io | 1 |
 | [r1cksec](https://infosec.exchange/@r1cksec) | r1cksec | infosec.exchange | 1 |
+| [ajarmstrong](https://mastodon.social/@ajarmstrong) | AJ Armstrong | mastodon.social | 1 |
 | [cs](https://mastodon.sdf.org/@cs) | cseiler | mastodon.sdf.org | 1 |
 | [hanscees](https://mas.to/@hanscees) | Hans-Cees | mas.to | 1 |
 | [bradwilson](https://mastodon.social/@bradwilson) | Brad Wilson | mastodon.social | 1 |
