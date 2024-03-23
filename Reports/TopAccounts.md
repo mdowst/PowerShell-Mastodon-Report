@@ -1,5 +1,5 @@
 # Top Users for March 2024
-Last Updated: 03/23/2024 16:13:05 UTC
+Last Updated: 03/23/2024 17:12:30 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 11 |
@@ -31,8 +31,8 @@ Last Updated: 03/23/2024 16:13:05 UTC
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 1 |
 | [RedPacketSecurity](https://mastodon.social/@RedPacketSecurity) | RedPacket Security | mastodon.social | 1 |
 | [thomy2000](https://fosstodon.org/@thomy2000) | Thomas Frans 🇺🇦 | fosstodon.org | 1 |
+| [marczin](https://mastodon.social/@marczin) | Daniel Marczin | mastodon.social | 1 |
 | [alvinashcraft](https://hachyderm.io/@alvinashcraft) | Alvin Ashcraft 🐿️ | hachyderm.io | 1 |
-| [koenig123](https://mastodon.social/@koenig123) |  | mastodon.social | 1 |
 | [joshooaj](https://mastodon.social/@joshooaj) | Josh Hendricks | mastodon.social | 1 |
 | [geekland](https://mastodon.social/@geekland) | Geekland | mastodon.social | 1 |
 | [DigitalJacobin](https://mastodon.social/@DigitalJacobin) | Logan 🇵🇸💾🌹 | mastodon.social | 1 |
@@ -44,5 +44,6 @@ Last Updated: 03/23/2024 16:13:05 UTC
 | [deadlydog](https://hachyderm.io/@deadlydog) | Dan Schroeder | hachyderm.io | 1 |
 | [hanscees](https://mas.to/@hanscees) | Hans-Cees | mas.to | 1 |
 | [taijidude](https://hachyderm.io/@taijidude) | taijidude | hachyderm.io | 1 |
-| [marczin](https://mastodon.social/@marczin) | Daniel Marczin | mastodon.social | 1 |
 | [r1cksec](https://infosec.exchange/@r1cksec) | r1cksec | infosec.exchange | 1 |
+| [koenig123](https://mastodon.social/@koenig123) |  | mastodon.social | 1 |
+| [malwarelab_eu](https://infosec.exchange/@malwarelab_eu) | MalwareLab | infosec.exchange | 1 |
