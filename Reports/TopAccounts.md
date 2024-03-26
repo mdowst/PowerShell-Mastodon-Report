@@ -1,5 +1,5 @@
 # Top Users for March 2024
-Last Updated: 03/26/2024 06:14:04 UTC
+Last Updated: 03/26/2024 07:12:46 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 13 |
@@ -11,12 +11,12 @@ Last Updated: 03/26/2024 06:14:04 UTC
 | [altf4formation](https://mastodon.social/@altf4formation) | AltF4-Formation | mastodon.social | 5 |
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 4 |
 | [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 4 |
-| [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 3 |
+| [joshooaj](https://mastodon.social/@joshooaj) | Josh Hendricks | mastodon.social | 3 |
 | [TonyRedmond](https://techhub.social/@TonyRedmond) | Tony Redmond | techhub.social | 3 |
+| [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 3 |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 3 |
 | [EdTittel](https://techhub.social/@EdTittel) | Ed Tittel | techhub.social | 3 |
-| [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 3 |
-| [joshooaj](https://mastodon.social/@joshooaj) | Josh Hendricks | mastodon.social | 2 |
+| [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 3 |
 | [ITeeTechMonkey](https://mastodon.social/@ITeeTechMonkey) |  | mastodon.social | 2 |
 | [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 2 |
 | [joergi](https://chaos.social/@joergi) | Jörgi | chaos.social | 2 |
