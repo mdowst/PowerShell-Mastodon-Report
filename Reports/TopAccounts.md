@@ -1,5 +1,5 @@
 # Top Users for April 2024
-Last Updated: 04/04/2024 08:14:06 UTC
+Last Updated: 04/04/2024 09:13:29 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [zirias](https://techhub.social/@zirias) | Felix Palmen 📯 | techhub.social | 3 |
@@ -11,6 +11,7 @@ Last Updated: 04/04/2024 08:14:06 UTC
 | [altf4formation](https://mastodon.social/@altf4formation) | AltF4-Formation | mastodon.social | 1 |
 | [DiegoCrespo](https://mastodon.social/@DiegoCrespo) | Diego 🌲 | mastodon.social | 1 |
 | [ITeeTechMonkey](https://mastodon.social/@ITeeTechMonkey) |  | mastodon.social | 1 |
+| [rmbolger](https://mastodon.social/@rmbolger) | Ryan Bolger | mastodon.social | 1 |
 | [secana](https://mastodon.social/@secana) | secana | mastodon.social | 1 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 1 |
 | [sstranger](https://techhub.social/@sstranger) | Stefan Stranger | techhub.social | 1 |
