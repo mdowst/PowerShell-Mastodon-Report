@@ -1,9 +1,9 @@
 # Top Users for April 2024
-Last Updated: 04/04/2024 11:12:57 UTC
+Last Updated: 04/04/2024 12:14:33 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
+| [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 3 |
 | [zirias](https://techhub.social/@zirias) | Felix Palmen 📯 | techhub.social | 3 |
-| [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 2 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 1 |
 | [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 1 |
 | [seve_py](https://fosstodon.org/@seve_py) | Seve_py :vim: :python: | fosstodon.org | 1 |
