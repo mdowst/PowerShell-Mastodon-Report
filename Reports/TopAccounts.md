@@ -1,8 +1,8 @@
 # Top Users for April 2024
-Last Updated: 04/05/2024 09:13:13 UTC
+Last Updated: 04/05/2024 10:13:35 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
-| [zirias](https://techhub.social/@zirias) | Felix Palmen 📯 | techhub.social | 5 |
+| [zirias](https://techhub.social/@zirias) | Felix Palmen 📯 | techhub.social | 6 |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 5 |
 | [sstranger](https://techhub.social/@sstranger) | Stefan Stranger | techhub.social | 1 |
 | [SAPIENTech](https://techhub.social/@SAPIENTech) | SAPIENTech :verified: | techhub.social | 1 |
