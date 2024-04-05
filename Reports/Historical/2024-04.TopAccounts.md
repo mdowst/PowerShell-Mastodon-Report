@@ -1,12 +1,12 @@
 # Top Users for April 2024
-Last Updated: 04/05/2024 10:13:35 UTC
+Last Updated: 04/05/2024 11:12:52 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [zirias](https://techhub.social/@zirias) | Felix Palmen 📯 | techhub.social | 6 |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 5 |
+| [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 2 |
 | [sstranger](https://techhub.social/@sstranger) | Stefan Stranger | techhub.social | 1 |
 | [SAPIENTech](https://techhub.social/@SAPIENTech) | SAPIENTech :verified: | techhub.social | 1 |
-| [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 1 |
 | [secana](https://mastodon.social/@secana) | secana | mastodon.social | 1 |
 | [rmbolger](https://mastodon.social/@rmbolger) | Ryan Bolger | mastodon.social | 1 |
 | [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 1 |
