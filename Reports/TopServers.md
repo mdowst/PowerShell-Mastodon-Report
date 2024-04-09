@@ -1,8 +1,8 @@
 # Top Servers for April 2024
-Last Updated: 04/09/2024 16:13:45 UTC
+Last Updated: 04/09/2024 17:12:53 UTC
 | Server | Posts | Active Users |
 | -- | -- | -- |
-| [techhub.social](https://techhub.social/tags/PowerShell) | 24 | 6 |
+| [techhub.social](https://techhub.social/tags/PowerShell) | 25 | 6 |
 | [mastodon.social](https://mastodon.social/tags/PowerShell) | 8 | 8 |
 | [fosstodon.org](https://fosstodon.org/tags/PowerShell) | 6 | 5 |
 | [hachyderm.io](https://hachyderm.io/tags/PowerShell) | 1 | 1 |
