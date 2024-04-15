@@ -1,5 +1,5 @@
 # Top Users for April 2024
-Last Updated: 04/15/2024 19:12:38 UTC
+Last Updated: 04/15/2024 20:13:20 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 12 |
@@ -7,6 +7,7 @@ Last Updated: 04/15/2024 19:12:38 UTC
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 3 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 3 |
 | [ITeeTechMonkey](https://mastodon.social/@ITeeTechMonkey) |  | mastodon.social | 2 |
+| [deadlydog](https://hachyderm.io/@deadlydog) | Dan Schroeder | hachyderm.io | 2 |
 | [SAPIENTech](https://techhub.social/@SAPIENTech) | SAPIENTech :verified: | techhub.social | 2 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 2 |
 | [sstranger](https://techhub.social/@sstranger) | Stefan Stranger | techhub.social | 1 |
@@ -30,7 +31,6 @@ Last Updated: 04/15/2024 19:12:38 UTC
 | [H3liumb0y](https://infosec.exchange/@H3liumb0y) | 🛡 H3lium@infosec.exchange/:~# :blinking_cursor:​ | infosec.exchange | 1 |
 | [davidbombal](https://infosec.exchange/@davidbombal) | David Bombal | infosec.exchange | 1 |
 | [willow_datawitch](https://hachyderm.io/@willow_datawitch) | Willow, Data Witch | hachyderm.io | 1 |
-| [deadlydog](https://hachyderm.io/@deadlydog) | Dan Schroeder | hachyderm.io | 1 |
 | [sourcenouveau](https://fosstodon.org/@sourcenouveau) | M. Dudley | fosstodon.org | 1 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 1 |
 | [ciphertxt](https://mastodon.social/@ciphertxt) | ☞ S:\cott Hoag | mastodon.social | 1 |
