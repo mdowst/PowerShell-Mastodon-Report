@@ -1,5 +1,5 @@
 # Top Users for April 2024
-Last Updated: 04/17/2024 09:13:26 UTC
+Last Updated: 04/17/2024 10:13:52 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 15 |
@@ -8,6 +8,7 @@ Last Updated: 04/17/2024 09:13:26 UTC
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 4 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 3 |
 | [deadlydog](https://hachyderm.io/@deadlydog) | Dan Schroeder | hachyderm.io | 2 |
+| [TonyRedmond](https://techhub.social/@TonyRedmond) | Tony Redmond | techhub.social | 2 |
 | [ITeeTechMonkey](https://mastodon.social/@ITeeTechMonkey) |  | mastodon.social | 2 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 2 |
 | [sourcenouveau](https://fosstodon.org/@sourcenouveau) | M. Dudley | fosstodon.org | 1 |
@@ -23,7 +24,6 @@ Last Updated: 04/17/2024 09:13:26 UTC
 | [rmbolger](https://mastodon.social/@rmbolger) | Ryan Bolger | mastodon.social | 1 |
 | [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 1 |
 | [DiegoCrespo](https://mastodon.social/@DiegoCrespo) | Diego 🌲 | mastodon.social | 1 |
-| [TonyRedmond](https://techhub.social/@TonyRedmond) | Tony Redmond | techhub.social | 1 |
 | [bengillam](https://mastodon.social/@bengillam) | Ben Gillam :bongoCat: | mastodon.social | 1 |
 | [altf4formation](https://mastodon.social/@altf4formation) | AltF4-Formation | mastodon.social | 1 |
 | [bjompen](https://mastodon.nu/@bjompen) | Bjompen | mastodon.nu | 1 |
