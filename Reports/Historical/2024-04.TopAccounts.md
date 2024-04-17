@@ -1,5 +1,5 @@
 # Top Users for April 2024
-Last Updated: 04/17/2024 14:13:12 UTC
+Last Updated: 04/17/2024 15:13:31 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 16 |
@@ -7,22 +7,18 @@ Last Updated: 04/17/2024 14:13:12 UTC
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 5 |
 | [SAPIENTech](https://techhub.social/@SAPIENTech) | SAPIENTech :verified: | techhub.social | 4 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 3 |
-| [deadlydog](https://hachyderm.io/@deadlydog) | Dan Schroeder | hachyderm.io | 2 |
-| [TonyRedmond](https://techhub.social/@TonyRedmond) | Tony Redmond | techhub.social | 2 |
 | [ITeeTechMonkey](https://mastodon.social/@ITeeTechMonkey) |  | mastodon.social | 2 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 2 |
-| [sourcenouveau](https://fosstodon.org/@sourcenouveau) | M. Dudley | fosstodon.org | 1 |
-| [sstranger](https://techhub.social/@sstranger) | Stefan Stranger | techhub.social | 1 |
-| [Shawn_Brink](https://techhub.social/@Shawn_Brink) | Shawn Brink | techhub.social | 1 |
-| [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 1 |
-| [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 1 |
-| [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 1 |
-| [kohelet](https://mstdn.social/@kohelet) | Collei :verified: | mstdn.social | 1 |
+| [TonyRedmond](https://techhub.social/@TonyRedmond) | Tony Redmond | techhub.social | 2 |
+| [deadlydog](https://hachyderm.io/@deadlydog) | Dan Schroeder | hachyderm.io | 2 |
 | [selectallfromdual](https://mastodon.uno/@selectallfromdual) | Dummy-X 🇮🇹 | mastodon.uno | 1 |
 | [SouthFresh](https://mastodon.social/@SouthFresh) | SouthFresh | mastodon.social | 1 |
 | [secana](https://mastodon.social/@secana) | secana | mastodon.social | 1 |
 | [rmbolger](https://mastodon.social/@rmbolger) | Ryan Bolger | mastodon.social | 1 |
+| [Shawn_Brink](https://techhub.social/@Shawn_Brink) | Shawn Brink | techhub.social | 1 |
 | [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 1 |
+| [sstranger](https://techhub.social/@sstranger) | Stefan Stranger | techhub.social | 1 |
+| [kohelet](https://mstdn.social/@kohelet) | Collei :verified: | mstdn.social | 1 |
 | [DiegoCrespo](https://mastodon.social/@DiegoCrespo) | Diego 🌲 | mastodon.social | 1 |
 | [bengillam](https://mastodon.social/@bengillam) | Ben Gillam :bongoCat: | mastodon.social | 1 |
 | [altf4formation](https://mastodon.social/@altf4formation) | AltF4-Formation | mastodon.social | 1 |
@@ -32,5 +28,11 @@ Last Updated: 04/17/2024 14:13:12 UTC
 | [H3liumb0y](https://infosec.exchange/@H3liumb0y) | 🛡 H3lium@infosec.exchange/:~# :blinking_cursor:​ | infosec.exchange | 1 |
 | [davidbombal](https://infosec.exchange/@davidbombal) | David Bombal | infosec.exchange | 1 |
 | [willow_datawitch](https://hachyderm.io/@willow_datawitch) | Willow, Data Witch | hachyderm.io | 1 |
+| [WetHat](https://fosstodon.org/@WetHat) | WetHat💦 | fosstodon.org | 1 |
+| [sourcenouveau](https://fosstodon.org/@sourcenouveau) | M. Dudley | fosstodon.org | 1 |
 | [seve_py](https://fosstodon.org/@seve_py) | Seve_py :vim: :python: | fosstodon.org | 1 |
+| [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 1 |
+| [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 1 |
+| [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 1 |
 | [ciphertxt](https://mastodon.social/@ciphertxt) | ☞ S:\cott Hoag | mastodon.social | 1 |
+| [mbourgon](https://dataplatform.social/@mbourgon) | mbourgon | dataplatform.social | 1 |
