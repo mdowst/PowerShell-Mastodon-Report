@@ -1,11 +1,11 @@
 # Top Users for April 2024
-Last Updated: 04/20/2024 00:25:10 UTC
+Last Updated: 04/20/2024 01:31:45 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 16 |
 | [zirias](https://techhub.social/@zirias) | Felix Palmen 📯 | techhub.social | 8 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 6 |
-| [SAPIENTech](https://techhub.social/@SAPIENTech) | SAPIENTech :verified: | techhub.social | 4 |
+| [SAPIENTech](https://techhub.social/@SAPIENTech) | SAPIENTech :verified: | techhub.social | 5 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 3 |
 | [ITeeTechMonkey](https://mastodon.social/@ITeeTechMonkey) |  | mastodon.social | 3 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 3 |
