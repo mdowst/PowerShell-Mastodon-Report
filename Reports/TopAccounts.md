@@ -1,5 +1,5 @@
 # Top Users for April 2024
-Last Updated: 04/21/2024 00:28:20 UTC
+Last Updated: 04/21/2024 01:35:45 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 16 |
@@ -8,10 +8,10 @@ Last Updated: 04/21/2024 00:28:20 UTC
 | [SAPIENTech](https://techhub.social/@SAPIENTech) | SAPIENTech :verified: | techhub.social | 5 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 4 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 3 |
+| [deadlydog](https://hachyderm.io/@deadlydog) | Dan Schroeder | hachyderm.io | 3 |
 | [ITeeTechMonkey](https://mastodon.social/@ITeeTechMonkey) |  | mastodon.social | 3 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 3 |
 | [WetHat](https://fosstodon.org/@WetHat) | WetHat💦 | fosstodon.org | 2 |
-| [deadlydog](https://hachyderm.io/@deadlydog) | Dan Schroeder | hachyderm.io | 2 |
 | [TonyRedmond](https://techhub.social/@TonyRedmond) | Tony Redmond | techhub.social | 2 |
 | [sstranger](https://techhub.social/@sstranger) | Stefan Stranger | techhub.social | 1 |
 | [kohelet](https://mstdn.social/@kohelet) | Collei :verified: | mstdn.social | 1 |
