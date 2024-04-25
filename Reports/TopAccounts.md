@@ -1,16 +1,16 @@
 # Top Users for April 2024
-Last Updated: 04/24/2024 23:13:31 UTC
+Last Updated: 04/25/2024 00:27:27 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 16 |
 | [zirias](https://techhub.social/@zirias) | Felix Palmen 📯 | techhub.social | 8 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 7 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 5 |
+| [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 5 |
 | [SAPIENTech](https://techhub.social/@SAPIENTech) | SAPIENTech :verified: | techhub.social | 5 |
-| [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 4 |
+| [deadlydog](https://hachyderm.io/@deadlydog) | Dan Schroeder | hachyderm.io | 4 |
 | [ITeeTechMonkey](https://mastodon.social/@ITeeTechMonkey) |  | mastodon.social | 4 |
 | [TonyRedmond](https://techhub.social/@TonyRedmond) | Tony Redmond | techhub.social | 3 |
-| [deadlydog](https://hachyderm.io/@deadlydog) | Dan Schroeder | hachyderm.io | 3 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 3 |
 | [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 2 |
 | [joshooaj](https://mastodon.social/@joshooaj) | Josh Hendricks | mastodon.social | 2 |
