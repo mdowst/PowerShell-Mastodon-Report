@@ -1,5 +1,5 @@
 # Top Users for April 2024
-Last Updated: 04/28/2024 08:13:58 UTC
+Last Updated: 04/28/2024 09:13:21 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 18 |
@@ -29,7 +29,7 @@ Last Updated: 04/28/2024 08:13:58 UTC
 | [sstranger](https://techhub.social/@sstranger) | Stefan Stranger | techhub.social | 1 |
 | [SouthFresh](https://mastodon.social/@SouthFresh) | SouthFresh | mastodon.social | 1 |
 | [DiegoCrespo](https://mastodon.social/@DiegoCrespo) | Diego 🌲 | mastodon.social | 1 |
-| [bengillam](https://mastodon.social/@bengillam) | Ben Gillam :bongoCat: | mastodon.social | 1 |
+| [altf4formation](https://mastodon.social/@altf4formation) | AltF4-Formation | mastodon.social | 1 |
 | [ciphertxt](https://mastodon.social/@ciphertxt) | ☞ S:\cott Hoag | mastodon.social | 1 |
 | [jborean](https://fosstodon.org/@jborean) | Jordan Borean | fosstodon.org | 1 |
 | [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 1 |
@@ -39,8 +39,8 @@ Last Updated: 04/28/2024 08:13:58 UTC
 | [willow_datawitch](https://hachyderm.io/@willow_datawitch) | Willow, Data Witch | hachyderm.io | 1 |
 | [davidbombal](https://infosec.exchange/@davidbombal) | David Bombal | infosec.exchange | 1 |
 | [H3liumb0y](https://infosec.exchange/@H3liumb0y) | 🛡 H3lium@infosec.exchange/:~# :blinking_cursor:​ | infosec.exchange | 1 |
-| [cloudDanger](https://mastodon.social/@cloudDanger) | Brad H | mastodon.social | 1 |
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 1 |
+| [simontsui](https://infosec.exchange/@simontsui) | Not Simon | infosec.exchange | 1 |
 | [tedi](https://infosec.exchange/@tedi) | Tedi Heriyanto | infosec.exchange | 1 |
 | [thedxt](https://infosec.exchange/@thedxt) | Daniel Keer | infosec.exchange | 1 |
 | [chemaalonso](https://ioc.exchange/@chemaalonso) | Chema Alonso :verified: | ioc.exchange | 1 |
@@ -48,6 +48,7 @@ Last Updated: 04/28/2024 08:13:58 UTC
 | [brianhayesdev](https://mas.to/@brianhayesdev) | Brian Hayes | mas.to | 1 |
 | [bjompen](https://mastodon.nu/@bjompen) | Bjompen | mastodon.nu | 1 |
 | [tseitr](https://mastodon.sdf.org/@tseitr) | social elephant in the room | mastodon.sdf.org | 1 |
-| [altf4formation](https://mastodon.social/@altf4formation) | AltF4-Formation | mastodon.social | 1 |
-| [simontsui](https://infosec.exchange/@simontsui) | Not Simon | infosec.exchange | 1 |
+| [adityatelange](https://mastodon.social/@adityatelange) | Aditya Telange | mastodon.social | 1 |
+| [bengillam](https://mastodon.social/@bengillam) | Ben Gillam :bongoCat: | mastodon.social | 1 |
+| [cloudDanger](https://mastodon.social/@cloudDanger) | Brad H | mastodon.social | 1 |
 | [mbourgon](https://dataplatform.social/@mbourgon) | mbourgon | dataplatform.social | 1 |
