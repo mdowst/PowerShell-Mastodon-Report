@@ -1,5 +1,5 @@
 # Top Users for May 2024
-Last Updated: 05/02/2024 13:13:24 UTC
+Last Updated: 05/02/2024 14:13:09 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 1 |
