@@ -1,5 +1,5 @@
 # Top Users for May 2024
-Last Updated: 05/07/2024 16:14:03 UTC
+Last Updated: 05/07/2024 17:13:01 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 4 |
@@ -16,4 +16,5 @@ Last Updated: 05/07/2024 16:14:03 UTC
 | [jelloeater](https://mastodon.social/@jelloeater) | Jelloeater | mastodon.social | 1 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 1 |
 | [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 1 |
+| [sstranger](https://techhub.social/@sstranger) | Stefan Stranger | techhub.social | 1 |
 | [TonyRedmond](https://techhub.social/@TonyRedmond) | Tony Redmond | techhub.social | 1 |
