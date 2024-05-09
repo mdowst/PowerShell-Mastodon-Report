@@ -1,5 +1,5 @@
 # Top Users for May 2024
-Last Updated: 05/09/2024 16:15:32 UTC
+Last Updated: 05/09/2024 17:12:48 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 4 |
@@ -15,6 +15,7 @@ Last Updated: 05/09/2024 16:15:32 UTC
 | [mjf_pro](https://hachyderm.io/@mjf_pro) | Michael Fisher | hachyderm.io | 1 |
 | [deadlydog](https://hachyderm.io/@deadlydog) | Dan Schroeder | hachyderm.io | 1 |
 | [ChrisHunt](https://hachyderm.io/@ChrisHunt) | Chris Hunt | hachyderm.io | 1 |
+| [alvinashcraft](https://hachyderm.io/@alvinashcraft) | Alvin Ashcraft 🐿️ | hachyderm.io | 1 |
 | [ucodery](https://fosstodon.org/@ucodery) | μCodery | fosstodon.org | 1 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 1 |
 | [sstranger](https://techhub.social/@sstranger) | Stefan Stranger | techhub.social | 1 |
