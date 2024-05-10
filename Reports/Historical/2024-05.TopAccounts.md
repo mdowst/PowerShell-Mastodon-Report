@@ -1,5 +1,5 @@
 # Top Users for May 2024
-Last Updated: 05/10/2024 19:13:36 UTC
+Last Updated: 05/10/2024 20:13:04 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 4 |
@@ -10,6 +10,7 @@ Last Updated: 05/10/2024 19:13:36 UTC
 | [fluepke](https://chaos.social/@fluepke) | Flüpke | chaos.social | 1 |
 | [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 1 |
 | [jelloeater](https://mastodon.social/@jelloeater) | Jelloeater | mastodon.social | 1 |
+| [furicle](https://mastodon.social/@furicle) | furicle | mastodon.social | 1 |
 | [tezoatlipoca](https://mas.to/@tezoatlipoca) | Third spruce tree on the left | mas.to | 1 |
 | [LeeArchinal](https://ioc.exchange/@LeeArchinal) | Just Another Blue Teamer | ioc.exchange | 1 |
 | [mjf_pro](https://hachyderm.io/@mjf_pro) | Michael Fisher | hachyderm.io | 1 |
