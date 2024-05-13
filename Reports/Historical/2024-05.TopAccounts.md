@@ -1,5 +1,5 @@
 # Top Users for May 2024
-Last Updated: 05/13/2024 17:12:52 UTC
+Last Updated: 05/13/2024 18:13:33 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 4 |
@@ -15,6 +15,7 @@ Last Updated: 05/13/2024 17:12:52 UTC
 | [tezoatlipoca](https://mas.to/@tezoatlipoca) | Third spruce tree on the left | mas.to | 1 |
 | [LeeArchinal](https://ioc.exchange/@LeeArchinal) | Just Another Blue Teamer | ioc.exchange | 1 |
 | [mjf_pro](https://hachyderm.io/@mjf_pro) | Michael Fisher | hachyderm.io | 1 |
+| [mikael](https://hachyderm.io/@mikael) | Mikael Hansson | hachyderm.io | 1 |
 | [deadlydog](https://hachyderm.io/@deadlydog) | Dan Schroeder | hachyderm.io | 1 |
 | [ChrisHunt](https://hachyderm.io/@ChrisHunt) | Chris Hunt | hachyderm.io | 1 |
 | [alvinashcraft](https://hachyderm.io/@alvinashcraft) | Alvin Ashcraft 🐿️ | hachyderm.io | 1 |
