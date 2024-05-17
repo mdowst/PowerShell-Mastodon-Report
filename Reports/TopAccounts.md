@@ -1,5 +1,5 @@
 # Top Users for May 2024
-Last Updated: 05/17/2024 22:13:21 UTC
+Last Updated: 05/17/2024 23:13:30 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 7 |
@@ -8,9 +8,9 @@ Last Updated: 05/17/2024 22:13:21 UTC
 | [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 3 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 3 |
 | [TonyRedmond](https://techhub.social/@TonyRedmond) | Tony Redmond | techhub.social | 2 |
+| [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 2 |
 | [deadlydog](https://hachyderm.io/@deadlydog) | Dan Schroeder | hachyderm.io | 2 |
 | [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 1 |
-| [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 1 |
 | [jelloeater](https://mastodon.social/@jelloeater) | Jelloeater | mastodon.social | 1 |
 | [furicle](https://mastodon.social/@furicle) | furicle | mastodon.social | 1 |
 | [h3techsme](https://mastodon.sdf.org/@h3techsme) | Houston Haynes | mastodon.sdf.org | 1 |
