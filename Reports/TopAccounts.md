@@ -1,5 +1,5 @@
 # Top Users for May 2024
-Last Updated: 05/21/2024 22:12:59 UTC
+Last Updated: 05/21/2024 23:13:38 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 7 |
@@ -7,15 +7,16 @@ Last Updated: 05/21/2024 22:12:59 UTC
 | [SAPIENTech](https://techhub.social/@SAPIENTech) | SAPIENTech :verified: | techhub.social | 5 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 4 |
 | [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 3 |
-| [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 3 |
 | [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 3 |
+| [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 3 |
 | [TonyRedmond](https://techhub.social/@TonyRedmond) | Tony Redmond | techhub.social | 2 |
 | [deadlydog](https://hachyderm.io/@deadlydog) | Dan Schroeder | hachyderm.io | 2 |
-| [gse](https://norden.social/@gse) | Gerriet Selent 😁🐧🍓 #FuckAfD | norden.social | 1 |
-| [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 1 |
-| [oldrwx](https://mastodon.social/@oldrwx) |  | mastodon.social | 1 |
-| [jelloeater](https://mastodon.social/@jelloeater) | Jelloeater | mastodon.social | 1 |
 | [furicle](https://mastodon.social/@furicle) | furicle | mastodon.social | 1 |
+| [jelloeater](https://mastodon.social/@jelloeater) | Jelloeater | mastodon.social | 1 |
+| [oldrwx](https://mastodon.social/@oldrwx) |  | mastodon.social | 1 |
+| [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 1 |
+| [gse](https://norden.social/@gse) | Gerriet Selent 😁🐧🍓 #FuckAfD | norden.social | 1 |
+| [Shawn_Brink](https://techhub.social/@Shawn_Brink) | Shawn Brink | techhub.social | 1 |
 | [aeveltstra](https://mastodon.social/@aeveltstra) | Ænðr E. Feldstraw | mastodon.social | 1 |
 | [h3techsme](https://mastodon.sdf.org/@h3techsme) | Houston Haynes | mastodon.sdf.org | 1 |
 | [janne_mattila](https://mas.to/@janne_mattila) | Janne Mattila | mas.to | 1 |
