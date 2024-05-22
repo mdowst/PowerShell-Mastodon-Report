@@ -1,9 +1,9 @@
 # Top Users for May 2024
-Last Updated: 05/22/2024 11:13:20 UTC
+Last Updated: 05/22/2024 12:14:47 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
-| [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 7 |
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 7 |
+| [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 7 |
 | [SAPIENTech](https://techhub.social/@SAPIENTech) | SAPIENTech :verified: | techhub.social | 5 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 4 |
 | [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 3 |
@@ -32,5 +32,6 @@ Last Updated: 05/22/2024 11:13:20 UTC
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 1 |
 | [mikefrobbins](https://fosstodon.org/@mikefrobbins) | Mike F. Robbins | fosstodon.org | 1 |
 | [j_angliss](https://fosstodon.org/@j_angliss) |  | fosstodon.org | 1 |
+| [promicro](https://dataplatform.social/@promicro) |  | dataplatform.social | 1 |
 | [tezoatlipoca](https://mas.to/@tezoatlipoca) | Third spruce tree on the left | mas.to | 1 |
 | [fluepke](https://chaos.social/@fluepke) | Flüpke | chaos.social | 1 |
