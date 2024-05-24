@@ -1,5 +1,5 @@
 # Top Users for May 2024
-Last Updated: 05/24/2024 20:13:25 UTC
+Last Updated: 05/24/2024 21:12:59 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 8 |
