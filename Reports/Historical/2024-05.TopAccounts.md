@@ -1,5 +1,5 @@
 # Top Users for May 2024
-Last Updated: 05/25/2024 12:14:29 UTC
+Last Updated: 05/25/2024 13:13:13 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 8 |
@@ -12,6 +12,7 @@ Last Updated: 05/25/2024 12:14:29 UTC
 | [deadlydog](https://hachyderm.io/@deadlydog) | Dan Schroeder | hachyderm.io | 3 |
 | [aeveltstra](https://mastodon.social/@aeveltstra) | Ænðr E. Feldstraw | mastodon.social | 2 |
 | [TonyRedmond](https://techhub.social/@TonyRedmond) | Tony Redmond | techhub.social | 2 |
+| [Shawn_Brink](https://techhub.social/@Shawn_Brink) | Shawn Brink | techhub.social | 2 |
 | [LeeArchinal](https://ioc.exchange/@LeeArchinal) | Just Another Blue Teamer | ioc.exchange | 1 |
 | [jelloeater](https://mastodon.social/@jelloeater) | Jelloeater | mastodon.social | 1 |
 | [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 1 |
@@ -20,7 +21,6 @@ Last Updated: 05/25/2024 12:14:29 UTC
 | [h3techsme](https://mastodon.sdf.org/@h3techsme) | Houston Haynes | mastodon.sdf.org | 1 |
 | [tezoatlipoca](https://mas.to/@tezoatlipoca) | Third spruce tree on the left | mas.to | 1 |
 | [janne_mattila](https://mas.to/@janne_mattila) | Janne Mattila | mas.to | 1 |
-| [Shawn_Brink](https://techhub.social/@Shawn_Brink) | Shawn Brink | techhub.social | 1 |
 | [oldrwx](https://mastodon.social/@oldrwx) |  | mastodon.social | 1 |
 | [83r71n](https://ioc.exchange/@83r71n) | 83r71n | ioc.exchange | 1 |
 | [Schwitzd](https://infosec.exchange/@Schwitzd) | Daniel ツ | infosec.exchange | 1 |
