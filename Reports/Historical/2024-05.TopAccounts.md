@@ -1,5 +1,5 @@
 # Top Users for May 2024
-Last Updated: 05/27/2024 15:13:41 UTC
+Last Updated: 05/27/2024 16:13:50 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 8 |
@@ -9,8 +9,8 @@ Last Updated: 05/27/2024 15:13:41 UTC
 | [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 4 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 4 |
 | [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 3 |
+| [aeveltstra](https://mastodon.social/@aeveltstra) | Ænðr E. Feldstraw | mastodon.social | 3 |
 | [deadlydog](https://hachyderm.io/@deadlydog) | Dan Schroeder | hachyderm.io | 3 |
-| [aeveltstra](https://mastodon.social/@aeveltstra) | Ænðr E. Feldstraw | mastodon.social | 2 |
 | [TonyRedmond](https://techhub.social/@TonyRedmond) | Tony Redmond | techhub.social | 2 |
 | [Shawn_Brink](https://techhub.social/@Shawn_Brink) | Shawn Brink | techhub.social | 2 |
 | [janne_mattila](https://mas.to/@janne_mattila) | Janne Mattila | mas.to | 1 |
