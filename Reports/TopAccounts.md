@@ -1,12 +1,12 @@
 # Top Users for May 2024
-Last Updated: 05/29/2024 18:13:47 UTC
+Last Updated: 05/29/2024 19:12:40 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 9 |
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 8 |
 | [SAPIENTech](https://techhub.social/@SAPIENTech) | SAPIENTech :verified: | techhub.social | 7 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 6 |
-| [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 5 |
+| [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 6 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 4 |
 | [deadlydog](https://hachyderm.io/@deadlydog) | Dan Schroeder | hachyderm.io | 4 |
 | [TonyRedmond](https://techhub.social/@TonyRedmond) | Tony Redmond | techhub.social | 3 |
