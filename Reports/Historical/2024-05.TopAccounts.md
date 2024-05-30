@@ -1,5 +1,5 @@
 # Top Users for May 2024
-Last Updated: 05/30/2024 14:13:23 UTC
+Last Updated: 05/30/2024 15:13:29 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 10 |
@@ -12,6 +12,7 @@ Last Updated: 05/30/2024 14:13:23 UTC
 | [aeveltstra](https://mastodon.social/@aeveltstra) | Ænðr E. Feldstraw | mastodon.social | 3 |
 | [TonyRedmond](https://techhub.social/@TonyRedmond) | Tony Redmond | techhub.social | 3 |
 | [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 3 |
+| [furicle](https://mastodon.social/@furicle) | furicle | mastodon.social | 2 |
 | [Shawn_Brink](https://techhub.social/@Shawn_Brink) | Shawn Brink | techhub.social | 2 |
 | [oldrwx](https://mastodon.social/@oldrwx) |  | mastodon.social | 1 |
 | [Meghal](https://mastodon.social/@Meghal) | Meghal Packt | mastodon.social | 1 |
@@ -20,7 +21,6 @@ Last Updated: 05/30/2024 14:13:23 UTC
 | [gse](https://norden.social/@gse) | Gerriet Selent 😁🐧🍓 #FuckAfD | norden.social | 1 |
 | [jelloeater](https://mastodon.social/@jelloeater) | Jelloeater | mastodon.social | 1 |
 | [jbzfn](https://mastodon.social/@jbzfn) | jbz | mastodon.social | 1 |
-| [furicle](https://mastodon.social/@furicle) | furicle | mastodon.social | 1 |
 | [h3techsme](https://mastodon.sdf.org/@h3techsme) | Houston Haynes | mastodon.sdf.org | 1 |
 | [tezoatlipoca](https://mas.to/@tezoatlipoca) | Third spruce tree on the left | mas.to | 1 |
 | [rss_ukr_news](https://mastodon.social/@rss_ukr_news) | Новини Українською | mastodon.social | 1 |
