@@ -1,5 +1,5 @@
 # Top Users for May 2024
-Last Updated: 05/31/2024 10:13:23 UTC
+Last Updated: 05/31/2024 11:12:45 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 11 |
@@ -12,10 +12,10 @@ Last Updated: 05/31/2024 10:13:23 UTC
 | [aeveltstra](https://mastodon.social/@aeveltstra) | Ænðr E. Feldstraw | mastodon.social | 3 |
 | [TonyRedmond](https://techhub.social/@TonyRedmond) | Tony Redmond | techhub.social | 3 |
 | [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 3 |
+| [Meghal](https://mastodon.social/@Meghal) | Meghal Packt | mastodon.social | 2 |
 | [furicle](https://mastodon.social/@furicle) | furicle | mastodon.social | 2 |
 | [Shawn_Brink](https://techhub.social/@Shawn_Brink) | Shawn Brink | techhub.social | 2 |
 | [oldrwx](https://mastodon.social/@oldrwx) |  | mastodon.social | 1 |
-| [Meghal](https://mastodon.social/@Meghal) | Meghal Packt | mastodon.social | 1 |
 | [janne_mattila](https://mas.to/@janne_mattila) | Janne Mattila | mas.to | 1 |
 | [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 1 |
 | [gse](https://norden.social/@gse) | Gerriet Selent 😁🐧🍓 #FuckAfD | norden.social | 1 |
