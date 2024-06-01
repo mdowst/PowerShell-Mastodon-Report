@@ -1,4 +1,4 @@
 # Top Servers for June 2024
-Last Updated: 06/01/2024 00:29:10 UTC
+Last Updated: 06/01/2024 01:38:53 UTC
 | Server | Posts | Active Users |
 | -- | -- | -- |
