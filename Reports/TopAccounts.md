@@ -1,5 +1,5 @@
 # Top Users for June 2024
-Last Updated: 06/07/2024 16:14:04 UTC
+Last Updated: 06/07/2024 17:13:12 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 3 |
@@ -7,6 +7,7 @@ Last Updated: 06/07/2024 16:14:04 UTC
 | [JdeBP](https://mastodonapp.uk/@JdeBP) | JdeBP | mastodonapp.uk | 2 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 1 |
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 1 |
+| [Walker](https://infosec.exchange/@Walker) | Walker | infosec.exchange | 1 |
 | [bengillam](https://mastodon.social/@bengillam) | Ben Gillam :bongoCat: | mastodon.social | 1 |
 | [macadminsconf](https://mastodon.social/@macadminsconf) | MacAdmins Conference | mastodon.social | 1 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 1 |
