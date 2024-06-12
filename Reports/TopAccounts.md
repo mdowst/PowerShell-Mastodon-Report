@@ -1,5 +1,5 @@
 # Top Users for June 2024
-Last Updated: 06/12/2024 07:13:40 UTC
+Last Updated: 06/12/2024 08:14:21 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 4 |
@@ -16,4 +16,5 @@ Last Updated: 06/12/2024 07:13:40 UTC
 | [Walker](https://infosec.exchange/@Walker) | Walker | infosec.exchange | 1 |
 | [bengillam](https://mastodon.social/@bengillam) | Ben Gillam :bongoCat: | mastodon.social | 1 |
 | [macadminsconf](https://mastodon.social/@macadminsconf) | MacAdmins Conference | mastodon.social | 1 |
+| [Meghal](https://mastodon.social/@Meghal) | Meghal Packt | mastodon.social | 1 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 1 |
