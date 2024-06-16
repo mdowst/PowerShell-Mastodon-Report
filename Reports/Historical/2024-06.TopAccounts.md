@@ -1,5 +1,5 @@
 # Top Users for June 2024
-Last Updated: 06/16/2024 01:40:57 UTC
+Last Updated: 06/16/2024 02:26:34 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 5 |
@@ -16,6 +16,7 @@ Last Updated: 06/16/2024 01:40:57 UTC
 | [Walker](https://infosec.exchange/@Walker) | Walker | infosec.exchange | 1 |
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 1 |
 | [macleod](https://infosec.exchange/@macleod) | Macleod Sawyer | infosec.exchange | 1 |
+| [franklesniak](https://infosec.exchange/@franklesniak) | Frank Lesniak | infosec.exchange | 1 |
 | [overanalytcl](https://hachyderm.io/@overanalytcl) | FreeAndNil(Pascal); | hachyderm.io | 1 |
 | [deadlydog](https://hachyderm.io/@deadlydog) | Dan Schroeder | hachyderm.io | 1 |
 | [mikefrobbins](https://fosstodon.org/@mikefrobbins) | Mike F. Robbins | fosstodon.org | 1 |
