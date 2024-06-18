@@ -1,5 +1,5 @@
 # Top Users for June 2024
-Last Updated: 06/18/2024 03:13:52 UTC
+Last Updated: 06/18/2024 04:14:05 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 5 |
@@ -9,13 +9,13 @@ Last Updated: 06/18/2024 03:13:52 UTC
 | [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 2 |
 | [JdeBP](https://mastodonapp.uk/@JdeBP) | JdeBP | mastodonapp.uk | 2 |
 | [Meghal](https://mastodon.social/@Meghal) | Meghal Packt | mastodon.social | 2 |
+| [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 2 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 1 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 1 |
 | [macadminsconf](https://mastodon.social/@macadminsconf) | MacAdmins Conference | mastodon.social | 1 |
 | [HerrRossihsGsg](https://mastodon.social/@HerrRossihsGsg) |  | mastodon.social | 1 |
 | [dacbarbos](https://mastodon.social/@dacbarbos) | DACBARBOS Brand | mastodon.social | 1 |
 | [Walker](https://infosec.exchange/@Walker) | Walker | infosec.exchange | 1 |
-| [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 1 |
 | [macleod](https://infosec.exchange/@macleod) | Macleod Sawyer | infosec.exchange | 1 |
 | [franklesniak](https://infosec.exchange/@franklesniak) | Frank Lesniak | infosec.exchange | 1 |
 | [overanalytcl](https://hachyderm.io/@overanalytcl) | FreeAndNil(Pascal); | hachyderm.io | 1 |
