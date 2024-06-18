@@ -1,9 +1,9 @@
 # Top Users for June 2024
-Last Updated: 06/18/2024 12:14:52 UTC
+Last Updated: 06/18/2024 13:14:14 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 6 |
-| [SAPIENTech](https://techhub.social/@SAPIENTech) | SAPIENTech :verified: | techhub.social | 4 |
+| [SAPIENTech](https://techhub.social/@SAPIENTech) | SAPIENTech :verified: | techhub.social | 5 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 3 |
 | [TonyRedmond](https://techhub.social/@TonyRedmond) | Tony Redmond | techhub.social | 2 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 2 |
