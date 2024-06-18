@@ -1,5 +1,5 @@
 # Top Users for June 2024
-Last Updated: 06/18/2024 20:13:50 UTC
+Last Updated: 06/18/2024 21:13:23 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 7 |
@@ -11,10 +11,12 @@ Last Updated: 06/18/2024 20:13:50 UTC
 | [JdeBP](https://mastodonapp.uk/@JdeBP) | JdeBP | mastodonapp.uk | 2 |
 | [Meghal](https://mastodon.social/@Meghal) | Meghal Packt | mastodon.social | 2 |
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 2 |
+| [dassascha](https://norden.social/@dassascha) | dassascha :verified: | norden.social | 1 |
+| [MichaelFree](https://mastodon.social/@MichaelFree) | Michael Free | mastodon.social | 1 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 1 |
 | [macadminsconf](https://mastodon.social/@macadminsconf) | MacAdmins Conference | mastodon.social | 1 |
 | [HerrRossihsGsg](https://mastodon.social/@HerrRossihsGsg) |  | mastodon.social | 1 |
-| [dacbarbos](https://mastodon.social/@dacbarbos) | DACBARBOS Brand | mastodon.social | 1 |
+| [bengillam](https://mastodon.social/@bengillam) | Ben Gillam :bongoCat: | mastodon.social | 1 |
 | [Walker](https://infosec.exchange/@Walker) | Walker | infosec.exchange | 1 |
 | [macleod](https://infosec.exchange/@macleod) | Macleod Sawyer | infosec.exchange | 1 |
 | [franklesniak](https://infosec.exchange/@franklesniak) | Frank Lesniak | infosec.exchange | 1 |
@@ -23,5 +25,5 @@ Last Updated: 06/18/2024 20:13:50 UTC
 | [deadlydog](https://hachyderm.io/@deadlydog) | Dan Schroeder | hachyderm.io | 1 |
 | [mikefrobbins](https://fosstodon.org/@mikefrobbins) | Mike F. Robbins | fosstodon.org | 1 |
 | [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 1 |
-| [bengillam](https://mastodon.social/@bengillam) | Ben Gillam :bongoCat: | mastodon.social | 1 |
+| [dacbarbos](https://mastodon.social/@dacbarbos) | DACBARBOS Brand | mastodon.social | 1 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 1 |
