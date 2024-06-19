@@ -1,5 +1,5 @@
 # Top Servers for June 2024
-Last Updated: 06/19/2024 18:13:57 UTC
+Last Updated: 06/19/2024 19:13:36 UTC
 | Server | Posts | Active Users |
 | -- | -- | -- |
 | [techhub.social](https://techhub.social/tags/PowerShell) | 17 | 5 |
