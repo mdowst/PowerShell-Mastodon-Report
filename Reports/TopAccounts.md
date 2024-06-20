@@ -1,5 +1,5 @@
 # Top Users for June 2024
-Last Updated: 06/20/2024 20:14:03 UTC
+Last Updated: 06/20/2024 21:13:34 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 8 |
@@ -12,10 +12,10 @@ Last Updated: 06/20/2024 20:14:03 UTC
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 2 |
 | [JdeBP](https://mastodonapp.uk/@JdeBP) | JdeBP | mastodonapp.uk | 2 |
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 2 |
+| [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 2 |
 | [EdTittel](https://techhub.social/@EdTittel) | Ed Tittel | techhub.social | 1 |
 | [dassascha](https://norden.social/@dassascha) | dassascha :verified: | norden.social | 1 |
 | [MichaelFree](https://mastodon.social/@MichaelFree) | Michael Free | mastodon.social | 1 |
-| [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 1 |
 | [maryloud](https://mastodon.social/@maryloud) |  | mastodon.social | 1 |
 | [macadminsconf](https://mastodon.social/@macadminsconf) | MacAdmins Conference | mastodon.social | 1 |
 | [bengillam](https://mastodon.social/@bengillam) | Ben Gillam :bongoCat: | mastodon.social | 1 |
