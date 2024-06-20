@@ -1,15 +1,15 @@
 # Top Users for June 2024
-Last Updated: 06/20/2024 02:22:19 UTC
+Last Updated: 06/20/2024 03:13:43 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 7 |
 | [SAPIENTech](https://techhub.social/@SAPIENTech) | SAPIENTech :verified: | techhub.social | 5 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 3 |
+| [Meghal](https://mastodon.social/@Meghal) | Meghal Packt | mastodon.social | 3 |
 | [TonyRedmond](https://techhub.social/@TonyRedmond) | Tony Redmond | techhub.social | 2 |
 | [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 2 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 2 |
 | [JdeBP](https://mastodonapp.uk/@JdeBP) | JdeBP | mastodonapp.uk | 2 |
-| [Meghal](https://mastodon.social/@Meghal) | Meghal Packt | mastodon.social | 2 |
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 2 |
 | [dassascha](https://norden.social/@dassascha) | dassascha :verified: | norden.social | 1 |
 | [MichaelFree](https://mastodon.social/@MichaelFree) | Michael Free | mastodon.social | 1 |
