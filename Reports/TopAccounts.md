@@ -1,5 +1,5 @@
 # Top Users for June 2024
-Last Updated: 06/20/2024 14:13:09 UTC
+Last Updated: 06/20/2024 15:13:42 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 8 |
@@ -12,14 +12,15 @@ Last Updated: 06/20/2024 14:13:09 UTC
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 2 |
 | [JdeBP](https://mastodonapp.uk/@JdeBP) | JdeBP | mastodonapp.uk | 2 |
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 2 |
+| [EdTittel](https://techhub.social/@EdTittel) | Ed Tittel | techhub.social | 1 |
 | [dassascha](https://norden.social/@dassascha) | dassascha :verified: | norden.social | 1 |
 | [MichaelFree](https://mastodon.social/@MichaelFree) | Michael Free | mastodon.social | 1 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 1 |
 | [macadminsconf](https://mastodon.social/@macadminsconf) | MacAdmins Conference | mastodon.social | 1 |
 | [HerrRossihsGsg](https://mastodon.social/@HerrRossihsGsg) |  | mastodon.social | 1 |
-| [Walker](https://infosec.exchange/@Walker) | Walker | infosec.exchange | 1 |
 | [bengillam](https://mastodon.social/@bengillam) | Ben Gillam :bongoCat: | mastodon.social | 1 |
 | [Shawn_Brink](https://techhub.social/@Shawn_Brink) | Shawn Brink | techhub.social | 1 |
+| [Walker](https://infosec.exchange/@Walker) | Walker | infosec.exchange | 1 |
 | [macleod](https://infosec.exchange/@macleod) | Macleod Sawyer | infosec.exchange | 1 |
 | [franklesniak](https://infosec.exchange/@franklesniak) | Frank Lesniak | infosec.exchange | 1 |
 | [AAKL](https://infosec.exchange/@AAKL) | AAKL | infosec.exchange | 1 |
