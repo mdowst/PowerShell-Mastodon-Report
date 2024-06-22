@@ -1,28 +1,29 @@
 # Top Users for June 2024
-Last Updated: 06/22/2024 13:13:56 UTC
+Last Updated: 06/22/2024 14:13:39 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 9 |
 | [SAPIENTech](https://techhub.social/@SAPIENTech) | SAPIENTech :verified: | techhub.social | 5 |
 | [Meghal](https://mastodon.social/@Meghal) | Meghal Packt | mastodon.social | 4 |
+| [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 3 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 3 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 3 |
-| [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 3 |
 | [TonyRedmond](https://techhub.social/@TonyRedmond) | Tony Redmond | techhub.social | 2 |
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 2 |
-| [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 2 |
-| [zygoon](https://fosstodon.org/@zygoon) | Zygmunt Krynicki | fosstodon.org | 2 |
 | [JdeBP](https://mastodonapp.uk/@JdeBP) | JdeBP | mastodonapp.uk | 2 |
-| [macadminsconf](https://mastodon.social/@macadminsconf) | MacAdmins Conference | mastodon.social | 1 |
-| [maryloud](https://mastodon.social/@maryloud) |  | mastodon.social | 1 |
-| [dassascha](https://norden.social/@dassascha) | dassascha :verified: | norden.social | 1 |
+| [zygoon](https://fosstodon.org/@zygoon) | Zygmunt Krynicki | fosstodon.org | 2 |
+| [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 2 |
 | [HerrRossihsGsg](https://mastodon.social/@HerrRossihsGsg) |  | mastodon.social | 1 |
-| [EdTittel](https://techhub.social/@EdTittel) | Ed Tittel | techhub.social | 1 |
 | [MichaelFree](https://mastodon.social/@MichaelFree) | Michael Free | mastodon.social | 1 |
+| [maryloud](https://mastodon.social/@maryloud) |  | mastodon.social | 1 |
+| [macadminsconf](https://mastodon.social/@macadminsconf) | MacAdmins Conference | mastodon.social | 1 |
+| [EdTittel](https://techhub.social/@EdTittel) | Ed Tittel | techhub.social | 1 |
+| [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 1 |
+| [dassascha](https://norden.social/@dassascha) | dassascha :verified: | norden.social | 1 |
 | [digitalhuman](https://mastodon.social/@digitalhuman) | Digital Human ✔ | mastodon.social | 1 |
-| [Walker](https://infosec.exchange/@Walker) | Walker | infosec.exchange | 1 |
 | [bengillam](https://mastodon.social/@bengillam) | Ben Gillam :bongoCat: | mastodon.social | 1 |
 | [Shawn_Brink](https://techhub.social/@Shawn_Brink) | Shawn Brink | techhub.social | 1 |
+| [Walker](https://infosec.exchange/@Walker) | Walker | infosec.exchange | 1 |
 | [macleod](https://infosec.exchange/@macleod) | Macleod Sawyer | infosec.exchange | 1 |
 | [Fringedcrow](https://infosec.exchange/@Fringedcrow) | Fringed Crow | infosec.exchange | 1 |
 | [franklesniak](https://infosec.exchange/@franklesniak) | Frank Lesniak | infosec.exchange | 1 |
