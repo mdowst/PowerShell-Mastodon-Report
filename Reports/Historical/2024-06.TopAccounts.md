@@ -1,5 +1,5 @@
 # Top Users for June 2024
-Last Updated: 06/25/2024 21:13:27 UTC
+Last Updated: 06/25/2024 22:13:26 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 10 |
