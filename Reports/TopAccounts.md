@@ -1,8 +1,8 @@
 # Top Users for July 2024
-Last Updated: 07/04/2024 11:14:22 UTC
+Last Updated: 07/04/2024 12:14:55 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
-| [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 3 |
+| [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 4 |
 | [avoidthehack](https://infosec.exchange/@avoidthehack) | Avoid the Hack! :donor: | infosec.exchange | 1 |
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 1 |
 | [scottwilson](https://infosec.exchange/@scottwilson) | Scott Wilson | infosec.exchange | 1 |
