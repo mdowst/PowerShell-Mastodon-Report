@@ -1,5 +1,5 @@
 # Top Users for July 2024
-Last Updated: 07/07/2024 20:13:35 UTC
+Last Updated: 07/07/2024 21:13:36 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 4 |
@@ -7,6 +7,7 @@ Last Updated: 07/07/2024 20:13:35 UTC
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 1 |
 | [scottwilson](https://infosec.exchange/@scottwilson) | Scott Wilson | infosec.exchange | 1 |
 | [thedxt](https://infosec.exchange/@thedxt) | Daniel Keer | infosec.exchange | 1 |
+| [danielglenn](https://mastodon.social/@danielglenn) | Daniel Glenn | mastodon.social | 1 |
 | [Meghal](https://mastodon.social/@Meghal) | Meghal Packt | mastodon.social | 1 |
 | [maniabel](https://norden.social/@maniabel) | maniabel by Chris | norden.social | 1 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 1 |
