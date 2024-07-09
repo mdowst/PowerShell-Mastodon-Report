@@ -1,10 +1,10 @@
 # Top Users for July 2024
-Last Updated: 07/09/2024 18:14:11 UTC
+Last Updated: 07/09/2024 19:13:02 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 6 |
+| [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 2 |
 | [jhx](https://fosstodon.org/@jhx) | jhx | fosstodon.org | 1 |
-| [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 1 |
 | [avoidthehack](https://infosec.exchange/@avoidthehack) | Avoid the Hack! :donor: | infosec.exchange | 1 |
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 1 |
 | [scottwilson](https://infosec.exchange/@scottwilson) | Scott Wilson | infosec.exchange | 1 |
