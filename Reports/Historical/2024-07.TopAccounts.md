@@ -1,5 +1,5 @@
 # Top Users for July 2024
-Last Updated: 07/10/2024 09:13:49 UTC
+Last Updated: 07/10/2024 10:14:47 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 6 |
@@ -8,6 +8,7 @@ Last Updated: 07/10/2024 09:13:49 UTC
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 1 |
 | [maniabel](https://norden.social/@maniabel) | maniabel by Chris | norden.social | 1 |
 | [Meghal](https://mastodon.social/@Meghal) | Meghal Packt | mastodon.social | 1 |
+| [joshooaj](https://mastodon.social/@joshooaj) | Joshua J | mastodon.social | 1 |
 | [jgomo3](https://mastodon.social/@jgomo3) | Jesús Gómez | mastodon.social | 1 |
 | [digitalhuman](https://mastodon.social/@digitalhuman) | Digital Human ✔ | mastodon.social | 1 |
 | [danielglenn](https://mastodon.social/@danielglenn) | Daniel Glenn | mastodon.social | 1 |
