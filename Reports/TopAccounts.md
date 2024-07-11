@@ -1,10 +1,10 @@
 # Top Users for July 2024
-Last Updated: 07/11/2024 06:14:39 UTC
+Last Updated: 07/11/2024 07:14:35 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 7 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 2 |
-| [jhx](https://fosstodon.org/@jhx) | jhx | fosstodon.org | 1 |
+| [jborean](https://fosstodon.org/@jborean) | Jordan Borean | fosstodon.org | 1 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 1 |
 | [maniabel](https://norden.social/@maniabel) | maniabel by Chris | norden.social | 1 |
 | [Meghal](https://mastodon.social/@Meghal) | Meghal Packt | mastodon.social | 1 |
@@ -19,5 +19,6 @@ Last Updated: 07/11/2024 06:14:39 UTC
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 1 |
 | [macleod](https://infosec.exchange/@macleod) | Macleod Sawyer | infosec.exchange | 1 |
 | [avoidthehack](https://infosec.exchange/@avoidthehack) | Avoid the Hack! :donor: | infosec.exchange | 1 |
+| [jhx](https://fosstodon.org/@jhx) | jhx | fosstodon.org | 1 |
 | [kevchant](https://techhub.social/@kevchant) | Kevin Chant | techhub.social | 1 |
 | [SAPIENTech](https://techhub.social/@SAPIENTech) | SAPIENTech :verified: | techhub.social | 1 |
