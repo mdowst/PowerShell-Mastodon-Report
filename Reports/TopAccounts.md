@@ -1,5 +1,5 @@
 # Top Users for July 2024
-Last Updated: 07/16/2024 18:14:21 UTC
+Last Updated: 07/16/2024 19:13:11 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 8 |
@@ -16,8 +16,9 @@ Last Updated: 07/16/2024 18:14:21 UTC
 | [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 1 |
 | [LarsFosdal](https://mastodon.social/@LarsFosdal) | Lars Fosdal | mastodon.social | 1 |
 | [joshooaj](https://mastodon.social/@joshooaj) | Joshua J | mastodon.social | 1 |
-| [jgomo3](https://mastodon.social/@jgomo3) | Jesús Gómez | mastodon.social | 1 |
+| [JGraber](https://mastodon.social/@JGraber) | Johnny Graber | mastodon.social | 1 |
 | [digitalhuman](https://mastodon.social/@digitalhuman) | Digital Human ✔ | mastodon.social | 1 |
+| [danielglenn](https://mastodon.social/@danielglenn) | Daniel Glenn | mastodon.social | 1 |
 | [aeveltstra](https://mastodon.social/@aeveltstra) | Ænðr E. Feldstraw | mastodon.social | 1 |
 | [aev](https://mastodon.sdf.org/@aev) | Ænðr | mastodon.sdf.org | 1 |
 | [thedxt](https://infosec.exchange/@thedxt) | Daniel Keer | infosec.exchange | 1 |
@@ -29,5 +30,5 @@ Last Updated: 07/16/2024 18:14:21 UTC
 | [qmacro](https://hachyderm.io/@qmacro) | DJ Adams | hachyderm.io | 1 |
 | [bradk](https://hachyderm.io/@bradk) | Brad Knowles | hachyderm.io | 1 |
 | [jhx](https://fosstodon.org/@jhx) | jhx | fosstodon.org | 1 |
-| [danielglenn](https://mastodon.social/@danielglenn) | Daniel Glenn | mastodon.social | 1 |
+| [jgomo3](https://mastodon.social/@jgomo3) | Jesús Gómez | mastodon.social | 1 |
 | [sstranger](https://techhub.social/@sstranger) | Stefan Stranger | techhub.social | 1 |
