@@ -1,23 +1,23 @@
 # Top Users for July 2024
-Last Updated: 07/19/2024 12:14:30 UTC
+Last Updated: 07/19/2024 13:14:28 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 8 |
-| [macleod](https://infosec.exchange/@macleod) | Macleod Sawyer | infosec.exchange | 2 |
 | [Meghal](https://mastodon.social/@Meghal) | Meghal Packt | mastodon.social | 2 |
+| [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 2 |
+| [macleod](https://infosec.exchange/@macleod) | Macleod Sawyer | infosec.exchange | 2 |
 | [SAPIENTech](https://techhub.social/@SAPIENTech) | SAPIENTech :verified: | techhub.social | 2 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 2 |
-| [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 1 |
 | [CubicleNate](https://social.tchncs.de/@CubicleNate) | CubicleNate | social.tchncs.de | 1 |
 | [maniabel](https://norden.social/@maniabel) | maniabel by Chris | norden.social | 1 |
 | [dassascha](https://norden.social/@dassascha) | dassascha :verified: | norden.social | 1 |
 | [jgomo3](https://mastodon.social/@jgomo3) | Jesús Gómez | mastodon.social | 1 |
 | [kevchant](https://techhub.social/@kevchant) | Kevin Chant | techhub.social | 1 |
-| [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 1 |
 | [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 1 |
 | [LarsFosdal](https://mastodon.social/@LarsFosdal) | Lars Fosdal | mastodon.social | 1 |
 | [joshooaj](https://mastodon.social/@joshooaj) | Joshua J | mastodon.social | 1 |
 | [JGraber](https://mastodon.social/@JGraber) | Johnny Graber | mastodon.social | 1 |
+| [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 1 |
 | [jborean](https://fosstodon.org/@jborean) | Jordan Borean | fosstodon.org | 1 |
 | [danielglenn](https://mastodon.social/@danielglenn) | Daniel Glenn | mastodon.social | 1 |
 | [aeveltstra](https://mastodon.social/@aeveltstra) | Ænðr E. Feldstraw | mastodon.social | 1 |
