@@ -1,15 +1,16 @@
 # Top Users for July 2024
-Last Updated: 07/24/2024 14:13:35 UTC
+Last Updated: 07/24/2024 15:13:51 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 8 |
 | [SAPIENTech](https://techhub.social/@SAPIENTech) | SAPIENTech :verified: | techhub.social | 3 |
 | [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 3 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 3 |
+| [altf4formation](https://mastodon.social/@altf4formation) | AltF4-Formation | mastodon.social | 2 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 2 |
-| [macleod](https://infosec.exchange/@macleod) | Macleod Sawyer | infosec.exchange | 2 |
 | [Meghal](https://mastodon.social/@Meghal) | Meghal Packt | mastodon.social | 2 |
-| [jborean](https://fosstodon.org/@jborean) | Jordan Borean | fosstodon.org | 1 |
+| [macleod](https://infosec.exchange/@macleod) | Macleod Sawyer | infosec.exchange | 2 |
+| [jgomo3](https://mastodon.social/@jgomo3) | Jesús Gómez | mastodon.social | 1 |
 | [JGraber](https://mastodon.social/@JGraber) | Johnny Graber | mastodon.social | 1 |
 | [joshooaj](https://mastodon.social/@joshooaj) | Joshua J | mastodon.social | 1 |
 | [LarsFosdal](https://mastodon.social/@LarsFosdal) | Lars Fosdal | mastodon.social | 1 |
@@ -19,10 +20,10 @@ Last Updated: 07/24/2024 14:13:35 UTC
 | [CubicleNate](https://social.tchncs.de/@CubicleNate) | CubicleNate | social.tchncs.de | 1 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 1 |
 | [kevchant](https://techhub.social/@kevchant) | Kevin Chant | techhub.social | 1 |
-| [jgomo3](https://mastodon.social/@jgomo3) | Jesús Gómez | mastodon.social | 1 |
 | [digitalhuman](https://mastodon.social/@digitalhuman) | Digital Human ✔ | mastodon.social | 1 |
+| [danielglenn](https://mastodon.social/@danielglenn) | Daniel Glenn | mastodon.social | 1 |
+| [jborean](https://fosstodon.org/@jborean) | Jordan Borean | fosstodon.org | 1 |
 | [aeveltstra](https://mastodon.social/@aeveltstra) | Ænðr E. Feldstraw | mastodon.social | 1 |
-| [Shawn_Brink](https://techhub.social/@Shawn_Brink) | Shawn Brink | techhub.social | 1 |
 | [jhx](https://fosstodon.org/@jhx) | jhx | fosstodon.org | 1 |
 | [mikefrobbins](https://fosstodon.org/@mikefrobbins) | Mike F. Robbins | fosstodon.org | 1 |
 | [unicornCoder](https://fosstodon.org/@unicornCoder) | unicornCoder ☑️ :gnome: :bash: | fosstodon.org | 1 |
@@ -38,5 +39,5 @@ Last Updated: 07/24/2024 14:13:35 UTC
 | [USBTypeSteve](https://infosec.exchange/@USBTypeSteve) | USB Type-Steve :verified: | infosec.exchange | 1 |
 | [DoctorDNS](https://masto.ai/@DoctorDNS) | Thomas Lee ✅ :patreon: | masto.ai | 1 |
 | [aev](https://mastodon.sdf.org/@aev) | Ænðr | mastodon.sdf.org | 1 |
-| [danielglenn](https://mastodon.social/@danielglenn) | Daniel Glenn | mastodon.social | 1 |
+| [Shawn_Brink](https://techhub.social/@Shawn_Brink) | Shawn Brink | techhub.social | 1 |
 | [sstranger](https://techhub.social/@sstranger) | Stefan Stranger | techhub.social | 1 |
