@@ -1,5 +1,5 @@
 # Top Servers for July 2024
-Last Updated: 07/29/2024 16:14:06 UTC
+Last Updated: 07/29/2024 17:13:37 UTC
 | Server | Posts | Active Users |
 | -- | -- | -- |
 | [mastodon.social](https://mastodon.social/tags/PowerShell) | 22 | 13 |
