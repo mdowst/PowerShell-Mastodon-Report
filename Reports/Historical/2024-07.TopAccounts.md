@@ -1,10 +1,10 @@
 # Top Users for July 2024
-Last Updated: 07/29/2024 18:14:01 UTC
+Last Updated: 07/29/2024 19:12:53 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 9 |
 | [SAPIENTech](https://techhub.social/@SAPIENTech) | SAPIENTech :verified: | techhub.social | 5 |
-| [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 4 |
+| [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 5 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 4 |
 | [altf4formation](https://mastodon.social/@altf4formation) | AltF4-Formation | mastodon.social | 3 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 3 |
