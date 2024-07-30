@@ -1,29 +1,29 @@
 # Top Users for July 2024
-Last Updated: 07/30/2024 20:13:40 UTC
+Last Updated: 07/30/2024 21:13:57 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 9 |
+| [Bluedepth](https://mastodon.social/@Bluedepth) |  | mastodon.social | 5 |
 | [SAPIENTech](https://techhub.social/@SAPIENTech) | SAPIENTech :verified: | techhub.social | 5 |
 | [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 5 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 4 |
 | [altf4formation](https://mastodon.social/@altf4formation) | AltF4-Formation | mastodon.social | 3 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 3 |
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 2 |
-| [macleod](https://infosec.exchange/@macleod) | Macleod Sawyer | infosec.exchange | 2 |
 | [Meghal](https://mastodon.social/@Meghal) | Meghal Packt | mastodon.social | 2 |
-| [Bluedepth](https://mastodon.social/@Bluedepth) |  | mastodon.social | 2 |
-| [Ranmzoxe](https://mastodon.social/@Ranmzoxe) | LapMan | mastodon.social | 1 |
+| [macleod](https://infosec.exchange/@macleod) | Macleod Sawyer | infosec.exchange | 2 |
+| [jgomo3](https://mastodon.social/@jgomo3) | Jesús Gómez | mastodon.social | 1 |
+| [JGraber](https://mastodon.social/@JGraber) | Johnny Graber | mastodon.social | 1 |
+| [joshooaj](https://mastodon.social/@joshooaj) | Joshua J | mastodon.social | 1 |
+| [LarsFosdal](https://mastodon.social/@LarsFosdal) | Lars Fosdal | mastodon.social | 1 |
+| [kevchant](https://techhub.social/@kevchant) | Kevin Chant | techhub.social | 1 |
+| [CubicleNate](https://social.tchncs.de/@CubicleNate) | CubicleNate | social.tchncs.de | 1 |
 | [digitalhuman](https://mastodon.social/@digitalhuman) | Digital Human ✔ | mastodon.social | 1 |
+| [Ranmzoxe](https://mastodon.social/@Ranmzoxe) | LapMan | mastodon.social | 1 |
+| [JdeBP](https://mastodonapp.uk/@JdeBP) | JdeBP | mastodonapp.uk | 1 |
 | [dassascha](https://norden.social/@dassascha) | dassascha :verified: | norden.social | 1 |
 | [maniabel](https://norden.social/@maniabel) | maniabel by Chris | norden.social | 1 |
-| [CubicleNate](https://social.tchncs.de/@CubicleNate) | CubicleNate | social.tchncs.de | 1 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 1 |
-| [kevchant](https://techhub.social/@kevchant) | Kevin Chant | techhub.social | 1 |
-| [LarsFosdal](https://mastodon.social/@LarsFosdal) | Lars Fosdal | mastodon.social | 1 |
-| [joshooaj](https://mastodon.social/@joshooaj) | Joshua J | mastodon.social | 1 |
-| [JGraber](https://mastodon.social/@JGraber) | Johnny Graber | mastodon.social | 1 |
-| [jgomo3](https://mastodon.social/@jgomo3) | Jesús Gómez | mastodon.social | 1 |
-| [JdeBP](https://mastodonapp.uk/@JdeBP) | JdeBP | mastodonapp.uk | 1 |
 | [newt_othis](https://mastodon.social/@newt_othis) | Ade | mastodon.social | 1 |
 | [adamsdesk](https://fosstodon.org/@adamsdesk) | Adam | fosstodon.org | 1 |
 | [Shawn_Brink](https://techhub.social/@Shawn_Brink) | Shawn Brink | techhub.social | 1 |
