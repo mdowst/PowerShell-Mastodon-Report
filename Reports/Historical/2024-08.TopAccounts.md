@@ -1,5 +1,5 @@
 # Top Users for August 2024
-Last Updated: 08/03/2024 11:13:16 UTC
+Last Updated: 08/03/2024 12:14:42 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [altf4formation](https://mastodon.social/@altf4formation) | AltF4-Formation | mastodon.social | 1 |
