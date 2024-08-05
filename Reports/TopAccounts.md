@@ -1,5 +1,5 @@
 # Top Users for August 2024
-Last Updated: 08/05/2024 10:13:52 UTC
+Last Updated: 08/05/2024 11:13:23 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 1 |
