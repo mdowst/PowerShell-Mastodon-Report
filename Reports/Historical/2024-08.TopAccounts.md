@@ -1,5 +1,5 @@
 # Top Users for August 2024
-Last Updated: 08/08/2024 00:29:09 UTC
+Last Updated: 08/08/2024 01:40:22 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 3 |
@@ -17,3 +17,4 @@ Last Updated: 08/08/2024 00:29:09 UTC
 | [threeforks](https://mastodon.social/@threeforks) | @threeforks@Mastodon.Social | mastodon.social | 1 |
 | [selectallfromdual](https://mastodon.uno/@selectallfromdual) | Dummy-X 🇮🇹 | mastodon.uno | 1 |
 | [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 1 |
+| [mshallop](https://techhub.social/@mshallop) | Micheal Shallop :ve: :tux: | techhub.social | 1 |
