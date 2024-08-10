@@ -1,18 +1,19 @@
 # Top Users for August 2024
-Last Updated: 08/10/2024 12:14:59 UTC
+Last Updated: 08/10/2024 13:13:44 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 3 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 2 |
-| [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 2 |
 | [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 2 |
+| [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 2 |
 | [SAPIENTech](https://techhub.social/@SAPIENTech) | SAPIENTech :verified: | techhub.social | 2 |
 | [ajguides](https://mastodon.social/@ajguides) | Anthony Powell | mastodon.social | 1 |
 | [altf4formation](https://mastodon.social/@altf4formation) | AltF4-Formation | mastodon.social | 1 |
 | [aniCausa](https://mastodon.social/@aniCausa) | aniCausa | mastodon.social | 1 |
 | [DaveMasonDotMe](https://mastodon.social/@DaveMasonDotMe) | Dave Mason | mastodon.social | 1 |
-| [mshallop](https://techhub.social/@mshallop) | Micheal Shallop :ve: :tux: | techhub.social | 1 |
 | [markmorow](https://infosec.exchange/@markmorow) | Mark Morowczynski | infosec.exchange | 1 |
+| [mshallop](https://techhub.social/@mshallop) | Micheal Shallop :ve: :tux: | techhub.social | 1 |
+| [stiefkind](https://mastodon.social/@stiefkind) | Wolfgang Stief | mastodon.social | 1 |
 | [talesofaprinny](https://mastodon.social/@talesofaprinny) | Prinny | mastodon.social | 1 |
 | [threeforks](https://mastodon.social/@threeforks) | @threeforks@Mastodon.Social | mastodon.social | 1 |
 | [selectallfromdual](https://mastodon.uno/@selectallfromdual) | Dummy-X 🇮🇹 | mastodon.uno | 1 |
