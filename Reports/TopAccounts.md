@@ -1,12 +1,12 @@
 # Top Users for August 2024
-Last Updated: 08/11/2024 18:14:35 UTC
+Last Updated: 08/11/2024 19:13:08 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
+| [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 3 |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 3 |
-| [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 2 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 2 |
 | [SAPIENTech](https://techhub.social/@SAPIENTech) | SAPIENTech :verified: | techhub.social | 2 |
-| [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 2 |
+| [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 2 |
 | [cs](https://mastodon.sdf.org/@cs) | cseiler | mastodon.sdf.org | 1 |
 | [mshallop](https://techhub.social/@mshallop) | Micheal Shallop :ve: :tux: | techhub.social | 1 |
 | [seve_py](https://fosstodon.org/@seve_py) | Seve_py :vim: :python: | fosstodon.org | 1 |
