@@ -1,5 +1,5 @@
 # Top Users for August 2024
-Last Updated: 08/11/2024 22:13:41 UTC
+Last Updated: 08/11/2024 23:13:28 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 3 |
