@@ -1,13 +1,14 @@
 # Top Users for August 2024
-Last Updated: 08/13/2024 00:30:04 UTC
+Last Updated: 08/13/2024 01:41:12 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 4 |
 | [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 3 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 2 |
+| [postmodern](https://infosec.exchange/@postmodern) |  | infosec.exchange | 2 |
 | [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 2 |
-| [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 2 |
 | [SAPIENTech](https://techhub.social/@SAPIENTech) | SAPIENTech :verified: | techhub.social | 2 |
+| [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 2 |
 | [mshallop](https://techhub.social/@mshallop) | Micheal Shallop :ve: :tux: | techhub.social | 1 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 1 |
 | [dassascha](https://norden.social/@dassascha) | dassascha :verified: | norden.social | 1 |
@@ -21,7 +22,6 @@ Last Updated: 08/13/2024 00:30:04 UTC
 | [ajguides](https://mastodon.social/@ajguides) | Anthony Powell | mastodon.social | 1 |
 | [cs](https://mastodon.sdf.org/@cs) | cseiler | mastodon.sdf.org | 1 |
 | [MattPCart](https://mas.to/@MattPCart) | Matt | mas.to | 1 |
-| [postmodern](https://infosec.exchange/@postmodern) |  | infosec.exchange | 1 |
 | [PeterDodemont](https://infosec.exchange/@PeterDodemont) | Peter Dodemont | infosec.exchange | 1 |
 | [markmorow](https://infosec.exchange/@markmorow) | Mark Morowczynski | infosec.exchange | 1 |
 | [seve_py](https://fosstodon.org/@seve_py) | Seve_py :vim: :python: | fosstodon.org | 1 |
