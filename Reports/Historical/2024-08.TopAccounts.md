@@ -1,5 +1,5 @@
 # Top Users for August 2024
-Last Updated: 08/20/2024 20:13:54 UTC
+Last Updated: 08/20/2024 21:13:56 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 8 |
