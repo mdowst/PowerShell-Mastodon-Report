@@ -1,5 +1,5 @@
 # Top Users for August 2024
-Last Updated: 08/22/2024 18:14:13 UTC
+Last Updated: 08/22/2024 19:13:20 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 10 |
@@ -8,10 +8,10 @@ Last Updated: 08/22/2024 18:14:13 UTC
 | [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 3 |
 | [ajguides](https://mastodon.social/@ajguides) | Anthony Powell | mastodon.social | 3 |
 | [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 3 |
+| [SAPIENTech](https://techhub.social/@SAPIENTech) | SAPIENTech :verified: | techhub.social | 3 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 3 |
 | [PeterDodemont](https://infosec.exchange/@PeterDodemont) | Peter Dodemont | infosec.exchange | 3 |
 | [screaminggoat](https://infosec.exchange/@screaminggoat) | Not Simon 🐐 | infosec.exchange | 2 |
-| [SAPIENTech](https://techhub.social/@SAPIENTech) | SAPIENTech :verified: | techhub.social | 2 |
 | [mshallop](https://techhub.social/@mshallop) | Micheal Shallop :ve: :tux: | techhub.social | 1 |
 | [dassascha](https://norden.social/@dassascha) | dassascha :verified: | norden.social | 1 |
 | [Shawn_Brink](https://techhub.social/@Shawn_Brink) | Shawn Brink | techhub.social | 1 |
