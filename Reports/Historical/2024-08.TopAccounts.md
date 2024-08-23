@@ -1,14 +1,14 @@
 # Top Users for August 2024
-Last Updated: 08/23/2024 16:14:38 UTC
+Last Updated: 08/23/2024 17:13:11 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 10 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 6 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 4 |
+| [SAPIENTech](https://techhub.social/@SAPIENTech) | SAPIENTech :verified: | techhub.social | 4 |
 | [postmodern](https://infosec.exchange/@postmodern) |  | infosec.exchange | 4 |
 | [ajguides](https://mastodon.social/@ajguides) | Anthony Powell | mastodon.social | 3 |
 | [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 3 |
-| [SAPIENTech](https://techhub.social/@SAPIENTech) | SAPIENTech :verified: | techhub.social | 3 |
 | [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 3 |
 | [PeterDodemont](https://infosec.exchange/@PeterDodemont) | Peter Dodemont | infosec.exchange | 3 |
 | [screaminggoat](https://infosec.exchange/@screaminggoat) | Not Simon 🐐 | infosec.exchange | 2 |
