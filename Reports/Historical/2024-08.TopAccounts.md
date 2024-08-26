@@ -1,5 +1,5 @@
 # Top Users for August 2024
-Last Updated: 08/26/2024 12:15:10 UTC
+Last Updated: 08/26/2024 13:15:14 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 10 |
@@ -13,11 +13,11 @@ Last Updated: 08/26/2024 12:15:10 UTC
 | [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 3 |
 | [techygeekshome](https://techhub.social/@techygeekshome) | A.J. Armstrong | techhub.social | 2 |
 | [screaminggoat](https://infosec.exchange/@screaminggoat) | Not Simon 🐐 | infosec.exchange | 2 |
+| [The2Ring](https://mastodon.social/@The2Ring) | Hannah von Reth☁️ | mastodon.social | 2 |
 | [n3wjack](https://mastodon.social/@n3wjack) | n3wjack | mastodon.social | 1 |
 | [simon_lucy](https://mastodon.social/@simon_lucy) | Simon Lucy | mastodon.social | 1 |
 | [stiefkind](https://mastodon.social/@stiefkind) | Wolfgang Stief | mastodon.social | 1 |
 | [talesofaprinny](https://mastodon.social/@talesofaprinny) | Prinny | mastodon.social | 1 |
-| [The2Ring](https://mastodon.social/@The2Ring) | Hannah von Reth☁️ | mastodon.social | 1 |
 | [dassascha](https://norden.social/@dassascha) | dassascha :verified: | norden.social | 1 |
 | [selectallfromdual](https://mastodon.uno/@selectallfromdual) | Dummy-X 🇮🇹 | mastodon.uno | 1 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 1 |
