@@ -1,5 +1,5 @@
 # Top Users for August 2024
-Last Updated: 08/29/2024 15:14:07 UTC
+Last Updated: 08/29/2024 16:14:10 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 14 |
@@ -17,9 +17,9 @@ Last Updated: 08/29/2024 15:14:07 UTC
 | [techygeekshome](https://techhub.social/@techygeekshome) | A.J. Armstrong | techhub.social | 2 |
 | [The2Ring](https://mastodon.social/@The2Ring) | Hannah von Reth☁️ | mastodon.social | 2 |
 | [simon_lucy](https://mastodon.social/@simon_lucy) | Simon Lucy | mastodon.social | 1 |
-| [n3wjack](https://mastodon.social/@n3wjack) | n3wjack | mastodon.social | 1 |
-| [stiefkind](https://mastodon.social/@stiefkind) | Wolfgang Stief | mastodon.social | 1 |
 | [talesofaprinny](https://mastodon.social/@talesofaprinny) | Prinny | mastodon.social | 1 |
+| [stiefkind](https://mastodon.social/@stiefkind) | Wolfgang Stief | mastodon.social | 1 |
+| [n3wjack](https://mastodon.social/@n3wjack) | n3wjack | mastodon.social | 1 |
 | [Loredo](https://chaos.social/@Loredo) | Julian :rainbow_heart: | chaos.social | 1 |
 | [selectallfromdual](https://mastodon.uno/@selectallfromdual) | Dummy-X 🇮🇹 | mastodon.uno | 1 |
 | [dassascha](https://norden.social/@dassascha) | dassascha :verified: | norden.social | 1 |
@@ -39,14 +39,15 @@ Last Updated: 08/29/2024 15:14:07 UTC
 | [deadlydog](https://hachyderm.io/@deadlydog) | Dan Schroeder | hachyderm.io | 1 |
 | [fulco](https://infosec.exchange/@fulco) | Fulco | infosec.exchange | 1 |
 | [markmorow](https://infosec.exchange/@markmorow) | Mark Morowczynski | infosec.exchange | 1 |
+| [joshooaj](https://mastodon.social/@joshooaj) | Joshua J | mastodon.social | 1 |
 | [shibashecurity](https://infosec.exchange/@shibashecurity) | Mat DJ 🐶 :verified_paw: :donor: | infosec.exchange | 1 |
-| [taylorparizo](https://infosec.exchange/@taylorparizo) | Taylor Parizo :donor: | infosec.exchange | 1 |
 | [threatinsight](https://infosec.exchange/@threatinsight) | Threat Insight | infosec.exchange | 1 |
 | [LeeArchinal](https://ioc.exchange/@LeeArchinal) | Just Another Blue Teamer | ioc.exchange | 1 |
 | [MattPCart](https://mas.to/@MattPCart) | Matt | mas.to | 1 |
 | [freezombie](https://masto.ai/@freezombie) | Thomas Jollans | masto.ai | 1 |
 | [cs](https://mastodon.sdf.org/@cs) | cseiler | mastodon.sdf.org | 1 |
+| [aeveltstra](https://mastodon.social/@aeveltstra) | Ænðr E. Feldstraw | mastodon.social | 1 |
 | [altf4formation](https://mastodon.social/@altf4formation) | AltF4-Formation | mastodon.social | 1 |
 | [DaveMasonDotMe](https://mastodon.social/@DaveMasonDotMe) | Dave Mason | mastodon.social | 1 |
-| [joshooaj](https://mastodon.social/@joshooaj) | Joshua J | mastodon.social | 1 |
+| [taylorparizo](https://infosec.exchange/@taylorparizo) | Taylor Parizo :donor: | infosec.exchange | 1 |
 | [TonyRedmond](https://techhub.social/@TonyRedmond) | Tony Redmond | techhub.social | 1 |
