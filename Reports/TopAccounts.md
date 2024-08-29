@@ -1,5 +1,5 @@
 # Top Users for August 2024
-Last Updated: 08/28/2024 23:13:55 UTC
+Last Updated: 08/29/2024 00:30:14 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 13 |
@@ -14,11 +14,11 @@ Last Updated: 08/28/2024 23:13:55 UTC
 | [techygeekshome](https://techhub.social/@techygeekshome) | A.J. Armstrong | techhub.social | 2 |
 | [The2Ring](https://mastodon.social/@The2Ring) | Hannah von Reth☁️ | mastodon.social | 2 |
 | [screaminggoat](https://infosec.exchange/@screaminggoat) | Not Simon 🐐 | infosec.exchange | 2 |
+| [Shawn_Brink](https://techhub.social/@Shawn_Brink) | Shawn Brink | techhub.social | 2 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 1 |
 | [mshallop](https://techhub.social/@mshallop) | Micheal Shallop :ve: :tux: | techhub.social | 1 |
 | [selectallfromdual](https://mastodon.uno/@selectallfromdual) | Dummy-X 🇮🇹 | mastodon.uno | 1 |
 | [threeforks](https://mastodon.social/@threeforks) | @threeforks@Mastodon.Social | mastodon.social | 1 |
-| [Shawn_Brink](https://techhub.social/@Shawn_Brink) | Shawn Brink | techhub.social | 1 |
 | [talesofaprinny](https://mastodon.social/@talesofaprinny) | Prinny | mastodon.social | 1 |
 | [stiefkind](https://mastodon.social/@stiefkind) | Wolfgang Stief | mastodon.social | 1 |
 | [SOZDBA](https://techhub.social/@SOZDBA) | Shane O'Neill | techhub.social | 1 |
