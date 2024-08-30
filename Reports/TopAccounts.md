@@ -1,8 +1,8 @@
 # Top Users for August 2024
-Last Updated: 08/30/2024 16:13:51 UTC
+Last Updated: 08/30/2024 17:13:27 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
-| [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 15 |
+| [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 16 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 6 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 5 |
 | [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 5 |
