@@ -1,7 +1,8 @@
 # Top Users for September 2024
-Last Updated: 09/02/2024 12:15:04 UTC
+Last Updated: 09/02/2024 13:15:04 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
+| [wg](https://hachyderm.io/@wg) | W.Gross | hachyderm.io | 1 |
 | [ajguides](https://mastodon.social/@ajguides) | Anthony Powell | mastodon.social | 1 |
 | [normen](https://norden.social/@normen) |  | norden.social | 1 |
 | [techygeekshome](https://techhub.social/@techygeekshome) | A.J. Armstrong | techhub.social | 1 |
