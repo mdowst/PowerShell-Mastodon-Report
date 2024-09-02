@@ -1,5 +1,5 @@
 # Top Users for September 2024
-Last Updated: 09/02/2024 19:14:00 UTC
+Last Updated: 09/02/2024 20:13:56 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [wg](https://hachyderm.io/@wg) | W.Gross | hachyderm.io | 1 |
