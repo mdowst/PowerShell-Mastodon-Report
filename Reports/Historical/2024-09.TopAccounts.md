@@ -1,5 +1,5 @@
 # Top Users for September 2024
-Last Updated: 09/02/2024 10:13:56 UTC
+Last Updated: 09/02/2024 11:13:10 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [ajguides](https://mastodon.social/@ajguides) | Anthony Powell | mastodon.social | 1 |
