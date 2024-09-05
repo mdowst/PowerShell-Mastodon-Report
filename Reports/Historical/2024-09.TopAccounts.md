@@ -1,5 +1,5 @@
 # Top Users for September 2024
-Last Updated: 09/05/2024 13:15:39 UTC
+Last Updated: 09/05/2024 14:13:45 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 2 |
