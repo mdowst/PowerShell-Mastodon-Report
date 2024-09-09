@@ -1,5 +1,5 @@
 # Top Users for September 2024
-Last Updated: 09/09/2024 09:14:08 UTC
+Last Updated: 09/09/2024 10:14:01 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 5 |
@@ -12,6 +12,7 @@ Last Updated: 09/09/2024 09:14:08 UTC
 | [wg](https://hachyderm.io/@wg) | W.Gross | hachyderm.io | 1 |
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 1 |
 | [altf4formation](https://mastodon.social/@altf4formation) | AltF4-Formation | mastodon.social | 1 |
+| [aniCausa](https://mastodon.social/@aniCausa) | aniCausa | mastodon.social | 1 |
 | [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 1 |
 | [TheJoeFin](https://mastodon.social/@TheJoeFin) | Joe Finney | mastodon.social | 1 |
 | [normen](https://norden.social/@normen) |  | norden.social | 1 |
