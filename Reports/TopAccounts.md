@@ -1,8 +1,8 @@
 # Top Users for September 2024
-Last Updated: 09/10/2024 16:14:22 UTC
+Last Updated: 09/10/2024 17:13:43 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
-| [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 7 |
+| [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 8 |
 | [ajguides](https://mastodon.social/@ajguides) | Anthony Powell | mastodon.social | 3 |
 | [altf4formation](https://mastodon.social/@altf4formation) | AltF4-Formation | mastodon.social | 3 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 3 |
