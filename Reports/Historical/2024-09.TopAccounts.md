@@ -1,5 +1,5 @@
 # Top Users for September 2024
-Last Updated: 09/12/2024 00:31:26 UTC
+Last Updated: 09/12/2024 01:41:26 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 10 |
@@ -8,9 +8,9 @@ Last Updated: 09/12/2024 00:31:26 UTC
 | [ajguides](https://mastodon.social/@ajguides) | Anthony Powell | mastodon.social | 3 |
 | [techygeekshome](https://techhub.social/@techygeekshome) | A.J. Armstrong | techhub.social | 3 |
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 2 |
+| [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 2 |
 | [zaufanatrzeciastrona](https://infosec.exchange/@zaufanatrzeciastrona) | ZaufanaTrzeciaStrona.pl | infosec.exchange | 1 |
 | [deadlydog](https://hachyderm.io/@deadlydog) | Dan Schroeder | hachyderm.io | 1 |
-| [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 1 |
 | [aniCausa](https://mastodon.social/@aniCausa) | aniCausa | mastodon.social | 1 |
 | [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 1 |
 | [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 1 |
