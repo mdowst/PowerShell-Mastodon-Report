@@ -1,5 +1,5 @@
 # Top Users for September 2024
-Last Updated: 09/12/2024 22:13:43 UTC
+Last Updated: 09/12/2024 23:14:07 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 11 |
@@ -10,6 +10,7 @@ Last Updated: 09/12/2024 22:13:43 UTC
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 2 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 2 |
 | [GandalfDG](https://indieweb.social/@GandalfDG) | Jack C. | indieweb.social | 1 |
+| [luzkenin](https://infosec.exchange/@luzkenin) | Joe 🏔️ King of NYNEX :donor: :fedora: :haiku: | infosec.exchange | 1 |
 | [zaufanatrzeciastrona](https://infosec.exchange/@zaufanatrzeciastrona) | ZaufanaTrzeciaStrona.pl | infosec.exchange | 1 |
 | [deadlydog](https://hachyderm.io/@deadlydog) | Dan Schroeder | hachyderm.io | 1 |
 | [aniCausa](https://mastodon.social/@aniCausa) | aniCausa | mastodon.social | 1 |
