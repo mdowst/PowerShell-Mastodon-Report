@@ -1,5 +1,5 @@
 # Top Users for September 2024
-Last Updated: 09/17/2024 10:13:55 UTC
+Last Updated: 09/17/2024 11:13:33 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 14 |
@@ -24,5 +24,6 @@ Last Updated: 09/17/2024 10:13:55 UTC
 | [zaufanatrzeciastrona](https://infosec.exchange/@zaufanatrzeciastrona) | ZaufanaTrzeciaStrona.pl | infosec.exchange | 1 |
 | [luzkenin](https://infosec.exchange/@luzkenin) | Joe 🏔️ King of NYNEX :donor: :fedora: :haiku: | infosec.exchange | 1 |
 | [jmw](https://infosec.exchange/@jmw) | James M. Woodward | infosec.exchange | 1 |
+| [fabian_bader](https://infosec.exchange/@fabian_bader) | Fabian Bader | infosec.exchange | 1 |
 | [wg](https://hachyderm.io/@wg) | W.Gross | hachyderm.io | 1 |
 | [lukemurray](https://aus.social/@lukemurray) | Luke Murray | aus.social | 1 |
