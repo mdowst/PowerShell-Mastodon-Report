@@ -1,5 +1,5 @@
 # Top Users for September 2024
-Last Updated: 09/25/2024 08:14:34 UTC
+Last Updated: 09/25/2024 09:14:12 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 18 |
@@ -15,12 +15,13 @@ Last Updated: 09/25/2024 08:14:34 UTC
 | [psugh](https://norden.social/@psugh) | PowerShell Usergroup Hannover | norden.social | 1 |
 | [normen](https://norden.social/@normen) |  | norden.social | 1 |
 | [jaimelopezlopez](https://techhub.social/@jaimelopezlopez) | Jaime López | techhub.social | 1 |
+| [gioxx](https://mastodon.uno/@gioxx) | Gioxx | mastodon.uno | 1 |
 | [TheJoeFin](https://mastodon.social/@TheJoeFin) | Joe Finney | mastodon.social | 1 |
 | [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 1 |
 | [furicle](https://mastodon.social/@furicle) | furicle | mastodon.social | 1 |
-| [aniCausa](https://mastodon.social/@aniCausa) | aniCausa | mastodon.social | 1 |
 | [JdeBP](https://mastodonapp.uk/@JdeBP) | JdeBP | mastodonapp.uk | 1 |
 | [zaufanatrzeciastrona](https://infosec.exchange/@zaufanatrzeciastrona) | ZaufanaTrzeciaStrona.pl | infosec.exchange | 1 |
+| [thezdi](https://infosec.exchange/@thezdi) | Zero Day Initiative | infosec.exchange | 1 |
 | [thedxt](https://infosec.exchange/@thedxt) | Daniel Keer | infosec.exchange | 1 |
 | [luzkenin](https://infosec.exchange/@luzkenin) | Joe 🏔️ King of NYNEX :donor: :fedora: :haiku: | infosec.exchange | 1 |
 | [jmw](https://infosec.exchange/@jmw) | James M. Woodward | infosec.exchange | 1 |
@@ -31,5 +32,5 @@ Last Updated: 09/25/2024 08:14:34 UTC
 | [mcjevans](https://hachyderm.io/@mcjevans) | mcjevans | hachyderm.io | 1 |
 | [deadlydog](https://hachyderm.io/@deadlydog) | Dan Schroeder | hachyderm.io | 1 |
 | [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 1 |
-| [thezdi](https://infosec.exchange/@thezdi) | Zero Day Initiative | infosec.exchange | 1 |
+| [aniCausa](https://mastodon.social/@aniCausa) | aniCausa | mastodon.social | 1 |
 | [lukemurray](https://aus.social/@lukemurray) | Luke Murray | aus.social | 1 |
