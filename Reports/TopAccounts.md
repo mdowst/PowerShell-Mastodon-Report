@@ -1,5 +1,5 @@
 # Top Users for September 2024
-Last Updated: 09/26/2024 21:13:27 UTC
+Last Updated: 09/26/2024 22:13:34 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 19 |
@@ -15,6 +15,7 @@ Last Updated: 09/26/2024 21:13:27 UTC
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 2 |
 | [YesJustWolf](https://hachyderm.io/@YesJustWolf) | Wolf | hachyderm.io | 1 |
 | [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 1 |
+| [JamesDBartlett3](https://techhub.social/@JamesDBartlett3) | James Bartlett :terminal: | techhub.social | 1 |
 | [jaimelopezlopez](https://techhub.social/@jaimelopezlopez) | Jaime López | techhub.social | 1 |
 | [mikefrobbins](https://fosstodon.org/@mikefrobbins) | Mike F. Robbins | fosstodon.org | 1 |
 | [alevyinroc](https://techhub.social/@alevyinroc) | Andy Levy | techhub.social | 1 |
