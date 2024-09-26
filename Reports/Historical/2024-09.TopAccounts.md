@@ -1,5 +1,5 @@
 # Top Users for September 2024
-Last Updated: 09/26/2024 00:31:46 UTC
+Last Updated: 09/26/2024 01:41:40 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 18 |
@@ -11,6 +11,7 @@ Last Updated: 09/26/2024 00:31:46 UTC
 | [techygeekshome](https://techhub.social/@techygeekshome) | A.J. Armstrong | techhub.social | 3 |
 | [mikekanakos](https://fosstodon.org/@mikekanakos) | Mike Kanakos | fosstodon.org | 2 |
 | [skatterbrainz](https://techhub.social/@skatterbrainz) | Sk@tterBr@iNz | techhub.social | 2 |
+| [stutstev](https://mastodon.social/@stutstev) | Stuttering Steve | mastodon.social | 2 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 2 |
 | [YesJustWolf](https://hachyderm.io/@YesJustWolf) | Wolf | hachyderm.io | 1 |
 | [mdgrs](https://fosstodon.org/@mdgrs) | mdgrs | fosstodon.org | 1 |
@@ -20,7 +21,6 @@ Last Updated: 09/26/2024 00:31:46 UTC
 | [JdeBP](https://mastodonapp.uk/@JdeBP) | JdeBP | mastodonapp.uk | 1 |
 | [gioxx](https://mastodon.uno/@gioxx) | Gioxx | mastodon.uno | 1 |
 | [TheJoeFin](https://mastodon.social/@TheJoeFin) | Joe Finney | mastodon.social | 1 |
-| [stutstev](https://mastodon.social/@stutstev) | Stuttering Steve | mastodon.social | 1 |
 | [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 1 |
 | [furicle](https://mastodon.social/@furicle) | furicle | mastodon.social | 1 |
 | [aniCausa](https://mastodon.social/@aniCausa) | aniCausa | mastodon.social | 1 |
