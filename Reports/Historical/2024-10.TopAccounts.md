@@ -1,5 +1,5 @@
 # Top Users for October 2024
-Last Updated: 10/02/2024 16:14:24 UTC
+Last Updated: 10/02/2024 17:13:54 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [gioxx](https://mastodon.uno/@gioxx) | Gioxx | mastodon.uno | 2 |
@@ -8,3 +8,4 @@ Last Updated: 10/02/2024 16:14:24 UTC
 | [furicle](https://mastodon.social/@furicle) | furicle | mastodon.social | 1 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 1 |
 | [jaimelopezlopez](https://techhub.social/@jaimelopezlopez) | Jaime López | techhub.social | 1 |
+| [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 1 |
