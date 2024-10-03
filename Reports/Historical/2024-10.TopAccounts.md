@@ -1,7 +1,8 @@
 # Top Users for October 2024
-Last Updated: 10/03/2024 11:13:24 UTC
+Last Updated: 10/03/2024 12:14:57 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
+| [altf4formation](https://mastodon.social/@altf4formation) | AltF4-Formation | mastodon.social | 2 |
 | [gioxx](https://mastodon.uno/@gioxx) | Gioxx | mastodon.uno | 2 |
 | [chorrell](https://hachyderm.io/@chorrell) | Christopher Horrell | hachyderm.io | 1 |
 | [biffbiffbiff](https://infosec.exchange/@biffbiffbiff) | biffbiffbiff 🛡️ | infosec.exchange | 1 |
