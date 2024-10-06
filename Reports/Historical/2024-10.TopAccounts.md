@@ -1,5 +1,5 @@
 # Top Users for October 2024
-Last Updated: 10/06/2024 11:13:11 UTC
+Last Updated: 10/06/2024 12:15:04 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [gioxx](https://mastodon.uno/@gioxx) | Gioxx | mastodon.uno | 3 |
@@ -8,6 +8,7 @@ Last Updated: 10/06/2024 11:13:11 UTC
 | [benfulton](https://fosstodon.org/@benfulton) | Ben Fulton | fosstodon.org | 1 |
 | [chorrell](https://hachyderm.io/@chorrell) | Christopher Horrell | hachyderm.io | 1 |
 | [biffbiffbiff](https://infosec.exchange/@biffbiffbiff) | biffbiffbiff 🛡️ | infosec.exchange | 1 |
+| [aniCausa](https://mastodon.social/@aniCausa) | aniCausa | mastodon.social | 1 |
 | [furicle](https://mastodon.social/@furicle) | furicle | mastodon.social | 1 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 1 |
 | [JdeBP](https://mastodonapp.uk/@JdeBP) | JdeBP | mastodonapp.uk | 1 |
