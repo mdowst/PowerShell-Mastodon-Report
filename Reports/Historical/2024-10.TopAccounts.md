@@ -1,5 +1,5 @@
 # Top Users for October 2024
-Last Updated: 10/09/2024 10:13:53 UTC
+Last Updated: 10/09/2024 11:15:09 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [gioxx](https://mastodon.uno/@gioxx) | Gioxx | mastodon.uno | 5 |
@@ -12,6 +12,7 @@ Last Updated: 10/09/2024 10:13:53 UTC
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 1 |
 | [furicle](https://mastodon.social/@furicle) | furicle | mastodon.social | 1 |
 | [ddoomen](https://mastodon.social/@ddoomen) | Dennis Doomen | mastodon.social | 1 |
+| [carparc](https://mastodon.social/@carparc) | Carp | mastodon.social | 1 |
 | [aniCausa](https://mastodon.social/@aniCausa) | aniCausa | mastodon.social | 1 |
 | [ajguides](https://mastodon.social/@ajguides) | Anthony Powell | mastodon.social | 1 |
 | [FiveEyeTea](https://infosec.exchange/@FiveEyeTea) | Jacob | Five Eye Tea | infosec.exchange | 1 |
