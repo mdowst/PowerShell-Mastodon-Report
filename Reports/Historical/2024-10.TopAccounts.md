@@ -1,10 +1,10 @@
 # Top Users for October 2024
-Last Updated: 10/09/2024 11:15:09 UTC
+Last Updated: 10/09/2024 12:15:13 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [gioxx](https://mastodon.uno/@gioxx) | Gioxx | mastodon.uno | 5 |
-| [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 2 |
-| [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 2 |
+| [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 3 |
+| [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 3 |
 | [altf4formation](https://mastodon.social/@altf4formation) | AltF4-Formation | mastodon.social | 2 |
 | [benfulton](https://fosstodon.org/@benfulton) | Ben Fulton | fosstodon.org | 1 |
 | [jaimelopezlopez](https://techhub.social/@jaimelopezlopez) | Jaime López | techhub.social | 1 |
