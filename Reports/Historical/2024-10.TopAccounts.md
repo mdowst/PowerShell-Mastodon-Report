@@ -1,5 +1,5 @@
 # Top Users for October 2024
-Last Updated: 10/11/2024 08:14:28 UTC
+Last Updated: 10/11/2024 09:14:14 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [gioxx](https://mastodon.uno/@gioxx) | Gioxx | mastodon.uno | 5 |
@@ -13,13 +13,14 @@ Last Updated: 10/11/2024 08:14:28 UTC
 | [JdeBP](https://mastodonapp.uk/@JdeBP) | JdeBP | mastodonapp.uk | 1 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 1 |
 | [furicle](https://mastodon.social/@furicle) | furicle | mastodon.social | 1 |
-| [carparc](https://mastodon.social/@carparc) | Carp | mastodon.social | 1 |
-| [Shawn_Brink](https://techhub.social/@Shawn_Brink) | Shawn Brink | techhub.social | 1 |
+| [ddoomen](https://mastodon.social/@ddoomen) | Dennis Doomen | mastodon.social | 1 |
 | [bynkii](https://mastodon.social/@bynkii) | Bynkii (they/them) | mastodon.social | 1 |
+| [Shawn_Brink](https://techhub.social/@Shawn_Brink) | Shawn Brink | techhub.social | 1 |
 | [aniCausa](https://mastodon.social/@aniCausa) | aniCausa | mastodon.social | 1 |
 | [ajguides](https://mastodon.social/@ajguides) | Anthony Powell | mastodon.social | 1 |
 | [FiveEyeTea](https://infosec.exchange/@FiveEyeTea) | Jacob | Five Eye Tea | infosec.exchange | 1 |
 | [biffbiffbiff](https://infosec.exchange/@biffbiffbiff) | biffbiffbiff 🛡️ | infosec.exchange | 1 |
 | [chorrell](https://hachyderm.io/@chorrell) | Christopher Horrell | hachyderm.io | 1 |
-| [ddoomen](https://mastodon.social/@ddoomen) | Dennis Doomen | mastodon.social | 1 |
+| [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 1 |
+| [carparc](https://mastodon.social/@carparc) | Carp | mastodon.social | 1 |
 | [techygeekshome](https://techhub.social/@techygeekshome) | A.J. Armstrong | techhub.social | 1 |
