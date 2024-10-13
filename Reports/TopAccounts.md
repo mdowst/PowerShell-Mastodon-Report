@@ -1,5 +1,5 @@
 # Top Users for October 2024
-Last Updated: 10/13/2024 19:13:29 UTC
+Last Updated: 10/13/2024 20:13:56 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [gioxx](https://mastodon.uno/@gioxx) | Gioxx | mastodon.uno | 5 |
@@ -13,6 +13,7 @@ Last Updated: 10/13/2024 19:13:29 UTC
 | [potentengineer](https://techhub.social/@potentengineer) | Daniel Ratliff | techhub.social | 1 |
 | [jaimelopezlopez](https://techhub.social/@jaimelopezlopez) | Jaime López | techhub.social | 1 |
 | [JdeBP](https://mastodonapp.uk/@JdeBP) | JdeBP | mastodonapp.uk | 1 |
+| [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 1 |
 | [furicle](https://mastodon.social/@furicle) | furicle | mastodon.social | 1 |
 | [carparc](https://mastodon.social/@carparc) | Carp | mastodon.social | 1 |
 | [Shawn_Brink](https://techhub.social/@Shawn_Brink) | Shawn Brink | techhub.social | 1 |
