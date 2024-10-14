@@ -1,5 +1,5 @@
 # Top Users for October 2024
-Last Updated: 10/14/2024 20:14:02 UTC
+Last Updated: 10/14/2024 21:13:31 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [gioxx](https://mastodon.uno/@gioxx) | Gioxx | mastodon.uno | 5 |
@@ -7,8 +7,8 @@ Last Updated: 10/14/2024 20:14:02 UTC
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 3 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 2 |
 | [altf4formation](https://mastodon.social/@altf4formation) | AltF4-Formation | mastodon.social | 2 |
-| [Bluedepth](https://mastodon.social/@Bluedepth) |  | mastodon.social | 2 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 2 |
+| [Bluedepth](https://mastodon.social/@Bluedepth) |  | mastodon.social | 2 |
 | [benfulton](https://fosstodon.org/@benfulton) | Ben Fulton | fosstodon.org | 1 |
 | [potentengineer](https://techhub.social/@potentengineer) | Daniel Ratliff | techhub.social | 1 |
 | [jaimelopezlopez](https://techhub.social/@jaimelopezlopez) | Jaime López | techhub.social | 1 |
@@ -22,6 +22,7 @@ Last Updated: 10/14/2024 20:14:02 UTC
 | [ajguides](https://mastodon.social/@ajguides) | Anthony Powell | mastodon.social | 1 |
 | [FiveEyeTea](https://infosec.exchange/@FiveEyeTea) | Jacob | Five Eye Tea | infosec.exchange | 1 |
 | [biffbiffbiff](https://infosec.exchange/@biffbiffbiff) | biffbiffbiff 🛡️ | infosec.exchange | 1 |
+| [deadlydog](https://hachyderm.io/@deadlydog) | Dan Schroeder | hachyderm.io | 1 |
 | [chorrell](https://hachyderm.io/@chorrell) | Christopher Horrell | hachyderm.io | 1 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 1 |
 | [ddoomen](https://mastodon.social/@ddoomen) | Dennis Doomen | mastodon.social | 1 |
