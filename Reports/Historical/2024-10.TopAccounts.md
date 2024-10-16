@@ -1,5 +1,5 @@
 # Top Users for October 2024
-Last Updated: 10/16/2024 00:32:49 UTC
+Last Updated: 10/16/2024 01:41:55 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 5 |
@@ -15,6 +15,7 @@ Last Updated: 10/16/2024 00:32:49 UTC
 | [JdeBP](https://mastodonapp.uk/@JdeBP) | JdeBP | mastodonapp.uk | 1 |
 | [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 1 |
 | [furicle](https://mastodon.social/@furicle) | furicle | mastodon.social | 1 |
+| [ddoomen](https://mastodon.social/@ddoomen) | Dennis Doomen | mastodon.social | 1 |
 | [carparc](https://mastodon.social/@carparc) | Carp | mastodon.social | 1 |
 | [Shawn_Brink](https://techhub.social/@Shawn_Brink) | Shawn Brink | techhub.social | 1 |
 | [bynkii](https://mastodon.social/@bynkii) | Bynkii (they/them) | mastodon.social | 1 |
@@ -25,5 +26,5 @@ Last Updated: 10/16/2024 00:32:49 UTC
 | [deadlydog](https://hachyderm.io/@deadlydog) | Dan Schroeder | hachyderm.io | 1 |
 | [chorrell](https://hachyderm.io/@chorrell) | Christopher Horrell | hachyderm.io | 1 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 1 |
-| [ddoomen](https://mastodon.social/@ddoomen) | Dennis Doomen | mastodon.social | 1 |
+| [dbdev](https://mastodon.social/@dbdev) | Daniel Brendel | mastodon.social | 1 |
 | [techygeekshome](https://techhub.social/@techygeekshome) | A.J. Armstrong | techhub.social | 1 |
