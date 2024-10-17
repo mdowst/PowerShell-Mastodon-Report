@@ -1,5 +1,5 @@
 # Top Users for October 2024
-Last Updated: 10/17/2024 16:14:35 UTC
+Last Updated: 10/17/2024 17:14:03 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 7 |
@@ -19,6 +19,7 @@ Last Updated: 10/17/2024 16:14:35 UTC
 | [furicle](https://mastodon.social/@furicle) | furicle | mastodon.social | 1 |
 | [dbdev](https://mastodon.social/@dbdev) | Daniel Brendel | mastodon.social | 1 |
 | [Shawn_Brink](https://techhub.social/@Shawn_Brink) | Shawn Brink | techhub.social | 1 |
+| [ceotech](https://mastodon.social/@ceotech) | CEOTECH.IT | mastodon.social | 1 |
 | [carparc](https://mastodon.social/@carparc) | Carp | mastodon.social | 1 |
 | [bynkii](https://mastodon.social/@bynkii) | Bynkii (they/them) | mastodon.social | 1 |
 | [aniCausa](https://mastodon.social/@aniCausa) | aniCausa | mastodon.social | 1 |
