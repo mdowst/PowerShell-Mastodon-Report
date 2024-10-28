@@ -1,5 +1,5 @@
 # Top Users for October 2024
-Last Updated: 10/28/2024 13:16:52 UTC
+Last Updated: 10/28/2024 14:13:52 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 13 |
@@ -9,22 +9,22 @@ Last Updated: 10/28/2024 13:16:52 UTC
 | [altf4formation](https://mastodon.social/@altf4formation) | AltF4-Formation | mastodon.social | 4 |
 | [HCRitter](https://mastodon.social/@HCRitter) | Christian Ritter | mastodon.social | 3 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 3 |
+| [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 2 |
 | [Shawn_Brink](https://techhub.social/@Shawn_Brink) | Shawn Brink | techhub.social | 2 |
 | [Bluedepth](https://mastodon.social/@Bluedepth) |  | mastodon.social | 2 |
 | [ajguides](https://mastodon.social/@ajguides) | Anthony Powell | mastodon.social | 2 |
-| [furicle](https://mastodon.social/@furicle) | furicle | mastodon.social | 2 |
 | [techygeekshome](https://techhub.social/@techygeekshome) | A.J. Armstrong | techhub.social | 2 |
 | [ajn142](https://infosec.exchange/@ajn142) | Buttered Jorts | infosec.exchange | 2 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 2 |
 | [potentengineer](https://techhub.social/@potentengineer) | Daniel Ratliff | techhub.social | 2 |
+| [furicle](https://mastodon.social/@furicle) | furicle | mastodon.social | 2 |
 | [JdeBP](https://mastodonapp.uk/@JdeBP) | JdeBP | mastodonapp.uk | 1 |
+| [jonpsp](https://mstdn.social/@jonpsp) | Jon PENNYCOOK | mstdn.social | 1 |
 | [slesa](https://social.saarland/@slesa) | Ein Philosophiker | social.saarland | 1 |
 | [jaimelopezlopez](https://techhub.social/@jaimelopezlopez) | Jaime López | techhub.social | 1 |
 | [zeitgeisty](https://mastodon.social/@zeitgeisty) | Zeitgeisty Aphorisms | mastodon.social | 1 |
 | [rene_dev](https://mastodon.social/@rene_dev) | René | mastodon.social | 1 |
 | [justphilmarx](https://techhub.social/@justphilmarx) | Phil Marx | techhub.social | 1 |
-| [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 1 |
-| [jonpsp](https://mstdn.social/@jonpsp) | Jon PENNYCOOK | mstdn.social | 1 |
 | [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 1 |
 | [ceotech](https://mastodon.social/@ceotech) | CEOTECH.IT | mastodon.social | 1 |
 | [dbdev](https://mastodon.social/@dbdev) | Daniel Brendel | mastodon.social | 1 |
