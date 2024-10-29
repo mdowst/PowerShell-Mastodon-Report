@@ -1,5 +1,5 @@
 # Top Users for October 2024
-Last Updated: 10/29/2024 20:14:09 UTC
+Last Updated: 10/29/2024 21:13:30 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 15 |
@@ -8,30 +8,31 @@ Last Updated: 10/29/2024 20:14:09 UTC
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 4 |
 | [altf4formation](https://mastodon.social/@altf4formation) | AltF4-Formation | mastodon.social | 4 |
 | [techygeekshome](https://techhub.social/@techygeekshome) | A.J. Armstrong | techhub.social | 3 |
-| [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 3 |
 | [ajguides](https://mastodon.social/@ajguides) | Anthony Powell | mastodon.social | 3 |
 | [HCRitter](https://mastodon.social/@HCRitter) | Christian Ritter | mastodon.social | 3 |
-| [furicle](https://mastodon.social/@furicle) | furicle | mastodon.social | 2 |
-| [Shawn_Brink](https://techhub.social/@Shawn_Brink) | Shawn Brink | techhub.social | 2 |
-| [Bluedepth](https://mastodon.social/@Bluedepth) |  | mastodon.social | 2 |
+| [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 3 |
+| [potentengineer](https://techhub.social/@potentengineer) | Daniel Ratliff | techhub.social | 2 |
 | [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 2 |
 | [FiveEyeTea](https://infosec.exchange/@FiveEyeTea) | Jacob | Five Eye Tea | infosec.exchange | 2 |
-| [ajn142](https://infosec.exchange/@ajn142) | Buttered Jorts | infosec.exchange | 2 |
+| [furicle](https://mastodon.social/@furicle) | furicle | mastodon.social | 2 |
+| [Shawn_Brink](https://techhub.social/@Shawn_Brink) | Shawn Brink | techhub.social | 2 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 2 |
-| [potentengineer](https://techhub.social/@potentengineer) | Daniel Ratliff | techhub.social | 2 |
-| [slesa](https://social.saarland/@slesa) | Ein Philosophiker | social.saarland | 1 |
-| [JdeBP](https://mastodonapp.uk/@JdeBP) | JdeBP | mastodonapp.uk | 1 |
-| [jaimelopezlopez](https://techhub.social/@jaimelopezlopez) | Jaime López | techhub.social | 1 |
-| [zeitgeisty](https://mastodon.social/@zeitgeisty) | Zeitgeisty Aphorisms | mastodon.social | 1 |
+| [ajn142](https://infosec.exchange/@ajn142) | Buttered Jorts | infosec.exchange | 2 |
+| [Bluedepth](https://mastodon.social/@Bluedepth) |  | mastodon.social | 2 |
 | [rene_dev](https://mastodon.social/@rene_dev) | René | mastodon.social | 1 |
+| [jaimelopezlopez](https://techhub.social/@jaimelopezlopez) | Jaime López | techhub.social | 1 |
 | [justphilmarx](https://techhub.social/@justphilmarx) | Phil Marx | techhub.social | 1 |
+| [JdeBP](https://mastodonapp.uk/@JdeBP) | JdeBP | mastodonapp.uk | 1 |
 | [jonpsp](https://mstdn.social/@jonpsp) | Jon PENNYCOOK | mstdn.social | 1 |
+| [slesa](https://social.saarland/@slesa) | Ein Philosophiker | social.saarland | 1 |
+| [zeitgeisty](https://mastodon.social/@zeitgeisty) | Zeitgeisty Aphorisms | mastodon.social | 1 |
 | [cjerrington](https://mstdn.social/@cjerrington) | Clayton Errington 🖥️ | mstdn.social | 1 |
 | [ceotech](https://mastodon.social/@ceotech) | CEOTECH.IT | mastodon.social | 1 |
 | [dbdev](https://mastodon.social/@dbdev) | Daniel Brendel | mastodon.social | 1 |
 | [carparc](https://mastodon.social/@carparc) | Carp | mastodon.social | 1 |
 | [bynkii](https://mastodon.social/@bynkii) | Bynkii (they/them) | mastodon.social | 1 |
 | [aniCausa](https://mastodon.social/@aniCausa) | aniCausa | mastodon.social | 1 |
+| [cs](https://mastodon.sdf.org/@cs) | cseiler | mastodon.sdf.org | 1 |
 | [tysonsw](https://infosec.exchange/@tysonsw) | Mattias T :donor: | infosec.exchange | 1 |
 | [taylorparizo](https://infosec.exchange/@taylorparizo) | Taylor Parizo :donor: | infosec.exchange | 1 |
 | [cybersecboardrm](https://infosec.exchange/@cybersecboardrm) | Bob Carver | infosec.exchange | 1 |
