@@ -1,11 +1,11 @@
 # Top Servers for October 2024
-Last Updated: 10/29/2024 04:14:28 UTC
+Last Updated: 10/29/2024 05:13:54 UTC
 | Server | Posts | Active Users |
 | -- | -- | -- |
 | [mastodon.social](https://mastodon.social/tags/PowerShell) | 27 | 15 |
 | [techhub.social](https://techhub.social/tags/PowerShell) | 27 | 7 |
 | [fosstodon.org](https://fosstodon.org/tags/PowerShell) | 8 | 5 |
-| [infosec.exchange](https://infosec.exchange/tags/PowerShell) | 7 | 6 |
+| [infosec.exchange](https://infosec.exchange/tags/PowerShell) | 8 | 6 |
 | [mastodon.uno](https://mastodon.uno/tags/PowerShell) | 5 | 1 |
 | [hachyderm.io](https://hachyderm.io/tags/PowerShell) | 2 | 2 |
 | [mstdn.social](https://mstdn.social/tags/PowerShell) | 2 | 2 |
