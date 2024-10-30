@@ -1,5 +1,5 @@
 # Top Users for October 2024
-Last Updated: 10/30/2024 18:14:28 UTC
+Last Updated: 10/30/2024 19:13:34 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 15 |
@@ -8,7 +8,7 @@ Last Updated: 10/30/2024 18:14:28 UTC
 | [techygeekshome](https://techhub.social/@techygeekshome) | A.J. Armstrong | techhub.social | 4 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 4 |
 | [altf4formation](https://mastodon.social/@altf4formation) | AltF4-Formation | mastodon.social | 4 |
-| [ajguides](https://mastodon.social/@ajguides) | Anthony Powell | mastodon.social | 3 |
+| [ajguides](https://mastodon.social/@ajguides) | Anthony Powell | mastodon.social | 4 |
 | [HCRitter](https://mastodon.social/@HCRitter) | Christian Ritter | mastodon.social | 3 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 3 |
 | [potentengineer](https://techhub.social/@potentengineer) | Daniel Ratliff | techhub.social | 2 |
