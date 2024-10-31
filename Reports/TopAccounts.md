@@ -1,14 +1,14 @@
 # Top Users for October 2024
-Last Updated: 10/31/2024 05:13:40 UTC
+Last Updated: 10/31/2024 06:14:48 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 15 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 6 |
+| [techygeekshome](https://techhub.social/@techygeekshome) | A.J. Armstrong | techhub.social | 5 |
 | [gioxx](https://mastodon.uno/@gioxx) | Gioxx | mastodon.uno | 5 |
-| [techygeekshome](https://techhub.social/@techygeekshome) | A.J. Armstrong | techhub.social | 4 |
+| [ajguides](https://mastodon.social/@ajguides) | Anthony Powell | mastodon.social | 5 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 4 |
 | [altf4formation](https://mastodon.social/@altf4formation) | AltF4-Formation | mastodon.social | 4 |
-| [ajguides](https://mastodon.social/@ajguides) | Anthony Powell | mastodon.social | 4 |
 | [HCRitter](https://mastodon.social/@HCRitter) | Christian Ritter | mastodon.social | 3 |
 | [jaykul](https://fosstodon.org/@jaykul) | Joel Bennett | fosstodon.org | 3 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 3 |
