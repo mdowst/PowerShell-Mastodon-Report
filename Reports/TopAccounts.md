@@ -1,4 +1,5 @@
 # Top Users for November 2024
-Last Updated: 11/01/2024 16:14:11 UTC
+Last Updated: 11/01/2024 17:13:31 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
+| [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 1 |
