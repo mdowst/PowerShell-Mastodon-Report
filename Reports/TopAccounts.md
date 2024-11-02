@@ -1,5 +1,5 @@
 # Top Users for November 2024
-Last Updated: 11/02/2024 08:14:15 UTC
+Last Updated: 11/02/2024 09:13:37 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [jhx](https://fosstodon.org/@jhx) | jhx | fosstodon.org | 1 |
