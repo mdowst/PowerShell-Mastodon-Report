@@ -1,7 +1,8 @@
 # Top Users for November 2024
-Last Updated: 11/02/2024 11:13:04 UTC
+Last Updated: 11/02/2024 12:14:50 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [jhx](https://fosstodon.org/@jhx) | jhx | fosstodon.org | 1 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 1 |
+| [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 1 |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 1 |
