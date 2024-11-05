@@ -1,5 +1,5 @@
 # Top Users for November 2024
-Last Updated: 11/05/2024 15:13:55 UTC
+Last Updated: 11/05/2024 16:14:24 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 2 |
@@ -14,3 +14,4 @@ Last Updated: 11/05/2024 15:13:55 UTC
 | [alecthegeek](https://mstdn.social/@alecthegeek) | Alec :tux: 🇦🇺 👨‍💻 | mstdn.social | 1 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 1 |
 | [techygeekshome](https://techhub.social/@techygeekshome) | A.J. Armstrong | techhub.social | 1 |
+| [thorstenbutz](https://twit.social/@thorstenbutz) | Thorsten Butz 🎗️ | twit.social | 1 |
