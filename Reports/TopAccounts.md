@@ -1,5 +1,5 @@
 # Top Users for November 2024
-Last Updated: 11/05/2024 20:13:46 UTC
+Last Updated: 11/05/2024 21:13:19 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 2 |
