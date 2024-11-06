@@ -1,10 +1,11 @@
 # Top Users for November 2024
-Last Updated: 11/06/2024 18:14:21 UTC
+Last Updated: 11/06/2024 19:13:28 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 2 |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 2 |
 | [jhx](https://fosstodon.org/@jhx) | jhx | fosstodon.org | 1 |
+| [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 1 |
 | [deadlydog](https://hachyderm.io/@deadlydog) | Daniel Schroeder aka deadlydog | hachyderm.io | 1 |
 | [TheNewStack](https://hachyderm.io/@TheNewStack) | The New Stack | hachyderm.io | 1 |
 | [bsidesjax](https://infosec.exchange/@bsidesjax) | BSides Jax | infosec.exchange | 1 |
