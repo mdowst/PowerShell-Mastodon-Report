@@ -1,8 +1,9 @@
 # Top Users for November 2024
-Last Updated: 11/07/2024 12:14:53 UTC
+Last Updated: 11/07/2024 13:15:25 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 2 |
+| [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 2 |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 2 |
 | [jborean](https://fosstodon.org/@jborean) | Jordan Borean | fosstodon.org | 1 |
 | [jhx](https://fosstodon.org/@jhx) | jhx | fosstodon.org | 1 |
@@ -15,6 +16,5 @@ Last Updated: 11/07/2024 12:14:53 UTC
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 1 |
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 1 |
 | [alecthegeek](https://mstdn.social/@alecthegeek) | Alec :tux: 🇦🇺 👨‍💻 | mstdn.social | 1 |
-| [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 1 |
 | [techygeekshome](https://techhub.social/@techygeekshome) | A.J. Armstrong | techhub.social | 1 |
 | [thorstenbutz](https://twit.social/@thorstenbutz) | Thorsten Butz 🎗️ | twit.social | 1 |
