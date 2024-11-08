@@ -1,16 +1,17 @@
 # Top Users for November 2024
-Last Updated: 11/08/2024 12:15:02 UTC
+Last Updated: 11/08/2024 13:15:01 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 3 |
+| [altf4formation](https://mastodon.social/@altf4formation) | AltF4-Formation | mastodon.social | 2 |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 2 |
 | [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 2 |
-| [jborean](https://fosstodon.org/@jborean) | Jordan Borean | fosstodon.org | 1 |
 | [alecthegeek](https://mstdn.social/@alecthegeek) | Alec :tux: 🇦🇺 👨‍💻 | mstdn.social | 1 |
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 1 |
 | [pupuweb](https://mastodon.social/@pupuweb) | PUPUWEB Blog | mastodon.social | 1 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 1 |
-| [ajguides](https://mastodon.social/@ajguides) | Anthony Powell | mastodon.social | 1 |
+| [techygeekshome](https://techhub.social/@techygeekshome) | A.J. Armstrong | techhub.social | 1 |
+| [jborean](https://fosstodon.org/@jborean) | Jordan Borean | fosstodon.org | 1 |
 | [DamirArh](https://mas.to/@DamirArh) | Damir Arh | mas.to | 1 |
 | [jneks80](https://ioc.exchange/@jneks80) | Jneks80 | ioc.exchange | 1 |
 | [bsidesjax](https://infosec.exchange/@bsidesjax) | BSides Jax | infosec.exchange | 1 |
@@ -18,5 +19,5 @@ Last Updated: 11/08/2024 12:15:02 UTC
 | [deadlydog](https://hachyderm.io/@deadlydog) | Daniel Schroeder aka deadlydog | hachyderm.io | 1 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 1 |
 | [jhx](https://fosstodon.org/@jhx) | jhx | fosstodon.org | 1 |
-| [techygeekshome](https://techhub.social/@techygeekshome) | A.J. Armstrong | techhub.social | 1 |
+| [ajguides](https://mastodon.social/@ajguides) | Anthony Powell | mastodon.social | 1 |
 | [thorstenbutz](https://twit.social/@thorstenbutz) | Thorsten Butz 🎗️ | twit.social | 1 |
