@@ -1,10 +1,10 @@
 # Top Users for November 2024
-Last Updated: 11/11/2024 12:14:54 UTC
+Last Updated: 11/11/2024 13:15:32 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 3 |
+| [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 3 |
 | [jborean](https://fosstodon.org/@jborean) | Jordan Borean | fosstodon.org | 2 |
-| [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 2 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 2 |
 | [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 2 |
 | [altf4formation](https://mastodon.social/@altf4formation) | AltF4-Formation | mastodon.social | 2 |
