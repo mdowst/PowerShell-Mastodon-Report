@@ -1,5 +1,5 @@
 # Top Users for November 2024
-Last Updated: 11/22/2024 04:14:11 UTC
+Last Updated: 11/22/2024 05:13:48 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 8 |
@@ -21,8 +21,9 @@ Last Updated: 11/22/2024 04:14:11 UTC
 | [alecthegeek](https://mstdn.social/@alecthegeek) | Alec :tux: 🇦🇺 👨‍💻 | mstdn.social | 1 |
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 1 |
 | [winbuzzer](https://mastodon.social/@winbuzzer) | Winbuzzer | mastodon.social | 1 |
-| [pupuweb](https://mastodon.social/@pupuweb) | PUPUWEB Blog | mastodon.social | 1 |
+| [rafetoots](https://mastodon.social/@rafetoots) | Ratt | mastodon.social | 1 |
 | [aniCausa](https://mastodon.social/@aniCausa) | aniCausa | mastodon.social | 1 |
+| [furicle](https://mastodon.social/@furicle) | furicle | mastodon.social | 1 |
 | [DamirArh](https://mas.to/@DamirArh) | Damir Arh | mas.to | 1 |
 | [jneks80](https://ioc.exchange/@jneks80) | Jneks80 | ioc.exchange | 1 |
 | [flagthis](https://ioc.exchange/@flagthis) |  | ioc.exchange | 1 |
@@ -33,5 +34,5 @@ Last Updated: 11/22/2024 04:14:11 UTC
 | [patridge](https://hachyderm.io/@patridge) | Adam Patridge | hachyderm.io | 1 |
 | [alvinashcraft](https://hachyderm.io/@alvinashcraft) | Alvin Ashcraft 🐿️ | hachyderm.io | 1 |
 | [jhx](https://fosstodon.org/@jhx) | jhx | fosstodon.org | 1 |
-| [furicle](https://mastodon.social/@furicle) | furicle | mastodon.social | 1 |
+| [pupuweb](https://mastodon.social/@pupuweb) | PUPUWEB Blog | mastodon.social | 1 |
 | [lukemurray](https://aus.social/@lukemurray) | Luke Murray | aus.social | 1 |
