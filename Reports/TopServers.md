@@ -1,5 +1,5 @@
 # Top Servers for November 2024
-Last Updated: 11/22/2024 10:13:49 UTC
+Last Updated: 11/22/2024 11:13:07 UTC
 | Server | Posts | Active Users |
 | -- | -- | -- |
 | [techhub.social](https://techhub.social/tags/PowerShell) | 20 | 7 |
