@@ -1,16 +1,16 @@
 # Top Users for November 2024
-Last Updated: 11/24/2024 18:14:04 UTC
+Last Updated: 11/24/2024 19:13:09 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 9 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 4 |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 4 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 3 |
+| [thorstenbutz](https://twit.social/@thorstenbutz) | Thorsten Butz 🎗️ | twit.social | 2 |
 | [TonyRedmond](https://techhub.social/@TonyRedmond) | Tony Redmond | techhub.social | 2 |
 | [altf4formation](https://mastodon.social/@altf4formation) | AltF4-Formation | mastodon.social | 2 |
 | [ajguides](https://mastodon.social/@ajguides) | Anthony Powell | mastodon.social | 2 |
 | [leanpub](https://mastodon.social/@leanpub) | Leanpub | mastodon.social | 2 |
-| [thorstenbutz](https://twit.social/@thorstenbutz) | Thorsten Butz 🎗️ | twit.social | 2 |
 | [deadlydog](https://hachyderm.io/@deadlydog) | Daniel Schroeder aka deadlydog | hachyderm.io | 2 |
 | [Shawn_Brink](https://techhub.social/@Shawn_Brink) | Shawn Brink | techhub.social | 2 |
 | [techygeekshome](https://techhub.social/@techygeekshome) | A.J. Armstrong | techhub.social | 2 |
@@ -23,11 +23,12 @@ Last Updated: 11/24/2024 18:14:04 UTC
 | [pupuweb](https://mastodon.social/@pupuweb) | PUPUWEB Blog | mastodon.social | 1 |
 | [dbakevlar](https://techhub.social/@dbakevlar) | DBAkevlar | techhub.social | 1 |
 | [psugh](https://norden.social/@psugh) | PowerShell Usergroup Hannover | norden.social | 1 |
-| [furicle](https://mastodon.social/@furicle) | furicle | mastodon.social | 1 |
 | [aniCausa](https://mastodon.social/@aniCausa) | aniCausa | mastodon.social | 1 |
+| [furicle](https://mastodon.social/@furicle) | furicle | mastodon.social | 1 |
 | [DamirArh](https://mas.to/@DamirArh) | Damir Arh | mas.to | 1 |
 | [jneks80](https://ioc.exchange/@jneks80) | Jneks80 | ioc.exchange | 1 |
 | [flagthis](https://ioc.exchange/@flagthis) |  | ioc.exchange | 1 |
+| [taylorparizo](https://infosec.exchange/@taylorparizo) | Taylor Parizo :donor: | infosec.exchange | 1 |
 | [sassdawe](https://infosec.exchange/@sassdawe) | Sass, David | infosec.exchange | 1 |
 | [bsidesjax](https://infosec.exchange/@bsidesjax) | BSides Jax | infosec.exchange | 1 |
 | [AAKL](https://infosec.exchange/@AAKL) | AAKL | infosec.exchange | 1 |
