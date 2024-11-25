@@ -1,5 +1,5 @@
 # Top Users for November 2024
-Last Updated: 11/25/2024 14:13:39 UTC
+Last Updated: 11/25/2024 15:13:44 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 10 |
@@ -23,8 +23,9 @@ Last Updated: 11/25/2024 14:13:39 UTC
 | [pupuweb](https://mastodon.social/@pupuweb) | PUPUWEB Blog | mastodon.social | 1 |
 | [dbakevlar](https://techhub.social/@dbakevlar) | DBAkevlar | techhub.social | 1 |
 | [psugh](https://norden.social/@psugh) | PowerShell Usergroup Hannover | norden.social | 1 |
-| [aniCausa](https://mastodon.social/@aniCausa) | aniCausa | mastodon.social | 1 |
 | [furicle](https://mastodon.social/@furicle) | furicle | mastodon.social | 1 |
+| [infosec_jobs](https://mastodon.social/@infosec_jobs) | isecjobs.com | mastodon.social | 1 |
+| [aniCausa](https://mastodon.social/@aniCausa) | aniCausa | mastodon.social | 1 |
 | [DamirArh](https://mas.to/@DamirArh) | Damir Arh | mas.to | 1 |
 | [jneks80](https://ioc.exchange/@jneks80) | Jneks80 | ioc.exchange | 1 |
 | [flagthis](https://ioc.exchange/@flagthis) |  | ioc.exchange | 1 |
