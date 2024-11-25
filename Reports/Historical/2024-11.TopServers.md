@@ -1,8 +1,8 @@
 # Top Servers for November 2024
-Last Updated: 11/25/2024 13:17:20 UTC
+Last Updated: 11/25/2024 14:13:39 UTC
 | Server | Posts | Active Users |
 | -- | -- | -- |
-| [techhub.social](https://techhub.social/tags/PowerShell) | 21 | 7 |
+| [techhub.social](https://techhub.social/tags/PowerShell) | 22 | 7 |
 | [mastodon.social](https://mastodon.social/tags/PowerShell) | 16 | 10 |
 | [fosstodon.org](https://fosstodon.org/tags/PowerShell) | 6 | 3 |
 | [hachyderm.io](https://hachyderm.io/tags/PowerShell) | 5 | 4 |
