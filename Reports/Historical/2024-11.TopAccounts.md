@@ -1,10 +1,11 @@
 # Top Users for November 2024
-Last Updated: 11/26/2024 23:13:35 UTC
+Last Updated: 11/27/2024 00:34:50 UTC
 | User | Display Name | Server | Post |
 | -- | -- | -- | -- |
 | [Clatent](https://techhub.social/@Clatent) | Clayton Tyger | techhub.social | 10 |
 | [mdowst](https://mastodon.social/@mdowst) | Matthew Dowst | mastodon.social | 4 |
 | [JeffHicks](https://techhub.social/@JeffHicks) | Jeff Hicks 🐶🎼🍷🖥️ | techhub.social | 4 |
+| [jborean](https://fosstodon.org/@jborean) | Jordan Borean | fosstodon.org | 3 |
 | [MrPowerShell](https://fosstodon.org/@MrPowerShell) | MrPowerShell | fosstodon.org | 3 |
 | [thorstenbutz](https://twit.social/@thorstenbutz) | Thorsten Butz 🎗️ | twit.social | 2 |
 | [TonyRedmond](https://techhub.social/@TonyRedmond) | Tony Redmond | techhub.social | 2 |
@@ -14,7 +15,6 @@ Last Updated: 11/26/2024 23:13:35 UTC
 | [deadlydog](https://hachyderm.io/@deadlydog) | Daniel Schroeder aka deadlydog | hachyderm.io | 2 |
 | [Shawn_Brink](https://techhub.social/@Shawn_Brink) | Shawn Brink | techhub.social | 2 |
 | [techygeekshome](https://techhub.social/@techygeekshome) | A.J. Armstrong | techhub.social | 2 |
-| [jborean](https://fosstodon.org/@jborean) | Jordan Borean | fosstodon.org | 2 |
 | [poshlandPRO](https://techhub.social/@poshlandPRO) | Damian Garbus | techhub.social | 1 |
 | [alecthegeek](https://mstdn.social/@alecthegeek) | Alec :tux: 🇦🇺 👨‍💻 | mstdn.social | 1 |
 | [matty](https://mastodonapp.uk/@matty) | matty of salisbury | mastodonapp.uk | 1 |
